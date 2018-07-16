@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profilepic2017.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Associate Professor (without tenure)"
   location         : "Location"
-  employer         :
+  employer         : "Department of Economics, Harvard University"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   uri              :
@@ -98,10 +98,10 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "@maxkasy"
