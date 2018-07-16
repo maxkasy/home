@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Advances in Causality and Foundations of Machine Learning"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate topics course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "Harvard University"
+date: 2017-09-01
 location: "City, Country"
 ---
 
