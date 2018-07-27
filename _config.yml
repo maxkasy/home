@@ -17,9 +17,9 @@ title: Maximilian Kasy
 email: maxkasy@gmail.com
 name: Research on machine learning, experimental design, economic inequality, and optimal policy
 description: > # this means to ignore newlines until "baseurl:"
-  Academic homepage of Maximilian Kasy
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://maxkasy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+  Research on machine learning, experimental design, economic inequality, and optimal policy
+baseurl: "/home" # the subpath of your site, e.g. /blog
+url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: maxkasy
 github_username:  maxkasy
 
