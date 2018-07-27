@@ -18,7 +18,7 @@ email: maxkasy@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Research on machine learning, experimental design, economic inequality, and optimal policy
 baseurl: "/home" # the subpath of your site, e.g. /blog
-url: "maxkasy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: maxkasy
 github_username:  maxkasy
 
