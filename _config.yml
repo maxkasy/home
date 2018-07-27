@@ -15,7 +15,6 @@
 # in the templates via {{ site.myvariable }}.
 title: Maximilian Kasy
 email: maxkasy@gmail.com
-name: Research on machine learning, experimental design, economic inequality, and optimal policy
 description: > # this means to ignore newlines until "baseurl:"
   Research on machine learning, experimental design, economic inequality, and optimal policy
 baseurl: "/home" # the subpath of your site, e.g. /blog
