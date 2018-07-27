@@ -24,7 +24,7 @@ github_username:  maxkasy
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes"
+theme: minima
 plugins:
   - jekyll-feed
 
