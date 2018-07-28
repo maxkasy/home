@@ -6,6 +6,8 @@ main:
     url: /teaching/
   - title: Presentations
     url: /presentations/
+  - title: Code and Apps
+    url: /code-and-apps/	
   - title: Commentary
     url: /commentary/
   # - title: "Quick-Start Guide"
