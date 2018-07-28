@@ -4,11 +4,11 @@ permalink: /commentary/
 ---
 
 
-**Künstliche Intelligenz und ihre sozialen Folgen**
+**Künstliche Intelligenz und ihre sozialen Folgen**  
   May 22, 2018  
   [Der Standard](https://derstandard.at/2000080183461/Wie-fair-ist-die-Zuckerberg-Maschine)
   
-**Motoren der steigenden Ungleichheit**
+**Motoren der steigenden Ungleichheit**  
   August 13, 2017  
   [Der Standard](http://derstandard.at/2000062619018/Die-Motoren-der-steigenden-Ungleichheit) 
   

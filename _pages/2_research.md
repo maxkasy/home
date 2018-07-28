@@ -78,7 +78,7 @@ permalink: /research/
   Supplement: [testingmulteqsupplement.pdf](/files/papers/testingmulteqsupplement.pdf) 
   
 **Instrumental variables with unrestricted heterogeneity and continuous treatment**, 2014,  
-  Review of Economic Studies (see corrigendum with Hoderlein et al. above)   
+  Review of Economic Studies (see corrigendum above)   
   Manuscript: [continuousiv.pdf](/files/papers/continuousiv.pdf)  
   
 **The impact of changing family structures on the income distribution among Costa Rican women 1993-2009**, 2014,  
