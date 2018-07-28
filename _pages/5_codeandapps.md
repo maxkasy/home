@@ -9,7 +9,7 @@ permalink: /code-and-apps/
 
 
 ### App for optimal treatment assignment in experiments:
-* Interactive App: [treatmentassignment/](/_pages/treatmentassignment/)  
+* Interactive App: [treatmentassignment/](/treatmentassignment/)  
 * Theoretical background: [experimentaldesign.pdf](/files/papers/experimentaldesign.pdf) 
 
 ### The wealthometer:
