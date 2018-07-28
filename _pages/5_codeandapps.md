@@ -9,7 +9,8 @@ permalink: /code-and-apps/
 
 
 ### App for optimal treatment assignment in experiments:
-* Interactive App: [/treatmentassignment]({{ site.url }}{{ site.baseurl}}/treatmentassignment/)  
+* Interactive App: [/treatmentassignment]({{ site.url }}{{ site.baseurl}}/treatmentassignment/)
+* Repository: [https://github.com/maxkasy/optimal-treatment-assignment-app](https://github.com/maxkasy/optimal-treatment-assignment-app)  
 * Theoretical background: [experimentaldesign.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/experimentaldesign.pdf) 
 
 ### The wealthometer:
