@@ -5,12 +5,12 @@ permalink: /code-and-apps/
 
 ### R-code for optimal taxation and insurance using machine learning:  
 * Repository: [https://github.com/maxkasy/optimaltaxationusingML](https://github.com/maxkasy/optimaltaxationusingML)  
-* Theoretical background: [PolicyDecisions.pdf](/files/papers/PolicyDecisions.pdf) 
+* Theoretical background: [PolicyDecisions.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/PolicyDecisions.pdf) 
 
 
 ### App for optimal treatment assignment in experiments:
-* Interactive App: [treatmentassignment/](/treatmentassignment/)  
-* Theoretical background: [experimentaldesign.pdf](/files/papers/experimentaldesign.pdf) 
+* Interactive App: [/treatmentassignment]({{ site.url }}{{ site.baseurl}}/treatmentassignment/)  
+* Theoretical background: [experimentaldesign.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/experimentaldesign.pdf) 
 
 ### The wealthometer:
 * International version: [http://wealthometer.org/](http://wealthometer.org/)  
