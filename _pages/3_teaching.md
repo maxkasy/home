@@ -4,7 +4,7 @@ permalink: /teaching/
 ---
 
 ### My open online textbook "Empirical research on economic inequality":
-[http://inequalityresearch.net/](http://inequalityresearch.net/) 
+* [http://inequalityresearch.net/](http://inequalityresearch.net/) 
 
 
 
