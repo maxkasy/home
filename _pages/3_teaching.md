@@ -20,3 +20,8 @@ permalink: /teaching/
 * Slides: [2140Slides2018.zip]({{ site.url }}{{ site.baseurl}}/files/teaching/MicroeconometricMethods/2140Slides2018.zip) 
 * Reader (theory): [2140theoryreaderspring2018.zip]({{ site.url }}{{ site.baseurl}}/files/teaching/MicroeconometricMethods/2140theoryreaderspring2018.zip) 
 * Reader (applications): [2140appliedreaderspring2018.zip]({{ site.url }}{{ site.baseurl}}/files/teaching/MicroeconometricMethods/2140appliedreaderspring2018.zip) 
+
+### Applied econometrics (advanced undergraduate)
+* Syllabus: [1126SyllabusKasyfall2017.pdf]({{ site.url }}{{ site.baseurl}}/files/teaching/AppliedEconometrics/1126SyllabusKasyfall2017.pdf) 
+* Slides: [1126SlidesKasy.zip]({{ site.url }}{{ site.baseurl}}/files/teaching/AppliedEconometrics/1126SlidesKasy.zip) 
+* Reader: [1126readerfall2016.zip]({{ site.url }}{{ site.baseurl}}/files/teaching/AppliedEconometrics/1126readerfall2016.zip) 
