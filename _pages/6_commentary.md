@@ -56,3 +56,107 @@ permalink: /commentary/
   January 19, 2016  
   [Der Standard](http://derstandard.at/2000029197395/Datenschutz-Ich-habe-nichts-zu-verbergen)
 
+**Was tun mit dem Nationalstaat?**  
+  January 19, 2016  
+  [Mosiak Blog](https://mosaik-blog.at/teil-i-nationalstaat-und-internationale-institutionen-aus-linker-perspektive/)
+  
+
+**Was tun mit den Wirtschaftsflüchtlingen?**  
+  November 11, 2015  
+  [Der Standard](http://derstandard.at/2000024645613/Was-tun-mit-den-Wirtschaftsfluechtlingen)
+  
+**Flucht – was sich an der Politik Europas ändern muss**  
+  November 11, 2015  
+  [Der Standard](http://derstandard.at/2000022429210/Flucht-was-sich-an-der-Politik-Europas-aendern-muss)
+
+**Wie können die das mit ihrem Gewissen vereinbaren?**  
+  August 20, 2015  
+  [Mosiak Blog](https://mosaik-blog.at/wie-koennen-die-das-mit-ihrem-gewissen-vereinbaren/)
+  
+**Griechenlands Krise und die Fehler der EU-Politik**  
+  June 28, 2015  
+  [Der Standard](http://derstandard.at/2000018178209/Griechenlands-Krise-und-die-Fehler-der-EU-Politik)
+  
+**Wer profitiert eigentlich von öffentlichen Bildungsausgaben?**  
+  June 3, 2015  
+  [Mosiak Blog](https://mosaik-blog.at/wer-profitiert-eigentlich-von-oeffentlichen-bildungsausgaben/)
+  
+**Leistbares Wohnen, soziale Durchmischung, städtischer Wandel und Standortwettbewerb**  
+  May 6, 2015  
+  [Mosiak Blog](https://mosaik-blog.at/wohnen-gentrifizierung-stadt/)
+  
+**Gentrifizierung, direkte Aktionen und Stadtplanung**  
+  May 6, 2015  
+  [Mosiak Blog](https://mosaik-blog.at/schwerpunkt-wohnen-i-gentrifizierung-direkte-aktionen-und-stadtplanung/)
+  
+**Ein paar Gedanken zur Verteilungsdebatte – linke und konservative Vorstellungen von Verteilungsgerechtigkeit**  
+  February 16, 2015  
+  Teil 1: [Mosiak Blog](https://mosaik-blog.at/ein-paar-gedanken-zur-verteilungsdebatte-linke-und-konservative-vorstellungen-von-verteilungsgerechtigkeit-teil-1/)  
+  Teil 2: [Mosiak Blog](https://mosaik-blog.at/ein-paar-gedanken-zur-verteilungsdebatte-vorstellungen-von-verteilungsgerechtigkeit-teil-2/)  
+
+**Warum steigt die Ungleichheit der Löhne?**  
+  January 22, 2015  
+  [GBW](https://www.gbw.at/index.php?id=153&tx_ongbw_pi1%5Barticle%5D=10940&cHash=1c8842448e0d19b49526b14c56366dee)
+
+**Arbeitsrecht für AsylwerberInnen!**  
+  November 13, 2014  
+  [Der Standard](http://derstandard.at/2000007929004/Warum-Asylwerber-Arbeitserlaubnis-erhalten-sollten)
+
+**Wer arm ist, ist selber schuld**  
+  October 21, 2014  
+  [GBW](https://www.gbw.at/index.php?id=153&tx_ongbw_pi1%5Barticle%5D=10881&cHash=b73a7a742fe5c3fda826b70405a0000e)
+
+**Staatsschulden – gut oder böse?**  
+  September 20, 2014  
+  [GBW](https://www.gbw.at/index.php?id=153&tx_ongbw_pi1%5Barticle%5D=10819&cHash=e00e81751ab1016bdad24c68240cd4aa)
+
+**Wie sich Ungleichheit kleinrechnen lässt**  
+  August 11, 2014  
+  [Der Standard](http://derstandard.at/2000004031848/Wie-sich-Ungleichheit-kleinrechnen-laesst)
+
+**Gute öffentliche Gratiskindergärten für alle**  
+  July 24, 2014  
+  [GBW](https://www.gbw.at/index.php?id=153&tx_ongbw_pi1%5Barticle%5D=10788&cHash=0b736d2f8494c198364a725a78ed6605)
+
+**Das schnelle Geld – gibt’s leider nicht**  
+  July 13, 2014  
+  [Arbeit und Wirtschaft](https://awblog.at/das-schnelle-geld-gibts-leider-nicht/)
+
+**Wozu haben ÖkonomInnen eigentlich etwas zu sagen?**  
+  July 13, 2014  
+  [GBW](https://www.gbw.at/index.php?id=153&tx_ongbw_pi1%5Barticle%5D=10707&cHash=ddeb1862f87da6e2f1d7272d189a6753)
+
+**Das "Manifest für eine pluralistische Ökonomik"**  
+  May 14, 2014  
+  [WU](https://www.wu.ac.at/fileadmin/wu/d/economics/export_vwz_neu/Standpunkte/standpunkte12_05-2014.pdf)
+
+**Gibt es ein Erfolgsgen?**  
+  March 30, 2014  
+  [GBW](https://www.gbw.at/index.php?id=153&tx_ongbw_pi1%5Barticle%5D=10588&cHash=6a7602d4fc691dc12b1c01f73dcd83d6)
+
+**Spielen soziale Klassen noch eine Rolle?**  
+  February 25, 2014  
+  [GBW](https://www.gbw.at/index.php?id=153&tx_ongbw_pi1%5Barticle%5D=10525&cHash=79616061020d9f31e019ecde94e43826)
+
+**Interview mit Robert Misik**  
+  February 10, 2014  
+  [Misik](http://www.misik.at/sonstige/die-vernichtung-des-sozialstaats-das-ist-reine-ideologie.php)
+
+**Freihandel, Neoliberalismus und Demokratie**  
+  January 25, 2014  
+  [GBW](https://www.gbw.at/index.php?id=153&tx_ongbw_pi1%5Barticle%5D=10493&cHash=6700688daa7dccbdeac0e8c0c1584791)
+
+**Was ist gerecht? Diversität, Chancengleichheit, und was sie übersehen**  
+  December 18, 2013  
+  [GBW](https://www.gbw.at/index.php?id=153&tx_ongbw_pi1%5Barticle%5D=10434&cHash=751904d04a719822871833cedf1847ab)
+
+**Standardisierte Tests in der Schule und ihre Gefahren**  
+  December 15, 2013  
+  [GBW](https://www.gbw.at/index.php?id=153&tx_ongbw_pi1%5Barticle%5D=10400&cHash=c0a74527a9ed8a07a913580c25647b45)
+
+**Warum wir Vermögen und Erbschaften besteuern sollten**  
+  October 11, 2013  
+  [Arbeit und Wirtschaft](https://awblog.at/warum-wir-vermoegen-und-erbschaften-besteuern-sollten/)
+
+
+
