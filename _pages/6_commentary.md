@@ -30,7 +30,7 @@ permalink: /commentary/
   
 **Why economists need to study inequality**  
   October 4, 2016  
-  [Der Standard](http://items.ssrc.org/normative-individualism-and-research-on-inequality/)
+  [ITEMS](http://items.ssrc.org/normative-individualism-and-research-on-inequality/)
   
 **Technischer Fortschritt - für wen?**  
   September 27, 2016  
