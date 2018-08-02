@@ -24,4 +24,4 @@ permalink: /teaching/
 ### Applied econometrics (advanced undergraduate)
 * Syllabus: [1126SyllabusKasyfall2017.pdf]({{ site.url }}{{ site.baseurl}}/files/teaching/AppliedEconometrics/1126SyllabusKasyfall2017.pdf) 
 * Slides: [1126SlidesKasy.zip]({{ site.url }}{{ site.baseurl}}/files/teaching/AppliedEconometrics/1126SlidesKasy.zip) 
-* Reader: [1126readerfall2016.zip]({{ site.url }}{{ site.baseurl}}/files/teaching/AppliedEconometrics/1126readerfall2016.zip) 
+* Reader: [1126readerfall2017.zip]({{ site.url }}{{ site.baseurl}}/files/teaching/AppliedEconometrics/1126readerfall2017.zip) 
