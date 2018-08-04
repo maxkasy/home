@@ -4,6 +4,7 @@ title: Treatment assignment
 permalink: /treatmentassignment/
 ---
 
+##Optimal treatment assignment using covariates
 
 This app allows you to calculate optimal treatment assignments using baseline covariates.
 This treatment assignment minimizes the expected mean squared error of estimators for the average treatment effect.
