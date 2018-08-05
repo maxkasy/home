@@ -3,6 +3,9 @@ title: Commentary
 permalink: /commentary/
 ---
 
+**Why a Universal Basic Income Is Better Than Subsidies of Low-Wage Work**  
+  August 5, 2018  
+  [UBI_EITC_Kasy.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/UBI_EITC_Kasy.pdf) 
 
 **Künstliche Intelligenz und ihre sozialen Folgen**  
   May 22, 2018  
