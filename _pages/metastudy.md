@@ -18,7 +18,7 @@ To use this app:
 4. Estimate the model by pressing the button.
 
 To read more about the theoretical background, go to [PublicationBias.pdf](/files/papers/PublicationBias.pdf).  
-The source code for the app can be downloaded at [https://github.com/maxkasy/MetaStudiesApp](https://github.com/maxkasy/MetaStudiesApp) 
+The source code for the app can be downloaded at [https://github.com/maxkasy/MetaStudiesApp](https://github.com/maxkasy/MetaStudiesApp).   
 An example dataset can be found here: [cleaned_minwage_data.csv](/files/other/cleaned_minwage_data.csv). These are data from Wolfson and Belman (2015), who conducted a meta-analysis of studies on the elasticity of employment with respect to the minimum wage.
 
 
