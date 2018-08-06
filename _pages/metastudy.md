@@ -14,7 +14,7 @@ To use this app:
 
 1. Upload a .csv file of your meta-study, with estimates in the first column and standard errors in the second column. Omit column headers and use comma-separated format.  
 2. Choose a step-function model for p: Symmetric in Z or not, and cutoffs corresponding to critical values for two-sided tests at the 10%, 5%, and 1% levels.
-3. Choose a model for the distribution true effects. For now, this app only allows normal distributions.
+3. Choose a model for the distribution true effects. For now, this app allows normal distributions and t-distributions.
 4. Estimate the model by pressing the button.
 
 To read more about the theoretical background, go to [PublicationBias.pdf](/files/papers/PublicationBias.pdf).  
