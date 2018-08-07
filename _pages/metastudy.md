@@ -9,8 +9,7 @@ permalink: /metastudy/
 
 
 This app allows you to estimate models of selective publication using meta-studies.
-The estimated models give (1) the probability of publication given the z-statistic,  
- and (2) the distribution of true effects among all studies (published and unpublished).  
+The estimated models give (1) the probability of publication given the z-statistic, and (2) the distribution of true effects among all studies (published and unpublished).  
  
 To use this app:
 
