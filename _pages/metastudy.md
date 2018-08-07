@@ -6,13 +6,16 @@ permalink: /metastudy/
 
 ## Estimating publication bias using meta-studies
 
-*THIS IS A PRELIMINARY VERSION OF THE APP. IF YOU NOTE ANY PROBLEMS, PLEASE LET ME KNOW!*
+
 
 This app allows you to estimate models of selective publication using meta-studies.
-The estimated models give the probability of publication given the z-statistic, as well as the distribution of true effects among all studies (published and unpublished).
+The estimated models give (1) the probability of publication given the z-statistic,  
+ and (2) the distribution of true effects among all studies (published and unpublished).  
+ 
 To use this app:
 
-1. Upload a .csv file of your meta-study, with estimates in the first column and standard errors in the second column. Omit column headers and use comma-separated format.  
+1. Upload a .csv file of your meta-study, with estimates in the first column and standard errors in the second column.  
+   Omit column headers and use comma-separated format.  
 2. Choose a step-function model for p: Symmetric in Z or not, and cutoffs corresponding to critical values for two-sided tests at the 10%, 5%, and 1% levels.
 3. Choose a model for the distribution true effects. For now, this app allows normal distributions and t-distributions.
 4. Estimate the model by pressing the button.
