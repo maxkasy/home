@@ -9,7 +9,7 @@ permalink: /code-and-apps/
 * Theoretical background: [experimentaldesign.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/experimentaldesign.pdf) 
 
 
-### App for estimating publication bias using meta-studies (preliminary version):
+### App for estimating publication bias using meta-studies:
 * Interactive App: [/metastudy]({{ site.url }}{{ site.baseurl}}/metastudy/)
 * Repository: [https://github.com/maxkasy/MetaStudiesApp](https://github.com/maxkasy/MetaStudiesApp) 
 * Theoretical background: [PublicationBias.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/PublicationBias.pdf) 
