@@ -3,6 +3,10 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Which findings should be published**  
+  Cologne, Thursday, August 30, 2018  
+  [Slides]({{ site.url }}{{ site.baseurl}}/files/slides/whichfindings_slides_kasy.pdf)    
+
 **How to use economic theory to improve estimators**  
   Montreal, Wednesday, June 27, 2018  
   [Slides]({{ site.url }}{{ site.baseurl}}/files/slides/shrinkingtotheory-slides-kasy.pdf)
