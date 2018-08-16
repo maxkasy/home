@@ -61,7 +61,7 @@ permalink: /research/
   
 **Why Experimenters Might Not Always Want to Randomize, and What They Could Do Instead**  
   *Political Analysis, 2016*  
-  Manuscript: [experimentaldesign.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/experimentaldesign.pdf)
+  Manuscript: [experimentaldesign.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/experimentaldesign.pdf)  
   Supplement: [shrinkingtotheorysupplement.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/ExperimentalDesignPAOnlineAppendix.pdf)  
   
 **Partial identification, distributional preferences, and the welfare ranking of policies**  
