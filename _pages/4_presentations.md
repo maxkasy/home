@@ -3,6 +3,10 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Which findings get published? Which findings should be published?**  
+  Bocconi, Tuesday, September 4, 2018  
+  [Slides]({{ site.url }}{{ site.baseurl}}/files/slides/pubbias_whichfindings_slides_kasy.pdf}  
+  
 **Which findings should be published**  
   Cologne, Thursday, August 30, 2018  
   [Slides]({{ site.url }}{{ site.baseurl}}/files/slides/whichfindings_slides_kasy.pdf)    
