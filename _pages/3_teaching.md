@@ -7,13 +7,12 @@ permalink: /teaching/
 * [http://inequalityresearch.net/](http://inequalityresearch.net/) 
 
 
-
 ### Topics in econometrics (2nd year PhD)
 
 * Syllabus: [2148syllabuskasy2017.pdf]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics/2148syllabuskasy2017.pdf) 
 * Slides: [2148SlidesFall2017.zip]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics/2148SlidesFall2017.zip) 
 * Reader: [2148readerfall2017.zip]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics/2148readerfall2017.zip) 
-
+* Collection of useful computational ressources: [computationlinks](/home/computationlinks/)
 
 ### Microeconometric methods (1st year PhD)
 * Syllabus: [2140part1syllabusspring2018.pdf]({{ site.url }}{{ site.baseurl}}/files/teaching/MicroeconometricMethods/2140part1syllabusspring2018.pdf) 
