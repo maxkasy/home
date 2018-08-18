@@ -24,4 +24,7 @@ permalink: /code-and-apps/
 * International version: [http://wealthometer.org/](http://wealthometer.org/)  
 * Austrian version: [http://www.binichreich.at/](http://www.binichreich.at/)  
 
+### A collection of useful computational ressources:
+* [Computation Links](/home/computationlinks/)
+
 
