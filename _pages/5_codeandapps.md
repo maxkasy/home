@@ -25,6 +25,6 @@ permalink: /code-and-apps/
 * Austrian version: [http://www.binichreich.at/](http://www.binichreich.at/)  
 
 ### A collection of useful computational ressources:
-* [Computation Links](/home/computationlinks/)
+* Collection of links: [Computation Links](/home/computationlinks/)
 
 
