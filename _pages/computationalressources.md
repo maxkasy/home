@@ -17,13 +17,17 @@ permalink: /computationlinks/
 (The theory and implementation of neural nets)  
 <https://www.deeplearningbook.org/>  
 
-## Programming
+## Programming in R
 **An Introduction to R**  
 (Complete introduction to base R)  
 <https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf>  
 
+**R for Data Science**  
+(Introduction to data analysis using R, focused on the tidyverse packages)  
+<http://r4ds.had.co.nz/>  
+
 **RStudio Cheat Sheets**  
-(for various extensions, including data processing, visulization, writing web apps, ...)  
+(for various extensions, including data processing, visualization, writing web apps, ...)  
 <https://www.rstudio.com/resources/cheatsheets/>  
 
 **Programming interactive R-apps using Shiny**  
@@ -34,6 +38,10 @@ permalink: /computationlinks/
 **ggplot2 - Elegant Graphics for Data Analysis**  
 (R-package for data vizualization)  
 <http://moderngraphics11.pbworks.com/f/ggplot2-Book09hWickham.pdf>  
+
+**Data Visualization - A Practical Introduction**  
+(Textbook on data visualization, using ggplot2)  
+<http://socviz.co/>  
 
 **A Layered Grammar of Graphics**  
 (The theory behind ggplot2)  
@@ -53,8 +61,9 @@ permalink: /computationlinks/
 <https://www.markdownguide.org/>  
 
 **Setting up a webpage using Jekyll and Github pages**  
-(Such as this webpage)  
-<https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages>  
+(Such as this webpage)
+- Getting started: <https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages>  
+- The minimal-mistakes theme: <https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/>  
 
 
 ## Other
