@@ -3,6 +3,10 @@ title: Commentary
 permalink: /commentary/
 ---
 
+**Was für Reformen wären auf EU-Ebene notwendig und möglich? Zwei Vorschläge zu Konzernsteuern und Asylsystem**  
+  Aug 27, 2018  
+  [Der Standard](https://derstandard.at/2000086080544/In-der-EU-kann-es-unter-Wiens-Vorsitz-flutschen)
+
 **Why a Universal Basic Income Is Better Than Subsidies of Low-Wage Work**  
   August 5, 2018  
   [UBI_EITC_Kasy.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/UBI_EITC_Kasy.pdf) 
