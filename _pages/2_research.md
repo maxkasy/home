@@ -28,10 +28,6 @@ permalink: /research/
   *Revise and resubmit, Review of Economics and Statistics, 2018*  
   Manuscript: [riskml.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/riskml.pdf)
   
-**Optimal taxation and insurance using machine learning**  
-  *Revise and resubmit, Journal of Public Economics, 2018*  
-  Manuscript: [PolicyDecisions.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/PolicyDecisions.pdf)  
-
 ## Publications
   
 **Optimal taxation and insurance using machine learning**  
