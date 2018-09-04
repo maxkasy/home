@@ -24,7 +24,7 @@ permalink: /research/
   Manuscript: [publicationbias.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/PublicationBias.pdf)
   
 **Choosing among regularized estimators in empirical economics**  
-  (joint with Alberto Abadie)  
+  (joint with Alberto Abadie, formerly known as *The risk of machine learning*)  
   *Revise and resubmit, Review of Economics and Statistics, 2018*  
   Manuscript: [riskml.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/riskml.pdf)
   
@@ -33,7 +33,11 @@ permalink: /research/
   Manuscript: [PolicyDecisions.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/PolicyDecisions.pdf)  
 
 ## Publications
-
+  
+**Optimal taxation and insurance using machine learning**  
+  *Forthcoming, Journal of Public Economics, 2018*  
+  Manuscript: [PolicyDecisions.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/PolicyDecisions.pdf)  
+  
 **How to use economic theory to improve estimators: Shrinking toward theoretical restrictions**  
   (joint with Pirmin Fessler)  
   *Forthcoming, Review of Economics and Statistics, 2018*   
