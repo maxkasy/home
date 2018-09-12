@@ -138,6 +138,7 @@ include:
   - .htaccess
   - _pages
   - _pages/apps
+  - _pages/conference  
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

@@ -5,10 +5,14 @@ permalink: /StatisticsSocialConference/
 
 
 ## Conference announcement
+Textbook introductions to statistics tend to be a rather solitary affair. They cover scenarios where it's just you and the data, and you have to make some decision - estimate a parameter, test a hypothesis, etc.
+In practice, however, statistics (and empirical research more generally) is a social endeavour, involving different researchers, journal editors and referees, readers, policymakers, and others.
+
+[...]
 
 
 
-This conference is supported by the Alfred P. Sloan Foundation grant "Publication bias and specifcation searching. Identifcation, correction, and reform proposals."
+*This conference is supported by the Alfred P. Sloan Foundation grant "Publication bias and specifcation searching. Identifcation, correction, and reform proposals."*
 
 ## Participants
 * Isaiah Andrews
