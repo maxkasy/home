@@ -8,7 +8,7 @@ permalink: /StatisticsSocialConference/
 
 
 
-This conference is supported by the Alfred P. Sloan Foundation grant ``Publication bias and specifcation searching. Identifcation, correction, and reform proposals.''
+This conference is supported by the Alfred P. Sloan Foundation grant "Publication bias and specifcation searching. Identifcation, correction, and reform proposals."
 
 ## Participants
 * Isaiah Andrews
