@@ -7,11 +7,11 @@ permalink: /StatisticsSocialConference/
 ## Conference announcement
 The activity of statistics as conventionally conceived tends to be a rather solitary affair. It's just you and the data, and you have to make some decision - estimate a parameter, test a hypothesis, etc.
 In practice, however, statistics (and empirical research more generally) is a social endeavour, involving different researchers, journal editors and referees, readers, policymakers, and others.
-This social dimension of statistics has come to the fore in recent debates about publication bias and p-hacking and the perceived replicability crisis of various empirical fields.
+This social dimension of statistics has come to the fore in recent debates about publication bias, p-hacking, and the perceived replicability crisis of various empirical fields.
 
 If we take this social dimension seriously, this suggests an alternative perspective on statistics, where the task of empirical researchers is to provide useful summaries of complex data to their readers in order to promote some form of collective learning. This task is subject to various costs in terms of the time and attention of researchers, referees, and readers, as well as various constraints on social learning in terms of limited information, strategic actions, the sociology of research, etc.
 
-The goal of this conference is to bring together researchers from various fields, such as econometrics and statistics, economic theory, empirical practice, and the history and philosophy of science, in order to promote a discussion of statistical methods in their social context.
+The goal of this conference is to bring together researchers from various fields, including econometrics and statistics, economic theory, empirical practice, and the history and philosophy of science, in order to promote a discussion of statistical methods in their social context.
 
 
 Possible topics for this conference include, but are not restricted to:
@@ -36,8 +36,8 @@ Possible topics for this conference include, but are not restricted to:
 * **Location:** Department of Economics, Harvard University  
   3rd floor lounge, Littauer Hall, 1805 Cambridge Street, Cambridge, MA 02138
 * **Reimbursement:** We will provide a honorarium of 800$ for out-of-town participants, to cover hotel and travel costs.
-* **Contact:** For logistical questions, hotel reservations, and honararium payments, please contact [Trina Ott](mailto:ott@fas.harvard.edu).
-* **Papers and Slides**: Please also mail these to Trina, and we will post them on this website before the conference.
+* **Contact:** For logistical questions, if you would like us to reserve a hotel for you, and honararium payments, please contact [Trina Ott](mailto:ott@fas.harvard.edu).
+* **Papers and Slides**: Please also email these to Trina, and we will post them on this website before the conference.
 
 
 
