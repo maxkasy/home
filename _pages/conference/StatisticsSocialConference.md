@@ -25,7 +25,7 @@ Possible topics for this conference include, but are not restricted to:
 
 *This conference is supported by the Alfred P. Sloan Foundation grant "Publication bias and specification searching. Identification, correction, and reform proposals."*
 
-## Participants
+## Confirmed participants
 * Isaiah Andrews
 * Alex Frankel
 * Maximilian Kasy
@@ -35,8 +35,9 @@ Possible topics for this conference include, but are not restricted to:
 * **Date:** May 10, 2019
 * **Location:** Department of Economics, Harvard University  
   3rd floor lounge, Littauer Hall, 1805 Cambridge Street, Cambridge, MA 02138
-* **Reimbursement:** We will cover one hotel night for out of town participants, as well as travel costs up to 500$.
-* **Contact:** For logistical questions and travel reimbursements, please contact [Trina Ott](mailto:ott@fas.harvard.edu).
+* **Reimbursement:** We will provide a honorarium of 800$ for out-of-town participants, to cover hotel and travel costs.
+* **Contact:** For logistical questions, hotel reservations, and honararium payments, please contact [Trina Ott](mailto:ott@fas.harvard.edu).
+* **Papers and Slides**: Please also mail these to Trina, and we will post them on this website before the conference.
 
 
 
