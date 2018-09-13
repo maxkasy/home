@@ -5,14 +5,25 @@ permalink: /StatisticsSocialConference/
 
 
 ## Conference announcement
-Textbook introductions to statistics tend to be a rather solitary affair. They cover scenarios where it's just you and the data, and you have to make some decision - estimate a parameter, test a hypothesis, etc.
+The activity of statistics as conventionally conceived tends to be a rather solitary affair. It's just you and the data, and you have to make some decision - estimate a parameter, test a hypothesis, etc.
 In practice, however, statistics (and empirical research more generally) is a social endeavour, involving different researchers, journal editors and referees, readers, policymakers, and others.
+This social dimension of statistics has come to the fore in recent debates about publication bias and p-hacking and the perceived replicability crisis of various empirical fields.
 
-[...]
+If we take this social dimension seriously, this suggests an alternative perspective on statistics, where the task of empirical researchers is to provide useful summaries of complex data to their readers in order to promote some form of collective learning. This task is subject to various costs in terms of the time and attention of researchers, referees, and readers, as well as various constraints on social learning in terms of limited information, strategic actions, the sociology of research, etc.
+
+The goal of this conference is to bring together researchers from various fields, such as econometrics and statistics, economic theory, empirical practice, and the history and philosophy of science, in order to promote a discussion of statistical methods in their social context.
 
 
+Possible topics for this conference include, but are not restricted to:
+* Publication bias and p-hacking
+* Replicability and replications
+* Pre-analysis plans and other reform proposals
+* Communication, limited attention, value of information, social learning
+* Paradigm changes, the role of method
+* The sociology of empirical research
 
-*This conference is supported by the Alfred P. Sloan Foundation grant "Publication bias and specifcation searching. Identifcation, correction, and reform proposals."*
+
+*This conference is supported by the Alfred P. Sloan Foundation grant "Publication bias and specification searching. Identification, correction, and reform proposals."*
 
 ## Participants
 * Isaiah Andrews
