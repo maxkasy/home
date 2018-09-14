@@ -13,7 +13,7 @@ excerpt: May 10, 2019
 
 ## Conference announcement
 The activity of statistics as conventionally conceived is a rather solitary affair. It's just you and the data, and you have to make some decision based on the data - estimate a parameter, test a hypothesis, etc.
-In practice, however, statistics (and empirical research more generally) is a social endeavour, involving different researchers, journal editors and referees, readers, policymakers, and others.
+In practice, however, statistics (and empirical research more generally) is a social endeavor, involving different researchers, journal editors and referees, readers, policymakers, and others.
 This social dimension of statistics has come to the fore in recent debates about publication bias, p-hacking, and the perceived replicability crisis of various empirical fields.
 
 Taking the social dimension seriously suggests an alternative perspective on statistics, where the task of empirical researchers is to provide useful summaries of complex data to their readers in order to promote some form of collective learning. This task is subject to costs of time and attention of researchers, referees, and readers, as well as constraints on social learning in terms of limited information, strategic behavior, the sociology of research, etc.
