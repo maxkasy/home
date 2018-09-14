@@ -1,6 +1,13 @@
 ---
-title: Statistics in a social context
+title: "Statistics in a social context"
 permalink: /StatisticsSocialConference/
+layout: splash
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.15"
+  overlay_image: /files/other/mehretu_beloved_cropped.jpg
+  caption: "Image credit: Julie Mehretu"
+excerpt: May 10, 2019
 ---
 
 
