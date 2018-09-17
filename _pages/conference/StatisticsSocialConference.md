@@ -34,8 +34,11 @@ Possible topics for this conference include, but are not restricted to:
 
 ## Confirmed participants
 * Isaiah Andrews
+* Sylvain Chassang
 * Alex Frankel
+* Zoe Hitzig
 * Maximilian Kasy
+* Jann Spiess
 
 
 ## Logistics
