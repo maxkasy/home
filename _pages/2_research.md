@@ -23,12 +23,13 @@ permalink: /research/
   *Revise and resubmit, American Economic Review, 2018*  
   Manuscript: [publicationbias.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/PublicationBias.pdf)
   
-**Choosing among regularized estimators in empirical economics**  
-  (joint with Alberto Abadie, formerly known as *The risk of machine learning*)  
-  *Revise and resubmit, Review of Economics and Statistics, 2018*  
-  Manuscript: [riskml.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/riskml.pdf)
   
 ## Publications
+  
+**Choosing among regularized estimators in empirical economics**  
+  (joint with Alberto Abadie, formerly known as *The risk of machine learning*)  
+  *Forthcoming, Review of Economics and Statistics, 2018*  
+  Manuscript: [riskml.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/riskml.pdf)  
   
 **Optimal taxation and insurance using machine learning**  
   *Forthcoming, Journal of Public Economics, 2018*  
