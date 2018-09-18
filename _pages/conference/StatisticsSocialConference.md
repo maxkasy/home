@@ -39,6 +39,7 @@ Possible topics for this conference include, but are not restricted to:
 * Zoe Hitzig
 * Maximilian Kasy
 * Jann Spiess
+* Simine Vazire
 
 
 ## Logistics
