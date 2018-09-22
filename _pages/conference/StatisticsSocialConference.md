@@ -38,6 +38,7 @@ Possible topics for this conference include, but are not restricted to:
 * Alex Frankel
 * Zoe Hitzig
 * Maximilian Kasy
+* Theodore Porter
 * Jann Spiess
 * Simine Vazire
 
