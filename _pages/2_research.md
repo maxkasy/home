@@ -26,7 +26,7 @@ permalink: /research/
   
 ## Publications
   
-**Choosing among regularized estimators in empirical economics - The risk of machine learning**  
+**Choosing among regularized estimators in empirical economics - the risk of machine learning**  
   (joint with Alberto Abadie)  
   *Forthcoming, Review of Economics and Statistics, 2018*  
   Manuscript: [riskml.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/riskml.pdf)  

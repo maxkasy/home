@@ -38,6 +38,7 @@ Possible topics for this conference include, but are not restricted to:
 * Alex Frankel
 * Zoe Hitzig
 * Maximilian Kasy
+* Deborah Mayo
 * Theodore Porter
 * Jann Spiess
 * Simine Vazire
@@ -47,6 +48,7 @@ Possible topics for this conference include, but are not restricted to:
 * **Date:** May 10, 2019
 * **Location:** Department of Economics, Harvard University  
   3rd floor lounge, Littauer Hall, 1805 Cambridge Street, Cambridge, MA 02138
+* **Presentations**: Target length 30 minutes, with 15 minutes discussion
 * **Reimbursement:** We will provide a honorarium of 800$ for out-of-town participants, to cover hotel and travel costs.
 * **Contact:** For logistical questions, if you would like us to reserve a hotel for you, and for honararium payments, please contact [Trina Ott](mailto:ott@fas.harvard.edu).
 * **Papers and Slides**: Please also email these to Trina, and we will post them on this website before the conference.
