@@ -33,15 +33,15 @@ Possible topics for this conference include, but are not restricted to:
 *This conference is supported by the Alfred P. Sloan Foundation grant "Publication bias and specification searching. Identification, correction, and reform proposals."*
 
 ## Confirmed participants
-* Isaiah Andrews
-* Sylvain Chassang
-* Alex Frankel
-* Zoe Hitzig
-* Maximilian Kasy
-* Deborah Mayo
-* Theodore Porter
-* Jann Spiess
-* Simine Vazire
+* Isaiah Andrews (econometrics)
+* Sylvain Chassang (economic theory)
+* Alex Frankel (economic theory) 
+* Zoe Hitzig (economic theory, philosophy)
+* Maximilian Kasy (econometrics)
+* Deborah Mayo (philosophy of statistics)
+* Theodore Porter (history of statistics)
+* Jann Spiess (econometrics)
+* Simine Vazire (psychology)
 
 
 ## Logistics
