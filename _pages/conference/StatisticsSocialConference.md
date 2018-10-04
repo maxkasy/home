@@ -39,6 +39,7 @@ Possible topics for this conference include, but are not restricted to:
 * Zoe Hitzig (economic theory, philosophy)
 * Maximilian Kasy (econometrics)
 * Deborah Mayo (philosophy of statistics)
+* Marco Ottaviani (economic theory)
 * Theodore Porter (history of statistics)
 * Jann Spiess (econometrics)
 * Simine Vazire (psychology)
