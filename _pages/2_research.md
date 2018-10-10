@@ -20,7 +20,7 @@ permalink: /research/
 
 **Identification of and correction for publication bias**  
   (joint with Isaiah Andrews)  
-  *Revise and resubmit, American Economic Review, 2018*  
+  *Revised and resubmitted, American Economic Review, 2018*  
   Manuscript: [publicationbias.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/PublicationBias.pdf)
   
   
