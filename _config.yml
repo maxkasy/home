@@ -139,6 +139,7 @@ include:
   - _pages
   - _pages/apps
   - _pages/conference  
+  - _pages/teaching
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
