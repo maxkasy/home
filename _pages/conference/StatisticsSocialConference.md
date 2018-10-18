@@ -34,6 +34,7 @@ Possible topics for this conference include, but are not restricted to:
 
 ## Confirmed participants
 * Isaiah Andrews (econometrics)
+* Katherine Casey (development economics)
 * Sylvain Chassang (economic theory)
 * Alex Frankel (economic theory) 
 * Zoe Hitzig (economic theory, philosophy)
