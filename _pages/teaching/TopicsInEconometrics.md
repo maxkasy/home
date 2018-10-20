@@ -22,8 +22,7 @@ permalink: /TopicsInEconometrics2019/
 * Applications of Gaussian process priors from my own work
 [Slides]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/Applications-Slides.pdf)
 * Deep neural nets
-[Slides]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/Applications-Slides.pdf)
-DeepNets.pdf)
+[Slides]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/DeepNets.pdf)
 * Bandit problems
 [Slides]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/BanditProblems-Slides.pdf)
 
