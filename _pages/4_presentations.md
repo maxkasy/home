@@ -3,6 +3,10 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Causality and randomization**  
+  Harvard Philosophy [Causality Conference](https://projects.iq.harvard.edu/causality/home), Friday, November 2, 2018  
+  [Slides](/home/files/slides/CausalityConferenceKasy.pdf)
+
 **Which findings get published? Which findings should be published?**  
   Bocconi, Tuesday, September 4, 2018  
   [Slides](/home/files/slides/pubbias_whichfindings_slides_kasy.pdf)  
