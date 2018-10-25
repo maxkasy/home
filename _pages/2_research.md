@@ -54,7 +54,7 @@ permalink: /research/
 **Corrigendum: Instrumental Variables with Unrestricted Heterogeneity and Continuous Treatment**   
   (joint with Stefan Hoderlein, Hajo Holzmann, and Alexander Meister),  
   *The Review of Economic Studies, 2017*  
-  Manuscript: [erratumcontinuousivfinal.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/erratumcontinuousivfinal.pdf) 
+  Manuscript: [commentcontinuousivfinal.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/commentcontinuousivfinal.pdf) 
   
 **Normative individualism and research on inequality**  
   *ITEMS, 2016*  
