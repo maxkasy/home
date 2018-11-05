@@ -40,39 +40,34 @@ permalink: /TopicsInEconometrics2019/
 
 
 ### Machine learning books
-**The Elements of Statistical Learning**  
+* **The Elements of Statistical Learning**  
 (General introduction to machine learning)  
 <https://web.stanford.edu/~hastie/Papers/ESLII.pdf>
-
-**Gaussian Processes for Machine Learning**  
+* **Gaussian Processes for Machine Learning**  
 (Extremely useful tools for nonparametric Bayesian modeling)  
 <http://www.gaussianprocess.org/gpml/chapters/>  
-
-**Deep Learning**  
+* **Deep Learning**  
 (The theory and implementation of neural nets)  
 <https://www.deeplearningbook.org/>  
 
 ### Programming in R
-**An Introduction to R**  
+* **An Introduction to R**  
 (Complete introduction to base R)  
 <https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf>  
-
-**Advanced R**
+* **Advanced R**
 (In depth discussion of programming in R)
 <https://adv-r.hadley.nz/>  
 
 
 ### Data visualization
 
-**Data Visualization - A Practical Introduction**  
+* **Data Visualization - A Practical Introduction**  
 (Textbook on data visualization, using ggplot2)  
 <http://socviz.co/>  
-
-**An Economist’s Guide to Visualizing Data**  
+* **An Economist’s Guide to Visualizing Data**  
 (Guidelines for good visualizations)  
 <https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.28.1.209>  
-
-**ggplot2 - Elegant Graphics for Data Analysis**  
+* **ggplot2 - Elegant Graphics for Data Analysis**  
 (R-package for data vizualization)  
 <http://moderngraphics11.pbworks.com/f/ggplot2-Book09hWickham.pdf>  
 
