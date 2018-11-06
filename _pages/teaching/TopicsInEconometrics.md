@@ -3,6 +3,7 @@ title: "Topics in Econometrics: Advances in Causality and Foundations of Machine
 permalink: /TopicsInEconometrics2019/
 ---
 
+(site under construction)
 
 ## Syllabus
 
@@ -25,9 +26,14 @@ permalink: /TopicsInEconometrics2019/
 [Slides]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/DeepNets.pdf)
 * Bandit problems
 [Slides]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/BanditProblems-Slides.pdf)
+* Text analysis
+* Optimization
+* Data visualization
 
+## Homework problems
 
-## Homework problems (password protected)
+* Problemset 1 [Ec2148-2019-PS1.pdf]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/Ec2148-2019-PS1.pdf)
+* Problemset 2 [Ec2148-2019-PS2.pdf]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/Ec2148-2019-PS2.pdf)
 
 
 ## Reading materials
@@ -40,36 +46,20 @@ permalink: /TopicsInEconometrics2019/
 
 
 ### Machine learning books
-* **The Elements of Statistical Learning**
-(General introduction to machine learning)
-<https://web.stanford.edu/~hastie/Papers/ESLII.pdf>
-* **Gaussian Processes for Machine Learning**
-(Extremely useful tools for nonparametric Bayesian modeling)
-<http://www.gaussianprocess.org/gpml/chapters/>
-* **Deep Learning**
-(The theory and implementation of neural nets)
-<https://www.deeplearningbook.org/>
+* [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+* [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/chapters/)
+* [Deep Learning](https://www.deeplearningbook.org/)
 
 ### Programming in R
-* **An Introduction to R**
-(Complete introduction to base R)
-<https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf>
-* **Advanced R**
-(In depth discussion of programming in R)
-<https://adv-r.hadley.nz/>
+* [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)
+* [Advanced R](https://adv-r.hadley.nz/)
 
 
 ### Data visualization
 
-* **Data Visualization - A Practical Introduction**
-(Textbook on data visualization, using ggplot2)
-<http://socviz.co/>
-* **An Economist’s Guide to Visualizing Data**
-(Guidelines for good visualizations)
-<https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.28.1.209>
-* **ggplot2 - Elegant Graphics for Data Analysis**
-(R-package for data vizualization)
-<http://moderngraphics11.pbworks.com/f/ggplot2-Book09hWickham.pdf>
+* [Data Visualization - A Practical Introduction](http://socviz.co/)
+* [An Economist’s Guide to Visualizing Data](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.28.1.209)
+* [ggplot2 - Elegant Graphics for Data Analysis](http://moderngraphics11.pbworks.com/f/ggplot2-Book09hWickham.pdf)
 
 
 
