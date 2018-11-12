@@ -6,6 +6,10 @@ permalink: /presentations/
 **Which findings get published? Which findings should be published? (short version)**  
   BITSS Annual Meeting, UC Berkeley, Monday, December 10, 2018  
   [Slides](/home/files/slides/pubbias_whichfindings_short_kasy.pdf)  
+  
+**Adaptive experiments for policy choice** 
+  Harvard Development Retreat, Friday, December 7, 2018  
+  [Slides](/home/files/slides/AdaptiveExperiments_DevRetreat_Kasy.pdf)  
 
 **Causality and randomization**  
   Harvard Philosophy [Causality Conference](https://projects.iq.harvard.edu/causality/home), Friday, November 2, 2018  
