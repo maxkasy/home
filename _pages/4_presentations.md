@@ -7,7 +7,7 @@ permalink: /presentations/
   BITSS Annual Meeting, UC Berkeley, Monday, December 10, 2018  
   [Slides](/home/files/slides/pubbias_whichfindings_short_kasy.pdf)  
   
-**Adaptive experiments for policy choice** 
+**Adaptive experiments for policy choice**  
   Harvard Development Retreat, Friday, December 7, 2018  
   [Slides](/home/files/slides/AdaptiveExperiments_DevRetreat_Kasy.pdf)  
 
