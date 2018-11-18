@@ -3,13 +3,14 @@ title: Commentary
 permalink: /commentary/
 ---
 
+**Why a Universal Basic Income Is Better Than Subsidies of Low-Wage Work**  
+  November 9, 2018  
+  [Data for Progress working paper](http://filesforprogress.org/pdfs/UBI_EITC_Kasy_DFP_Working_Paper.pdf) 
+  
 **Was für Reformen wären auf EU-Ebene notwendig und möglich? Zwei Vorschläge zu Konzernsteuern und Asylsystem**  
   Aug 27, 2018  
   [Der Standard](https://derstandard.at/2000086080544/In-der-EU-kann-es-unter-Wiens-Vorsitz-flutschen)
 
-**Why a Universal Basic Income Is Better Than Subsidies of Low-Wage Work**  
-  August 5, 2018  
-  [UBI_EITC_Kasy.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/UBI_EITC_Kasy.pdf) 
 
 **Künstliche Intelligenz und ihre sozialen Folgen**  
   May 22, 2018  
