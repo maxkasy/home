@@ -5,7 +5,8 @@ permalink: /commentary/
 
 **Why a Universal Basic Income Is Better Than Subsidies of Low-Wage Work**  
   November 9, 2018  
-  [Data for Progress working paper](http://filesforprogress.org/pdfs/UBI_EITC_Kasy_DFP_Working_Paper.pdf) 
+  [Data for Progress working paper](http://filesforprogress.org/pdfs/UBI_EITC_Kasy_DFP_Working_Paper.pdf)   
+  
   
 **Was für Reformen wären auf EU-Ebene notwendig und möglich? Zwei Vorschläge zu Konzernsteuern und Asylsystem**  
   Aug 27, 2018  
