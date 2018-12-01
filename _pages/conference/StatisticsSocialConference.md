@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.15"
   overlay_image: /files/other/mehretu_beloved_cropped.jpg
   caption: "Image credit: Julie Mehretu"
-excerpt: May 10, 2019
+excerpt: May 10-11, 2019
 ---
 
 
@@ -47,7 +47,7 @@ Possible topics for this conference include, but are not restricted to:
 
 
 ## Logistics
-* **Date:** May 10, 2019
+* **Date:** May 10-11, 2019
 * **Location:** Department of Economics, Harvard University  
   3rd floor lounge, Littauer Hall, 1805 Cambridge Street, Cambridge, MA 02138
 * **Presentations**: Target length 30 minutes, with 15 minutes discussion
