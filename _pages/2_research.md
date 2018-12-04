@@ -14,7 +14,9 @@ permalink: /research/
   *Submitted, 2018*  
   Manuscript: [whowinswholoses.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/whowinswholoses.pdf)
 
-
+**Adaptive experiments for policy choice**  
+  (joint with Anja Sautmann)  
+  *In preparation, 2018*  
 
 ## Revise and resubmit
 
