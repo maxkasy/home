@@ -5,7 +5,7 @@ permalink: /presentations/
 
 **Machine learning, shrinkage estimation, and economic theory**  
   Sciences Po, Friday, December 14, 2018  
-  [Slides]({{ site.url }}{{ site.baseurl}}ML-Shrinkage-Theory-Slides-Kasy.pdf)
+  [Slides](/home/files/slides/ML-Shrinkage-Theory-Slides-Kasy.pdf)
 
 **Which findings get published? Which findings should be published? (short version)**  
   BITSS Annual Meeting, UC Berkeley, Monday, December 10, 2018  
