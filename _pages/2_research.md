@@ -16,7 +16,8 @@ permalink: /research/
 
 **Adaptive experiments for policy choice**  
   (joint with Anja Sautmann)  
-  *In preparation, 2018*  
+  *Work in progress, 2018*  
+  Manuscript (preliminary draft): [adaptiveexperimentspolicy.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/adaptiveexperimentspolicy.pdf)  
 
 ## Revise and resubmit
 
