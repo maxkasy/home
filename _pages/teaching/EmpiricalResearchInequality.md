@@ -16,5 +16,17 @@ permalink: /Inequality2019/
 
 ## Homework problems
 
+* [PS1-TheOnePercent.pdf](/home/files/teaching/TopicsEconometrics/PS1-TheOnePercent.pdf) 
+* [PS2-TopIncome](/home/files/teaching/TopicsEconometrics/PS2-TopIncome) 
+* [PS3-Discrimination.pdf](/home/files/teaching/TopicsEconometrics/PS3-Discrimination.pdf) 
+* [PS4-DistributionalDecomposition.pdf](/home/files/teaching/TopicsEconometrics/PS4-DistributionalDecomposition.pdf) 
+* [PS5-Prices.pdf](/home/files/teaching/TopicsEconometrics/PS5-Prices.pdf) 
+
+
+
+
+
+
+
 
 
