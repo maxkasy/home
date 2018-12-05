@@ -13,8 +13,15 @@ permalink: /Inequality2019/
 	[InequalityReader.zip]({{ site.url }}{{ site.baseurl}}/files/teaching/Inequality2019/InequalityReader.zip)
 * Introduction to R:  
     [Slides]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/IntroductiontoR-Slides.pdf)
-* Canvas page (for uploading assignments and grades):  
+* Canvas page (for uploading assignments, and grades):  
     [https://canvas.harvard.edu/courses/48020](https://canvas.harvard.edu/courses/48020)
+	
+## Sign-up
+* Office hours:  
+    [Office hour Doodle](https://doodle.com/poll/xz4vwunu46pn35zz)
+* Presentations:  
+    [Presentation Doodle](https://doodle.com/poll/mhcspi9zb6dsfupg)		
+	
 ## Homework problems
 
 * [PS1-TheOnePercent.pdf](/home/files/teaching/Inequality2019/PS1-TheOnePercent.pdf) 
