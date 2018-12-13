@@ -3,9 +3,12 @@ title: Teaching
 permalink: /teaching/
 ---
 
+* My open online textbook on "Empirical research on economic inequality:" [http://inequalityresearch.net/](http://inequalityresearch.net/) 
+* Collection of useful computational ressources: [Computation Links](/home/computationlinks/)
+
+
 ### Empirical research on economic inequality (advanced undergraduate, 2019):
 * [Class page](/home/Inequality2019)
-* My open online textbook: [http://inequalityresearch.net/](http://inequalityresearch.net/) 
 
 ### Advances in causality and foundations of machine learning  (2nd year PhD, 2019)
 * Under construction: [Class page](/home/TopicsInEconometrics2019)
@@ -21,7 +24,7 @@ permalink: /teaching/
 * Syllabus: [2148syllabuskasy2017.pdf](/home/files/teaching/TopicsEconometrics/2148syllabuskasy2017.pdf) 
 * Slides: [2148SlidesFall2017.zip](/home/files/teaching/TopicsEconometrics/2148SlidesFall2017.zip) 
 * Reader: [2148readerfall2017.zip](/home/files/teaching/TopicsEconometrics/2148readerfall2017.zip) 
-* Collection of useful computational ressources: [Computation Links](/home/computationlinks/)
+
 
 ### Applied econometrics (advanced undergraduate, 2017)
 * Syllabus: [1126SyllabusKasyfall2017.pdf](/home/files/teaching/AppliedEconometrics/1126SyllabusKasyfall2017.pdf) 
