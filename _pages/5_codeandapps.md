@@ -14,6 +14,10 @@ permalink: /code-and-apps/
 * Repository: [https://github.com/maxkasy/MetaStudiesApp](https://github.com/maxkasy/MetaStudiesApp) 
 * Theoretical background: [PublicationBias.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/PublicationBias.pdf) 
 
+### App for Thompson sampling for contextual bandits:
+* Interactive App: [/hierarchicalthompson]({{ site.url }}{{ site.baseurl}}/hierarchicalthompson/)
+* Repository: [https://github.com/maxkasy/ThomsonHierarchicalApp](https://github.com/maxkasy/ThomsonHierarchicalApp) 
+
 
 ### R-code for optimal taxation and insurance using machine learning:  
 * Repository: [https://github.com/maxkasy/optimaltaxationusingML](https://github.com/maxkasy/optimaltaxationusingML)  
