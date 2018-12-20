@@ -16,8 +16,7 @@ permalink: /code-and-apps/
 
 ### App for Thompson sampling for contextual bandits:
 * Interactive App: [/hierarchicalthompson]({{ site.url }}{{ site.baseurl}}/hierarchicalthompson/)
-* Repository: [https://github.com/maxkasy/ThomsonHierarchicalApp](https://github.com/maxkasy/ThomsonHierarchicalApp) 
-
+* Repository: [https://github.com/maxkasy/ThompsonHierarchicalApp](https://github.com/maxkasy/ThompsonHierarchicalApp) 
 
 ### R-code for optimal taxation and insurance using machine learning:  
 * Repository: [https://github.com/maxkasy/optimaltaxationusingML](https://github.com/maxkasy/optimaltaxationusingML)  
