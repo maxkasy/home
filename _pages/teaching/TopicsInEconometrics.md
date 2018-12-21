@@ -3,9 +3,9 @@ title: "Topics in Econometrics: Advances in Causality and Foundations of Machine
 permalink: /TopicsInEconometrics2019/
 ---
 
-(site under construction)
-
 ## Syllabus
+
+[2148SyllabusKasy_Spring2019.pdf](/home/files/teaching/TopicsEconometrics2019/2148SyllabusKasy_Spring2019.pdf)
 
 ## Slides
 * Introduction to R
@@ -24,11 +24,10 @@ permalink: /TopicsInEconometrics2019/
 [Slides]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/Applications-Slides.pdf)
 * Deep neural nets
 [Slides]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/DeepNets.pdf)
+* Text analysis (coming soon)
 * Bandit problems
 [Slides]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/BanditProblems-Slides.pdf)
-* Text analysis
-* Optimization
-* Data visualization
+* Data visualization (coming soon)
 
 ## Homework problems
 
@@ -42,6 +41,7 @@ permalink: /TopicsInEconometrics2019/
 
 * Identification and instrumental variables [Identification-IV-readings.zip]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/Identification-IV-readings.zip)
 * Shrinkage and Gaussian Processes [Shrinkage-readings.zip]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/Shrinkage-readings.zip)
+* Reader part 3 (coming soon) 
 
 
 

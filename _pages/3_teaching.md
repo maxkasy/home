@@ -8,10 +8,10 @@ permalink: /teaching/
 
 
 ### Empirical research on economic inequality (advanced undergraduate, 2019):
-* [Class page](/home/Inequality2019)
+[Class page](/home/Inequality2019)
 
 ### Advances in causality and foundations of machine learning  (2nd year PhD, 2019)
-* Under construction: [Class page](/home/TopicsInEconometrics2019)
+[Class page](/home/TopicsInEconometrics2019)
 
 ### Microeconometric methods (1st year PhD, 2018)
 * Syllabus: [2140part1syllabusspring2018.pdf](/home/files/teaching/MicroeconometricMethods/2140part1syllabusspring2018.pdf) 
