@@ -6,12 +6,13 @@ permalink: /teaching/
 * My open online textbook on "Empirical research on economic inequality:" [http://inequalityresearch.net/](http://inequalityresearch.net/) 
 * Collection of useful computational ressources: [Computation Links](/home/computationlinks/)
 
+### Advances in causality and foundations of machine learning  (2nd year PhD, 2019)
+* Syllabus [2148SyllabusKasy_Spring2019.pdf](/home/files/teaching/TopicsEconometrics2019/2148SyllabusKasy_Spring2019.pdf)  
+* Class page [/home/TopicsInEconometrics2019](/home/TopicsInEconometrics2019)
 
 ### Empirical research on economic inequality (advanced undergraduate, 2019):
-[Class page](/home/Inequality2019)
-
-### Advances in causality and foundations of machine learning  (2nd year PhD, 2019)
-[Class page](/home/TopicsInEconometrics2019)
+* Syllabus [980wSyllabusKasy_Spring2019.pdf](/home/files/teaching/Inequality2019/980wSyllabusKasy_Spring2019.pdf) 
+* Class page [/home/Inequality2019](/home/Inequality2019)
 
 ### Microeconometric methods (1st year PhD, 2018)
 * Syllabus: [2140part1syllabusspring2018.pdf](/home/files/teaching/MicroeconometricMethods/2140part1syllabusspring2018.pdf) 
