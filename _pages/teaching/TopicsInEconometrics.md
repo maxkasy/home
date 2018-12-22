@@ -22,9 +22,9 @@ permalink: /TopicsInEconometrics2019/
 [Slides]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/GaussianProcessPriors-Slides.pdf)
 * Applications of Gaussian process priors from my own work
 [Slides]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/Applications-Slides.pdf)
+* Text analysis (coming soon)
 * Deep neural nets
 [Slides]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/DeepNets.pdf)
-* Text analysis (coming soon)
 * Bandit problems
 [Slides]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/BanditProblems-Slides.pdf)
 * Data visualization (coming soon)
@@ -53,6 +53,7 @@ permalink: /TopicsInEconometrics2019/
 ### Programming in R
 * [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)
 * [Advanced R](https://adv-r.hadley.nz/)
+* [Bayesian statistics using Stan](https://mc-stan.org/docs/2_18/bayes-stats-stan/index.html)
 
 
 ### Data visualization

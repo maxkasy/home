@@ -37,6 +37,9 @@ permalink: /computationlinks/
 **Programming interactive R-apps using Shiny**  
 <https://shiny.rstudio.com/articles/>  
 
+**Bayesian statistics using Stan**  
+<https://mc-stan.org/docs/2_18/bayes-stats-stan/index.html>  
+
 
 ## Data visualization
 **ggplot2 - Elegant Graphics for Data Analysis**  
