@@ -9,39 +9,40 @@ permalink: /TopicsInEconometrics2019/
 
 ## Slides
 * Introduction to R
-[Slides]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/IntroductiontoR-Slides.pdf)
+[Slides](/home/files/teaching/TopicsEconometrics2019/IntroductiontoR-Slides.pdf)
 * Instrumental variables part I – origins and binary treatment
-[Slides]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/IV-binary-Slides.pdf)
+[Slides](/home/files/teaching/TopicsEconometrics2019/IV-binary-Slides.pdf)
 * Instrumental variables part II – continuous treatment
-[Slides]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/IV-continuous-Slides.pdf)
+[Slides](/home/files/teaching/TopicsEconometrics2019/IV-continuous-Slides.pdf)
 * Review of decision theory
-[Slides]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/DecisionTheoryReview-Slides.pdf)
+[Slides](/home/files/teaching/TopicsEconometrics2019/DecisionTheoryReview-Slides.pdf)
 * Shrinkage in the normal means model
-[Slides]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/NormalShrinkage-Slides.pdf)
+[Slides](/home/files/teaching/TopicsEconometrics2019/NormalShrinkage-Slides.pdf)
 * Gaussian process priors, reproducing kernel Hilbert spaces, and Splines
-[Slides]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/GaussianProcessPriors-Slides.pdf)
+[Slides](/home/files/teaching/TopicsEconometrics2019/GaussianProcessPriors-Slides.pdf)
 * Applications of Gaussian process priors from my own work
-[Slides]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/Applications-Slides.pdf)
-* Text analysis (coming soon)
+[Slides](/home/files/teaching/TopicsEconometrics2019/Applications-Slides.pdf)
+* Text analysis
+[Slides](/home/files/teaching/TopicsEconometrics2019/TextAsData-Slides.pdf)
 * Deep neural nets
-[Slides]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/DeepNets.pdf)
+[Slides](/home/files/teaching/TopicsEconometrics2019/DeepNets.pdf)
 * Bandit problems
-[Slides]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/BanditProblems-Slides.pdf)
+[Slides](/home/files/teaching/TopicsEconometrics2019/BanditProblems-Slides.pdf)
 * Data visualization (coming soon)
 
 ## Homework problems
 
-* Problemset 1 [Ec2148-2019-PS1.pdf]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/Ec2148-2019-PS1.pdf)
-* Problemset 2 [Ec2148-2019-PS2.pdf]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/Ec2148-2019-PS2.pdf)
+* Problemset 1 [Ec2148-2019-PS1.pdf](/home/files/teaching/TopicsEconometrics2019/Ec2148-2019-PS1.pdf)
+* Problemset 2 [Ec2148-2019-PS2.pdf](/home/files/teaching/TopicsEconometrics2019/Ec2148-2019-PS2.pdf)
 
 
 ## Reading materials
 
 ### Papers
 
-* Identification and instrumental variables [Identification-IV-readings.zip]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/Identification-IV-readings.zip)
-* Shrinkage and Gaussian Processes [Shrinkage-readings.zip]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/Shrinkage-readings.zip)
-* Reader part 3 [DeepNets-Text-Bandits-Visualization-readings.zip]({{ site.url }}{{ site.baseurl}}/files/teaching/TopicsEconometrics2019/DeepNets-Text-Bandits-Visualization-readings.zip)
+* Identification and instrumental variables [Identification-IV-readings.zip](/home/files/teaching/TopicsEconometrics2019/Identification-IV-readings.zip)
+* Shrinkage and Gaussian Processes [Shrinkage-readings.zip](/home/files/teaching/TopicsEconometrics2019/Shrinkage-readings.zip)
+* Reader part 3 [DeepNets-Text-Bandits-Visualization-readings.zip](/home/files/teaching/TopicsEconometrics2019/DeepNets-Text-Bandits-Visualization-readings.zip)
 
 
 
