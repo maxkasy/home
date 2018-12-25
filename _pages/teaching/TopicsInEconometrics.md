@@ -28,7 +28,8 @@ permalink: /TopicsInEconometrics2019/
 [Slides](/home/files/teaching/TopicsEconometrics2019/DeepNets.pdf)
 * Bandit problems
 [Slides](/home/files/teaching/TopicsEconometrics2019/BanditProblems-Slides.pdf)
-* Data visualization (coming soon)
+* Data visualization  
+[Slides](/home/files/teaching/TopicsEconometrics2019/DataVisualization-Slides.pdf)
 
 ## Homework problems
 
