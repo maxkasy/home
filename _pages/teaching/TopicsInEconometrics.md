@@ -43,7 +43,7 @@ permalink: /TopicsInEconometrics2019/
 
 * Identification and instrumental variables [Identification-IV-readings.zip](/home/files/teaching/TopicsEconometrics2019/Identification-IV-readings.zip)
 * Shrinkage and Gaussian Processes [Shrinkage-readings.zip](/home/files/teaching/TopicsEconometrics2019/Shrinkage-readings.zip)
-* Reader part 3 [DeepNets-Text-Bandits-Visualization-readings.zip](/home/files/teaching/TopicsEconometrics2019/DeepNets-Text-Bandits-Visualization-readings.zip)
+* Text, neural nets, bandits, and visualization [DeepNets-Text-Bandits-Visualization-readings.zip](/home/files/teaching/TopicsEconometrics2019/DeepNets-Text-Bandits-Visualization-readings.zip)
 
 
 
