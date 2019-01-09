@@ -19,15 +19,12 @@ permalink: /research/
   *Work in progress, 2018*  
   Manuscript (preliminary draft): [adaptiveexperimentspolicy.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/adaptiveexperimentspolicy.pdf)  
 
-## Revise and resubmit
+## Publications
 
 **Identification of and correction for publication bias**  
   (joint with Isaiah Andrews)  
-  *Revised and resubmitted, American Economic Review, 2018*  
-  Manuscript: [publicationbias.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/PublicationBias.pdf)
-  
-  
-## Publications
+  *Accepted, American Economic Review, 2019*  
+  Manuscript: [publicationbias.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/PublicationBias.pdf)  
   
 **Choosing among regularized estimators in empirical economics - the risk of machine learning**  
   (joint with Alberto Abadie)  
