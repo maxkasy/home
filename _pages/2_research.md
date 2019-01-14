@@ -23,7 +23,7 @@ permalink: /research/
 
 **Identification of and correction for publication bias**  
   (joint with Isaiah Andrews)  
-  *Accepted, American Economic Review, 2019*  
+  *Forthcoming, American Economic Review, 2019*  
   Manuscript: [publicationbias.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/PublicationBias.pdf)  
   
 **Choosing among regularized estimators in empirical economics - the risk of machine learning**  
@@ -39,18 +39,18 @@ permalink: /research/
   (joint with Pirmin Fessler)  
   *Forthcoming, Review of Economics and Statistics, 2018*   
   Manuscript: [shrinkingtotheory.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/shrinkingtotheory.pdf)  
-  Supplement: [shrinkingtotheorysupplement.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/shrinkingtotheorysupplement.pdf)
-  
-**Uniformity and the delta method**,  
-  *Forthcoming, Journal of Econometric Methods, 2018*   
-  Manuscript: [uniformitynote.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/uniformitynote.pdf)
+  Supplement: [shrinkingtotheorysupplement.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/shrinkingtotheorysupplement.pdf)  
   
 **Survey mode effects on income inequality measurement**   
   (joint with Pirmin Fessler and Peter Lindner)    
   *Forthcoming, Journal of Economic Inequality, 2018*  
   Manuscript: [surveymodeinequality.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/surveymodeinequality.pdf)  
-  Supplement: [surveymethodinequalitysupplement.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/surveymethodinequalitysupplement.pdf)
-  
+  Supplement: [surveymethodinequalitysupplement.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/surveymethodinequalitysupplement.pdf)  
+    
+**Uniformity and the delta method**,  
+  *Journal of Econometric Methods, 2019*   
+  Manuscript: [uniformitynote.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/uniformitynote.pdf)  
+
 **Corrigendum: Instrumental Variables with Unrestricted Heterogeneity and Continuous Treatment**   
   (joint with Stefan Hoderlein, Hajo Holzmann, and Alexander Meister),  
   *The Review of Economic Studies, 2017*  
