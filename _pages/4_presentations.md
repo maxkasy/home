@@ -74,12 +74,12 @@ permalink: /presentations/
   
 **Who wins, who loses? Tools for distributional policy evaluation**  
   Friday, September 26, 2014  
-  [Slides]({{ site.url }}{{ site.baseurl}}/files/slides/whowinswholosesslides.pdf). 
+  [Slides]({{ site.url }}{{ site.baseurl}}/files/slides/whowinswholosesslides.pdf)   
   [Video](https://www.youtube.com/watch?v=HCG1aEXHwBg&feature=youtu.be)  
   
 **Why experimenters should not randomize, and what they should do instead**  
   Wednesday, February 27, 2013  
-  [Slides]({{ site.url }}{{ site.baseurl}}/files/slides/experimentaldesignslides.pdf)
+  [Slides]({{ site.url }}{{ site.baseurl}}/files/slides/experimentaldesignslides.pdf)  
   [Video](https://www.youtube.com/watch?v=rbQ56sSI5-4&feature=youtu.be)  
   
 **Partial identification, distributional preferences, and the welfare ranking of policies**  
