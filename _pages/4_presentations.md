@@ -10,6 +10,7 @@ permalink: /presentations/
 **Which findings get published? Which findings should be published? (short version)**  
   BITSS Annual Meeting, UC Berkeley, Monday, December 10, 2018  
   [Slides](/home/files/slides/pubbias_whichfindings_short_kasy.pdf)  
+  [Video](https://www.youtube.com/watch?v=R8m_C2nEWsw)  
   
 **Adaptive experiments for policy choice**  
   Harvard Development Retreat, Friday, December 7, 2018  
@@ -74,10 +75,12 @@ permalink: /presentations/
 **Who wins, who loses? Tools for distributional policy evaluation**  
   Friday, September 26, 2014  
   [Slides]({{ site.url }}{{ site.baseurl}}/files/slides/whowinswholosesslides.pdf)
+  [Video](https://www.youtube.com/watch?v=HCG1aEXHwBg&feature=youtu.be)  
   
 **Why experimenters should not randomize, and what they should do instead**  
   Wednesday, February 27, 2013  
   [Slides]({{ site.url }}{{ site.baseurl}}/files/slides/experimentaldesignslides.pdf)
+  [Video](https://www.youtube.com/watch?v=rbQ56sSI5-4&feature=youtu.be)  
   
 **Partial identification, distributional preferences, and the welfare ranking of policies**  
   Friday, April 27, 2012  
