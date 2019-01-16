@@ -17,8 +17,7 @@ permalink: /presentations/
   [Slides](/home/files/slides/AdaptiveExperiments_DevRetreat_Kasy.pdf)  
 
 **Causality and randomization**  
-  Harvard Philosophy [Causality Conference](https://projects.iq.harvard.edu/causality/home),  
-  Friday, November 2, 2018  
+  Harvard Philosophy [Causality Conference](https://projects.iq.harvard.edu/causality/home), Friday, November 2, 2018  
   [Slides](/home/files/slides/CausalityConferenceKasy.pdf)
 
 **Which findings get published? Which findings should be published?**  
@@ -75,7 +74,7 @@ permalink: /presentations/
   
 **Who wins, who loses? Tools for distributional policy evaluation**  
   Friday, September 26, 2014  
-  [Slides]({{ site.url }}{{ site.baseurl}}/files/slides/whowinswholosesslides.pdf)
+  [Slides]({{ site.url }}{{ site.baseurl}}/files/slides/whowinswholosesslides.pdf). 
   [Video](https://www.youtube.com/watch?v=HCG1aEXHwBg&feature=youtu.be)  
   
 **Why experimenters should not randomize, and what they should do instead**  
