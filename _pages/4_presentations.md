@@ -17,7 +17,8 @@ permalink: /presentations/
   [Slides](/home/files/slides/AdaptiveExperiments_DevRetreat_Kasy.pdf)  
 
 **Causality and randomization**  
-  Harvard Philosophy [Causality Conference](https://projects.iq.harvard.edu/causality/home), Friday, November 2, 2018  
+  Harvard Philosophy [Causality Conference](https://projects.iq.harvard.edu/causality/home),  
+  Friday, November 2, 2018  
   [Slides](/home/files/slides/CausalityConferenceKasy.pdf)
 
 **Which findings get published? Which findings should be published?**  
