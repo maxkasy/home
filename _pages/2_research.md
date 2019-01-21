@@ -16,8 +16,12 @@ permalink: /research/
 
 **Adaptive experiments for policy choice**  
   (joint with Anja Sautmann)  
-  *Work in progress, 2018*  
+  *Work in progress, 2019*  
   Manuscript (preliminary draft): [adaptiveexperimentspolicy.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/adaptiveexperimentspolicy.pdf)  
+
+**Job search assistance for refugees in Jordan: An adaptive field experiment**  
+  (joint with Stefano Caria, Grant Gordon, Simon Quinn and Alex Teytelboym)  
+  *Work in progress, 2019*  
 
 ## Publications
 
