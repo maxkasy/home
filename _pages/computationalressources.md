@@ -18,7 +18,7 @@ permalink: /computationlinks/
 <https://www.deeplearningbook.org/>  
 
 **Algorithms**  
-(Intoduction to the theory of algorithms)  
+(Introduction to the theory of algorithms)  
 <http://jeffe.cs.illinois.edu/teaching/algorithms/>  
 
 ## Programming in R
