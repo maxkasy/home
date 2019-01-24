@@ -17,6 +17,10 @@ permalink: /computationlinks/
 (The theory and implementation of neural nets)  
 <https://www.deeplearningbook.org/>  
 
+**Algorithms**  
+(Intoduction to the theory of algorithms)  
+<http://jeffe.cs.illinois.edu/teaching/algorithms/>  
+
 ## Programming in R
 **An Introduction to R**  
 (Complete introduction to base R)  
