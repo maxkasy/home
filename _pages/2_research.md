@@ -5,15 +5,6 @@ permalink: /research/
 
 ## Working papers
 
-**Which findings should be published**,   
-  (joint with Alex Frankel)  
-  *Submitted, 2018*  
-  Manuscript: [findings.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/findings.pdf)  
-  
-**Who wins, who loses? Identification of the welfare impact of changing wages**  
-  *Submitted, 2018*  
-  Manuscript: [whowinswholoses.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/whowinswholoses.pdf)
-
 **Adaptive experiments for policy choice**  
   (joint with Anja Sautmann)  
   *Work in progress, 2019*  
@@ -22,6 +13,16 @@ permalink: /research/
 **Job search assistance for refugees in Jordan: An adaptive field experiment**  
   (joint with Stefano Caria, Grant Gordon, Simon Quinn and Alex Teytelboym)  
   *Work in progress, 2019*  
+  
+**Which findings should be published**,   
+  (joint with Alex Frankel)  
+  *Submitted, 2018*  
+  Manuscript: [findings.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/findings.pdf)  
+  
+**Who wins, who loses? Identification of the welfare impact of changing wages**  
+  *Submitted, 2018*  
+  Manuscript: [whowinswholoses.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/whowinswholoses.pdf)  
+
 
 ## Publications
 

@@ -30,8 +30,8 @@ permalink: /computationlinks/
 (Introduction to data analysis using R, focused on the tidyverse packages)  
 <http://r4ds.had.co.nz/>  
 
-**Advanced R**
-(In depth discussion of programming in R)
+**Advanced R**  
+(In depth discussion of programming in R)  
 <https://adv-r.hadley.nz/>  
 
 **RStudio Cheat Sheets**  
