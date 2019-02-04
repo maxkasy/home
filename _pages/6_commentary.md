@@ -3,8 +3,8 @@ title: Commentary
 permalink: /commentary/
 ---
 
-**The case for an unconditional safety net” - guest blog on US-BIG**  
-  February 1, 2019**  
+**The case for an unconditional safety net - guest blog on US-BIG**  
+  February 1, 2019  
   [Guest Blog, US-BIG](https://usbig.net/guest-blog-the-case-for-an-unconditional-safety-net/)  
 
 **Why a Universal Basic Income Is Better Than Subsidies of Low-Wage Work**  

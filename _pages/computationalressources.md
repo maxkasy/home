@@ -17,6 +17,10 @@ permalink: /computationlinks/
 (The theory and implementation of neural nets)  
 <https://www.deeplearningbook.org/>  
 
+**Reinforcement learning - An introduction**  
+(Adaptive learning for Markov decision problems)  
+<http://www.incompleteideas.net/book/RLbook2018.pdf>  
+
 **Algorithms**  
 (Introduction to the theory of algorithms)  
 <http://jeffe.cs.illinois.edu/teaching/algorithms/>  
@@ -46,13 +50,14 @@ permalink: /computationlinks/
 
 
 ## Data visualization
-**ggplot2 - Elegant Graphics for Data Analysis**  
-(R-package for data vizualization)  
-<http://moderngraphics11.pbworks.com/f/ggplot2-Book09hWickham.pdf>  
 
 **Data Visualization - A Practical Introduction**  
 (Textbook on data visualization, using ggplot2)  
 <http://socviz.co/>  
+
+**ggplot2 - Elegant Graphics for Data Analysis**  
+(R-package for data vizualization)  
+<http://moderngraphics11.pbworks.com/f/ggplot2-Book09hWickham.pdf>  
 
 **A Layered Grammar of Graphics**  
 (The theory behind ggplot2)  
