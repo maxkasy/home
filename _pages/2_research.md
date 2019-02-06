@@ -21,7 +21,7 @@ permalink: /research/
   
 **Who wins, who loses? Identification of the welfare impact of changing wages**  
   *Submitted, 2018*  
-  Manuscript: [whowinswholoses.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/whowinswholoses.pdf)  
+  Manuscript: [whowinswholoses.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/Whowinswholoses.pdf)  
 
 
 ## Publications
