@@ -13,6 +13,7 @@ permalink: /research/
 **Job search assistance for refugees in Jordan: An adaptive field experiment**  
   (joint with Stefano Caria, Grant Gordon, Simon Quinn and Alex Teytelboym)  
   *Work in progress, 2019*  
+  RCT pre-registration: [AEA RCT Registry](https://www.socialscienceregistry.org/trials/3870)  
   
 **Which findings should be published**,   
   (joint with Alex Frankel)  
