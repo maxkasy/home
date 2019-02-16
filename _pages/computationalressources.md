@@ -82,8 +82,11 @@ permalink: /computationlinks/
 - The minimal-mistakes theme: <https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/>  
 
 
-## Other
-**Git and Github for version control**  
+## Version control
+**Git and Github for R**  
+<https://happygitwithr.com/>  
+
+**Git and Github, in depth**  
 <https://git-scm.com/book/en/v2>  
 
 
