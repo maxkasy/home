@@ -3,6 +3,10 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Adaptive experiments for policy choice**  
+  Amazon, Friday, March 8, 2019  
+  [Slides](/home/files/slides/adaptiveexperiments-slides-kasysautmann.pdf)  
+
 **Machine learning, shrinkage estimation, and economic theory**  
   Sciences Po, Friday, December 14, 2018  
   [Slides](/home/files/slides/ML-Shrinkage-Theory-Slides-Kasy.pdf)
