@@ -34,29 +34,29 @@ permalink: /research/
   
 **Choosing among regularized estimators in empirical economics - the risk of machine learning**  
   (joint with Alberto Abadie)  
-  *Forthcoming, Review of Economics and Statistics, 2018*  
+  *Forthcoming, Review of Economics and Statistics, 2019*  
   Manuscript: [riskml.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/riskml.pdf)  
-  
-**Optimal taxation and insurance using machine learning - sufficient statistics and beyond**  
-  *Forthcoming, Journal of Public Economics, 2018*  
-  Manuscript: [PolicyDecisions.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/PolicyDecisions.pdf)  
   
 **How to use economic theory to improve estimators: Shrinking toward theoretical restrictions**  
   (joint with Pirmin Fessler)  
-  *Forthcoming, Review of Economics and Statistics, 2018*   
+  *Forthcoming, Review of Economics and Statistics, 2019*   
   Manuscript: [shrinkingtotheory.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/shrinkingtotheory.pdf)  
   Supplement: [shrinkingtotheorysupplement.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/shrinkingtotheorysupplement.pdf)  
-  
-**Survey mode effects on income inequality measurement**   
-  (joint with Pirmin Fessler and Peter Lindner)    
-  *Forthcoming, Journal of Economic Inequality, 2018*  
-  Manuscript: [surveymodeinequality.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/surveymodeinequality.pdf)  
-  Supplement: [surveymethodinequalitysupplement.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/surveymethodinequalitysupplement.pdf)  
-    
+
+**Optimal taxation and insurance using machine learning - sufficient statistics and beyond**  
+  *Journal of Public Economics, 2018*  
+  Manuscript: [PolicyDecisions.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/PolicyDecisions.pdf)    
+
 **Uniformity and the delta method**,  
   *Journal of Econometric Methods, 2019*   
   Manuscript: [uniformitynote.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/uniformitynote.pdf)  
-
+  
+**Survey mode effects on income inequality measurement**   
+  (joint with Pirmin Fessler and Peter Lindner)    
+  *Journal of Economic Inequality, 2018*  
+  Manuscript: [surveymodeinequality.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/surveymodeinequality.pdf)  
+  Supplement: [surveymethodinequalitysupplement.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/surveymethodinequalitysupplement.pdf)  
+    
 **Corrigendum: Instrumental Variables with Unrestricted Heterogeneity and Continuous Treatment**   
   (joint with Stefan Hoderlein, Hajo Holzmann, and Alexander Meister),  
   *The Review of Economic Studies, 2017*  
