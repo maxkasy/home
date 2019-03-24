@@ -36,15 +36,17 @@ Possible topics for this conference include, but are not restricted to:
 * Isaiah Andrews (econometrics)
 * Katherine Casey (development economics)
 * Sylvain Chassang (economic theory)
-* Alex Frankel (economic theory) 
+* Alex Frankel (economic theory)  
+  *Which findings should be published*
 * Zoe Hitzig (economic theory, philosophy)
 * Maximilian Kasy (econometrics)
 * Deborah Mayo (philosophy of statistics)
 * Marco Ottaviani (economic theory)
-* Theodore Porter (history of statistics)
+* Theodore Porter (history of statistics)  
+  *Statistics, a Tool of Science?*
 * Jann Spiess (econometrics)
-* Simine Vazire (psychology)
-
+* Simine Vazire (psychology)  
+  *The Credibility Revolution in Psychological Science*
 
 ## Logistics
 * **Date:** May 10-11, 2019
