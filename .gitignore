@@ -1,14 +1,4 @@
 _site
 .sass-cache
 .jekyll-metadata
-files/papers/.DS_Store
-_layouts/.DS_Store
-files/.DS_Store
-*.DS_*
-_layouts/.DS_Store
-files/.DS_Store
-files/papers/.DS_Store
-_layouts/.DS_Store
-.DS_Store
-files/papers/.DS_Store
-files/.DS_Store
+*DS_Store*
