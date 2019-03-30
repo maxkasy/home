@@ -10,12 +10,14 @@ permalink: /TopicsInEconometrics2019/
 ## Slides
 * Introduction to R
 [Slides](/home/files/teaching/TopicsEconometrics2019/IntroductiontoR-Slides.pdf)
+***
 * Instrumental variables part I – origins and binary treatment
 [Slides](/home/files/teaching/TopicsEconometrics2019/IV-binary-Slides.pdf)
 * Instrumental variables part II – continuous treatment
 [Slides](/home/files/teaching/TopicsEconometrics2019/IV-continuous-Slides.pdf)
 * Guest lecture Isaiah Andrews: Weak instruments
 [Slides](/home/files/teaching/TopicsEconometrics2019/Isaiah_General_Weak_ID_Slides.pdf)
+***
 * Review of decision theory
 [Slides](/home/files/teaching/TopicsEconometrics2019/DecisionTheoryReview-Slides.pdf)
 * Shrinkage in the normal means model
@@ -24,6 +26,7 @@ permalink: /TopicsInEconometrics2019/
 [Slides](/home/files/teaching/TopicsEconometrics2019/GaussianProcessPriors-Slides.pdf)
 * Applications of Gaussian process priors from my own work
 [Slides](/home/files/teaching/TopicsEconometrics2019/Applications-Slides.pdf)
+***
 * Text analysis
 [Slides](/home/files/teaching/TopicsEconometrics2019/TextAsData-Slides.pdf)
 * Deep neural nets

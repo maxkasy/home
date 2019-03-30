@@ -33,15 +33,15 @@ Possible topics for this conference include, but are not restricted to:
 *This conference is supported by the Alfred P. Sloan Foundation grant "Publication bias and specification searching. Identification, correction, and reform proposals."*
 
 ## Confirmed participants
-* Isaiah Andrews (econometrics)
+* Isaiah Andrews (econometrics) *Statistical Reports for Remote Agents* [manuscript](https://scholar.harvard.edu/files/iandrews/files/audience.pdf)
 * Katherine Casey (development economics)
 * Sylvain Chassang (economic theory)
-* Alex Frankel (economic theory) *Which findings should be published*
+* Alex Frankel (economic theory) *Which findings should be published* [manuscript]({{ site.url }}{{ site.baseurl}}/files/papers/findings.pdf)  
 * Zoe Hitzig (economic theory, philosophy)
 * Maximilian Kasy (econometrics)
 * Deborah Mayo (philosophy of statistics)
-* Marco Ottaviani (economic theory)
-* Theodore Porter (history of statistics) *Statistics, a Tool of Science?*
+* Marco Ottaviani (economic theory) *Strategic Sample Selection* [manuscript](http://didattica.unibocconi.it/mypage/upload/48832_20180715_022227_SSS-2018-07-14.PDF)
+* Theodore Porter (history of statistics) *Statistics, a Tool of Science?* [abstract]({{ site.url }}{{ site.baseurl}}/files/other/porter_abstract.pdf)  
 * Jann Spiess (econometrics)
 * Simine Vazire (psychology) *The Credibility Revolution in Psychological Science*
 
