@@ -3,6 +3,10 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Designing basic income experiments**  
+  Jain Family Institute, April 12, 2019  
+  [Slides](/home/files/slides/UBI-experimental-design-Kasy.pdf)  
+
 **Adaptive experiments for policy choice**  
   Amazon, Friday, March 8, 2019  
   [Slides](/home/files/slides/adaptiveexperiments-slides-kasysautmann.pdf)  
