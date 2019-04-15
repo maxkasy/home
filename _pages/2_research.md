@@ -5,7 +5,7 @@ permalink: /research/
 
 ## Working papers
 
-**Adaptive experiments for policy choice**  
+**Adaptive treatment assignment in experiments for policy choice**  
   (joint with Anja Sautmann)  
   *Work in progress, 2019*  
   Manuscript (preliminary draft): [adaptiveexperimentspolicy.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/adaptiveexperimentspolicy.pdf)  
