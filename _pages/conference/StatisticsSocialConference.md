@@ -55,6 +55,80 @@ Possible topics for this conference include, but are not restricted to:
 * **Papers and Slides**: Please also email these to Trina, and we will post them on this website before the conference.
 
 
+## Schedule (preliminary)
+
+### Friday, May 10
+
+---
+8:30am Breakfast
+---
+
+9:00am Maximilian Kasy (econometrics) 
+Opening remarks  
+
+9:15am Katherine Casey (development economics)
+
+10:00am Simine Vazire (psychology)  
+*The Credibility Revolution in Psychological Science*
+
+---
+10:45am Break
+---
+
+11:15am Jann Spiess (econometrics)  
+
+
+12:00pm Alex Frankel (economic theory)  
+*Which findings should be published* [manuscript]({{ site.url }}{{ site.baseurl}}/files/papers/findings.pdf)  
+
+---
+12:45am Lunch
+---
+
+1:30pm Isaiah Andrews (econometrics)  
+*Statistical Reports for Remote Agents* [manuscript](https://scholar.harvard.edu/files/iandrews/files/audience.pdf) 
+
+2:15pm Marco Ottaviani (economic theory)  
+*Strategic Sample Selection* [manuscript](http://didattica.unibocconi.it/mypage/upload/48832_20180715_022227_SSS-2018-07-14.PDF)
+
+---
+3:00pm Break
+---
+
+3:30pm Theodore Porter (history of statistics)  
+*Statistics, a Tool of Science?* [abstract]({{ site.url }}{{ site.baseurl}}/files/other/porter_abstract.pdf)  
+
+
+---
+4:15pmpm Break
+---
+
+7pm Dinner
+
+### Saturday, May 11
+
+8:30am Breakfast
+
+9:00am Deborah Mayo (philosophy of statistics)
+
+9:45am Zoe Hitzig (economic theory, philosophy)
+
+---
+10:45am Break
+---
+
+11am Sylvain Chassang (?) (economic theory) 
+
+11:45 am Daniel Mellow (meta studies)
+	
+---
+12:15pm Adjourn
+---
+
+
+
+
+
 
 
 
