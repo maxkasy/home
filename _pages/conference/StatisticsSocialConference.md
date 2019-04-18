@@ -59,10 +59,10 @@ Possible topics for this conference include, but are not restricted to:
 
 ### Friday, May 10
 
----
-8:30am Breakfast
----
 
+8:30am Breakfast
+
+---
 9:00am Maximilian Kasy (econometrics) 
 Opening remarks  
 
@@ -73,7 +73,7 @@ Opening remarks
 
 ---
 10:45am Break
----
+
 
 11:15am Jann Spiess (econometrics)  
 
@@ -83,7 +83,7 @@ Opening remarks
 
 ---
 12:45am Lunch
----
+
 
 1:30pm Isaiah Andrews (econometrics)  
 *Statistical Reports for Remote Agents* [manuscript](https://scholar.harvard.edu/files/iandrews/files/audience.pdf) 
@@ -93,15 +93,15 @@ Opening remarks
 
 ---
 3:00pm Break
----
+
 
 3:30pm Theodore Porter (history of statistics)  
 *Statistics, a Tool of Science?* [abstract]({{ site.url }}{{ site.baseurl}}/files/other/porter_abstract.pdf)  
 
 
 ---
-4:15pmpm Break
----
+4:15pm Break
+
 
 7pm Dinner
 
@@ -115,7 +115,7 @@ Opening remarks
 
 ---
 10:45am Break
----
+
 
 11am Sylvain Chassang (?) (economic theory) 
 
@@ -123,7 +123,6 @@ Opening remarks
 	
 ---
 12:15pm Adjourn
----
 
 
 
