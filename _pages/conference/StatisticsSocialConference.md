@@ -59,10 +59,9 @@ Possible topics for this conference include, but are not restricted to:
 
 ### Friday, May 10
 
-
+---
 8:30am Breakfast
 
----
 9:00am Maximilian Kasy (econometrics) 
 Opening remarks  
 
@@ -107,6 +106,7 @@ Opening remarks
 
 ### Saturday, May 11
 
+---
 8:30am Breakfast
 
 9:00am Deborah Mayo (philosophy of statistics)
