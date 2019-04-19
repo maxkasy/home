@@ -34,11 +34,11 @@ Possible topics for this conference include, but are not restricted to:
 
 ## Confirmed participants
 * Isaiah Andrews (econometrics) *Statistical Reports for Remote Agents* [manuscript](https://scholar.harvard.edu/files/iandrews/files/audience.pdf)
-* Katherine Casey (development economics)
+* Katherine Casey (development economics) *Comments on pre-specification and analysis plans*
 * Sylvain Chassang (economic theory)
 * Alex Frankel (economic theory) *Which findings should be published* [manuscript]({{ site.url }}{{ site.baseurl}}/files/papers/findings.pdf)  
-* Zoe Hitzig (economic theory, philosophy)
-* Maximilian Kasy (econometrics)
+* Zoe Hitzig (economic theory, philosophy) *The Problem of New Evidence: P-hacking and Pre-analysis Plans*
+* Maximilian Kasy (econometrics) *Opening remarks*
 * Deborah Mayo (philosophy of statistics)
 * Marco Ottaviani (economic theory) *Strategic Sample Selection* [manuscript](http://didattica.unibocconi.it/mypage/upload/48832_20180715_022227_SSS-2018-07-14.PDF)
 * Theodore Porter (history of statistics) *Statistics, a Tool of Science?* [abstract]({{ site.url }}{{ site.baseurl}}/files/other/porter_abstract.pdf)  
@@ -62,8 +62,8 @@ Possible topics for this conference include, but are not restricted to:
 ---
 8:30am Breakfast
 
-9:00am Maximilian Kasy (econometrics) 
-Opening remarks  
+9:00am Maximilian Kasy (econometrics)  
+*Opening remarks*  
 
 9:15am Katherine Casey (development economics)  
 *Comments on pre-specification and analysis plans*
@@ -112,7 +112,8 @@ Opening remarks
 
 9:00am Deborah Mayo (philosophy of statistics)
 
-9:45am Zoe Hitzig (economic theory, philosophy)
+9:45am Zoe Hitzig (economic theory, philosophy)  
+*The Problem of New Evidence: P-hacking and Pre-analysis Plans*
 
 ---
 10:45am Break
