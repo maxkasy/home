@@ -65,7 +65,8 @@ Possible topics for this conference include, but are not restricted to:
 9:00am Maximilian Kasy (econometrics) 
 Opening remarks  
 
-9:15am Katherine Casey (development economics)
+9:15am Katherine Casey (development economics)  
+*Comments on pre-specification and analysis plans*
 
 10:00am Simine Vazire (psychology)  
 *The Credibility Revolution in Psychological Science*
@@ -81,7 +82,7 @@ Opening remarks
 *Which findings should be published* [manuscript]({{ site.url }}{{ site.baseurl}}/files/papers/findings.pdf)  
 
 ---
-12:45am Lunch
+12:45pm Lunch
 
 
 1:30pm Isaiah Andrews (econometrics)  
