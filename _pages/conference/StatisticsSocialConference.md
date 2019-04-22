@@ -42,7 +42,7 @@ Possible topics for this conference include, but are not restricted to:
 * Deborah Mayo (philosophy of statistics)
 * Marco Ottaviani (economic theory) *Strategic Sample Selection* [manuscript](http://didattica.unibocconi.it/mypage/upload/48832_20180715_022227_SSS-2018-07-14.PDF)
 * Theodore Porter (history of statistics) *Statistics, a Tool of Science?* [abstract]({{ site.url }}{{ site.baseurl}}/files/other/porter_abstract.pdf)  
-* Jann Spiess (econometrics)
+* Jann Spiess (econometrics) *Optimal Estimation when Researcher and Social Preferences are Misaligned* [manuscript](https://scholar.harvard.edu/spiess/publications/optimal-estimation-when-researcher-and-social-preferences-are-misaligned)
 * Simine Vazire (psychology) *The Credibility Revolution in Psychological Science*
 
 ## Logistics
@@ -76,6 +76,7 @@ Possible topics for this conference include, but are not restricted to:
 
 
 11:15am Jann Spiess (econometrics)  
+*Optimal Estimation when Researcher and Social Preferences are Misaligned* [manuscript](https://scholar.harvard.edu/spiess/publications/optimal-estimation-when-researcher-and-social-preferences-are-misaligned
 
 
 12:00pm Alex Frankel (economic theory)  
