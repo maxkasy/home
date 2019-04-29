@@ -65,14 +65,17 @@ Possible topics for this conference include, but are not restricted to:
 9:00am Maximilian Kasy (econometrics)  
 *Opening remarks*  
 
-9:15am Katherine Casey (development economics)  
+9:20am Katherine Casey (development economics)  
 *Comments on pre-specification and analysis plans*
+[manuscript 1](https://kecasey.people.stanford.edu/sites/g/files/sbiybj11061/f/gbf-paper_2012-06-22.pdf)
+[manuscript 2](https://kecasey.people.stanford.edu/sites/g/files/sbiybj11061/f/debates_march2019.pdf#overlay-context=)
 
-10:00am Simine Vazire (psychology)  
+
+10:05am Simine Vazire (psychology)  
 *The Credibility Revolution in Psychological Science*
 
 ---
-10:45am Break
+10:50am Break
 
 
 11:15am Jann Spiess (econometrics)  
