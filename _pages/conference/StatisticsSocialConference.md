@@ -40,6 +40,7 @@ Possible topics for this conference include, but are not restricted to:
 * Zoe Hitzig (economic theory, philosophy) *The Problem of New Evidence: P-hacking and Pre-analysis Plans*
 * Maximilian Kasy (econometrics) *Opening remarks*
 * Deborah Mayo (philosophy of statistics)
+* Ben Olken (development economics) *Promises and Perils of Pre-Analysis Plans* [manuscript](http://economics.mit.edu/files/10654)
 * Marco Ottaviani (economic theory) *Strategic Sample Selection* [manuscript](http://didattica.unibocconi.it/mypage/upload/48832_20180715_022227_SSS-2018-07-14.PDF)
 * Theodore Porter (history of statistics) *Statistics, a Tool of Science?* [abstract]({{ site.url }}{{ site.baseurl}}/files/other/porter_abstract.pdf)  
 * Jann Spiess (econometrics) *Optimal Estimation when Researcher and Social Preferences are Misaligned* [manuscript](https://scholar.harvard.edu/spiess/publications/optimal-estimation-when-researcher-and-social-preferences-are-misaligned)
@@ -78,29 +79,32 @@ Possible topics for this conference include, but are not restricted to:
 10:50am Break
 
 
-11:15am Jann Spiess (econometrics)  
+11:15am  Ben Olken (development economics)  
+*Promises and Perils of Pre-Analysis Plans*
+[manuscript](http://economics.mit.edu/files/10654)
+
+12:00pm Jann Spiess (econometrics)  
 *Optimal Estimation when Researcher and Social Preferences are Misaligned* [manuscript](https://scholar.harvard.edu/spiess/publications/optimal-estimation-when-researcher-and-social-preferences-are-misaligned
 
-
-12:00pm Alex Frankel (economic theory)  
-*Which findings should be published* [manuscript]({{ site.url }}{{ site.baseurl}}/files/papers/findings.pdf)  
 
 ---
 12:45pm Lunch
 
 
-1:30pm Isaiah Andrews (econometrics)  
+1:30pm Alex Frankel (economic theory)  
+*Which findings should be published* [manuscript]({{ site.url }}{{ site.baseurl}}/files/papers/findings.pdf)  
+
+2:15pm Isaiah Andrews (econometrics)  
 *Statistical Reports for Remote Agents* [manuscript](https://scholar.harvard.edu/files/iandrews/files/audience.pdf) 
 
-2:15pm Marco Ottaviani (economic theory)  
-*Strategic Sample Selection* [manuscript](http://didattica.unibocconi.it/mypage/upload/48832_20180715_022227_SSS-2018-07-14.PDF)
 
 ---
 3:00pm Break
 
 
-3:30pm Theodore Porter (history of statistics)  
-*Statistics, a Tool of Science?* [abstract]({{ site.url }}{{ site.baseurl}}/files/other/porter_abstract.pdf)  
+3:30pm Marco Ottaviani (economic theory)  
+*Strategic Sample Selection* [manuscript](http://didattica.unibocconi.it/mypage/upload/48832_20180715_022227_SSS-2018-07-14.PDF)
+ 
 
 
 ---
@@ -114,18 +118,20 @@ Possible topics for this conference include, but are not restricted to:
 ---
 8:30am Breakfast
 
-9:00am Deborah Mayo (philosophy of statistics)
+9:00am Theodore Porter (history of statistics)  
+*Statistics, a Tool of Science?* [abstract]({{ site.url }}{{ site.baseurl}}/files/other/porter_abstract.pdf) 
 
-9:45am Zoe Hitzig (economic theory, philosophy)  
-*The Problem of New Evidence: P-hacking and Pre-analysis Plans*
+9:45am Deborah Mayo (philosophy of statistics)
+
 
 ---
 10:45am Break
 
 
-11am Sylvain Chassang (?) (economic theory) 
+11am Zoe Hitzig (economic theory, philosophy)  
+*The Problem of New Evidence: P-hacking and Pre-analysis Plans*
 
-11:45 am Daniel Mellow (meta studies)
+11:45am Daniel Mellow (meta studies)
 	
 ---
 12:15pm Adjourn
