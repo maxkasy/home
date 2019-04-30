@@ -34,7 +34,7 @@ Possible topics for this conference include, but are not restricted to:
 
 ## Confirmed participants
 * Isaiah Andrews (econometrics) *Statistical Reports for Remote Agents* [manuscript](https://scholar.harvard.edu/files/iandrews/files/audience.pdf)
-* Katherine Casey (development economics) *Comments on pre-specification and analysis plans*
+* Katherine Casey (development economics) *Comments on pre-specification and analysis plans* [manuscript 1](https://kecasey.people.stanford.edu/sites/g/files/sbiybj11061/f/gbf-paper_2012-06-22.pdf), [manuscript 2](https://kecasey.people.stanford.edu/sites/g/files/sbiybj11061/f/debates_march2019.pdf#overlay-context=)
 * Sylvain Chassang (economic theory)
 * Alex Frankel (economic theory) *Which findings should be published* [manuscript]({{ site.url }}{{ site.baseurl}}/files/papers/findings.pdf)  
 * Zoe Hitzig (economic theory, philosophy) *The Problem of New Evidence: P-hacking and Pre-analysis Plans*
@@ -68,7 +68,7 @@ Possible topics for this conference include, but are not restricted to:
 
 9:20am Katherine Casey (development economics)  
 *Comments on pre-specification and analysis plans*
-[manuscript 1](https://kecasey.people.stanford.edu/sites/g/files/sbiybj11061/f/gbf-paper_2012-06-22.pdf)
+[manuscript 1](https://kecasey.people.stanford.edu/sites/g/files/sbiybj11061/f/gbf-paper_2012-06-22.pdf), 
 [manuscript 2](https://kecasey.people.stanford.edu/sites/g/files/sbiybj11061/f/debates_march2019.pdf#overlay-context=)
 
 
@@ -84,7 +84,7 @@ Possible topics for this conference include, but are not restricted to:
 [manuscript](http://economics.mit.edu/files/10654)
 
 12:00pm Jann Spiess (econometrics)  
-*Optimal Estimation when Researcher and Social Preferences are Misaligned* [manuscript](https://scholar.harvard.edu/spiess/publications/optimal-estimation-when-researcher-and-social-preferences-are-misaligned
+*Optimal Estimation when Researcher and Social Preferences are Misaligned* [manuscript](https://scholar.harvard.edu/spiess/publications/optimal-estimation-when-researcher-and-social-preferences-are-misaligned)
 
 
 ---
