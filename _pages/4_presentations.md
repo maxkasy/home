@@ -3,6 +3,10 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Statistics in a Social Context - Opening remarks**  
+Harvard, May 10, 2019  
+[Slides](/home/files/slides/statistics_social_slides.pdf)  
+
 **Designing basic income experiments**  
   Jain Family Institute, April 12, 2019  
   [Slides](/home/files/slides/UBI-experimental-design-Kasy.pdf)  

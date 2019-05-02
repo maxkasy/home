@@ -35,10 +35,9 @@ Possible topics for this conference include, but are not restricted to:
 ## Confirmed participants
 * Isaiah Andrews (econometrics) *Statistical Reports for Remote Agents* [manuscript](https://scholar.harvard.edu/files/iandrews/files/audience.pdf)
 * Katherine Casey (development economics) *Comments on pre-specification and analysis plans* [manuscript 1](https://kecasey.people.stanford.edu/sites/g/files/sbiybj11061/f/gbf-paper_2012-06-22.pdf), [manuscript 2](https://kecasey.people.stanford.edu/sites/g/files/sbiybj11061/f/debates_march2019.pdf#overlay-context=)
-* Sylvain Chassang (economic theory)
 * Alex Frankel (economic theory) *Which findings should be published* [manuscript]({{ site.url }}{{ site.baseurl}}/files/papers/findings.pdf)  
 * Zoe Hitzig (economic theory, philosophy) *The Problem of New Evidence: P-hacking and Pre-analysis Plans*
-* Maximilian Kasy (econometrics) *Opening remarks*
+* Maximilian Kasy (econometrics) *Opening remarks* [Slides](/home/files/slides/statistics_social_slides.pdf)  
 * Deborah Mayo (philosophy of statistics)
 * Ben Olken (development economics) *Promises and Perils of Pre-Analysis Plans* [manuscript](http://economics.mit.edu/files/10654)
 * Marco Ottaviani (economic theory) *Strategic Sample Selection* [manuscript](http://didattica.unibocconi.it/mypage/upload/48832_20180715_022227_SSS-2018-07-14.PDF)
@@ -54,7 +53,8 @@ Possible topics for this conference include, but are not restricted to:
 * **Reimbursement:** We will provide a honorarium of 800$ for out-of-town participants, to cover hotel and travel costs.
 * **Contact:** For logistical questions, if you would like us to reserve a hotel for you, and for honararium payments, please contact [Trina Ott](mailto:ott@fas.harvard.edu).
 * **Papers and Slides**: Please also email these to Trina, and we will post them on this website before the conference.
-
+* **Dinner** for speakers on May 10 will take place at Cambridge One, 27 Church St, Cambridge.
+* **Videos** of talks will be recorded an posted online; please let us know if you don't want to be recorded.
 
 ## Schedule (preliminary)
 
@@ -65,18 +65,20 @@ Possible topics for this conference include, but are not restricted to:
 
 9:00am Maximilian Kasy (econometrics)  
 *Opening remarks*  
+[Slides](/home/files/slides/statistics_social_slides.pdf)  
 
-9:20am Katherine Casey (development economics)  
+
+9:30am Katherine Casey (development economics)  
 *Comments on pre-specification and analysis plans*
 [manuscript 1](https://kecasey.people.stanford.edu/sites/g/files/sbiybj11061/f/gbf-paper_2012-06-22.pdf), 
 [manuscript 2](https://kecasey.people.stanford.edu/sites/g/files/sbiybj11061/f/debates_march2019.pdf#overlay-context=)
 
 
-10:05am Simine Vazire (psychology)  
+10:15am Simine Vazire (psychology)  
 *The Credibility Revolution in Psychological Science*
 
 ---
-10:50am Break
+11:00am Break
 
 
 11:15am  Ben Olken (development economics)  
@@ -91,27 +93,27 @@ Possible topics for this conference include, but are not restricted to:
 12:45pm Lunch
 
 
-1:30pm Alex Frankel (economic theory)  
+1:45pm Alex Frankel (economic theory)  
 *Which findings should be published* [manuscript]({{ site.url }}{{ site.baseurl}}/files/papers/findings.pdf)  
 
-2:15pm Isaiah Andrews (econometrics)  
+2:30pm Isaiah Andrews (econometrics)  
 *Statistical Reports for Remote Agents* [manuscript](https://scholar.harvard.edu/files/iandrews/files/audience.pdf) 
 
 
 ---
-3:00pm Break
+3:15pm Break
 
 
-3:30pm Marco Ottaviani (economic theory)  
+3:45pm Marco Ottaviani (economic theory)  
 *Strategic Sample Selection* [manuscript](http://didattica.unibocconi.it/mypage/upload/48832_20180715_022227_SSS-2018-07-14.PDF)
  
 
 
 ---
-4:15pm Break
+4:30pm Break
 
 
-7pm Dinner
+7pm Dinner at Cambridge One
 
 ### Saturday, May 11
 
