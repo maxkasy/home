@@ -53,8 +53,8 @@ Possible topics for this conference include, but are not restricted to:
 * **Reimbursement:** We will provide a honorarium of 800$ for out-of-town participants, to cover hotel and travel costs.
 * **Contact:** For logistical questions, if you would like us to reserve a hotel for you, and for honararium payments, please contact [Trina Ott](mailto:ott@fas.harvard.edu).
 * **Papers and Slides**: Please also email these to Trina, and we will post them on this website before the conference.
-* **Dinner** for speakers on May 10 will take place at Cambridge One, 27 Church St, Cambridge.
-* **Videos** of talks will be recorded an posted online; please let us know if you don't want to be recorded.
+* **Dinner** for speakers on May 10 will take place at Cambridge One, 27 Church Street, Cambridge.
+* **Videos** of talks will be recorded and posted online; please let us know if you don't want to be recorded.
 
 ## Schedule (preliminary)
 
@@ -64,7 +64,7 @@ Possible topics for this conference include, but are not restricted to:
 8:30am Breakfast
 
 9:00am Maximilian Kasy (econometrics)  
-*Opening remarks*  
+*Opening remarks*
 [Slides](/home/files/slides/statistics_social_slides.pdf)  
 
 
