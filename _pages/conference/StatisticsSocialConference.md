@@ -40,7 +40,7 @@ Possible topics for this conference include, but are not restricted to:
 * Maximilian Kasy (econometrics) *Opening remarks* [Slides](/home/files/slides/statistics_social_slides.pdf)  
 * Deborah Mayo (philosophy of statistics)
 * Ben Olken (development economics) *Promises and Perils of Pre-Analysis Plans* [manuscript](http://economics.mit.edu/files/10654)
-* Marco Ottaviani (economic theory) *Strategic Sample Selection* [manuscript](http://didattica.unibocconi.it/mypage/upload/48832_20180715_022227_SSS-2018-07-14.PDF)
+* Marco Ottaviani (economic theory) *Strategic Sample Selection* [manuscript](http://didattica.unibocconi.it/mypage/upload/48832_20190503_110415_SSS-2019-05-02.PDF)
 * Theodore Porter (history of statistics) *Statistics, a Tool of Science?* [abstract]({{ site.url }}{{ site.baseurl}}/files/other/porter_abstract.pdf)  
 * Jann Spiess (econometrics) *Optimal Estimation when Researcher and Social Preferences are Misaligned* [manuscript](https://scholar.harvard.edu/spiess/publications/optimal-estimation-when-researcher-and-social-preferences-are-misaligned)
 * Simine Vazire (psychology) *The Credibility Revolution in Psychological Science*
@@ -105,7 +105,7 @@ Possible topics for this conference include, but are not restricted to:
 
 
 3:45pm Marco Ottaviani (economic theory)  
-*Strategic Sample Selection* [manuscript](http://didattica.unibocconi.it/mypage/upload/48832_20180715_022227_SSS-2018-07-14.PDF)
+*Strategic Sample Selection* [manuscript](http://didattica.unibocconi.it/mypage/upload/48832_20190503_110415_SSS-2019-05-02.PDF)
  
 
 
