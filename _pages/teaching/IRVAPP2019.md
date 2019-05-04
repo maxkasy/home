@@ -4,13 +4,8 @@ permalink: /IRVAPP2019/
 ---
 
 
-[Course announcement](https://irvapp.fbk.eu/trainings/detail/14958/irvapp-advanced-spring-school-2019-advanced-methods-for-impact-evaluation-2019/)
-
-
-## Syllabus
-
-
-[IRVAPP-MachineLearning_and-PolicyEvaluation-Kasy-2019.pdf](/home/files/teaching/IRVAPP2019/IRVAPP-MachineLearning_and-PolicyEvaluation-Kasy-2019.pdf)
+* [Course announcement](https://irvapp.fbk.eu/trainings/detail/14958/irvapp-advanced-spring-school-2019-advanced-methods-for-impact-evaluation-2019/)
+* Syllabus [IRVAPP-MachineLearning_and-PolicyEvaluation-Kasy-2019.pdf](/home/files/teaching/IRVAPP2019/IRVAPP-MachineLearning_and-PolicyEvaluation-Kasy-2019.pdf)
 
 ## Slides
 
