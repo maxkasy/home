@@ -15,10 +15,10 @@ permalink: /IRVAPP2019/
 ## Slides
 
 * Gaussian process priors, reproducing kernel Hilbert spaces, and Splines
-[Slides](/home/files/teaching/IRVAPP2019/GaussianProcessPriors-Slides.pdf)
+[Slides](/home/files/teaching/IRVAPP2019/1-GaussianProcessPriors-Slides.pdf)
 * Applications of Gaussian process priors from my own work
-[Slides](/home/files/teaching/IRVAPP2019/Applications-Slides.pdf)
+[Slides](/home/files/teaching/IRVAPP2019/2-Applications-Slides.pdf)
 * Bandit problems
-[Slides](/home/files/teaching/IRVAPP2019/BanditProblems-Slides.pdf)
+[Slides](/home/files/teaching/IRVAPP2019/3-BanditProblems-Slides.pdf)
 * Adaptive treatment assignment in experiments for policy choice
 [Slides](/home/files/teaching/IRVAPP2019/4-adaptiveexperiments-slides.pdf)
