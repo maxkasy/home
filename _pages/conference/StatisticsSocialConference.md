@@ -38,7 +38,7 @@ Possible topics for this conference include, but are not restricted to:
 * Alex Frankel (economic theory) *Which findings should be published* [manuscript]({{ site.url }}{{ site.baseurl}}/files/papers/findings.pdf)  
 * Zoe Hitzig (economic theory, philosophy) *The Problem of New Evidence: P-hacking and Pre-analysis Plans*
 * Maximilian Kasy (econometrics) *Opening remarks* [Slides](/home/files/slides/statistics_social_slides.pdf)  
-* Deborah Mayo (philosophy of statistics)
+* Deborah Mayo (philosophy of statistics) *3D Statistics: 7 Responses to Challenges for Statistical Testers* [chapter](https://errorstatistics.com/2018/09/08/excursion-1-tour-i-beyond-probabilism-and-performance-severity-requirement/)
 * Ben Olken (development economics) *Promises and Perils of Pre-Analysis Plans* [manuscript](http://economics.mit.edu/files/10654)
 * Marco Ottaviani (economic theory) *Strategic Sample Selection* [manuscript](http://didattica.unibocconi.it/mypage/upload/48832_20190503_110415_SSS-2019-05-02.PDF)
 * Theodore Porter (history of statistics) *Statistics, a Tool of Science?* [abstract]({{ site.url }}{{ site.baseurl}}/files/other/porter_abstract.pdf)  
@@ -123,7 +123,8 @@ Possible topics for this conference include, but are not restricted to:
 9:00am Theodore Porter (history of statistics)  
 *Statistics, a Tool of Science?* [abstract]({{ site.url }}{{ site.baseurl}}/files/other/porter_abstract.pdf) 
 
-9:45am Deborah Mayo (philosophy of statistics)
+9:45am Deborah Mayo (philosophy of statistics)  
+*3D Statistics: 7 Responses to Challenges for Statistical Testers* [chapter](https://errorstatistics.com/2018/09/08/excursion-1-tour-i-beyond-probabilism-and-performance-severity-requirement/)
 
 
 ---
