@@ -3,6 +3,10 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Adaptive treatment assignment in experiments for policy choice (short version)**  
+  MIT, Friday, May 18, 2019  
+  [Slides](/home/files/slides/adaptiveexperiments-slides-kasysautmann-short.pdf)  
+
 **Statistics in a Social Context - Opening remarks**  
 Harvard, May 10, 2019  
 [Slides](/home/files/slides/statistics_social_slides.pdf)  
@@ -23,10 +27,6 @@ Harvard, May 10, 2019
   BITSS Annual Meeting, UC Berkeley, Monday, December 10, 2018  
   [Slides](/home/files/slides/pubbias_whichfindings_short_kasy.pdf)  
   [Video](https://www.youtube.com/watch?v=R8m_C2nEWsw)  
-  
-**Adaptive experiments for policy choice**  
-  Harvard Development Retreat, Friday, December 7, 2018  
-  [Slides](/home/files/slides/AdaptiveExperiments_DevRetreat_Kasy.pdf)  
 
 **Causality and randomization**  
   Harvard Philosophy [Causality Conference](https://projects.iq.harvard.edu/causality/home), Friday, November 2, 2018  
