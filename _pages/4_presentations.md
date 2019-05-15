@@ -3,6 +3,10 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Conference "Statistics in a social context"**  
+Harvard, May 10-11, 2019  
+[Conference announcement, schedule, and links to talks](/home/StatisticsSocialConference)  
+
 **Adaptive treatment assignment in experiments for policy choice (short version)**  
   MIT, Friday, May 18, 2019  
   [Slides](/home/files/slides/adaptiveexperiments-slides-kasysautmann-short.pdf)  

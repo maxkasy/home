@@ -5,6 +5,7 @@ permalink: /teaching/
 
 * My open online textbook on "Empirical research on economic inequality:" [http://inequalityresearch.net/](http://inequalityresearch.net/) 
 * Collection of useful computational ressources: [Computation Links](/home/computationlinks/)
+* Conference "Statistics in a social context"** [Conference announcement, schedule, and links to talks](/home/StatisticsSocialConference)  
 
 ### Advances in causality and foundations of machine learning  (2nd year PhD, 2019)
 * Syllabus [2148SyllabusKasy_Spring2019.pdf](/home/files/teaching/TopicsEconometrics2019/2148SyllabusKasy_Spring2019.pdf)  

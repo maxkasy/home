@@ -32,31 +32,7 @@ Possible topics for this conference include, but are not restricted to:
 
 *This conference is supported by the Alfred P. Sloan Foundation grant "Publication bias and specification searching. Identification, correction, and reform proposals."*
 
-## Confirmed participants
-* Isaiah Andrews (econometrics) *Statistical Reports for Remote Agents* [manuscript](https://scholar.harvard.edu/files/iandrews/files/audience.pdf)
-* Katherine Casey (development economics) *Comments on pre-specification and analysis plans* [manuscript 1](https://kecasey.people.stanford.edu/sites/g/files/sbiybj11061/f/gbf-paper_2012-06-22.pdf), [manuscript 2](https://kecasey.people.stanford.edu/sites/g/files/sbiybj11061/f/debates_march2019.pdf#overlay-context=)
-* Alex Frankel (economic theory) *Which findings should be published* [manuscript]({{ site.url }}{{ site.baseurl}}/files/papers/findings.pdf)  
-* Zoe Hitzig (economic theory, philosophy) *The Problem of New Evidence: P-hacking and Pre-analysis Plans*
-* Maximilian Kasy (econometrics) *Opening remarks* [Slides](/home/files/slides/statistics_social_slides.pdf)  
-* Deborah Mayo (philosophy of statistics) *3D Statistics: 7 Responses to Challenges for Statistical Testers* [chapter](https://errorstatistics.com/2018/09/08/excursion-1-tour-i-beyond-probabilism-and-performance-severity-requirement/)
-* Ben Olken (development economics) *Promises and Perils of Pre-Analysis Plans* [manuscript](http://economics.mit.edu/files/10654)
-* Marco Ottaviani (economic theory) *Strategic Sample Selection* [manuscript](http://didattica.unibocconi.it/mypage/upload/48832_20190503_110415_SSS-2019-05-02.PDF)
-* Theodore Porter (history of statistics) *Statistics, a Tool of Science?* [abstract]({{ site.url }}{{ site.baseurl}}/files/other/porter_abstract.pdf)  
-* Jann Spiess (econometrics) *Optimal Estimation when Researcher and Social Preferences are Misaligned* [manuscript](https://scholar.harvard.edu/spiess/publications/optimal-estimation-when-researcher-and-social-preferences-are-misaligned)
-* Simine Vazire (psychology) *The Credibility Revolution in Psychological Science*
-
-## Logistics
-* **Date:** May 10-11, 2019
-* **Location:** Department of Economics, Harvard University  
-  3rd floor lounge, Littauer Hall, 1805 Cambridge Street, Cambridge, MA 02138
-* **Presentations**: Target length 30 minutes, with 15 minutes discussion
-* **Reimbursement:** We will provide a honorarium of 800$ for out-of-town participants, to cover hotel and travel costs.
-* **Contact:** For logistical questions, if you would like us to reserve a hotel for you, and for honararium payments, please contact [Trina Ott](mailto:ott@fas.harvard.edu).
-* **Papers and Slides**: Please also email these to Trina, and we will post them on this website before the conference.
-* **Dinner** for speakers on May 10 will take place at Cambridge One, 27 Church Street, Cambridge.
-* **Videos** of talks will be recorded and posted online; please let us know if you don't want to be recorded.
-
-## Schedule (preliminary)
+## Schedule
 
 ### Friday, May 10
 
@@ -143,7 +119,31 @@ Possible topics for this conference include, but are not restricted to:
 
 
 
+## Logistics
+* **Date:** May 10-11, 2019
+* **Location:** Department of Economics, Harvard University  
+  3rd floor lounge, Littauer Hall, 1805 Cambridge Street, Cambridge, MA 02138
+* **Presentations**: Target length 30 minutes, with 15 minutes discussion
+* **Reimbursement:** We will provide a honorarium of 800$ for out-of-town participants, to cover hotel and travel costs.
+* **Contact:** For logistical questions, if you would like us to reserve a hotel for you, and for honararium payments, please contact [Trina Ott](mailto:ott@fas.harvard.edu).
+* **Papers and Slides**: Please also email these to Trina, and we will post them on this website before the conference.
+* **Dinner** for speakers on May 10 will take place at Cambridge One, 27 Church Street, Cambridge.
+* **Videos** of talks will be recorded and posted online; please let us know if you don't want to be recorded.
 
 
+
+
+## Confirmed participants
+* Isaiah Andrews (econometrics) *Statistical Reports for Remote Agents* [manuscript](https://scholar.harvard.edu/files/iandrews/files/audience.pdf)
+* Katherine Casey (development economics) *Comments on pre-specification and analysis plans* [manuscript 1](https://kecasey.people.stanford.edu/sites/g/files/sbiybj11061/f/gbf-paper_2012-06-22.pdf), [manuscript 2](https://kecasey.people.stanford.edu/sites/g/files/sbiybj11061/f/debates_march2019.pdf#overlay-context=)
+* Alex Frankel (economic theory) *Which findings should be published* [manuscript]({{ site.url }}{{ site.baseurl}}/files/papers/findings.pdf)  
+* Zoe Hitzig (economic theory, philosophy) *The Problem of New Evidence: P-hacking and Pre-analysis Plans*
+* Maximilian Kasy (econometrics) *Opening remarks* [Slides](/home/files/slides/statistics_social_slides.pdf)  
+* Deborah Mayo (philosophy of statistics) *3D Statistics: 7 Responses to Challenges for Statistical Testers* [chapter](https://errorstatistics.com/2018/09/08/excursion-1-tour-i-beyond-probabilism-and-performance-severity-requirement/)
+* Ben Olken (development economics) *Promises and Perils of Pre-Analysis Plans* [manuscript](http://economics.mit.edu/files/10654)
+* Marco Ottaviani (economic theory) *Strategic Sample Selection* [manuscript](http://didattica.unibocconi.it/mypage/upload/48832_20190503_110415_SSS-2019-05-02.PDF)
+* Theodore Porter (history of statistics) *Statistics, a Tool of Science?* [abstract]({{ site.url }}{{ site.baseurl}}/files/other/porter_abstract.pdf)  
+* Jann Spiess (econometrics) *Optimal Estimation when Researcher and Social Preferences are Misaligned* [manuscript](https://scholar.harvard.edu/spiess/publications/optimal-estimation-when-researcher-and-social-preferences-are-misaligned)
+* Simine Vazire (psychology) *The Credibility Revolution in Psychological Science*
 
 
