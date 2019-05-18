@@ -14,7 +14,7 @@ permalink: /research/
   (joint with Stefano Caria, Grant Gordon, Simon Quinn and Alex Teytelboym)  
   *Work in progress, 2019*  
   RCT pre-registration: [AEA RCT Registry](https://www.socialscienceregistry.org/trials/3870)  
-  Dashboard of preliminary results: [Dashboard](/home/files/other/jordan/reproducible_analysis_jordan.html)  
+  Dashboard of preliminary results: [Dashboard](/home/files/other/reproducible_analysis_jordan.html)  
   
 **Which findings should be published**,   
   (joint with Alex Frankel)  
