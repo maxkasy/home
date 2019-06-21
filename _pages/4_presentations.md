@@ -3,8 +3,12 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Experiments designed to help the participants**  
+  IRC Jordan, July 10, 2019  
+  [Slides](/home/files/slides/IRC_slides_kasy.pdf)  
+
 **Adaptive experiments for policy choice**  
-  IFO Munich, Tuesday, June 18, 2019  
+  IFO Munich, June 18, 2019  
   [Slides](/home/files/slides/adaptiveexperiments-slides-kasysautmann.pdf)  
   
 **Conference "Statistics in a social context"**  
@@ -12,7 +16,7 @@ Harvard, May 10-11, 2019
 [Conference announcement, schedule, and links to talks](/home/StatisticsSocialConference)  
 
 **Adaptive treatment assignment in experiments for policy choice (short version)**  
-  MIT, Friday, May 18, 2019  
+  MIT, May 18, 2019  
   [Slides](/home/files/slides/adaptiveexperiments-slides-kasysautmann-short.pdf)  
 
 **Statistics in a Social Context - Opening remarks**  
