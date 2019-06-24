@@ -8,7 +8,8 @@ permalink: /research/
 **Adaptive treatment assignment in experiments for policy choice**  
   (joint with Anja Sautmann)  
   *Work in progress, 2019*  
-  Manuscript (preliminary draft): [adaptiveexperimentspolicy.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/adaptiveexperimentspolicy.pdf)  
+  Short manuscript: [adaptiveexperimentspolicy_short.pdf](/home/files/papers/adaptiveexperimentspolicy_short.pdf)  
+  Preliminary manuscript (longer version): [adaptiveexperimentspolicy.pdf](/home/files/papers/adaptiveexperimentspolicy.pdf)  
 
 **Job search assistance for refugees in Jordan: An adaptive field experiment**  
   (joint with Stefano Caria, Grant Gordon, Simon Quinn and Alex Teytelboym)  
