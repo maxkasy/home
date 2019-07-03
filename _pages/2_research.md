@@ -9,7 +9,8 @@ permalink: /research/
   (joint with Anja Sautmann)  
   *Work in progress, 2019*  
   Short manuscript: [adaptiveexperimentspolicy_short.pdf](/home/files/papers/adaptiveexperimentspolicy_short.pdf)  
-  Preliminary manuscript (longer version): [adaptiveexperimentspolicy.pdf](/home/files/papers/adaptiveexperimentspolicy.pdf)  
+  Dashboard of field application with Precision Agriculture for Development: [Dashboard](/home/files/other/reproducible_analysis_precision_ag.html)  
+  Previous (longer) version of manuscript: [adaptiveexperimentspolicy.pdf](/home/files/papers/adaptiveexperimentspolicy.pdf)  
 
 **Job search assistance for refugees in Jordan: An adaptive field experiment**  
   (joint with Stefano Caria, Grant Gordon, Simon Quinn and Alex Teytelboym)  

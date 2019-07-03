@@ -3,6 +3,12 @@ title: Commentary
 permalink: /commentary/
 ---
 
+**The politics of machine learning**  
+  **Part I** June 27, 2019  
+  [Phenomenal World Blog](https://phenomenalworld.org/digital-ethics/politics-of-machine-learning)  
+  **Part II** July 3, 2019  
+  [Phenomenal World Blog](https://phenomenalworld.org/digital-ethics/politics-of-machine-learning-ii)  
+
 **Experiments for policy choice**  
   March 28, 2019  
   [Phenomenal World Blog](https://phenomenalworld.org/metaresearch/experiments-for-policy-choice)  
