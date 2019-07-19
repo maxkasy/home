@@ -9,8 +9,8 @@ permalink: /research/
   (joint with Anja Sautmann)  
   *Work in progress, 2019*  
   Short manuscript: [adaptiveexperimentspolicy_short.pdf](/home/files/papers/adaptiveexperimentspolicy_short.pdf)  
-  Dashboard of field application with Precision Agriculture for Development: [Dashboard](/home/files/other/reproducible_analysis_precision_ag.html)  
-  Previous (longer) version of manuscript: [adaptiveexperimentspolicy.pdf](/home/files/papers/adaptiveexperimentspolicy.pdf)  
+  Dashboard of field application with Precision Agriculture for Development: [Dashboard PAD](/home/files/other/reproducible_analysis_precision_ag.html)  
+  Interactive Dashboard for your own experiment: [Interactive dashboard for exploration sampling](https://maxkasy.shinyapps.io/exploration_sampling_dashboard/)
 
 **Job search assistance for refugees in Jordan: An adaptive field experiment**  
   (joint with Stefano Caria, Grant Gordon, Simon Quinn and Alex Teytelboym)  
