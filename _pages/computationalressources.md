@@ -48,6 +48,9 @@ permalink: /computationlinks/
 **Bayesian statistics using Stan**  
 <https://mc-stan.org/docs/2_18/bayes-stats-stan/index.html>  
 
+**Training neural nets using Keras and Tensorflow**
+<https://tensorflow.rstudio.com/keras/>  
+
 
 ## Data visualization
 

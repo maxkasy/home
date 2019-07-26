@@ -5,7 +5,7 @@ permalink: /TopicsInEconometrics2019/
 
 ## Syllabus
 
-[2148SyllabusKasy_Spring2019.pdf](/home/files/teaching/TopicsEconometrics2019/2148SyllabusKasy_Spring2019.pdf)
+[2148SyllabusKasy_Fall2019.pdf](/home/files/teaching/TopicsEconometrics2019/2148SyllabusKasy_Fall2019.pdf)
 
 ## Slides
 * Introduction to R
@@ -32,10 +32,12 @@ permalink: /TopicsInEconometrics2019/
 ***
 * Text analysis
 [Slides](/home/files/teaching/TopicsEconometrics2019/TextAsData-Slides.pdf)
+* Regression treas and random forests *Slides coming soon*
 * Deep neural nets
 [Slides](/home/files/teaching/TopicsEconometrics2019/DeepNets.pdf)
 * Bandit problems
 [Slides](/home/files/teaching/TopicsEconometrics2019/BanditProblems-Slides.pdf)
+* Reinforcement learning *Slides coming soon*
 * Data visualization
 [Slides](/home/files/teaching/TopicsEconometrics2019/DataVisualization-Slides.pdf)
 
@@ -59,12 +61,14 @@ permalink: /TopicsInEconometrics2019/
 * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/chapters/)
 * [Deep Learning](https://www.deeplearningbook.org/)
+* [Reinforcement learning - An introduction](http://www.incompleteideas.net/book/RLbook2018.pdf)  
+
 
 ### Programming in R
 * [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)
 * [Advanced R](https://adv-r.hadley.nz/)
 * [Bayesian statistics using Stan](https://mc-stan.org/docs/2_18/bayes-stats-stan/index.html)
-
+* [Training neural nets using Keras  and Tensorflow](https://tensorflow.rstudio.com/keras/)
 
 ### Data visualization
 
