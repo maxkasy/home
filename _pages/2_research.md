@@ -5,17 +5,17 @@ permalink: /research/
 
 ## Working papers
 
-**Adaptive treatment assignment in experiments for policy choice**  
-  (joint with Anja Sautmann)  
-  *Work in progress, 2019*  
-  Short manuscript: [adaptiveexperimentspolicy.pdf](/home/files/papers/adaptiveexperimentspolicy.pdf)  
-  Interactive Dashboard for your own experiment: [Interactive dashboard for exploration sampling](https://maxkasy.shinyapps.io/exploration_sampling_dashboard/)  
-
 **Job search assistance for refugees in Jordan: An adaptive field experiment**  
   (joint with Stefano Caria, Grant Gordon, Simon Quinn and Alex Teytelboym)  
   *Work in progress, 2019*  
   RCT pre-registration: [AEA RCT Registry](https://www.socialscienceregistry.org/trials/3870)  
   Dashboard of preliminary results: [Dashboard](/home/files/other/reproducible_analysis_jordan.html)  
+  
+**Adaptive treatment assignment in experiments for policy choice**  
+  (joint with Anja Sautmann)  
+  *Submitted, 2019*  
+  Short manuscript: [adaptiveexperimentspolicy.pdf](/home/files/papers/adaptiveexperimentspolicy.pdf)  
+  Interactive Dashboard for your own experiment: [Interactive dashboard for exploration sampling](https://maxkasy.shinyapps.io/exploration_sampling_dashboard/)  
   
 **Which findings should be published**,   
   (joint with Alex Frankel)  
