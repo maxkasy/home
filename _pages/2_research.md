@@ -14,8 +14,8 @@ permalink: /research/
 **Adaptive treatment assignment in experiments for policy choice**  
   (joint with Anja Sautmann)  
   *Submitted, 2019*  
-  Short manuscript: [adaptiveexperimentspolicy.pdf](/home/files/papers/adaptiveexperimentspolicy.pdf)  
-  Interactive Dashboard for your own experiment: [Interactive dashboard for exploration sampling](https://maxkasy.shinyapps.io/exploration_sampling_dashboard/)  
+  Manuscript: [adaptiveexperimentspolicy.pdf](/home/files/papers/adaptiveexperimentspolicy.pdf)  
+  Interactive Dashboard for your own experiment: [exploration_sampling_dashboard](https://maxkasy.shinyapps.io/exploration_sampling_dashboard/)  
   
 **Which findings should be published**,   
   (joint with Alex Frankel)  
