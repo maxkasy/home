@@ -5,7 +5,13 @@ permalink: /TopicsInEconometrics2019/
 
 ## Syllabus
 
-[2148SyllabusKasy_Fall2019.pdf](/home/files/teaching/TopicsEconometrics2019/2148SyllabusKasy_Fall2019.pdf)
+
+
+[Syllabus Harvard, fall 2019](/home/files/teaching/TopicsEconometrics2019/2148SyllabusKasy_Fall2019.pdf)
+
+[Syllabus Brown, fall 2019](/home/files/teaching/TopicsEconometrics2019/Topics_ML_Brown_Syllabus_Kasy_Fall2019.pdf)  
+
+
 
 ## Slides
 * Introduction to R
