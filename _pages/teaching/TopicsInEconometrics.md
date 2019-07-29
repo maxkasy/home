@@ -38,12 +38,13 @@ permalink: /TopicsInEconometrics2019/
 ***
 * Text analysis
 [Slides](/home/files/teaching/TopicsEconometrics2019/TextAsData-Slides.pdf)
-* Regression treas and random forests *Slides coming soon*
+* Regression trees and random forests *[Slides coming soon]*
 * Deep neural nets
 [Slides](/home/files/teaching/TopicsEconometrics2019/DeepNets.pdf)
 * Bandit problems
 [Slides](/home/files/teaching/TopicsEconometrics2019/BanditProblems-Slides.pdf)
-* Reinforcement learning *Slides coming soon*
+* Reinforcement learning
+[Slides](/home/files/teaching/TopicsEconometrics2019/ReinforcementLearning-Slides.pdf)  
 * Data visualization
 [Slides](/home/files/teaching/TopicsEconometrics2019/DataVisualization-Slides.pdf)
 
