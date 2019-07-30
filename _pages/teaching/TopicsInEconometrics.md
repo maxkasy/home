@@ -38,7 +38,7 @@ permalink: /TopicsInEconometrics2019/
 ***
 * Text analysis
 [Slides](/home/files/teaching/TopicsEconometrics2019/TextAsData-Slides.pdf)
-* Regression trees and random forests *[Slides coming soon]*
+* Regression trees and random forests [Slides](/home/files/teaching/TopicsEconometrics2019/RandomForests-Slides.pdf)  
 * Deep neural nets
 [Slides](/home/files/teaching/TopicsEconometrics2019/DeepNets.pdf)
 * Bandit problems
@@ -60,7 +60,7 @@ permalink: /TopicsInEconometrics2019/
 
 * Identification and instrumental variables [Identification-IV-readings.zip](/home/files/teaching/TopicsEconometrics2019/Identification-IV-readings.zip)
 * Shrinkage and Gaussian Processes [Shrinkage-readings.zip](/home/files/teaching/TopicsEconometrics2019/Shrinkage-readings.zip)
-* Text, neural nets, bandits, and visualization [DeepNets-Text-Bandits-Visualization-readings.zip](/home/files/teaching/TopicsEconometrics2019/DeepNets-Text-Bandits-Visualization-readings.zip)
+* Text, forests, neural nets, bandits, reinforcement learning, and visualization [DeepNets-Text-Bandits-Visualization-readings.zip](/home/files/teaching/TopicsEconometrics2019/DeepNets-Text-Bandits-Visualization-readings.zip)
 
 
 

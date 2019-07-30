@@ -8,7 +8,7 @@ permalink: /teaching/
 * Conference "Statistics in a social context:" [Conference announcement, schedule, and links to talks](/home/StatisticsSocialConference)  
 
 ### Advances in causality and foundations of machine learning  (2nd year PhD, 2019)
-* Syllabus [2148SyllabusKasy_Spring2019.pdf](/home/files/teaching/TopicsEconometrics2019/2148SyllabusKasy_Spring2019.pdf)  
+* Syllabus [Syllabus Harvard, fall 2019](/home/files/teaching/TopicsEconometrics2019/2148SyllabusKasy_Fall2019.pdf)
 * Class page [/home/TopicsInEconometrics2019](/home/TopicsInEconometrics2019)
 
 ### Empirical research on economic inequality (advanced undergraduate, 2019):
