@@ -31,7 +31,7 @@ permalink: /research/
 
 **Identification of and correction for publication bias**  
   (joint with Isaiah Andrews)  
-  *Forthcoming, American Economic Review, 2019*  
+  *American Economic Review, 2019*  
   Manuscript: [publicationbias.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/PublicationBias.pdf)  
   
 **Choosing among regularized estimators in empirical economics - the risk of machine learning**  
@@ -41,7 +41,7 @@ permalink: /research/
   
 **How to use economic theory to improve estimators: Shrinking toward theoretical restrictions**  
   (joint with Pirmin Fessler)  
-  *Forthcoming, Review of Economics and Statistics, 2019*   
+  *Forthcoming, Review of Economics and Statistics, 2019*  
   Manuscript: [shrinkingtotheory.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/shrinkingtotheory.pdf)  
   Supplement: [shrinkingtotheorysupplement.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/shrinkingtotheorysupplement.pdf)  
 
