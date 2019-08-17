@@ -3,6 +3,10 @@ title: Commentary
 permalink: /commentary/
 ---
 
+**Value judgements and distributional conflict in the context of empirical policy research and artificial intelligence**  
+  August 12, 2019  
+  [Draft for EfiP](/home/files/papers/efip_valuesanddata_kasy.pdf)  
+
 **The politics of machine learning**  
   **Part I** June 27, 2019  
   [Phenomenal World Blog](https://phenomenalworld.org/digital-ethics/politics-of-machine-learning)  

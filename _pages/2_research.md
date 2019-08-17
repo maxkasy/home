@@ -44,6 +44,7 @@ permalink: /research/
   *Forthcoming, Review of Economics and Statistics, 2019*  
   Manuscript: [shrinkingtotheory.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/shrinkingtotheory.pdf)  
   Supplement: [shrinkingtotheorysupplement.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/shrinkingtotheorysupplement.pdf)  
+  Code and data for replication: [Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/O7BAYF)  
 
 **Optimal taxation and insurance using machine learning - sufficient statistics and beyond**  
   *Journal of Public Economics, 2018*  
@@ -53,8 +54,8 @@ permalink: /research/
   *Journal of Econometric Methods, 2019*   
   Manuscript: [uniformitynote.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/uniformitynote.pdf)  
   
-**Survey mode effects on income inequality measurement**   
-  (joint with Pirmin Fessler and Peter Lindner)    
+**Survey mode effects on income inequality measurement**  
+  (joint with Pirmin Fessler and Peter Lindner)  
   *Journal of Economic Inequality, 2018*  
   Manuscript: [surveymodeinequality.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/surveymodeinequality.pdf)  
   Supplement: [surveymethodinequalitysupplement.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/surveymethodinequalitysupplement.pdf)  
