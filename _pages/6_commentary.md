@@ -3,7 +3,7 @@ title: Commentary
 permalink: /commentary/
 ---
 
-**Value judgements and distributional conflict in the context of empirical policy research and artificial intelligence**  
+**Value judgements and distributional conflicts in the context of empirical policy research and artificial intelligence**  
   August 12, 2019  
   [Draft for EfiP](/home/files/papers/efip_valuesanddata_kasy.pdf)  
 
