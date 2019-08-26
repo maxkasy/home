@@ -3,9 +3,9 @@ title: Commentary
 permalink: /commentary/
 ---
 
-**Value judgements and distributional conflicts in the context of empirical policy research and artificial intelligence**  
-  August 12, 2019  
-  [Draft for EfiP](/home/files/papers/efip_valuesanddata_kasy.pdf)  
+**No data in the void: Values and distributional conflicts in empirical policy research and artificial intelligence**
+  August 26, 2019  
+  [Economics For Inclusive Prosperity](/home/files/papers/efip_valuesanddata_kasy.pdf)  
 
 **The politics of machine learning**  
   **Part I** June 27, 2019  

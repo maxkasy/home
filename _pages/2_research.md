@@ -29,6 +29,10 @@ permalink: /research/
 
 ## Publications
 
+**No data in the void: Values and distributional conflicts in empirical policy research and artificial intelligence**  
+  *Economics For Inclusive Prosperity, 2019*  
+  [efip_valuesanddata_kasy.pdf](/home/files/papers/efip_valuesanddata_kasy.pdf)  
+
 **Identification of and correction for publication bias**  
   (joint with Isaiah Andrews)  
   *American Economic Review, 2019*  

@@ -46,7 +46,8 @@ permalink: /computationlinks/
 <https://shiny.rstudio.com/articles/>  
 
 **Bayesian statistics using Stan**  
-<https://mc-stan.org/docs/2_18/bayes-stats-stan/index.html>  
+<https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started>  
+<https://mc-stan.org/docs/2_20/stan-users-guide/index.html>  
 
 **Training neural nets using Keras and Tensorflow**
 <https://tensorflow.rstudio.com/keras/>  
