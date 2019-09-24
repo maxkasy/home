@@ -3,25 +3,25 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Adaptive experiments for policy choice**  
+  Brown, October 1, 2019  
+  [Slides](/home/files/slides/adaptiveexperiments-slides-kasysautmann.pdf)  
+  
 **Experiments designed to help the participants**  
   IRC Jordan, July 10, 2019  
   [Slides](/home/files/slides/IRC_slides_kasy.pdf)  
 
-**Adaptive experiments for policy choice**  
-  IFO Munich, June 18, 2019  
-  [Slides](/home/files/slides/adaptiveexperiments-slides-kasysautmann.pdf)  
-  
 **Conference "Statistics in a social context"**  
-Harvard, May 10-11, 2019  
-[Conference announcement, schedule, and links to talks](/home/StatisticsSocialConference)  
+  Harvard, May 10-11, 2019  
+  [Conference announcement, schedule, and links to talks](/home/StatisticsSocialConference)  
 
 **Adaptive treatment assignment in experiments for policy choice (short version)**  
   MIT, May 18, 2019  
   [Slides](/home/files/slides/adaptiveexperiments-slides-kasysautmann-short.pdf)  
 
 **Statistics in a Social Context - Opening remarks**  
-Harvard, May 10, 2019  
-[Slides](/home/files/slides/statistics_social_slides.pdf)  
+  Harvard, May 10, 2019  
+  [Slides](/home/files/slides/statistics_social_slides.pdf)  
 
 **Designing basic income experiments**  
   Jain Family Institute, April 12, 2019  
