@@ -31,7 +31,7 @@ permalink: /research/
 
 **No data in the void: Values and distributional conflicts in empirical policy research and artificial intelligence**  
   *Economics For Inclusive Prosperity, 2019*  
-  Manuscript: [efip_valuesanddata_kasy.pdf](/home/files/papers/efip_valuesanddata_kasy.pdf)  
+  Manuscript: [No-Data-in-the-Void.pdf](/home/files/papers/No-Data-in-the-Void.pdf)  
 
 **Identification of and correction for publication bias**  
   (joint with Isaiah Andrews)  

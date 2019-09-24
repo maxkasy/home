@@ -3,7 +3,7 @@ title: Presentations
 permalink: /presentations/
 ---
 
-**Adaptive experiments for policy choice**  
+**Adaptive treatment assignment in experiments for policy choice**  
   Brown, October 1, 2019  
   [Slides](/home/files/slides/adaptiveexperiments-slides-kasysautmann.pdf)  
   
