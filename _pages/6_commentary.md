@@ -3,6 +3,10 @@ title: Commentary
 permalink: /commentary/
 ---
 
+**Selective publication of findings: Why does it matter, and what should we do about it?**  
+  September 17, 2019  
+  [MetaArxiv](https://osf.io/preprints/metaarxiv/xwngs/)  
+
 **No data in the void: Values and distributional conflicts in empirical policy research and artificial intelligence**
   August 26, 2019  
   [Economics For Inclusive Prosperity](/home/files/papers/efip_valuesanddata_kasy.pdf)  
