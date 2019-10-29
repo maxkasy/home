@@ -45,7 +45,7 @@ Interactive Dashboard for your own experiment: [exploration_sampling_dashboard](
   
 **How to use economic theory to improve estimators: Shrinking toward theoretical restrictions**  
   (joint with Pirmin Fessler)  
-  *Forthcoming, Review of Economics and Statistics, 2019*  
+  *Review of Economics and Statistics, 2019*  
   Manuscript: [shrinkingtotheory.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/shrinkingtotheory.pdf)  
   Supplement: [shrinkingtotheorysupplement.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/shrinkingtotheorysupplement.pdf)  
   Code and data for replication: [Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/O7BAYF)  
