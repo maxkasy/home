@@ -6,18 +6,16 @@ permalink: /research/
 ## Working papers
 
 **Adaptive treatment assignment in experiments for policy choice**  
-(joint with Anja Sautmann)  
-*Revise and resubmit, Econometrica, 2019*  
-Manuscript: [adaptiveexperimentspolicy.pdf](/home/files/papers/adaptiveexperimentspolicy.pdf)  
-Interactive Dashboard for your own experiment: [exploration_sampling_dashboard](https://maxkasy.shinyapps.io/exploration_sampling_dashboard/)  
+  (joint with Anja Sautmann)  
+  *Revise and resubmit, Econometrica, 2019*  
+  Manuscript: [adaptiveexperimentspolicy.pdf](/home/files/papers/adaptiveexperimentspolicy.pdf)  
+  Interactive Dashboard for your own experiment: [exploration_sampling_dashboard](https://maxkasy.shinyapps.io/exploration_sampling_dashboard/)  
 
-**Job search assistance for refugees in Jordan: An adaptive field experiment**  
-  (joint with Stefano Caria, Grant Gordon, Soha Osman, Simon Quinn and Alex Teytelboym)  
-  *Work in progress, 2019*  
-  RCT pre-registration: [AEA RCT Registry](https://www.socialscienceregistry.org/trials/3870)  
-  Dashboard of preliminary results: [Dashboard](/home/files/other/reproducible_analysis_jordan.html)  
+**Selective publication of findings: Why does it matter, and what should we do about it?**  
+  *Under revision, Journal of Economic Perspectives, 2019*  
+  Manuscript: [statistics_social_science.pdf](/home/files/papers/statistics_social_science.pdf)  
   
-**Which findings should be published**,   
+**Which findings should be published**,  
   (joint with Alex Frankel)  
   *Submitted, 2018*  
   Manuscript: [findings.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/findings.pdf)  
@@ -25,6 +23,12 @@ Interactive Dashboard for your own experiment: [exploration_sampling_dashboard](
 **Who wins, who loses? Identification of the welfare impact of changing wages**  
   *Submitted, 2018*  
   Manuscript: [whowinswholoses.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/Whowinswholoses.pdf)  
+  
+**Job search assistance for refugees in Jordan: An adaptive field experiment**  
+  (joint with Stefano Caria, Grant Gordon, Soha Osman, Simon Quinn and Alex Teytelboym)  
+  *Work in progress, 2019*  
+  RCT pre-registration: [AEA RCT Registry](https://www.socialscienceregistry.org/trials/3870)  
+  Dashboard of preliminary results: [Dashboard](/home/files/other/reproducible_analysis_jordan.html)  
 
 
 ## Publications
