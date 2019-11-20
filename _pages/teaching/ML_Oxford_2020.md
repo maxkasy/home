@@ -3,15 +3,8 @@ title: "Advanced Econometrics 2: Foundations of Machine Learning"
 permalink: /ML_Oxford_2020/
 ---
 
-## Syllabus
-
 
 [Syllabus](/home/files/teaching/TopicsEconometrics2019/MachineLearning_Winter2020.pdf)
-
-
-
-
-## Slides
 
 
 ### Supervised learning: Shrinkage and tuning
