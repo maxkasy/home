@@ -4,7 +4,7 @@ permalink: /ML_Oxford_2020/
 ---
 
 
-[Syllabus](/home/files/teaching/TopicsEconometrics2019/Syllabus_ML_Oxford_2020.pdf)
+[Syllabus](/home/files/teaching/ML_Oxford_2020/Syllabus_ML_Oxford_2020.pdf)
 
 
 ### Supervised learning: Shrinkage and tuning
