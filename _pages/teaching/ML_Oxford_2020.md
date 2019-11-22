@@ -4,8 +4,8 @@ permalink: /ML_Oxford_2020/
 ---
 
 
-[Syllabus](/home/files/teaching/ML_Oxford_2020/Syllabus_ML_Oxford_2020.pdf)
-
+* Syllabus [Syllabus_ML_Oxford_2020.pdf](/home/files/teaching/ML_Oxford_2020/Syllabus_ML_Oxford_2020.pdf)
+* Sample exam questions [ML_sample_exam.pdf](/home/files/teaching/ML_Oxford_2020/ML_sample_exam.pdf)  
 
 ### Supervised learning: Shrinkage and tuning
 * Review of decision theory
@@ -21,6 +21,7 @@ permalink: /ML_Oxford_2020/
 [Slides](/home/files/teaching/TopicsEconometrics2019/BanditProblems-Slides.pdf)
 * Reinforcement learning
 [Slides](/home/files/teaching/TopicsEconometrics2019/ReinforcementLearning-Slides.pdf)  
+
 
 
 This course is an abridged version of a longer course on machine learning that I taught before. You can find slides and reading materials for this longer course here: [/home/TopicsInEconometrics2019](/home/TopicsInEconometrics2019)
