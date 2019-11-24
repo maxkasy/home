@@ -7,9 +7,17 @@ permalink: /teaching/
 * Collection of useful computational ressources: [Computation Links](/home/computationlinks/)
 * Conference "Statistics in a social context:" [Conference announcement, schedule, and links to talks](/home/StatisticsSocialConference)  
 
-### Foundations of machine learning  (Oxford, Hilary term 2020)
-* Syllabus [Syllabus](/home/files/teaching/ML_Oxford_2020/Syllabus_ML_Oxford_2020.pdf)
+## Oxford
+
+### Foundations of machine learning  (master, 2020)
+* Syllabus [Syllabus_ML_Oxford_2020.pdf](/home/files/teaching/ML_Oxford_2020/Syllabus_ML_Oxford_2020.pdf)
 * Class page [/homeML_Oxford_2020](/home/ML_Oxford_2020)
+
+### Labor economics (undergraduate, 2020)
+* Syllabus [Syllabus_Labor_Oxford_2020.pdf](/home/files/teaching/Labor_Oxford_2020/Syllabus_Labor_Oxford_2020.pdf)
+* Class page under construction
+
+## Harvard
 
 ### Advances in causality and foundations of machine learning  (2nd year PhD, 2019)
 * Syllabus [Syllabus Harvard, fall 2019](/home/files/teaching/TopicsEconometrics2019/2148SyllabusKasy_Fall2019.pdf)
