@@ -20,7 +20,7 @@ permalink: /teaching/
 ## Harvard
 
 ### Advances in causality and foundations of machine learning  (2nd year PhD, 2019)
-* Syllabus [Syllabus Harvard, fall 2019](/home/files/teaching/TopicsEconometrics2019/2148SyllabusKasy_Fall2019.pdf)
+* Syllabus [2148SyllabusKasy_Fall2019.pdf](/home/files/teaching/TopicsEconometrics2019/2148SyllabusKasy_Fall2019.pdf)
 * Class page [/home/TopicsInEconometrics2019](/home/TopicsInEconometrics2019)
 
 ### Empirical research on economic inequality (advanced undergraduate, 2019):
@@ -33,11 +33,11 @@ permalink: /teaching/
 * Reader (theory): [2140theoryreaderspring2018.zip](/home/files/teaching/MicroeconometricMethods/2140theoryreaderspring2018.zip) 
 * Reader (applications): [2140appliedreaderspring2018.zip](/home/files/teaching/MicroeconometricMethods/2140appliedreaderspring2018.zip) 
 
-### Topics in econometrics (2nd year PhD, 2017)
+<!-- ### Topics in econometrics (2nd year PhD, 2017)
 
 * Syllabus: [2148syllabuskasy2017.pdf](/home/files/teaching/TopicsEconometrics/2148syllabuskasy2017.pdf) 
 * Slides: [2148SlidesFall2017.zip](/home/files/teaching/TopicsEconometrics/2148SlidesFall2017.zip) 
-* Reader: [2148readerfall2017.zip](/home/files/teaching/TopicsEconometrics/2148readerfall2017.zip) 
+* Reader: [2148readerfall2017.zip](/home/files/teaching/TopicsEconometrics/2148readerfall2017.zip)  -->
 
 
 ### Applied econometrics (advanced undergraduate, 2017)

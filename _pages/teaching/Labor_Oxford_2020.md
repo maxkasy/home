@@ -19,10 +19,11 @@ UNDER CONSTRUCTION
 * Week 4: Labor demand and wage determination
 [Slides](/home/files/teaching/Labor_Oxford_2020/4-Labor-Demand.pdf)
 
-### Textbooks
+### Textbooks and websites
 * My open online textbook on [Empirical research on economic inequality](http://inequalityresearch.net/)
 * CORE [Chapter 19 - Economic inequality](https://www.core-econ.org/the-economy/book/text/19.html)
 * Mastering Metrics [Data](http://www.masteringmetrics.com/resources/)
+* World Inequality Database [WID](https://wid.world/)
 
 ### Papers
 
@@ -30,3 +31,9 @@ UNDER CONSTRUCTION
 * Inequality and wage determination [Reader weeks 3 and 4]
 
 
+### Programming in R
+* My introduction to R
+[Slides](/home/files/teaching/TopicsEconometrics2019/IntroductiontoR-Slides.pdf)
+* [Data Visualization - A Practical Introduction](http://socviz.co/)
+* [R for Data Science](https://r4ds.had.co.nz/)
+* [Advanced R](https://adv-r.hadley.nz/)
