@@ -15,7 +15,7 @@ permalink: /teaching/
 
 ### Labor economics (undergraduate, 2020)
 * Syllabus [Syllabus_Labor_Oxford_2020.pdf](/home/files/teaching/Labor_Oxford_2020/Syllabus_Labor_Oxford_2020.pdf)
-* Class page under construction
+* Class page [/homeML_Oxford_2020](/home/Labor_Oxford_2020)
 
 ## Harvard
 

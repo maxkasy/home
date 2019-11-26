@@ -3,11 +3,10 @@ title: "Labor Economics, part I"
 permalink: /Labor_Oxford_2020/
 ---
 
-UNDER CONSTRUCTION
 
 * [Syllabus](/home/files/teaching/Labor_Oxford_2020/Syllabus_Labor_Oxford_2020.pdf)
 * [Essay questions](/home/files/teaching/Labor_Oxford_2020/Essay-questions-Labor-Kasy.pdf)
-* [Sample exam questions]
+* [Sample exam questions] Coming soon!
 
 ### Slides
 * Week 1: Causal inference
