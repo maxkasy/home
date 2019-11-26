@@ -11,11 +11,11 @@ permalink: /teaching/
 
 ### Foundations of machine learning  (master, 2020)
 * Syllabus [Syllabus_ML_Oxford_2020.pdf](/home/files/teaching/ML_Oxford_2020/Syllabus_ML_Oxford_2020.pdf)
-* Class page [/homeML_Oxford_2020](/home/ML_Oxford_2020)
+* Class page [/home/ML_Oxford_2020](/home/ML_Oxford_2020)
 
 ### Labor economics (undergraduate, 2020)
 * Syllabus [Syllabus_Labor_Oxford_2020.pdf](/home/files/teaching/Labor_Oxford_2020/Syllabus_Labor_Oxford_2020.pdf)
-* Class page [/homeML_Oxford_2020](/home/Labor_Oxford_2020)
+* Class page [/home/Labor_Oxford_2020](/home/Labor_Oxford_2020)
 
 ## Harvard
 
