@@ -25,6 +25,10 @@ permalink: /computationlinks/
 (Introduction to the theory of algorithms)  
 <http://jeffe.cs.illinois.edu/teaching/algorithms/>  
 
+**The Ethical Algorithm**  
+(How to impose normative constraints on ML and other algorithms)  
+https://global.oup.com/academic/product/the-ethical-algorithm-9780190948207  
+
 ## Programming in R
 **An Introduction to R**  
 (Complete introduction to base R)  
