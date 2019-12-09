@@ -42,16 +42,20 @@ https://global.oup.com/academic/product/the-ethical-algorithm-9780190948207
 (In depth discussion of programming in R)  
 <https://adv-r.hadley.nz/>  
 
+**Hands-On Machine Learning with R**  
+(Fitting ML models in R)  
+<https://bradleyboehmke.github.io/HOML/>  
+
+**Bayesian statistics using Stan**  
+<https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started>  
+<https://mc-stan.org/docs/2_20/stan-users-guide/index.html>  
+
 **RStudio Cheat Sheets**  
 (for various extensions, including data processing, visualization, writing web apps, ...)  
 <https://www.rstudio.com/resources/cheatsheets/>  
 
 **Programming interactive R-apps using Shiny**  
 <https://shiny.rstudio.com/articles/>  
-
-**Bayesian statistics using Stan**  
-<https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started>  
-<https://mc-stan.org/docs/2_20/stan-users-guide/index.html>  
 
 **Training neural nets using Keras and Tensorflow**  
 <https://tensorflow.rstudio.com/keras/>  
