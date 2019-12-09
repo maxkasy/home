@@ -48,7 +48,7 @@ This course is an abridged version of a longer course on machine learning that I
 [Slides](/home/files/teaching/TopicsEconometrics2019/IntroductiontoR-Slides.pdf)
 * [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)
 * [Advanced R](https://adv-r.hadley.nz/)
-* [Hands-On Machine Learning with R]<https://bradleyboehmke.github.io/HOML/>  
+* [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)  
 * [Bayesian statistics using Stan](https://mc-stan.org/docs/2_20/stan-users-guide/index.html)  
 [RStan](https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started)  
 * [Training neural nets using Keras  and Tensorflow](https://tensorflow.rstudio.com/keras/)
