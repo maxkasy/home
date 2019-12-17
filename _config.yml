@@ -103,9 +103,9 @@ analytics:
 author:
   name             : "Maximilian Kasy"
   avatar           : "/files/profilepic.jpg"
-  bio              : "Associate Professor, Department of Economics, Harvard University"
-  location         : "Cambridge, MA"
-  email            : "maximiliankasy@fas.harvard.edu"
+  bio              : "Associate Professor, Department of Economics, Oxford University"
+  location         : "Oxford, UK"
+  email            : "maximilian.kasy@economics.ox.ac.uk"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
