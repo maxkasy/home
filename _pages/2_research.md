@@ -11,7 +11,7 @@ permalink: /research/
   Manuscript: [adaptiveexperimentspolicy.pdf](/home/files/papers/adaptiveexperimentspolicy.pdf)  
   Interactive Dashboard for your own experiment: [exploration_sampling_dashboard](https://maxkasy.shinyapps.io/exploration_sampling_dashboard/)  
 
-**Selective publication of findings: Why does it matter, and what should we do about it?**  
+**Of forking paths and tied hands: Selective publication of findings, and what we should  do about it**  
   *Under revision, Journal of Economic Perspectives, 2019*  
   Manuscript: [statistics_social_science.pdf](/home/files/papers/statistics_social_science.pdf)  
   
