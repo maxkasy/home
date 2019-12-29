@@ -9,18 +9,18 @@ permalink: /ML_Oxford_2020/
 
 ### Supervised learning: Shrinkage and tuning
 * Review of decision theory
-[Slides](/home/files/teaching/TopicsEconometrics2019/DecisionTheoryReview-Slides.pdf)
+[Slides](/home/files/teaching/ML_Oxford_2020/DecisionTheoryReview-Slides.pdf)
 * Shrinkage in the normal means model
-[Slides](/home/files/teaching/TopicsEconometrics2019/NormalShrinkage-Slides.pdf)
+[Slides](/home/files/teaching/ML_Oxford_2020/NormalShrinkage-Slides.pdf)
 * Deep neural nets
-[Slides](/home/files/teaching/TopicsEconometrics2019/DeepNets.pdf)
+[Slides](/home/files/teaching/ML_Oxford_2020/DeepNets.pdf)
 
 
 ### Active learning: Exploration and exploitation
 * Bandit problems
-[Slides](/home/files/teaching/TopicsEconometrics2019/BanditProblems-Slides.pdf)
+[Slides](/home/files/teaching/ML_Oxford_2020/BanditProblems-Slides.pdf)
 * Reinforcement learning
-[Slides](/home/files/teaching/TopicsEconometrics2019/ReinforcementLearning-Slides.pdf)  
+[Slides](/home/files/teaching/ML_Oxford_2020/ReinforcementLearning-Slides.pdf)  
 
 
 
