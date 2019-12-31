@@ -4,7 +4,7 @@ permalink: /presentations/
 ---
 
 **Adaptive treatment assignment in experiments for policy choice**  
-  Brown, October 1, 2019  
+  Causal Machine Learning Workshop St. Gallen, January 20, 2020  
   [Slides](/home/files/slides/adaptiveexperiments-slides-kasysautmann.pdf)  
   
 **Experiments designed to help the participants**  
@@ -26,7 +26,6 @@ permalink: /presentations/
 **Designing basic income experiments**  
   Jain Family Institute, April 12, 2019  
   [Slides](/home/files/slides/UBI-experimental-design-Kasy.pdf)  
-
 
 **Machine learning, shrinkage estimation, and economic theory**  
   Sciences Po, Friday, December 14, 2018  
