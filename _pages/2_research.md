@@ -33,6 +33,10 @@ permalink: /research/
 
 ## Publications
 
+**Approximate cross-validation: Guarantees for model assessment and selection**  
+(joint with Ashia Wilson and Lester Mackey)  
+*Artificial Intelligence and Statistics, 2020*  
+
 **No data in the void: Values and distributional conflicts in empirical policy research and artificial intelligence**  
   *Economics For Inclusive Prosperity, 2019*  
   Manuscript: [No-Data-in-the-Void.pdf](/home/files/papers/No-Data-in-the-Void.pdf)  
