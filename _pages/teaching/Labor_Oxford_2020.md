@@ -6,7 +6,7 @@ permalink: /Labor_Oxford_2020/
 
 * [Syllabus](/home/files/teaching/Labor_Oxford_2020/Syllabus_Labor_Oxford_2020.pdf)
 * [Essay questions](/home/files/teaching/Labor_Oxford_2020/Essay-questions-Labor-Kasy.pdf)
-* [Sample exam questions] Coming soon!
+* [Sample exam questions](/home/files/teaching/Labor_Oxford_2020/Labor_sample_exam_Kasy.pdf)  
 
 ### Slides
 * Week 1: Causal inference
