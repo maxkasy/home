@@ -27,7 +27,7 @@ permalink: /computationlinks/
 
 **The Ethical Algorithm**  
 (How to impose normative constraints on ML and other algorithms)  
-https://global.oup.com/academic/product/the-ethical-algorithm-9780190948207  
+<https://global.oup.com/academic/product/the-ethical-algorithm-9780190948207>  
 
 ## Programming in R
 **An Introduction to R**  
