@@ -3,8 +3,9 @@ title: Presentations
 permalink: /presentations/
 ---
 
-**What do we want? And when do we want it? Alternative objectives and their implications for experimental design.**   
-  [Slides](/home/files/slides/whatdowewant_slides_kasy.pdf) 
+**What do we want? And when do we want it? Alternative objectives and their implications for experimental design.**  
+  Oxford, February 2020  
+  [Slides](/home/files/slides/whatdowewant_slides_kasy.pdf)  
 
 **Adaptive treatment assignment in experiments for policy choice**  
   Causal Machine Learning Workshop St. Gallen, January 20, 2020  
