@@ -3,6 +3,10 @@ title: Commentary
 permalink: /commentary/
 ---
 
+**Bringt die Maschinen unter Kontrolle!**  
+  February 06, 2020  
+  [Der Standard](https://www.derstandard.at/story/2000114215491/bringt-die-maschinen-unter-kontrolle)  
+
 **Selective publication of findings: Why does it matter, and what should we do about it?**  
   September 17, 2019  
   [MetaArxiv](https://osf.io/preprints/metaarxiv/xwngs/)  
