@@ -7,17 +7,17 @@ permalink: /research/
 
 **Adaptive treatment assignment in experiments for policy choice**  
   (joint with Anja Sautmann)  
-  *Revise and resubmit, Econometrica, 2019*  
+  *Revise and resubmit, Econometrica, 2020*  
   Manuscript: [adaptiveexperimentspolicy.pdf](/home/files/papers/adaptiveexperimentspolicy.pdf)  
   Interactive Dashboard for your own experiment: [exploration_sampling_dashboard](https://maxkasy.shinyapps.io/exploration_sampling_dashboard/)  
 
 **Of forking paths and tied hands: Selective publication of findings, and what we should  do about it**  
-  *Under revision, Journal of Economic Perspectives, 2019*  
+  *Revise and resubmit, Journal of Economic Perspectives, 2020*  
   Manuscript: [statistics_social_science.pdf](/home/files/papers/statistics_social_science.pdf)  
   
 **Which findings should be published**,  
   (joint with Alex Frankel)  
-  *Submitted, 2018*  
+  *Revise and Resubmit, American Economic Journal: Microeconomics, 2020*  
   Manuscript: [findings.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/findings.pdf)  
   
 **Who wins, who loses? Identification of the welfare impact of changing wages**  
@@ -26,7 +26,7 @@ permalink: /research/
   
 **Job search assistance for refugees in Jordan: An adaptive field experiment**  
   (joint with Stefano Caria, Grant Gordon, Soha Osman, Simon Quinn and Alex Teytelboym)  
-  *Work in progress, 2019*  
+  *Work in progress, 2020*  
   RCT pre-registration: [AEA RCT Registry](https://www.socialscienceregistry.org/trials/3870)  
   Dashboard of preliminary results: [Dashboard](/home/files/other/reproducible_analysis_jordan.html)  
 
