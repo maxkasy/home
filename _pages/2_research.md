@@ -34,9 +34,9 @@ permalink: /research/
 ## Publications
 
 **Approximate cross-validation: Guarantees for model assessment and selection**  
-Manuscript: [acv-risk.pdf](/home/files/papers/acv-risk.pdf)
 (joint with Ashia Wilson and Lester Mackey)  
 *Artificial Intelligence and Statistics, 2020*  
+Manuscript: [acv-risk.pdf](/home/files/papers/acv-risk.pdf)  
 
 **No data in the void: Values and distributional conflicts in empirical policy research and artificial intelligence**  
   *Economics For Inclusive Prosperity, 2019*  
