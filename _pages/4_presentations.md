@@ -8,6 +8,10 @@ Alternative objectives and their implications for experimental design.**
   Oxford, February 2020  
   [Slides](/home/files/slides/whatdowewant_slides_kasy.pdf)  
 
+**No data in the void**  
+  Economics for Inclusive Prosperity Conference, Harvard Kennedy School, March 27, 2020  
+  [Slides](/home/files/slides/kasy_efip_slides.pdf)  
+  
 **Adaptive treatment assignment in experiments for policy choice**  
   Causal Machine Learning Workshop St. Gallen, January 20, 2020  
   [Slides](/home/files/slides/adaptiveexperiments-slides-kasysautmann.pdf)  
