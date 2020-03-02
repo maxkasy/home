@@ -3,6 +3,10 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Fairness, equality, and power in algorithmic decision making**  
+  Oxford, March 2020  
+  [Slides](/home/files/slides/fairness_equality_power_slides_kasy.pdf)  
+
 **What do we want? And when do we want it?  
 Alternative objectives and their implications for experimental design.**  
   Oxford, February 2020  
