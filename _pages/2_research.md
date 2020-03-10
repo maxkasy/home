@@ -9,6 +9,7 @@ permalink: /research/
   (joint with Anja Sautmann)  
   *Revise and resubmit, Econometrica, 2020*  
   Manuscript: [adaptiveexperimentspolicy.pdf](/home/files/papers/adaptiveexperimentspolicy.pdf)  
+  Supplementary Appendix: [adaptiveexperimentspolicy_supplement.pdf](/home/files/papers/adaptiveexperimentspolicy_supplement.pdf)  
   Interactive Dashboard for your own experiment: [exploration_sampling_dashboard](https://maxkasy.shinyapps.io/exploration_sampling_dashboard/)  
 
 **Of forking paths and tied hands: Selective publication of findings, and what we should  do about it**  
