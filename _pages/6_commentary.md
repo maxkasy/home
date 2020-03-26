@@ -3,6 +3,10 @@ title: Commentary
 permalink: /commentary/
 ---
 
+**Was ist eine Rezession und was hat Corona damit zu tun?**  
+  March 26, 2020  
+  [Moment](https://www.moment.at/story/was-ist-eine-rezession-und-was-hat-corona-damit-zu-tun)  
+
 **Bringt die Maschinen unter Kontrolle!**  
   February 06, 2020  
   [Der Standard](https://www.derstandard.at/story/2000114215491/bringt-die-maschinen-unter-kontrolle)  
