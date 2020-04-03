@@ -11,6 +11,7 @@ permalink: /presentations/
 Alternative objectives and their implications for experimental design.**  
   Oxford, February 2020  
   [Slides](/home/files/slides/whatdowewant_slides_kasy.pdf)  
+  [Zoom recording of presentation at Berkeley](https://berkeley.zoom.us/rec/share/_uxzdprK22VIaa-RzGzeYZ8YT5zuT6a82iQc_6EKzk-bocjQ-w_41LXJTqBbxQgS)  
 
 **No data in the void**  
   Economics for Inclusive Prosperity Conference, Harvard Kennedy School, March 27, 2020  
