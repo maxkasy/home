@@ -3,6 +3,10 @@ title: Commentary
 permalink: /commentary/
 ---
 
+**Was heisst eigentlich Kapitalismus?**  
+  April 7, 2020  
+  [Moment](https://www.moment.at/story/was-heisst-eigentlich-kapitalismus)  
+
 **Was ist eine Rezession und was hat Corona damit zu tun?**  
   March 26, 2020  
   [Moment](https://www.moment.at/story/was-ist-eine-rezession-und-was-hat-corona-damit-zu-tun)  
