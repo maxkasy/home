@@ -3,6 +3,10 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Adaptive allocation of resources under constraints**  
+  Oxford, May 2020  
+  [Slides](/home/files/slides/adaptive_resource_allocation_slides.pdf)  
+
 **Fairness, equality, and power in algorithmic decision making**  
   Oxford, March 2020  
   [Slides](/home/files/slides/fairness_equality_power_slides_kasy.pdf)  

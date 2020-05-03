@@ -1,4 +1,4 @@
----
+œ---
 title: Commentary
 permalink: /commentary/
 ---
@@ -31,7 +31,7 @@ permalink: /commentary/
 
 **Experiments for policy choice**  
   March 28, 2019  
-  [Phenomenal World Blog](https://phenomenalworld.org/metaresearch/experiments-for-policy-choice)  
+  [Phenomenal World Blog](https://phenomenalworld.org/analysis/experiments-for-policy-choice)  
 
 **The case for an unconditional safety net - guest blog on US-BIG**  
   February 1, 2019  
