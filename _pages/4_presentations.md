@@ -3,7 +3,7 @@ title: Presentations
 permalink: /presentations/
 ---
 
-**Adaptive allocation of resources under constraints**  
+**Adaptive combinatorial allocation: How to use limited resources while learning what works**  
   Oxford, May 2020  
   [Slides](/home/files/slides/adaptive_resource_allocation_slides.pdf)  
 
