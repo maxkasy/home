@@ -4,16 +4,16 @@ permalink: /presentations/
 ---
 
 **Adaptive combinatorial allocation: How to use limited resources while learning what works**  
-  Oxford, May 2020  
+  May 2020  
   [Slides](/home/files/slides/adaptive_resource_allocation_slides.pdf)  
 
 **Fairness, equality, and power in algorithmic decision making**  
-  Oxford, March 2020  
+  May 2020  
   [Slides](/home/files/slides/fairness_equality_power_slides_kasy.pdf)  
 
 **What do we want? And when do we want it?  
 Alternative objectives and their implications for experimental design.**  
-  Oxford, February 2020  
+  February 2020  
   [Slides](/home/files/slides/whatdowewant_slides_kasy.pdf)  
   [Zoom recording of presentation at Berkeley](https://berkeley.zoom.us/rec/share/_uxzdprK22VIaa-RzGzeYZ8YT5zuT6a82iQc_6EKzk-bocjQ-w_41LXJTqBbxQgS)  
 
