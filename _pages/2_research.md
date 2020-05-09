@@ -7,7 +7,7 @@ permalink: /research/
 
 **Adaptive treatment assignment in experiments for policy choice**  
   (joint with Anja Sautmann)  
-  *Revise and resubmit, Econometrica, 2020*  
+  *Conditionally accepted, Econometrica, 2020*  
   Manuscript: [adaptiveexperimentspolicy.pdf](/home/files/papers/adaptiveexperimentspolicy.pdf)  
   Supplementary Appendix: [adaptiveexperimentspolicy_supplement.pdf](/home/files/papers/adaptiveexperimentspolicy_supplement.pdf)  
   Interactive Dashboard for your own experiment: [exploration_sampling_dashboard](https://maxkasy.shinyapps.io/exploration_sampling_dashboard/)  
