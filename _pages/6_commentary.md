@@ -3,6 +3,10 @@ title: Commentary
 permalink: /commentary/
 ---
 
+**Steuern gegen den Klimawandel: Wie geht das?**  
+  May 7, 2020  
+  [Moment](https://www.moment.at/story/was-hat-der-energiepreis-mit-dem-klimawandel-zu-tun)  
+
 **Was heisst eigentlich Kapitalismus?**  
   April 7, 2020  
   [Moment](https://www.moment.at/story/was-heisst-eigentlich-kapitalismus)  
