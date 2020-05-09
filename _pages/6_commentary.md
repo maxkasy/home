@@ -1,4 +1,4 @@
-œ---
+---
 title: Commentary
 permalink: /commentary/
 ---
