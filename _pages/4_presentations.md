@@ -3,6 +3,12 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**What do we want? And when do we want it?  
+Alternative objectives and their implications for experimental design.**  
+  May 2020  
+  [Slides](/home/files/slides/whatdowewant_slides_kasy.pdf)  
+<!-- [Zoom recording of presentation at Berkeley](https://berkeley.zoom.us/rec/share/_uxzdprK22VIaa-RzGzeYZ8YT5zuT6a82iQc_6EKzk-bocjQ-w_41LXJTqBbxQgS)   -->
+
 **Adaptive combinatorial allocation: How to use limited resources while learning what works**  
   May 2020  
   [Slides](/home/files/slides/adaptive_resource_allocation_slides.pdf)  
@@ -10,12 +16,6 @@ permalink: /presentations/
 **Fairness, equality, and power in algorithmic decision making**  
   May 2020  
   [Slides](/home/files/slides/fairness_equality_power_slides_kasy.pdf)  
-
-**What do we want? And when do we want it?  
-Alternative objectives and their implications for experimental design.**  
-  February 2020  
-  [Slides](/home/files/slides/whatdowewant_slides_kasy.pdf)  
-  [Zoom recording of presentation at Berkeley](https://berkeley.zoom.us/rec/share/_uxzdprK22VIaa-RzGzeYZ8YT5zuT6a82iQc_6EKzk-bocjQ-w_41LXJTqBbxQgS)  
 
 **No data in the void**  
   Economics for Inclusive Prosperity Conference, Harvard Kennedy School, March 27, 2020  
