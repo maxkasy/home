@@ -20,7 +20,7 @@ permalink: /research/
 **Adaptive Targeted Infectious Disease Testing**  
   (joint with Alex Teytelboym)  
   *Working paper, 2020*  
-  Manuscript: [statistics_social_science.pdf](/home/files/papers/adaptive_testing.pdf)  
+  Manuscript: [adaptive_testing.pdf](/home/files/papers/adaptive_testing.pdf)  
 
 **Of forking paths and tied hands: Selective publication of findings, and what we should  do about it**  
   *Revise and resubmit, Journal of Economic Perspectives, 2020*  
