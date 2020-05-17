@@ -17,7 +17,7 @@ permalink: /research/
   *Working paper, 2020*  
   Manuscript: [adaptive_testing.pdf](/home/files/papers/adaptive_testing.pdf)  
   
-**Job search assistance for refugees in Jordan: An adaptive field experiment**  
+**An Adaptive Targeted Field Experiment: Job Search Assistance for Refugees in Jordan**  
   (joint with Stefano Caria, Grant Gordon, Soha Osman, Simon Quinn and Alex Teytelboym)  
   *Working paper, 2020*  
   Manuscript: [RefugeesWork.pdf](/home/files/papers/RefugeesWork.pdf)  
