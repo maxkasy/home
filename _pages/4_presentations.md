@@ -7,7 +7,9 @@ permalink: /presentations/
 Alternative objectives and their implications for experimental design.**  
   May 2020  
   [Slides](/home/files/slides/whatdowewant_slides_kasy.pdf)  
-<!-- [Zoom recording of presentation at Berkeley](https://berkeley.zoom.us/rec/share/_uxzdprK22VIaa-RzGzeYZ8YT5zuT6a82iQc_6EKzk-bocjQ-w_41LXJTqBbxQgS)   -->
+  [Recording of presentation in the Chamberlain online seminar](https://www.youtube.com/watch?v=qZ55lea_fNA)  
+  (With discussions by David McKenzie and Max Tabord-Meehan)  
+  <!-- [Zoom recording of presentation at Berkeley](https://berkeley.zoom.us/rec/share/_uxzdprK22VIaa-RzGzeYZ8YT5zuT6a82iQc_6EKzk-bocjQ-w_41LXJTqBbxQgS)   -->
 
 **Adaptive combinatorial allocation: How to use limited resources while learning what works**  
   May 2020  
