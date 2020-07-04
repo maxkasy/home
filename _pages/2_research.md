@@ -14,7 +14,7 @@ permalink: /research/
   
 **Adaptive Targeted Infectious Disease Testing**  
   (joint with Alex Teytelboym)  
-  *Working paper, 2020*  
+  *Accepted, Oxford Review of Economics Policy, 2020*  
   Manuscript: [adaptive_testing.pdf](/home/files/papers/adaptive_testing.pdf)  
   
 **An Adaptive Targeted Field Experiment: Job Search Assistance for Refugees in Jordan**  
@@ -39,7 +39,7 @@ permalink: /research/
   Manuscript: [findings.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/findings.pdf)  
   
 **Who wins, who loses? Identification of the welfare impact of changing wages**  
-  *Submitted, 2018*  
+  *Revise and Resubmit, Journal of Econometrics, 2020*  
   Manuscript: [whowinswholoses.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/Whowinswholoses.pdf)  
 
 
