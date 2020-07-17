@@ -12,6 +12,11 @@ permalink: /research/
   Supplementary Appendix: [adaptiveexperimentspolicy_supplement.pdf](/home/files/papers/adaptiveexperimentspolicy_supplement.pdf)  
   Interactive Dashboard for your own experiment: [exploration_sampling_dashboard](https://maxkasy.shinyapps.io/exploration_sampling_dashboard/)  
   
+  **Fairness, equality, and power in algorithmic decision making**  
+    (joint with Rediet Abebe)  
+    *Workshop on Participatory Approaches to Machine Learning, International Conference on Machine Learning, 2020*  
+    Manuscript: [fairness_equality_power.pdf](/home/files/papers/fairness_equality_power.pdf)    
+  
 **Adaptive Targeted Infectious Disease Testing**  
   (joint with Alex Teytelboym)  
   *Accepted, Oxford Review of Economics Policy, 2020*  
@@ -22,12 +27,7 @@ permalink: /research/
   *Working paper, 2020*  
   Manuscript: [RefugeesWork.pdf](/home/files/papers/RefugeesWork.pdf)  
   Supplementary Appendix: [RefugeesWork_onlineAppendix.pdf](/home/files/papers/RefugeesWork_onlineAppendix.pdf)  
-  Registered pre-analysis plan: [AEA RCT Registry](https://www.socialscienceregistry.org/trials/3870)  
-
-**Fairness, equality, and power in algorithmic decision making**  
-  (joint with Rediet Abebe)  
-  *Working paper, 2020*  
-  Manuscript: [fairness_equality_power.pdf](/home/files/papers/fairness_equality_power.pdf)  
+  Registered pre-analysis plan: [AEA RCT Registry](https://www.socialscienceregistry.org/trials/3870)   
 
 **Of forking paths and tied hands: Selective publication of findings, and what we should  do about it**  
   *Revise and resubmit, Journal of Economic Perspectives, 2020*  
@@ -46,6 +46,8 @@ permalink: /research/
 
 ## Publications
 
+
+
 **Approximate cross-validation: Guarantees for model assessment and selection**  
 (joint with Ashia Wilson and Lester Mackey)  
 *Artificial Intelligence and Statistics, 2020*  
@@ -62,7 +64,7 @@ Manuscript: [acv-risk.pdf](/home/files/papers/acv-risk.pdf)
   
 **Choosing among regularized estimators in empirical economics - the risk of machine learning**  
   (joint with Alberto Abadie)  
-  *Forthcoming, Review of Economics and Statistics, 2019*  
+  *Review of Economics and Statistics, 2019*  
   Manuscript: [riskml.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/riskml.pdf)  
   
 **How to use economic theory to improve estimators: Shrinking toward theoretical restrictions**  
