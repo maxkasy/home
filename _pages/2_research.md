@@ -12,10 +12,10 @@ permalink: /research/
   Supplementary Appendix: [adaptiveexperimentspolicy_supplement.pdf](/home/files/papers/adaptiveexperimentspolicy_supplement.pdf)  
   Interactive Dashboard for your own experiment: [exploration_sampling_dashboard](https://maxkasy.shinyapps.io/exploration_sampling_dashboard/)  
   
-  **Fairness, equality, and power in algorithmic decision making**  
-    (joint with Rediet Abebe)  
-    *Workshop on Participatory Approaches to Machine Learning, International Conference on Machine Learning, 2020*  
-    Manuscript: [fairness_equality_power.pdf](/home/files/papers/fairness_equality_power.pdf)    
+**Fairness, equality, and power in algorithmic decision making**  
+  (joint with Rediet Abebe)  
+  *Workshop on Participatory Approaches to Machine Learning, International Conference on Machine Learning, 2020*  
+  Manuscript: [fairness_equality_power.pdf](/home/files/papers/fairness_equality_power.pdf)    
   
 **Adaptive Targeted Infectious Disease Testing**  
   (joint with Alex Teytelboym)  
