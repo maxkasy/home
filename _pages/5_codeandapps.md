@@ -16,8 +16,9 @@ permalink: /code-and-apps/
 
 ### App for estimating publication bias using meta-studies  
 * Interactive App: [/metastudy]({{ site.url }}{{ site.baseurl}}/metastudy/)
-* Repository: [https://github.com/maxkasy/MetaStudiesApp](https://github.com/maxkasy/MetaStudiesApp) 
-* Theoretical background: [PublicationBias.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/PublicationBias.pdf) 
+* Repository: [https://github.com/maxkasy/MetaStudiesApp](https://github.com/maxkasy/MetaStudiesApp)  
+* Theoretical background: [PublicationBias.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/PublicationBias.pdf)  
+* R code implementing GMM version (programmed by Birt Sharoni) [gmm_estimation_r.zip](https://scholar.harvard.edu/files/iandrews/files/gmm_estimation_r.zip)  
 
 ### App for Thompson sampling for contextual bandits  
 * Interactive App: [/hierarchicalthompson]({{ site.url }}{{ site.baseurl}}/hierarchicalthompson/)
