@@ -25,7 +25,7 @@ permalink: /code-and-apps/
 * Repository: [https://github.com/maxkasy/ThompsonHierarchicalApp](https://github.com/maxkasy/ThompsonHierarchicalApp)
 * Theoretical background: [A Tutorial on Thompson Sampling](https://arxiv.org/abs/1707.02038)    
 
-### R-code for optimal taxation and insurance using machine learning  
+### R code for optimal taxation and insurance using machine learning  
 * Repository: [https://github.com/maxkasy/optimaltaxationusingML](https://github.com/maxkasy/optimaltaxationusingML)  
 * Theoretical background: [PolicyDecisions.pdf]({{ site.url }}{{ site.baseurl}}/files/papers/PolicyDecisions.pdf) 
 

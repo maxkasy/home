@@ -15,12 +15,7 @@ permalink: /research/
 **Fairness, equality, and power in algorithmic decision making**  
   (joint with Rediet Abebe)  
   *Workshop on Participatory Approaches to Machine Learning, International Conference on Machine Learning, 2020*  
-  Manuscript: [fairness_equality_power.pdf](/home/files/papers/fairness_equality_power.pdf)    
-  
-**Adaptive Targeted Infectious Disease Testing**  
-  (joint with Alex Teytelboym)  
-  *Accepted, Oxford Review of Economics Policy, 2020*  
-  Manuscript: [adaptive_testing.pdf](/home/files/papers/adaptive_testing.pdf)  
+  Manuscript: [fairness_equality_power.pdf](/home/files/papers/fairness_equality_power.pdf)  
   
 **An Adaptive Targeted Field Experiment: Job Search Assistance for Refugees in Jordan**  
   (joint with Stefano Caria, Grant Gordon, Soha Osman, Simon Quinn and Alex Teytelboym)  
@@ -46,6 +41,10 @@ permalink: /research/
 ## Publications
 
 
+**Adaptive Targeted Infectious Disease Testing**  
+(joint with Alex Teytelboym)  
+*Oxford Review of Economic Policy, 2020*  
+Manuscript: [adaptive_testing.pdf](/home/files/papers/adaptive_testing.pdf)  
 
 **Approximate cross-validation: Guarantees for model assessment and selection**  
 (joint with Ashia Wilson and Lester Mackey)  
