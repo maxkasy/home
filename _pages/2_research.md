@@ -5,13 +5,6 @@ permalink: /research/
 
 ## Working papers
 
-**Adaptive treatment assignment in experiments for policy choice**  
-  (joint with Anja Sautmann)  
-  *Conditionally accepted, Econometrica, 2020*  
-  Manuscript: [adaptiveexperimentspolicy.pdf](/home/files/papers/adaptiveexperimentspolicy.pdf)  
-  Supplementary Appendix: [adaptiveexperimentspolicy_supplement.pdf](/home/files/papers/adaptiveexperimentspolicy_supplement.pdf)  
-  Interactive Dashboard for your own experiment: [exploration_sampling_dashboard](https://maxkasy.shinyapps.io/exploration_sampling_dashboard/)  
-  
 **Fairness, equality, and power in algorithmic decision making**  
   (joint with Rediet Abebe)  
   *Workshop on Participatory Approaches to Machine Learning, International Conference on Machine Learning, 2020*  
@@ -40,16 +33,22 @@ permalink: /research/
 
 ## Publications
 
+**Adaptive treatment assignment in experiments for policy choice**  
+  (joint with Anja Sautmann)  
+  *Forthcoming, Econometrica, 2020*  
+  Manuscript: [adaptiveexperimentspolicy.pdf](/home/files/papers/adaptiveexperimentspolicy.pdf)  
+  Supplementary Appendix: [adaptiveexperimentspolicy_supplement.pdf](/home/files/papers/adaptiveexperimentspolicy_supplement.pdf)  
+  Interactive Dashboard for your own experiment: [exploration_sampling_dashboard](https://maxkasy.shinyapps.io/exploration_sampling_dashboard/)  
 
 **Adaptive Targeted Infectious Disease Testing**  
-(joint with Alex Teytelboym)  
-*Oxford Review of Economic Policy, 2020*  
-Manuscript: [adaptive_testing.pdf](/home/files/papers/adaptive_testing.pdf)  
+  (joint with Alex Teytelboym)  
+  *Oxford Review of Economic Policy, 2020*  
+  Manuscript: [adaptive_testing.pdf](/home/files/papers/adaptive_testing.pdf)  
 
 **Approximate cross-validation: Guarantees for model assessment and selection**  
-(joint with Ashia Wilson and Lester Mackey)  
-*Artificial Intelligence and Statistics, 2020*  
-Manuscript: [acv-risk.pdf](/home/files/papers/acv-risk.pdf)  
+  (joint with Ashia Wilson and Lester Mackey)  
+  *Artificial Intelligence and Statistics, 2020*  
+  Manuscript: [acv-risk.pdf](/home/files/papers/acv-risk.pdf)  
 
 **No data in the void: Values and distributional conflicts in empirical policy research and artificial intelligence**  
   *Economics For Inclusive Prosperity, 2019*  
