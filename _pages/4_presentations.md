@@ -3,6 +3,10 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**How to run an adaptive field experiment**  
+September 2020  
+[Slides](/home/files/slides/adaptive_field_slides_kasy.pdf)  
+
 **What do we want? And when do we want it?  
 Alternative objectives and their implications for experimental design.**  
   May 2020  
