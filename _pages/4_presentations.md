@@ -3,9 +3,13 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**The social impact of algorithmic decision making: Economic perspectives**  
+  October 2020  
+  [Slides](/home/files/slides/econ_algorithms_slides_kasy.pdf)  
+
 **How to run an adaptive field experiment**  
-September 2020  
-[Slides](/home/files/slides/adaptive_field_slides_kasy.pdf)  
+  September 2020  
+  [Slides](/home/files/slides/adaptive_field_slides_kasy.pdf)  
 
 **What do we want? And when do we want it?  
 Alternative objectives and their implications for experimental design.**  
