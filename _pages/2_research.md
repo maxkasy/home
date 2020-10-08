@@ -7,13 +7,13 @@ permalink: /research/
 
 **Fairness, equality, and power in algorithmic decision making**  
   (joint with Rediet Abebe)  
-  *Workshop on Participatory Approaches to Machine Learning, International Conference on Machine Learning, 2020*  
   Manuscript: [fairness_equality_power.pdf](/home/files/papers/fairness_equality_power.pdf)  
   
 **An Adaptive Targeted Field Experiment: Job Search Assistance for Refugees in Jordan**  
   (joint with Stefano Caria, Grant Gordon, Soha Osman, Simon Quinn and Alex Teytelboym)  
   *Working paper, 2020*  
   Manuscript: [RefugeesWork.pdf](/home/files/papers/RefugeesWork.pdf)  
+  Supplementary appendix: [RefugeesWork_OnlineAppendix.pdf](/home/files/papers/RefugeesWork_OnlineAppendix.pdf)    
   Registered pre-analysis plan: [AEA RCT Registry](https://www.socialscienceregistry.org/trials/3870)   
 
 **Of forking paths and tied hands: Selective publication of findings, and what we should  do about it**  
