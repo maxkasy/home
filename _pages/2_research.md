@@ -7,6 +7,7 @@ permalink: /research/
 
 **Fairness, equality, and power in algorithmic decision making**  
   (joint with Rediet Abebe)  
+  *Working paper, 2020*  
   Manuscript: [fairness_equality_power.pdf](/home/files/papers/fairness_equality_power.pdf)  
   
 **An Adaptive Targeted Field Experiment: Job Search Assistance for Refugees in Jordan**  
@@ -15,6 +16,11 @@ permalink: /research/
   Manuscript: [RefugeesWork.pdf](/home/files/papers/RefugeesWork.pdf)  
   Supplementary appendix: [RefugeesWork_OnlineAppendix.pdf](/home/files/papers/RefugeesWork_onlineAppendix.pdf)    
   Registered pre-analysis plan: [AEA RCT Registry](https://www.socialscienceregistry.org/trials/3870)   
+
+**Adaptive Combinatorial Allocation**  
+  (joint with Alex Teytelboym)  
+  *Working paper, 2020*  
+  Manuscript: [adaptive_combinatorial.pdf](/home/files/papers/adaptive_combinatorial.pdf)  
 
 **Of forking paths and tied hands: Selective publication of findings, and what we should  do about it**  
   *Revise and resubmit, Journal of Economic Perspectives, 2020*  
