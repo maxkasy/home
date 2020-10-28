@@ -17,6 +17,10 @@ permalink: /computationlinks/
 (The theory and implementation of neural nets)  
 <https://www.deeplearningbook.org/>  
 
+**Understanding machine learning: From theory to algorithms**  
+(An introduction to statistical learning theory in the tradition of Vapnik)  
+<https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf>
+
 **Reinforcement learning - An introduction**  
 (Adaptive learning for Markov decision problems)  
 <http://www.incompleteideas.net/book/RLbook2018.pdf>  

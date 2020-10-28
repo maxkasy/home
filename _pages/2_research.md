@@ -21,6 +21,12 @@ permalink: /research/
   (joint with Alex Teytelboym)  
   *Working paper, 2020*  
   Manuscript: [adaptive_combinatorial.pdf](/home/files/papers/adaptive_combinatorial.pdf)  
+  
+**Employing the unemployed of Marienthal: Evaluation of a guaranteed job program**  
+  (joint with Lukas Lehner)  
+  *Experiment in progress, 2020*  
+  Pre-analysis plan: [PAP_job_guarantee_Marienthal.pdf](/home/files/other/PAP_job_guarantee_Marienthal.pdf)  
+  Code repository: [Github](https://github.com/maxkasy/Marienthal)  
 
 **Of forking paths and tied hands: Selective publication of findings, and what we should  do about it**  
   *Revise and resubmit, Journal of Economic Perspectives, 2020*  
