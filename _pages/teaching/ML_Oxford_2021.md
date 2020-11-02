@@ -6,6 +6,7 @@ permalink: /ML_Oxford_2021/
 
 * Tentative Syllabus [Syllabus_ML_Oxford_2021.pdf](/home/files/teaching/ML_Oxford_2021/Syllabus_ML_Oxford_2021.pdf)
 * Sample exam questions [ML_sample_exam.pdf](/home/files/teaching/ML_Oxford_2021/ML_sample_exam.pdf)  
+* Zoom room for lectures [Zoom room - Advanced Econometrics, Part I](https://zoom.us/j/94522927229?pwd=OUNKZC9FcWFQdUN6Y05FUzBCejFpdz09)
 
 ### Supervised learning: Shrinkage and tuning
 * Review of decision theory
