@@ -26,6 +26,7 @@ permalink: /research/
   (joint with Lukas Lehner)  
   *Experiment in progress, 2020*  
   Pre-analysis plan: [PAP_job_guarantee_Marienthal.pdf](/home/files/other/PAP_job_guarantee_Marienthal.pdf)  
+  (Registered as [AEARCTR-0006706](https://www.socialscienceregistry.org/trials/6706))  
   Code: [https://github.com/maxkasy/Marienthal](https://github.com/maxkasy/Marienthal)  
 
 **Of forking paths and tied hands: Selective publication of findings, and what we should  do about it**  
