@@ -3,6 +3,69 @@ title: Commentary
 permalink: /commentary/
 ---
 
+**Employing the unemployed of Marienthal: Evaluation of a guaranteed job program**  
+Fall 2020, Media coverage  
+[Independent](https://www.independent.co.uk/news/uk/politics/unconditional-job-guarantee-trial-austria-marienthal-oxford-universal-basic-income-b1451788.html)  
+[Der Standard](https://apps.derstandard.at/privacywall/story/2000121172201/ein-garantierter-job-fuer-alle-arbeitslose-ams-testet-in-marienthal)  
+[Kurier](https://kurier.at/chronik/niederoesterreich/die-langzeitarbeitslosen-von-marienthal-ams-startet-modellprojekt/401072784)  
+[Moment](https://www.moment.at/story/experiment-jobgarantie-arbeit-fuer-alle-gramatneusiedl)  
+
+
+## Policy papers and essays (in English)
+
+**Selective publication of findings: Why does it matter, and what should we do about it?**  
+September 17, 2019  
+[MetaArxiv](https://osf.io/preprints/metaarxiv/xwngs/)  
+
+**No data in the void: Values and distributional conflicts in empirical policy research and artificial intelligence**  
+August 26, 2019  
+[Economics For Inclusive Prosperity](/home/files/papers/efip_valuesanddata_kasy.pdf)  
+
+**Why a Universal Basic Income Is Better Than Subsidies of Low-Wage Work**  
+November 9, 2018  
+[Data for Progress working paper](http://filesforprogress.org/pdfs/UBI_EITC_Kasy_DFP_Working_Paper.pdf)  
+
+**Politics isn't just about facts. Effective communication requires addressing normative assumptions**  
+August 10, 2017  
+[Washington Post](https://www.washingtonpost.com/news/posteverything/wp/2017/08/10/liberals-are-terrible-at-arguing-with-conservatives-heres-how-they-can-get-better/) 
+
+**Why economists need to study inequality**  
+October 4, 2016  
+[ITEMS](http://items.ssrc.org/normative-individualism-and-research-on-inequality/)
+
+
+## Phenomenal World Blog (in English)
+
+**The politics of machine learning**  
+**Part I** June 27, 2019  
+[Phenomenal World Blog](https://phenomenalworld.org/digital-ethics/politics-of-machine-learning)  
+**Part II** July 3, 2019  
+[Phenomenal World Blog](https://phenomenalworld.org/digital-ethics/politics-of-machine-learning-ii)  
+
+**Experiments for policy choice**  
+March 28, 2019  
+[Phenomenal World Blog](https://phenomenalworld.org/analysis/experiments-for-policy-choice)  
+
+**The case for an unconditional safety net - guest blog on US-BIG**  
+February 1, 2019  
+[Phenomenal World Blog](https://phenomenalworld.org/analysis/the-case-for-an-unconditional-safety-net)  
+[Guest Blog, US-BIG](https://usbig.net/guest-blog-the-case-for-an-unconditional-safety-net/)  
+
+
+## Moment Newsletter (in German)
+
+**Staatsschulden und Budgetdefizit: Was ist das eigentlich? Und ist es schlecht?**  
+November 9, 2020  
+[Moment](https://www.moment.at/story/staatsschulden-und-budgetdefizit-was-ist-das-eigentlich-und-ist-es-schlecht)  
+
+**Was ist Künstliche Intelligenz? Und müssen wir uns davor fürchten?**  
+October 13, 2020  
+[Moment](https://www.moment.at/story/was-ist-kuenstliche-intelligenz-und-muessen-wir-uns-davor-fuerchten)  
+
+**Warum gibt es Steuern?**  
+August 17, 2020  
+[Moment](https://www.moment.at/story/warum-gibt-es-steuern)  
+
 **Steuern gegen den Klimawandel: Wie geht das?**  
   May 7, 2020  
   [Moment](https://www.moment.at/story/was-hat-der-energiepreis-mit-dem-klimawandel-zu-tun)  
@@ -15,42 +78,17 @@ permalink: /commentary/
   March 26, 2020  
   [Moment](https://www.moment.at/story/was-ist-eine-rezession-und-was-hat-corona-damit-zu-tun)  
 
+
+
+## Der Standard Op-eds (in German)
+
 **Bringt die Maschinen unter Kontrolle!**  
   February 06, 2020  
   [Der Standard](https://www.derstandard.at/story/2000114215491/bringt-die-maschinen-unter-kontrolle)  
 
-**Selective publication of findings: Why does it matter, and what should we do about it?**  
-  September 17, 2019  
-  [MetaArxiv](https://osf.io/preprints/metaarxiv/xwngs/)  
-
-**No data in the void: Values and distributional conflicts in empirical policy research and artificial intelligence**  
-  August 26, 2019  
-  [Economics For Inclusive Prosperity](/home/files/papers/efip_valuesanddata_kasy.pdf)  
-
-**The politics of machine learning**  
-  **Part I** June 27, 2019  
-  [Phenomenal World Blog](https://phenomenalworld.org/digital-ethics/politics-of-machine-learning)  
-  **Part II** July 3, 2019  
-  [Phenomenal World Blog](https://phenomenalworld.org/digital-ethics/politics-of-machine-learning-ii)  
-
-**Experiments for policy choice**  
-  March 28, 2019  
-  [Phenomenal World Blog](https://phenomenalworld.org/analysis/experiments-for-policy-choice)  
-
-**The case for an unconditional safety net - guest blog on US-BIG**  
-  February 1, 2019  
-  [Phenomenal World Blog](https://phenomenalworld.org/guaranteed-income/the-case-for-an-unconditional-safety-net)  
-  [Guest Blog, US-BIG](https://usbig.net/guest-blog-the-case-for-an-unconditional-safety-net/)  
-
-**Why a Universal Basic Income Is Better Than Subsidies of Low-Wage Work**  
-  November 9, 2018  
-  [Data for Progress working paper](http://filesforprogress.org/pdfs/UBI_EITC_Kasy_DFP_Working_Paper.pdf)   
-  
-  
 **Was für Reformen wären auf EU-Ebene notwendig und möglich? Zwei Vorschläge zu Konzernsteuern und Asylsystem**  
   Aug 27, 2018  
   [Der Standard](https://derstandard.at/2000086080544/In-der-EU-kann-es-unter-Wiens-Vorsitz-flutschen)
-
 
 **Künstliche Intelligenz und ihre sozialen Folgen**  
   May 22, 2018  
@@ -59,10 +97,6 @@ permalink: /commentary/
 **Motoren der steigenden Ungleichheit**  
   August 13, 2017  
   [Der Standard](http://derstandard.at/2000062619018/Die-Motoren-der-steigenden-Ungleichheit) 
-  
-**Politics isn't just about facts. Effective communication requires addressing normative assumptions**  
-  August 10, 2017  
-  [Washington Post](https://www.washingtonpost.com/news/posteverything/wp/2017/08/10/liberals-are-terrible-at-arguing-with-conservatives-heres-how-they-can-get-better/) 
   
 **Warum CO2-Steuern sinnvoll wären**  
   May 29, 2017  
@@ -75,10 +109,6 @@ permalink: /commentary/
 **Schöne neue Arbeitswelt**  
   December 19, 2016  
   [Der Standard](http://derstandard.at/2000049509211/Schoene-neue-Arbeitswelt)
-  
-**Why economists need to study inequality**  
-  October 4, 2016  
-  [ITEMS](http://items.ssrc.org/normative-individualism-and-research-on-inequality/)
   
 **Technischer Fortschritt - für wen?**  
   September 27, 2016  
@@ -96,19 +126,15 @@ permalink: /commentary/
   July 22, 2016  
   [Der Standard](http://derstandard.at/2000031656483/Warum-Mindestsicherung-Arbeitslosigkeit-nicht-erhoeht)
   
-**Interview auf FM4 zu Ungleichheit und Steuerflucht**  
-  January 19, 2016  
-  [FM4](http://fm4.orf.at/player/20160118/CO/181415)
-  
+
 **Ich habe nichts zu verbergen**  
   January 19, 2016  
   [Der Standard](http://derstandard.at/2000029197395/Datenschutz-Ich-habe-nichts-zu-verbergen)
 
 **Was tun mit dem Nationalstaat?**  
   January 19, 2016  
-  [Mosiak Blog](https://mosaik-blog.at/teil-i-nationalstaat-und-internationale-institutionen-aus-linker-perspektive/)
+  [Mosaik Blog](https://mosaik-blog.at/teil-i-nationalstaat-und-internationale-institutionen-aus-linker-perspektive/)
   
-
 **Was tun mit den Wirtschaftsflüchtlingen?**  
   November 11, 2015  
   [Der Standard](http://derstandard.at/2000024645613/Was-tun-mit-den-Wirtschaftsfluechtlingen)
@@ -117,38 +143,48 @@ permalink: /commentary/
   November 11, 2015  
   [Der Standard](http://derstandard.at/2000022429210/Flucht-was-sich-an-der-Politik-Europas-aendern-muss)
 
-**Wie können die das mit ihrem Gewissen vereinbaren?**  
-  August 20, 2015  
-  [Mosiak Blog](https://mosaik-blog.at/wie-koennen-die-das-mit-ihrem-gewissen-vereinbaren/)
-  
 **Griechenlands Krise und die Fehler der EU-Politik**  
   June 28, 2015  
   [Der Standard](http://derstandard.at/2000018178209/Griechenlands-Krise-und-die-Fehler-der-EU-Politik)
   
+**Arbeitsrecht für AsylwerberInnen!**  
+  November 13, 2014  
+  [Der Standard](http://derstandard.at/2000007929004/Warum-Asylwerber-Arbeitserlaubnis-erhalten-sollten)
+  
+**Wie sich Ungleichheit kleinrechnen lässt**  
+  August 11, 2014  
+  [Der Standard](http://derstandard.at/2000004031848/Wie-sich-Ungleichheit-kleinrechnen-laesst)
+      
+## Various Blogs (in German)  
+  
+**Interview auf FM4 zu Ungleichheit und Steuerflucht**  
+  January 19, 2016  
+  [FM4](http://fm4.orf.at/player/20160118/CO/181415)  
+  
+**Wie können die das mit ihrem Gewissen vereinbaren?**  
+  August 20, 2015  
+  [Mosaik Blog](https://mosaik-blog.at/wie-koennen-die-das-mit-ihrem-gewissen-vereinbaren/)
+  
 **Wer profitiert eigentlich von öffentlichen Bildungsausgaben?**  
   June 3, 2015  
-  [Mosiak Blog](https://mosaik-blog.at/wer-profitiert-eigentlich-von-oeffentlichen-bildungsausgaben/)
+  [Mosaik Blog](https://mosaik-blog.at/wer-profitiert-eigentlich-von-oeffentlichen-bildungsausgaben/)
   
 **Leistbares Wohnen, soziale Durchmischung, städtischer Wandel und Standortwettbewerb**  
   May 6, 2015  
-  [Mosiak Blog](https://mosaik-blog.at/wohnen-gentrifizierung-stadt/)
+  [Mosaik Blog](https://mosaik-blog.at/wohnen-gentrifizierung-stadt/)
   
 **Gentrifizierung, direkte Aktionen und Stadtplanung**  
   May 6, 2015  
-  [Mosiak Blog](https://mosaik-blog.at/schwerpunkt-wohnen-i-gentrifizierung-direkte-aktionen-und-stadtplanung/)
+  [Mosaik Blog](https://mosaik-blog.at/schwerpunkt-wohnen-i-gentrifizierung-direkte-aktionen-und-stadtplanung/)
   
 **Ein paar Gedanken zur Verteilungsdebatte – linke und konservative Vorstellungen von Verteilungsgerechtigkeit**  
   February 16, 2015  
-  Teil 1: [Mosiak Blog](https://mosaik-blog.at/ein-paar-gedanken-zur-verteilungsdebatte-linke-und-konservative-vorstellungen-von-verteilungsgerechtigkeit-teil-1/)  
-  Teil 2: [Mosiak Blog](https://mosaik-blog.at/ein-paar-gedanken-zur-verteilungsdebatte-vorstellungen-von-verteilungsgerechtigkeit-teil-2/)  
+  Teil 1: [Mosaik Blog](https://mosaik-blog.at/ein-paar-gedanken-zur-verteilungsdebatte-linke-und-konservative-vorstellungen-von-verteilungsgerechtigkeit-teil-1/)  
+  Teil 2: [Mosaik Blog](https://mosaik-blog.at/ein-paar-gedanken-zur-verteilungsdebatte-vorstellungen-von-verteilungsgerechtigkeit-teil-2/)  
 
 **Warum steigt die Ungleichheit der Löhne?**  
   January 22, 2015  
   [GBW](https://www.gbw.at/index.php?id=153&tx_ongbw_pi1%5Barticle%5D=10940&cHash=1c8842448e0d19b49526b14c56366dee)
-
-**Arbeitsrecht für AsylwerberInnen!**  
-  November 13, 2014  
-  [Der Standard](http://derstandard.at/2000007929004/Warum-Asylwerber-Arbeitserlaubnis-erhalten-sollten)
 
 **Wer arm ist, ist selber schuld**  
   October 21, 2014  
@@ -157,10 +193,6 @@ permalink: /commentary/
 **Staatsschulden – gut oder böse?**  
   September 20, 2014  
   [GBW](https://www.gbw.at/index.php?id=153&tx_ongbw_pi1%5Barticle%5D=10819&cHash=e00e81751ab1016bdad24c68240cd4aa)
-
-**Wie sich Ungleichheit kleinrechnen lässt**  
-  August 11, 2014  
-  [Der Standard](http://derstandard.at/2000004031848/Wie-sich-Ungleichheit-kleinrechnen-laesst)
 
 **Gute öffentliche Gratiskindergärten für alle**  
   July 24, 2014  
