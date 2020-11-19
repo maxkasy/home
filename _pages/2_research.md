@@ -33,10 +33,7 @@ permalink: /research/
   *Revise and resubmit, Journal of Economic Perspectives, 2020*  
   Manuscript: [statistics_social_science.pdf](/home/files/papers/statistics_social_science.pdf)  
   
-**Which findings should be published**,  
-  (joint with Alex Frankel)  
-  *Revise and Resubmit, American Economic Journal: Microeconomics, 2020*  
-  Manuscript: [findings.pdf](/home/files/papers/findings.pdf)  
+
   
 **Who wins, who loses? Identification of the welfare impact of changing wages**  
   *Revise and Resubmit, Journal of Econometrics, 2020*  
@@ -45,6 +42,11 @@ permalink: /research/
 
 
 ## Publications
+
+**Which findings should be published**,  
+  (joint with Alex Frankel)  
+  *Accepted, American Economic Journal: Microeconomics, 2020*  
+  Manuscript: [findings.pdf](/home/files/papers/findings.pdf)  
 
 **Adaptive treatment assignment in experiments for policy choice**  
   (joint with Anja Sautmann)  
