@@ -5,6 +5,7 @@ permalink: /commentary/
 
 **Employing the unemployed of Marienthal: Evaluation of a guaranteed job program**  
 Fall 2020, Media coverage  
+[CNN](https://www.cnn.com/2020/11/23/economy/universal-basic-income-europe-pandemic/index.html)
 [Independent](https://www.independent.co.uk/news/uk/politics/unconditional-job-guarantee-trial-austria-marienthal-oxford-universal-basic-income-b1451788.html)  
 [Der Standard](https://apps.derstandard.at/privacywall/story/2000121172201/ein-garantierter-job-fuer-alle-arbeitslose-ams-testet-in-marienthal)  
 [Kurier](https://kurier.at/chronik/niederoesterreich/die-langzeitarbeitslosen-von-marienthal-ams-startet-modellprojekt/401072784)  
