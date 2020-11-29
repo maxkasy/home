@@ -8,6 +8,7 @@ permalink: /Labor_Oxford_2021/
 * [Essay questions](/home/files/teaching/Labor_Oxford_2021/Essay-questions-Labor-Kasy.pdf)
 * [Sample exam questions](/home/files/teaching/Labor_Oxford_2021/Labor_sample_exam_Kasy.pdf)  
 * Zoom room for lectures [Zoom room - Labor Economics, Part I](https://zoom.us/j/99178199330?pwd=RVNUaE1VU3JhYlJJV2ZxNy8yMWx3Zz09)
+* Online whiteboard [Jamboard - Labor Economics, Part I](https://jamboard.google.com/d/1UMb6F496MdUjFVtvh7Mq7PsId11ijdLVCNaLEBdZHzo)
 
 ### Slides
 * Week 1: Causal inference
