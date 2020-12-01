@@ -7,12 +7,17 @@ permalink: /commentary/
 Fall 2020, Media coverage  
 [CNN](https://www.cnn.com/2020/11/23/economy/universal-basic-income-europe-pandemic/index.html)
 [Independent](https://www.independent.co.uk/news/uk/politics/unconditional-job-guarantee-trial-austria-marienthal-oxford-universal-basic-income-b1451788.html)  
+[Financial Times](https://app.ft.com/content/1c2fe25a-c3fe-4a39-bbbe-7a32cc5d5e70)  
 [Der Standard](https://apps.derstandard.at/privacywall/story/2000121172201/ein-garantierter-job-fuer-alle-arbeitslose-ams-testet-in-marienthal)  
 [Kurier](https://kurier.at/chronik/niederoesterreich/die-langzeitarbeitslosen-von-marienthal-ams-startet-modellprojekt/401072784)  
 [Moment](https://www.moment.at/story/experiment-jobgarantie-arbeit-fuer-alle-gramatneusiedl)  
 
 
 ## Policy papers and essays (in English)
+
+**Adaptive experiments for policy research**  
+November 30, 2020 (with Anja Sautmann)  
+[GlobalDev Blog](https://www.globaldev.blog/blog/adaptive-experiments-policy-research)  
 
 **Selective publication of findings: Why does it matter, and what should we do about it?**  
 September 17, 2019  
