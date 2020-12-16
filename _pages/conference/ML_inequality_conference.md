@@ -30,8 +30,8 @@ Possible topics for this conference include, but are not restricted to:
 * **Date:** April 19-20, 2021
 * **Location:** Online. The Zoom link will be posted here.
 * **Presentations**: Target length 30 minutes, plus 15 minutes of discussion time.
-* **Contact:** For logistical questions, please contact [Binta Zahra Diop](mailto:bintazahra.diop@economics.ox.ac.uk).
-* **Papers and Slides**: Please also email these to [Binta Zahra Diop](mailto:bintazahra.diop@economics.ox.ac.uk), and we will post them on this website before the conference.
+* **Contact:** For logistical questions, please contact [oxfordaiecon@maillist.ox.ac.uk](mailto:oxfordaiecon@maillist.ox.ac.uk).
+* **Papers and Slides**: Please also email these to [oxfordaiecon@maillist.ox.ac.uk](mailto:oxfordaiecon@maillist.ox.ac.uk), and we will post them on this website before the conference.
 * **Videos** of talks will be recorded and posted online; please let us know if you don't want to be recorded.
 
 ## Confirmed participants

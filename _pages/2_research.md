@@ -85,14 +85,14 @@ permalink: /research/
   Manuscript: [shrinkingtotheory.pdf](/home/files/papers/shrinkingtotheory.pdf)  
   Supplement: [shrinkingtotheorysupplement.pdf](/home/files/papers/shrinkingtotheorysupplement.pdf)  
   Code and data for replication: [Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/O7BAYF)  
+  
+**Uniformity and the delta method**  
+  *Journal of Econometric Methods, 2019*   
+  Manuscript: [uniformitynote.pdf](/home/files/papers/uniformitynote.pdf)  
 
 **Optimal taxation and insurance using machine learning - sufficient statistics and beyond**  
   *Journal of Public Economics, 2018*  
   Manuscript: [PolicyDecisions.pdf](/home/files/papers/PolicyDecisions.pdf)    
-
-**Uniformity and the delta method**,  
-  *Journal of Econometric Methods, 2019*   
-  Manuscript: [uniformitynote.pdf](/home/files/papers/uniformitynote.pdf)  
   
 **Survey mode effects on income inequality measurement**  
   (joint with Pirmin Fessler and Peter Lindner)  
