@@ -29,7 +29,7 @@ Possible topics for this conference include, but are not restricted to:
 ## Logistics
 * **Date:** April 19-20, 2021
 * **Location:** Online. The Zoom link will be posted here.
-* **Presentations**: Target length 30 minutes, plus 15 minutes of discussion time.
+* **Presentations**: Target length 45 minutes, plus 15 minutes of discussion time.
 * **Contact:** For logistical questions, please contact [oxfordaiecon@maillist.ox.ac.uk](mailto:oxfordaiecon@maillist.ox.ac.uk).
 * **Papers and Slides**: Please also email these to [oxfordaiecon@maillist.ox.ac.uk](mailto:oxfordaiecon@maillist.ox.ac.uk), and we will post them on this website before the conference.
 * **Videos** of talks will be recorded and posted online; please let us know if you don't want to be recorded.
