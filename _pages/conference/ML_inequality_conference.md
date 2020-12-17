@@ -34,7 +34,11 @@ Possible topics for this conference include, but are not restricted to:
 * **Papers and Slides**: Please also email these to [oxfordaiecon@maillist.ox.ac.uk](mailto:oxfordaiecon@maillist.ox.ac.uk), and we will post them on this website before the conference.
 * **Videos** of talks will be recorded and posted online; please let us know if you don't want to be recorded.
 
-## Confirmed participants
+## Confirmed speakers
+
+- Rediet Abebe (Computer Science, UC Berkeley)
+- Jeremy Adams-Prassl (Law, University of Oxford)
+- Sera Linardi (Public Polcy and Computer Science, University of Pittsburgh)  
 
 
 ## Schedule

@@ -5,7 +5,8 @@ permalink: /teaching/
 
 * My open online textbook on "Empirical research on economic inequality:" [http://inequalityresearch.net/](http://inequalityresearch.net/) 
 * Collection of useful computational ressources: [Computation Links](/home/computationlinks/)
-* Conference "Statistics in a social context:" [Conference announcement, schedule, and links to talks](/home/StatisticsSocialConference)  
+* Conference "Machine learning and economic inequality" [Conference announcement](/home/ML_inequality_conference/)  
+* Conference "Statistics in a social context:" [Conference announcement, schedule, and links to talks](/home/StatisticsSocialConference/)  
 
 ## Oxford
 
