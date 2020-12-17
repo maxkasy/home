@@ -38,7 +38,8 @@ Possible topics for this conference include, but are not restricted to:
 
 - Rediet Abebe (Computer Science, UC Berkeley)
 - Jeremy Adams-Prassl (Law, University of Oxford)
-- Sera Linardi (Public Polcy and Computer Science, University of Pittsburgh)  
+- Reuben Binns (Computer Science and Philosophy, Oxford)
+- Sera Linardi (Public Policy and Computer Science, University of Pittsburgh)  
 
 
 ## Schedule
