@@ -5,11 +5,7 @@ permalink: /research/
 
 ## Working papers
 
-**Fairness, equality, and power in algorithmic decision making**  
-  (joint with Rediet Abebe)  
-  *Working paper, 2020*  
-  Manuscript: [fairness_equality_power.pdf](/home/files/papers/fairness_equality_power.pdf)  
-  
+
 **An Adaptive Targeted Field Experiment: Job Search Assistance for Refugees in Jordan**  
   (joint with Stefano Caria, Grant Gordon, Soha Osman, Simon Quinn and Alex Teytelboym)  
   *Working paper, 2020*  
@@ -42,6 +38,11 @@ permalink: /research/
 
 
 ## Publications
+
+**Fairness, equality, and power in algorithmic decision making**  
+  (joint with Rediet Abebe)  
+  *Accepted for publication, ACM Conference on Fairness, Accountability, and Transparency, 2021*  
+  Manuscript: [fairness_equality_power.pdf](/home/files/papers/fairness_equality_power.pdf)  
 
 **Which findings should be published**,  
   (joint with Alex Frankel)  
