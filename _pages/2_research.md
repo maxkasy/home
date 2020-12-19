@@ -32,7 +32,7 @@ permalink: /research/
 
   
 **Who wins, who loses? Identification of the welfare impact of changing wages**  
-  *Revise and Resubmit, Journal of Econometrics, 2020*  
+  *Conditionally accepted, Journal of Econometrics, 2020*  
   Manuscript: [whowinswholoses.pdf](/home/files/papers/Whowinswholoses.pdf)  
 
 
