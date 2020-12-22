@@ -42,6 +42,7 @@ Possible topics for this conference include, but are not restricted to:
 - Moustapha Cisse (Computer Science, Google AI Accra, Ghana)
 - Reuben Binns (Computer Science and Philosophy, University of Oxford)
 - Sera Linardi (Public Policy and Computer Science, University of Pittsburgh)  
+- Joshua Loftus (Statistics, London School of Economics)
 
 
 ## Schedule
