@@ -41,6 +41,7 @@ Possible topics for this conference include, but are not restricted to:
 - Abigail Adams-Prassl (Economics, University of Oxford)
 - Moustapha Cisse (Computer Science, Google AI Accra)
 - Reuben Binns (Computer Science and Philosophy, University of Oxford)
+- Pauline Kim (Law, Washington University in St. Louis)
 - Sera Linardi (Public Policy and Computer Science, University of Pittsburgh)  
 - Joshua Loftus (Statistics, London School of Economics)
 
