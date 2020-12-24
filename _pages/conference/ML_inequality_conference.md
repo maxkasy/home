@@ -29,7 +29,7 @@ Possible topics for this conference include, but are not restricted to:
 ## Logistics
 * **Date:** April 19-20, 2021
 * **Location:** Online. The Zoom link will be posted here.
-* **Presentations**: Target length 45 minutes, plus 15 minutes of discussion time.
+* **Presentations**: Target length 40 minutes, plus 10 minutes of discussion time.
 * **Contact:** For logistical questions, please contact [oxfordaiecon@maillist.ox.ac.uk](mailto:oxfordaiecon@maillist.ox.ac.uk).
 * **Papers and Slides**: Please also email these to [oxfordaiecon@maillist.ox.ac.uk](mailto:oxfordaiecon@maillist.ox.ac.uk), and we will post them on this website before the conference.
 * **Videos** of talks will be recorded and posted online; please let us know if you don't want to be recorded.
@@ -39,8 +39,9 @@ Possible topics for this conference include, but are not restricted to:
 - Rediet Abebe (Computer Science, UC Berkeley)
 - Jeremy Adams-Prassl (Law, University of Oxford)
 - Abigail Adams-Prassl (Economics, University of Oxford)
-- Moustapha Cisse (Computer Science, Google AI Accra)
 - Reuben Binns (Computer Science and Philosophy, University of Oxford)
+- Moustapha Cisse (Computer Science, Google AI Accra)
+- Abigail Jacobs (School of Information, University of Michigan)
 - Pauline Kim (Law, Washington University in St. Louis)
 - Sera Linardi (Public Policy and Computer Science, University of Pittsburgh)  
 - Joshua Loftus (Statistics, London School of Economics)
