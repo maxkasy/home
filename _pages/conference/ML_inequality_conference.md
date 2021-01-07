@@ -25,10 +25,14 @@ Possible topics for this conference include, but are not restricted to:
 - The political economy of surveillance, data collection, and ownership.
 - Algorithmic management and labor law.
 
+## Registration link for attendees
+
+[Zoom webinar registration](https://zoom.us/webinar/register/WN_FDytad9HSAqmApRvCRkbkg)  
+Registration is required to attend the talks!  
 
 ## Logistics
 * **Date:** April 19-20, 2021
-* **Location:** Online. The Zoom link will be posted here.
+* **Location:** Zoom.
 * **Presentations**: Target length 40 minutes, plus 10 minutes of discussion time.
 * **Contact:** For logistical questions, please contact [oxfordaiecon@maillist.ox.ac.uk](mailto:oxfordaiecon@maillist.ox.ac.uk).
 * **Papers and Slides**: Please also email these to [oxfordaiecon@maillist.ox.ac.uk](mailto:oxfordaiecon@maillist.ox.ac.uk), and we will post them on this website before the conference.
