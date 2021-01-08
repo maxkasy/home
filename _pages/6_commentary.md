@@ -60,6 +60,9 @@ February 1, 2019
 
 
 ## Moment Newsletter (in German)
+**Was ist ein Grundeinkommen - und was nicht?**  
+December 14, 2020  
+[Moment](https://www.moment.at/story/was-ist-ein-grundeinkommen-und-was-nicht)  
 
 **Staatsschulden und Budgetdefizit: Was ist das eigentlich? Und ist es schlecht?**  
 November 9, 2020  
