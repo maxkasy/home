@@ -3,6 +3,11 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Philosophical questions about machine learning theory:  
+Online Learning, Bandit Algorithms, and Reinforcement Learning**  
+  March 2021  
+  [Slides](/home/files/slides/Causality_ML_Kasy_Slides.pdf)  
+
 **The social impact of algorithmic decision making: Economic perspectives**  
   October 2020  
   [Slides](/home/files/slides/econ_algorithms_slides_kasy.pdf)  
