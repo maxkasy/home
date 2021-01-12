@@ -43,7 +43,7 @@ Registration is required to attend the talks!
 - Rediet Abebe (Computer Science, UC Berkeley)
 - Jeremy Adams-Prassl (Law, University of Oxford)
 - Abigail Adams-Prassl (Economics, University of Oxford)
-- Reuben Binns (Computer Science and Philosophy, University of Oxford)
+- Reuben Binns (Computer Science, University of Oxford)
 - Moustapha Cisse (Computer Science, Google AI Accra)
 - Abigail Jacobs (School of Information, University of Michigan)
 - Pauline Kim (Law, Washington University in St. Louis)
