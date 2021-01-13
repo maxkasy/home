@@ -47,7 +47,7 @@ Registration is required to attend the talks!
 - Moustapha Cisse (Computer Science, Google AI Accra)
 - Abigail Jacobs (School of Information, University of Michigan)
 - Pauline Kim (Law, Washington University in St. Louis)
-- Sera Linardi (Public Policy and Computer Science, University of Pittsburgh)  
+- Sera Linardi (Economics and Computer Science, University of Pittsburgh)  
 - Joshua Loftus (Statistics, London School of Economics)
 
 
