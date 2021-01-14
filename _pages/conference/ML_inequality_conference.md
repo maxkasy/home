@@ -55,9 +55,10 @@ Registration is required to attend the talks!
 
 To facilitate participation across time zones, talks will take place over the course of two afternoons, between 3pm and 8pm UK time.
 
-### Monday, April 19
 
----
+
+
+### Monday, April 19
 
 3:00pm Maximilian Kasy  
 *Opening remarks*  
@@ -67,34 +68,40 @@ To facilitate participation across time zones, talks will take place over the co
 4:00pm Reuben Binns (Computer Science)  
  
 ---
-4:50pm Break  
+4:50pm *Break*  
+---
 
 5:10pm Abigail Adams-Prassl (Economics)  
 
 6:00pm Joshua Loftus (Statistics)  
 
 ---
-6:50pm Break  
+6:50pm *Break*  
+---
 
 7:00pm Abigail Jacobs (School of Information)  
 
 ---
-7:50pm Open discussion  
+7:50pm *Open discussion*  
+---
+
 
 ### Tuesday, April 20
 
----
+
 3:00pm Pauline Kim (Law)  
 
 3:50pm Jeremy Adams-Prassl (Law)  
 
 ---
-4:40pm Break  
+4:40pm *Break*  
+---
 
 5:00pm Sera Linardi (Economics and Computer Science)  
 
 5:50pm Moustapha Cisse (Computer Science)  
 
 ---
-6:40pm Open discussion and conclusion  
+6:40pm *Open discussion and conclusion*  
+---
 
