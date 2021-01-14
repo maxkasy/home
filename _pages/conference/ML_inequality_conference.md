@@ -69,6 +69,7 @@ To facilitate participation across time zones, talks will take place over the co
  
 ---
 4:50pm *Break*  
+
 ---
 
 5:10pm Abigail Adams-Prassl (Economics)  
@@ -77,12 +78,14 @@ To facilitate participation across time zones, talks will take place over the co
 
 ---
 6:50pm *Break*  
+
 ---
 
 7:00pm Abigail Jacobs (School of Information)  
 
 ---
 7:50pm *Open discussion*  
+
 ---
 
 
@@ -95,6 +98,7 @@ To facilitate participation across time zones, talks will take place over the co
 
 ---
 4:40pm *Break*  
+
 ---
 
 5:00pm Sera Linardi (Economics and Computer Science)  
@@ -103,5 +107,6 @@ To facilitate participation across time zones, talks will take place over the co
 
 ---
 6:40pm *Open discussion and conclusion*  
+
 ---
 
