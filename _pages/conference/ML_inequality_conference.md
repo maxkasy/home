@@ -60,7 +60,7 @@ To facilitate participation across time zones, talks will take place over the co
 
 ### Monday, April 19
 
-3:00pm Maximilian Kasy  
+3:00pm Maximilian Kasy (Economics)  
 *Opening remarks*  
 
 3:10pm Rediet Abebe (Computer Science)  

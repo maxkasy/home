@@ -17,7 +17,9 @@ Fall 2020, Media coverage
 ## Policy papers and essays (in English)
 
 **Adaptive experiments for policy research**  
-November 30, 2020 (with Anja Sautmann)  
+January 15, 2021 (with Anja Sautmann)  
+[VoxDev](https://voxdev.org/topic/methods-measurement/adaptive-experiments-policy-research)  
+November 30, 2020  
 [GlobalDev Blog](https://www.globaldev.blog/blog/adaptive-experiments-policy-research)  
 
 **Selective publication of findings: Why does it matter, and what should we do about it?**  
@@ -60,6 +62,11 @@ February 1, 2019
 
 
 ## Moment Newsletter (in German)
+
+**Was ist eine Jobgarantie?**  
+January 11, 2021  
+[Moment](https://www.moment.at/story/was-ist-eine-jobgarantie)  
+
 **Was ist ein Grundeinkommen - und was nicht?**  
 December 14, 2020  
 [Moment](https://www.moment.at/story/was-ist-ein-grundeinkommen-und-was-nicht)  
