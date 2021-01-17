@@ -46,8 +46,7 @@ Registration is required to attend the talks!
 - Reuben Binns (Computer Science, University of Oxford)
 - Moustapha Cisse (Computer Science, Google AI Accra)
 - Abigail Jacobs (School of Information, University of Michigan)
-- Pauline Kim (Law, Washington University in St. Louis)
-- Sera Linardi (Economics and Computer Science, University of Pittsburgh)  
+- Pauline Kim (Law, Washington University in St. Louis) 
 - Joshua Loftus (Statistics, London School of Economics)
 
 
@@ -101,12 +100,10 @@ To facilitate participation across time zones, talks will take place over the co
 
 ---
 
-5:00pm Sera Linardi (Economics and Computer Science)  
-
-5:50pm Moustapha Cisse (Computer Science)  
+5:00pm Moustapha Cisse (Computer Science)  
 
 ---
-6:40pm *Open discussion and conclusion*  
+5:50pm *Open discussion and conclusion*  
 
 ---
 
