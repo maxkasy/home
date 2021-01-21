@@ -45,6 +45,7 @@ Registration is required to attend the talks!
 - Abigail Adams-Prassl (Economics, University of Oxford)
 - Reuben Binns (Computer Science, University of Oxford)
 - Moustapha Cisse (Computer Science, Google AI Accra)
+- Paul Goldsmith-Pinkham (Economics, Yale SOM)
 - Abigail Jacobs (School of Information, University of Michigan)
 - Pauline Kim (Law, Washington University in St. Louis) 
 - Joshua Loftus (Statistics, London School of Economics)
@@ -80,7 +81,7 @@ To facilitate participation across time zones, talks will take place over the co
 
 ---
 
-7:00pm Abigail Jacobs (School of Information)  
+7:00pm Paul Goldsmith-Pinkham (Economics)
 
 ---
 7:50pm *Open discussion*  
@@ -100,10 +101,12 @@ To facilitate participation across time zones, talks will take place over the co
 
 ---
 
-5:00pm Moustapha Cisse (Computer Science)  
+5:00pm Abigail Jacobs (School of Information)  
+
+5:50pm Moustapha Cisse (Computer Science)  
 
 ---
-5:50pm *Open discussion and conclusion*  
+6:40pm *Open discussion and conclusion*  
 
 ---
 
