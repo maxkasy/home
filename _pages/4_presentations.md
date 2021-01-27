@@ -8,6 +8,10 @@ Online Learning, Bandit Algorithms, and Reinforcement Learning**
   March 2021  
   [Slides](/home/files/slides/Causality_ML_Kasy_Slides.pdf)  
 
+**Pre-analysis plans and mechanism design**  
+  February 2020  
+  [Slides](/home/files/slides/preanalysis_slides_kasy.pdf)  
+
 **The social impact of algorithmic decision making: Economic perspectives**  
   October 2020  
   [Slides](/home/files/slides/econ_algorithms_slides_kasy.pdf)  
