@@ -10,8 +10,8 @@ permalink: /research/
   (joint with Stefano Caria, Grant Gordon, Soha Osman, Simon Quinn and Alex Teytelboym)  
   *Working paper, 2020*  
   Manuscript: [RefugeesWork.pdf](/home/files/papers/RefugeesWork.pdf)  
-  Supplementary appendix: [RefugeesWork_OnlineAppendix.pdf](/home/files/papers/RefugeesWork_onlineAppendix.pdf)    
-  Registered pre-analysis plan: [AEA RCT Registry](https://www.socialscienceregistry.org/trials/3870)   
+  Supplementary appendix: [RefugeesWork_OnlineAppendix.pdf](/home/files/papers/RefugeesWork_onlineAppendix.pdf)  
+  Registered pre-analysis plan: [AEA RCT Registry](https://www.socialscienceregistry.org/trials/3870)  
 
 **Adaptive Combinatorial Allocation**  
   (joint with Alex Teytelboym)  
@@ -28,30 +28,27 @@ permalink: /research/
 **Of forking paths and tied hands: Selective publication of findings, and what we should  do about it**  
   *Revise and resubmit, Journal of Economic Perspectives, 2020*  
   Manuscript: [statistics_social_science.pdf](/home/files/papers/statistics_social_science.pdf)  
-  
-
-  
-**Who wins, who loses? Identification of the welfare impact of changing wages**  
-  *Conditionally accepted, Journal of Econometrics, 2020*  
-  Manuscript: [whowinswholoses.pdf](/home/files/papers/Whowinswholoses.pdf)  
-
 
 
 ## Publications
+
+**Who wins, who loses? Identification of the welfare impact of changing wages**  
+  *Accepted, Journal of Econometrics, 2021*  
+  Manuscript: [whowinswholoses.pdf](/home/files/papers/Whowinswholoses.pdf)  
+  
+**Which findings should be published**  
+  (joint with Alex Frankel)  
+  *Accepted, American Economic Journal: Microeconomics, 2021*  
+  Manuscript: [findings.pdf](/home/files/papers/findings.pdf)  
 
 **Fairness, equality, and power in algorithmic decision making**  
   (joint with Rediet Abebe)  
   *Accepted for publication, ACM Conference on Fairness, Accountability, and Transparency, 2021*  
   Manuscript: [fairness_equality_power.pdf](/home/files/papers/fairness_equality_power.pdf)  
 
-**Which findings should be published**,  
-  (joint with Alex Frankel)  
-  *Accepted, American Economic Journal: Microeconomics, 2020*  
-  Manuscript: [findings.pdf](/home/files/papers/findings.pdf)  
-
 **Adaptive treatment assignment in experiments for policy choice**  
   (joint with Anja Sautmann)  
-  *Forthcoming, Econometrica, 2020*  
+  *Econometrica, 2021*  
   Manuscript: [adaptiveexperimentspolicy.pdf](/home/files/papers/adaptiveexperimentspolicy.pdf)  
   Supplementary Appendix: [adaptiveexperimentspolicy_supplement.pdf](/home/files/papers/adaptiveexperimentspolicy_supplement.pdf)  
   Interactive Dashboard for your own experiment: [exploration_sampling_dashboard](https://maxkasy.shinyapps.io/exploration_sampling_dashboard/)  
