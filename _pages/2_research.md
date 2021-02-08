@@ -32,7 +32,7 @@ permalink: /research/
 
 ## Publications
 
-**Who wins, who loses? Identification of the welfare impact of changing wages**  
+**Who wins, who loses? Identification of conditional causal effects, and the welfare impact of changing wages**  
   *Accepted, Journal of Econometrics, 2021*  
   Manuscript: [whowinswholoses.pdf](/home/files/papers/Whowinswholoses.pdf)  
   
