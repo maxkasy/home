@@ -63,6 +63,10 @@ February 1, 2019
 
 ## Moment Newsletter (in German)
 
+**Was heißt eigentlich "gut für die Wirtschaft?"**  
+February 10, 2021  
+[Moment](https://www.moment.at/story/was-heisst-eigentlich-gut-fuer-die-wirtschaft)  
+
 **Was ist eine Jobgarantie?**  
 January 11, 2021  
 [Moment](https://www.moment.at/story/was-ist-eine-jobgarantie)  
