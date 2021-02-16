@@ -25,12 +25,12 @@ permalink: /research/
   (Registered as [AEARCTR-0006706](https://www.socialscienceregistry.org/trials/6706))  
   Code: [https://github.com/maxkasy/Marienthal](https://github.com/maxkasy/Marienthal)  
 
-**Of forking paths and tied hands: Selective publication of findings, and what we should  do about it**  
-  *Revise and resubmit, Journal of Economic Perspectives, 2020*  
-  Manuscript: [statistics_social_science.pdf](/home/files/papers/statistics_social_science.pdf)  
-
 
 ## Publications
+
+**Of Forking Paths and Tied Hands: Selective Publication of Findings, and What Economists Should Do about It**  
+  *Accepted, Journal of Economic Perspectives, 2021*  
+  Manuscript: [statistics_social_science.pdf](/home/files/papers/statistics_social_science.pdf)  
 
 **Who wins, who loses? Identification of conditional causal effects, and the welfare impact of changing wages**  
   *Accepted, Journal of Econometrics, 2021*  
