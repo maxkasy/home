@@ -28,7 +28,7 @@ permalink: /research/
 
 ## Publications
 
-**Of Forking Paths and Tied Hands: Selective Publication of Findings, and What Economists Should Do about It**  
+**Of forking paths and tied hands: Selective publication of findings, and what economists should do about it**  
   *Accepted, Journal of Economic Perspectives, 2021*  
   Manuscript: [statistics_social_science.pdf](/home/files/papers/statistics_social_science.pdf)  
 
