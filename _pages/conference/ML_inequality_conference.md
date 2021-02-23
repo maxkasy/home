@@ -49,6 +49,7 @@ Registration is required to attend the talks!
 - Abigail Jacobs (School of Information, University of Michigan)
 - Pauline Kim (Law, Washington University in St. Louis) 
 - Joshua Loftus (Statistics, London School of Economics)
+- Salome Viljoen (Law, NYU)
 
 
 ## Tentative schedule
@@ -101,12 +102,18 @@ To facilitate participation across time zones, talks will take place over the co
 
 ---
 
-5:00pm Abigail Jacobs (School of Information)  
+5:00pm Salome Viljoen (Law)  
 
-5:50pm Moustapha Cisse (Computer Science)  
+5:50pm Abigail Jacobs (School of Information)  
 
 ---
-6:40pm *Open discussion and conclusion*  
+6:40pm *Break*  
+
+---
+
+6:50pm Moustapha Cisse (Computer Science)  
+
+7:40pm *Open discussion and conclusion*  
 
 ---
 
