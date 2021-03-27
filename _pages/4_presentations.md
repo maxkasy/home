@@ -8,6 +8,11 @@ Online Learning, Bandit Algorithms, and Reinforcement Learning**
   March 2021  
   [Slides](/home/files/slides/Causality_ML_Kasy_Slides.pdf)  
 
+**Probably approximately correct learning and adversarial online learning**  
+  February 2021  
+  [Slides I](/home/files/slides/PAC_learning.pdf)  
+  [Slides II](/home/files/slides/Adversarial_online_learning.pdf)  
+
 **Pre-analysis plans and mechanism design**  
   February 2020  
   [Slides](/home/files/slides/preanalysis_slides_kasy.pdf)  
@@ -19,6 +24,11 @@ Online Learning, Bandit Algorithms, and Reinforcement Learning**
 **How to run an adaptive field experiment**  
   September 2020  
   [Slides](/home/files/slides/adaptive_field_slides_kasy.pdf)  
+
+**Basic income and basic income experiments**  
+  July 2020  
+  [Slides](/home/files/slides/UBI-lecture-Kasy.pdf)  
+  [Recording](https://www.youtube.com/watch?v=c7koe2EwmmY)  
 
 **What do we want? And when do we want it?  
 Alternative objectives and their implications for experimental design.**  
