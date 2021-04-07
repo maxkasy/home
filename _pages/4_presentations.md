@@ -3,26 +3,34 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Statistical decision theory cannot justify randomization or pre-registration for experiments.**  
+  Sorbonne, Philosophy of Science Workshop, June 2021  
+  [Slides](/home/files/slides/randomization_preregistration_slides.pdf)  
+
 **Philosophical questions about machine learning theory:  
 Online Learning, Bandit Algorithms, and Reinforcement Learning**  
-  March 2021  
+  Harvard Philosophy of Causality Workshop, March 2021  
   [Slides](/home/files/slides/Causality_ML_Kasy_Slides.pdf)  
 
+**Fairness, equality, and power in algorithmic decision making**  
+  Oxford Law School, March 2021  
+  [Slides](/home/files/slides/fairness_equality_power_slides_law_kasy.pdf) 
+
 **Probably approximately correct learning and adversarial online learning**  
-  February 2021  
+  Alan Turing Institute, Economics and ML reading group, February 2021  
   [Slides I](/home/files/slides/PAC_learning.pdf)  
   [Slides II](/home/files/slides/Adversarial_online_learning.pdf)  
 
 **Pre-analysis plans and mechanism design**  
-  February 2020  
+  Oxford, February 2020  
   [Slides](/home/files/slides/preanalysis_slides_kasy.pdf)  
 
 **The social impact of algorithmic decision making: Economic perspectives**  
-  October 2020  
+  Stanford, October 2020  
   [Slides](/home/files/slides/econ_algorithms_slides_kasy.pdf)  
 
 **How to run an adaptive field experiment**  
-  September 2020  
+  World Bank, September 2020  
   [Slides](/home/files/slides/adaptive_field_slides_kasy.pdf)  
 
 **Basic income and basic income experiments**  
