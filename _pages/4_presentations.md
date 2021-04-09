@@ -3,7 +3,8 @@ title: Presentations
 permalink: /presentations/
 ---
 
-**Statistical decision theory cannot justify randomization or pre-registration for experiments.**  
+**Statistical decision theory cannot justify  
+randomization or pre-registration for experiments.**  
   Sorbonne, Philosophy of Science Workshop, June 2021  
   [Slides](/home/files/slides/randomization_preregistration_slides.pdf)  
 
