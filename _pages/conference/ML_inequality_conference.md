@@ -64,7 +64,7 @@ To facilitate participation across time zones, talks will take place over the co
 3:00pm Maximilian Kasy (Economics)  
 *Opening remarks*  
 
-3:10pm Rediet Abebe (Computer Science)  
+3:10pm Abigail Adams-Prassl (Economics)  
 
 4:00pm Reuben Binns (Computer Science)  
  
@@ -73,7 +73,7 @@ To facilitate participation across time zones, talks will take place over the co
 
 ---
 
-5:10pm Abigail Adams-Prassl (Economics)  
+5:10pm Rediet Abebe (Computer Science)  
 
 6:00pm Joshua Loftus (Statistics)  
 
