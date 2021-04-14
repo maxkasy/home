@@ -82,7 +82,7 @@ To facilitate participation across time zones, talks will take place over the co
 
 ---
 
-7:00pm Paul Goldsmith-Pinkham (Economics)
+7:00pm Paul Goldsmith-Pinkham (Economics)  
 [*Predictably Unequal? The Effects of Machine Learning on Credit Markets*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3072038)  
 
 ---
