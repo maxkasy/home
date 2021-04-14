@@ -83,6 +83,7 @@ To facilitate participation across time zones, talks will take place over the co
 ---
 
 7:00pm Paul Goldsmith-Pinkham (Economics)
+[*Predictably Unequal? The Effects of Machine Learning on Credit Markets*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3072038)  
 
 ---
 7:50pm *Open discussion*  
@@ -96,6 +97,7 @@ To facilitate participation across time zones, talks will take place over the co
 3:00pm Pauline Kim (Law)  
 
 3:50pm Jeremy Adams-Prassl (Law)  
+[*What if Your Boss Was an Algorithm? The Rise of Artificial Intelligence at Work*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3661151)  
 
 ---
 4:40pm *Break*  
