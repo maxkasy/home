@@ -37,6 +37,7 @@ Registration is required to attend the talks!
 * **Contact:** For logistical questions, please contact [oxfordaiecon@maillist.ox.ac.uk](mailto:oxfordaiecon@maillist.ox.ac.uk).
 * **Papers and Slides**: Please also email these to [oxfordaiecon@maillist.ox.ac.uk](mailto:oxfordaiecon@maillist.ox.ac.uk), and we will post them on this website before the conference.
 * **Videos** of talks will be recorded and posted online; please let us know if you don't want to be recorded.
+* Talks will be **live-streamed**, and recordings made available, on this [Youtube channel](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag)  
 
 ## Confirmed speakers
 
@@ -63,6 +64,7 @@ To facilitate participation across time zones, talks will take place over the co
 
 3:00pm Maximilian Kasy (Economics)  
 *Opening remarks*  
+[Slides](/home/files/slides/ML_inequality_intro_slides.pdf)  
 
 3:10pm Abigail Adams-Prassl (Economics)  
 *Artificial Intelligence & Labour Economics: Methods & Substantive Questions*  
