@@ -81,6 +81,9 @@ To facilitate participation across time zones, talks will take place over the co
 *Modeling the Impact of Shocks on Poverty*  
 
 6:00pm Joshua Loftus (Statistics)  
+*Causality and the normative dimensions of machine learning*  
+[Paper 1](https://arxiv.org/abs/2006.08688)  
+[Paper 2](http://proceedings.mlr.press/v97/kusner19a.html)  
 
 ---
 6:50pm *Break*  
