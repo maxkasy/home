@@ -98,6 +98,7 @@ To facilitate participation across time zones, talks will take place over the co
 
 
 3:00pm Pauline Kim (Law)  
+*Bias in ML Models: Legal Challenges*  
 
 3:50pm Jeremy Adams-Prassl (Law)  
 [*What if Your Boss Was an Algorithm? The Rise of Artificial Intelligence at Work*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3661151)  
@@ -108,6 +109,7 @@ To facilitate participation across time zones, talks will take place over the co
 ---
 
 5:00pm Salome Viljoen (Law)  
+*Confronting inequality in the theory of data law*  
 
 5:50pm Abigail Jacobs (School of Information)  
 
