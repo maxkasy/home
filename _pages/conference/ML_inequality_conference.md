@@ -65,8 +65,10 @@ To facilitate participation across time zones, talks will take place over the co
 *Opening remarks*  
 
 3:10pm Abigail Adams-Prassl (Economics)  
+*Artificial Intelligence & Labour Economics: Methods & Substantive Questions*  
 
 4:00pm Reuben Binns (Computer Science)  
+*Egalitarian justice and machine learning*  
  
 ---
 4:50pm *Break*  
@@ -83,7 +85,8 @@ To facilitate participation across time zones, talks will take place over the co
 ---
 
 7:00pm Paul Goldsmith-Pinkham (Economics)  
-[*Predictably Unequal? The Effects of Machine Learning on Credit Markets*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3072038)  
+*Economics, Discrimination and Inequality*  
+[Predictably Unequal? The Effects of Machine Learning on Credit Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3072038)  
 
 ---
 7:50pm *Open discussion*  
