@@ -78,6 +78,7 @@ To facilitate participation across time zones, talks will take place over the co
 ---
 
 5:10pm Rediet Abebe (Computer Science)  
+*Modeling the Impact of Shocks on Poverty*  
 
 6:00pm Joshua Loftus (Statistics)  
 
