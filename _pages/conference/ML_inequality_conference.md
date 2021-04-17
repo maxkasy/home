@@ -82,8 +82,7 @@ To facilitate participation across time zones, talks will take place over the co
 
 6:00pm Joshua Loftus (Statistics)  
 *Causality and the normative dimensions of machine learning*  
-[Paper 1](https://arxiv.org/abs/2006.08688)  
-[Paper 2](http://proceedings.mlr.press/v97/kusner19a.html)  
+[Paper 1](https://arxiv.org/abs/2006.08688), [Paper 2](http://proceedings.mlr.press/v97/kusner19a.html)  
 
 ---
 6:50pm *Break*  
@@ -92,7 +91,7 @@ To facilitate participation across time zones, talks will take place over the co
 
 7:00pm Paul Goldsmith-Pinkham (Economics)  
 *Economics, Discrimination and Inequality*  
-[Predictably Unequal? The Effects of Machine Learning on Credit Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3072038)  
+[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3072038)  
 
 ---
 7:50pm *Open discussion*  
@@ -118,6 +117,7 @@ To facilitate participation across time zones, talks will take place over the co
 *Confronting inequality in the theory of data law*  
 
 5:50pm Abigail Jacobs (School of Information)  
+*Measurement as governance*  
 
 ---
 6:40pm *Break*  
