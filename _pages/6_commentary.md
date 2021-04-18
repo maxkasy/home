@@ -6,7 +6,7 @@ permalink: /commentary/
 **Employing the unemployed of Marienthal: Evaluation of a guaranteed job program**  
 Fall 2020, Media coverage  
 [Business Insider](https://www.businessinsider.com/austria-worlds-first-universal-jobs-guarantee-experiment-2020-11)  
-[CNN](https://www.cnn.com/2020/11/23/economy/universal-basic-income-europe-pandemic/index.html)
+[CNN](https://www.cnn.com/2020/11/23/economy/universal-basic-income-europe-pandemic/index.html)  
 [Independent](https://www.independent.co.uk/news/uk/politics/unconditional-job-guarantee-trial-austria-marienthal-oxford-universal-basic-income-b1451788.html)  
 [Financial Times](https://app.ft.com/content/1c2fe25a-c3fe-4a39-bbbe-7a32cc5d5e70)  
 [Der Standard](https://apps.derstandard.at/privacywall/story/2000121172201/ein-garantierter-job-fuer-alle-arbeitslose-ams-testet-in-marienthal)  
@@ -62,6 +62,10 @@ February 1, 2019
 
 
 ## Moment Newsletter (in German)
+
+**Wie werden eigentlich Medikamente und Impfungen getestet?**  
+April 7, 2021  
+[Moment](https://www.moment.at/story/medikamente-impfungen-sicher-getestet  )
 
 **Was heißt eigentlich "gut für die Wirtschaft?"**  
 February 10, 2021  

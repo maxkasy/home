@@ -91,7 +91,8 @@ To facilitate participation across time zones, talks will take place over the co
 
 7:00pm Paul Goldsmith-Pinkham (Economics)  
 *Economics, Discrimination and Inequality*  
-[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3072038)  
+[Paper 1](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3072038),
+[Paper 2](https://paulgp.github.io/papers/Gender_Gap_in_Housing_Returns.pdf)  
 
 ---
 7:50pm *Open discussion*  
