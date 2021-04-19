@@ -105,6 +105,9 @@ To facilitate participation across time zones, talks will take place over the co
 
 3:00pm Pauline Kim (Law)  
 *Bias in ML Models: Legal Challenges*  
+[Paper 1](https://scholarship.law.wm.edu/wmlr/vol58/iss3/4/), 
+[Paper 2](https://www.virginialawreview.org/articles/manipulating-opportunity/)  
+
 
 3:50pm Jeremy Adams-Prassl (Law)  
 [*What if Your Boss Was an Algorithm? The Rise of Artificial Intelligence at Work*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3661151)  
@@ -119,6 +122,7 @@ To facilitate participation across time zones, talks will take place over the co
 
 5:50pm Abigail Jacobs (School of Information)  
 *Measurement as governance*  
+[Paper](https://arxiv.org/abs/1912.05511)  
 
 ---
 6:40pm *Break*  
