@@ -110,7 +110,8 @@ To facilitate participation across time zones, talks will take place over the co
 
 
 3:50pm Jeremy Adams-Prassl (Law)  
-[*What if Your Boss Was an Algorithm? The Rise of Artificial Intelligence at Work*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3661151)  
+*What if Your Boss Was an Algorithm? The Rise of Artificial Intelligence at Work*  
+[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3661151)  
 
 ---
 4:40pm *Break*  
