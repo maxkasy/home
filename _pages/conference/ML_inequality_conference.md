@@ -71,7 +71,8 @@ To facilitate participation across time zones, talks will take place over the co
 
 4:00pm Reuben Binns (Computer Science)  
 *Egalitarian justice and machine learning*  
- 
+[Slides](/home/files/other/ML_inequality_conference/slides_binns.pdf)  
+
 ---
 4:50pm *Break*  
 
@@ -93,6 +94,7 @@ To facilitate participation across time zones, talks will take place over the co
 *Economics, Discrimination and Inequality*  
 [Paper 1](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3072038),
 [Paper 2](https://paulgp.github.io/papers/Gender_Gap_in_Housing_Returns.pdf)  
+[Slides](/home/files/other/ML_inequality_conference/slides_goldsmith_pinkham.pdf)  
 
 ---
 7:50pm *Open discussion*  
