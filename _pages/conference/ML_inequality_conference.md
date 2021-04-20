@@ -84,6 +84,7 @@ To facilitate participation across time zones, talks will take place over the co
 6:00pm Joshua Loftus (Statistics)  
 *Causality and the normative dimensions of machine learning*  
 [Paper 1](https://arxiv.org/abs/2006.08688), [Paper 2](http://proceedings.mlr.press/v97/kusner19a.html)  
+[Slides](/home/files/other/ML_inequality_conference/slides_loftus.pdf)  
 
 ---
 6:50pm *Break*  
@@ -127,6 +128,7 @@ To facilitate participation across time zones, talks will take place over the co
 5:50pm Abigail Jacobs (School of Information)  
 *Measurement as governance*  
 [Paper](https://arxiv.org/abs/1912.05511)  
+[Slides](/home/files/other/ML_inequality_conference/slides_jacobs.pdf)  
 
 ---
 6:40pm *Break*  
