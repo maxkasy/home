@@ -122,6 +122,7 @@ To facilitate participation across time zones, talks will take place over the co
 
 5:00pm Salome Viljoen (Law)  
 *Confronting inequality in the theory of data law*  
+[Slides](/home/files/other/ML_inequality_conference/slides_viljoen.key)  
 
 5:50pm Abigail Jacobs (School of Information)  
 *Measurement as governance*  
