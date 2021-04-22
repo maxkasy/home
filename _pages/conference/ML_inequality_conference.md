@@ -10,6 +10,11 @@ header:
 excerpt: April 19-20, 2021
 ---
 
+## Recordings
+Recordings of the talks at this conference are now available on our
+[Youtube channel](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag/videos).  
+Links to slides and papers can be found below.  
+
 ## Conference announcement
 Questions regarding the fairness of algorithmic decision-making have received much attention in recent years, by both the wider public and in academic debates.
 In this workshop, motivated by the arguments discussed in [Fairness, Equality, and Power](/home/files/papers/fairness_equality_power.pdf), we propose to shift the focus of these debates toward the causal impact of machine learning, AI, and algorithmic decision-making on economic and social inequality, both across and within groups.
@@ -53,7 +58,7 @@ Registration is required to attend the talks!
 - Salome Viljoen (Law, NYU)
 
 
-## Tentative schedule
+## Schedule
 
 To facilitate participation across time zones, talks will take place over the course of two afternoons, between 3pm and 8pm UK time.
 
