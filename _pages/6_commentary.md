@@ -16,6 +16,10 @@ Fall 2020, Media coverage
 
 ## Policy papers and essays (in English)
 
+**Isaiah Andrews wins the John Bates Clark Medal**  
+April 24, 2021 (includes coverage of our joint work)  
+[The Economist](https://www.economist.com/finance-and-economics/2021/04/22/isaiah-andrews-wins-the-john-bates-clark-medal)  
+
 **Adaptive experiments for policy research**  
 January 15, 2021 (with Anja Sautmann)  
 [VoxDev](https://voxdev.org/topic/methods-measurement/adaptive-experiments-policy-research)  
