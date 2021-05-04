@@ -13,12 +13,11 @@ Fall 2020, Media coverage
 [Kurier](https://kurier.at/chronik/niederoesterreich/die-langzeitarbeitslosen-von-marienthal-ams-startet-modellprojekt/401072784)  
 [Moment](https://www.moment.at/story/experiment-jobgarantie-arbeit-fuer-alle-gramatneusiedl)  
 
-
-## Policy papers and essays (in English)
-
 **Isaiah Andrews wins the John Bates Clark Medal**  
 April 24, 2021 (includes coverage of our joint work)  
 [The Economist](https://www.economist.com/finance-and-economics/2021/04/22/isaiah-andrews-wins-the-john-bates-clark-medal)  
+
+## Policy papers and essays (in English)
 
 **Adaptive experiments for policy research**  
 January 15, 2021 (with Anja Sautmann)  
