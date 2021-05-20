@@ -3,6 +3,10 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Pre-analysis plans and mechanism design**  
+  Munich, June 2020  
+  [Slides](/home/files/slides/preanalysis_slides_kasy.pdf)  
+  
 **Statistical decision theory cannot justify  
 randomization or pre-registration for experiments.**  
   Sorbonne, Philosophy of Science Workshop, June 2021  
@@ -21,10 +25,6 @@ Online Learning, Bandit Algorithms, and Reinforcement Learning**
   Alan Turing Institute, Economics and ML reading group, February 2021  
   [Slides I](/home/files/slides/PAC_learning.pdf)  
   [Slides II](/home/files/slides/Adversarial_online_learning.pdf)  
-
-**Pre-analysis plans and mechanism design**  
-  Oxford, February 2020  
-  [Slides](/home/files/slides/preanalysis_slides_kasy.pdf)  
 
 **The social impact of algorithmic decision making: Economic perspectives**  
   Stanford, October 2020  
