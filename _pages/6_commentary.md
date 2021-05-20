@@ -19,6 +19,10 @@ April 24, 2021 (includes coverage of our joint work)
 
 ## Policy papers and essays (in English)
 
+**The means of prediction**  
+May 20, 2021 (with Rediet Abebe)  
+[Boston Review](https://bostonreview.net/forum/redesigning-ai/rediet-abebe-maximilian-kasy-means-prediction)  
+
 **Adaptive experiments for policy research**  
 January 15, 2021 (with Anja Sautmann)  
 [VoxDev](https://voxdev.org/topic/methods-measurement/adaptive-experiments-policy-research)  
@@ -65,6 +69,10 @@ February 1, 2019
 
 
 ## Moment Newsletter (in German)
+
+**Patente für Impfstoffe und Medikamente: Warum es sie gibt und warum sie ein Problem sind**  
+May 12, 2021  
+[Moment](https://www.moment.at/warum-gibt-es-patente-impfungen)  
 
 **Wie werden eigentlich Medikamente und Impfungen getestet?**  
 April 7, 2021  
