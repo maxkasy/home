@@ -3,6 +3,10 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Piloting new social safety nets: Evaluation of a job guarantee program and of a basic income program**  
+  Vienna, June 2020  
+  [Slides](/home/files/slides/jobguarantee_basicincome_slides_kasy.pdf)  
+
 **Pre-analysis plans and mechanism design**  
   Munich, June 2020  
   [Slides](/home/files/slides/preanalysis_slides_kasy.pdf)  
