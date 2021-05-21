@@ -3,8 +3,11 @@ title: Commentary
 permalink: /commentary/
 ---
 
+
+## Media coverage
+
 **Employing the unemployed of Marienthal: Evaluation of a guaranteed job program**  
-Fall 2020, Media coverage  
+Fall 2020  
 [Business Insider](https://www.businessinsider.com/austria-worlds-first-universal-jobs-guarantee-experiment-2020-11)  
 [CNN](https://www.cnn.com/2020/11/23/economy/universal-basic-income-europe-pandemic/index.html)  
 [Independent](https://www.independent.co.uk/news/uk/politics/unconditional-job-guarantee-trial-austria-marienthal-oxford-universal-basic-income-b1451788.html)  
