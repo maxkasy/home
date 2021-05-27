@@ -30,6 +30,7 @@ permalink: /research/
   (joint with Sandra Bohmann, Susann Fiedler, Jürgen Schupp, and Frederik Schwerter)  
   *Experiment in progress, 2021-2024*  
   Pre-analysis plan: [PAP_job_guarantee_Marienthal.pdf](/home/files/other/pre_analysis_plan_mein_grundeinkommen.pdf)  
+  (Registered as [AEARCTR-0007734](https://www.socialscienceregistry.org/trials/7734))  
 
 ## Publications
 
