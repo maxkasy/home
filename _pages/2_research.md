@@ -29,7 +29,7 @@ permalink: /research/
 **Experimental evaluation of a Basic Income Pilot in Germany**  
   (joint with Sandra Bohmann, Susann Fiedler, Jürgen Schupp, and Frederik Schwerter)  
   *Experiment in progress, 2021-2024*  
-  Pre-analysis plan: Available soon[pre_analysis_plan_mein_grundeinkommen.pdf](/home/files/other/pre_analysis_plan_mein_grundeinkommen.pdf)  
+  Pre-analysis plan: [pre_analysis_plan_mein_grundeinkommen.pdf](/home/files/other/pre_analysis_plan_mein_grundeinkommen.pdf)  
   (Registered as [AEARCTR-0007734](https://www.socialscienceregistry.org/trials/7734))  
 
 ## Publications
