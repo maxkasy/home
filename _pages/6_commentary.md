@@ -73,6 +73,10 @@ February 1, 2019
 
 ## Moment Newsletter (in German)
 
+**Warum große Unternehmen kaum noch Steuern zahlen, und was sich dagegen machen lässt**  
+June 9, 2021  
+[Moment](https://www.moment.at/story/warum-zahlen-unternehmen-wenig-steuern)  
+
 **Patente für Impfstoffe und Medikamente: Warum es sie gibt und warum sie ein Problem sind**  
 May 12, 2021  
 [Moment](https://www.moment.at/warum-gibt-es-patente-impfungen)  
