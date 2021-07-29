@@ -35,7 +35,7 @@ permalink: /research/
 ## Publications
 
 **Of forking paths and tied hands: Selective publication of findings, and what economists should do about it**  
-  *Accepted, Journal of Economic Perspectives, 2021*  
+  *Journal of Economic Perspectives, 2021*  
   Manuscript: [statistics_social_science.pdf](/home/files/papers/statistics_social_science.pdf)  
 
 **Who wins, who loses? Identification of conditional causal effects, and the welfare impact of changing wages**  
