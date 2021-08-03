@@ -42,8 +42,9 @@ We consider multiple different treatment contrasts to separate out direct effect
 
 The following dashboard summarizes the study design and initial findings.
 
- <iframe src="https://maxkasy.github.io/home/files/other/dashboard_Marienthal.html" width="1200" height = "800" title="Dashboard"></iframe> 
- 
+<div markdown="0">
+  <iframe src="https://maxkasy.github.io/home/files/other/dashboard_Marienthal.html" width="1200" height = "800" title="Dashboard"></iframe> 
+ </div>
 
 
 ### Historical notes
