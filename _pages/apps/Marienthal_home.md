@@ -6,14 +6,18 @@ header:
   overlay_image: /files/other/Marienthal.jpg
 ---
 
-This page provides an overview of our study of a guaranteed job program in Gramatneusiedl, Austria, which started in 2020, joint with Lukas Lehner.
+This page provides an overview of our study of a guaranteed job pilot in Gramatneusiedl, Austria.  
+
+The pilot started in October 2020.  
+
+The evaluation is conducted joint with [Lukas Lehner](https://www.inet.ox.ac.uk/people/lukas-lehner/).  
 
 ## Links
 
 - Dashboard: [dashboard_Marienthal.html](/home/files/other/dashboard_Marienthal.html)  
 - Slides: [jobguarantee_basicincome_slides_kasy.pdf](/home/files/slides/jobguarantee_basicincome_slides_kasy.pdf) 
 -  Pre-analysis plan: [PAP_job_guarantee_Marienthal.pdf](/home/files/other/PAP_job_guarantee_Marienthal.pdf)  
-- Pre-registration: [AEARCTR-0006706](https://www.socialscienceregistry.org/trials/6706))  
+- Pre-registration: [AEARCTR-0006706](https://www.socialscienceregistry.org/trials/6706)  
 - Code: [https://github.com/maxkasy/Marienthal](https://github.com/maxkasy/Marienthal)  
 
 ## Study design
