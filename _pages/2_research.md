@@ -21,6 +21,7 @@ permalink: /research/
 **Employing the unemployed of Marienthal: Evaluation of a guaranteed job program**  
   (joint with Lukas Lehner)  
   *Experiment in progress, 2020-2023*  
+  Study homepage: [/Marienthal](/home/Marienthal)  
   Pre-analysis plan: [PAP_job_guarantee_Marienthal.pdf](/home/files/other/PAP_job_guarantee_Marienthal.pdf)  
   (Registered as [AEARCTR-0006706](https://www.socialscienceregistry.org/trials/6706))  
   Code: [https://github.com/maxkasy/Marienthal](https://github.com/maxkasy/Marienthal)  

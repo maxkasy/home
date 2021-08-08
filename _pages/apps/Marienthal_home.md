@@ -6,11 +6,9 @@ header:
   overlay_image: /files/other/Marienthal.jpg
 ---
 
-This page provides an overview of our study of a guaranteed job pilot in Gramatneusiedl, Austria.  
-
+This page provides an overview of our ongoing study of a guaranteed job pilot in Gramatneusiedl, Austria.  
 The pilot started in October 2020.  
-
-The evaluation is conducted joint with [Lukas Lehner](https://www.inet.ox.ac.uk/people/lukas-lehner/).  
+The evaluation is conducted jointly with [Lukas Lehner](https://www.inet.ox.ac.uk/people/lukas-lehner/).  
 
 ## Links
 
