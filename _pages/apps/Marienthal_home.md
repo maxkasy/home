@@ -4,6 +4,8 @@ permalink: /Marienthal/
 layout: splash
 header:
   overlay_image: /files/other/Marienthal.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.15"
 ---
 
 This page provides an overview of our ongoing study of a guaranteed job pilot in Gramatneusiedl, Austria.  
