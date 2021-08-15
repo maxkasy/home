@@ -56,7 +56,17 @@ The following dashboard summarizes the study design and initial findings.
 - Our study took place in the same location as a famous study of unemployment in the 1930s, "Marienthal; the sociography of an unemployed community," by [Marie Jahoda](https://en.wikipedia.org/wiki/Marie_Jahoda), [Paul Lazarsfeld](https://en.wikipedia.org/wiki/Paul_Lazarsfeld), and [Hans Zeisel](https://en.wikipedia.org/wiki/Hans_Zeisel).
 - Our visualization at the beginning of the dashboard draws on the "Isotype" system developed by [Otto Neurath](https://en.wikipedia.org/wiki/Otto_Neurath).
 
+### Media coverage
+{#media-coverage}  
 
+[Die Zeit](https://www.zeit.de/2021/33/jobgarantie-langzeitarbeitslose-experiment-gramatneusiedl-oesterreich-arbeitslosigkeit)  
+[Business Insider](https://www.businessinsider.com/austria-worlds-first-universal-jobs-guarantee-experiment-2020-11)  
+[CNN](https://www.cnn.com/2020/11/23/economy/universal-basic-income-europe-pandemic/index.html)  
+[Independent](https://www.independent.co.uk/news/uk/politics/unconditional-job-guarantee-trial-austria-marienthal-oxford-universal-basic-income-b1451788.html)  
+[Financial Times](https://app.ft.com/content/1c2fe25a-c3fe-4a39-bbbe-7a32cc5d5e70)  
+[Der Standard](https://apps.derstandard.at/privacywall/story/2000121172201/ein-garantierter-job-fuer-alle-arbeitslose-ams-testet-in-marienthal)  
+[Kurier](https://kurier.at/chronik/niederoesterreich/die-langzeitarbeitslosen-von-marienthal-ams-startet-modellprojekt/401072784)  
+[Moment](https://www.moment.at/story/experiment-jobgarantie-arbeit-fuer-alle-gramatneusiedl)  
  
 
 
