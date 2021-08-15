@@ -56,8 +56,7 @@ The following dashboard summarizes the study design and initial findings.
 - Our study took place in the same location as a famous study of unemployment in the 1930s, "Marienthal; the sociography of an unemployed community," by [Marie Jahoda](https://en.wikipedia.org/wiki/Marie_Jahoda), [Paul Lazarsfeld](https://en.wikipedia.org/wiki/Paul_Lazarsfeld), and [Hans Zeisel](https://en.wikipedia.org/wiki/Hans_Zeisel).
 - Our visualization at the beginning of the dashboard draws on the "Isotype" system developed by [Otto Neurath](https://en.wikipedia.org/wiki/Otto_Neurath).
 
-### Media coverage
-{#media-coverage}  
+### Media coverage {#media-coverage}  
 
 [Die Zeit](https://www.zeit.de/2021/33/jobgarantie-langzeitarbeitslose-experiment-gramatneusiedl-oesterreich-arbeitslosigkeit)  
 [Business Insider](https://www.businessinsider.com/austria-worlds-first-universal-jobs-guarantee-experiment-2020-11)  
