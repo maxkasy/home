@@ -1,17 +1,18 @@
 ---
-title: "Advanced Econometrics 2: Foundations of Machine Learning"
+title: "Foundations of Machine Learning"
 permalink: /ML_Oxford_2022/
 ---
 
 
-* Tentative Syllabus [Syllabus_ML_Oxford_2022.pdf](/home/files/teaching/ML_Oxford_2022/Syllabus_ML_Oxford_2022.pdf)
+Tentative Syllabus: [Syllabus_ML_Oxford_2022.pdf](/home/files/teaching/ML_Oxford_2022/Syllabus_ML_Oxford_2022.pdf)
 
 
-## Slides
 
 ### Foundations
 * Review of decision theory
 [Slides](/home/files/teaching/ML_Oxford_2022/decision_theory_slides.pdf)
+* Probably approximately correct learning theory
+[Slides](/home/files/teaching/ML_Oxford_2022/pac_learning_slides.pdf)
 * Shrinkage in the normal means model
 [Slides](/home/files/teaching/ML_Oxford_2022/normal_shrinkage_slides.pdf)
 
@@ -25,8 +26,7 @@ permalink: /ML_Oxford_2022/
 [Slides](/home/files/teaching/ML_Oxford_2022/neural_nets_slides.pdf)
 * Double/debiased machine learning
 [Slides](/home/files/teaching/ML_Oxford_2022/debiased_ml_slides.pdf)
-* Probably approximately correct learning theory
-[Slides](/home/files/teaching/ML_Oxford_2022/pac_learning_slides.pdf)
+
 
 ### Online learning and active learning
 * Online learning
@@ -47,10 +47,10 @@ permalink: /ML_Oxford_2022/
 
 ## Class readers
 
-*[Foundations.zip](/home/files/teaching/ML_Oxford_2022/Foundations.zip)
-*[Supervised.zip](/home/files/teaching/ML_Oxford_2022/Supervised.zip)
-*[Active.zip](/home/files/teaching/ML_Oxford_2022/Active.zip)
-*[Ethics.zip](/home/files/teaching/ML_Oxford_2022/Ethics.zip)
+* [Foundations.zip](/home/files/teaching/ML_Oxford_2022/Foundations.zip)  
+* [Supervised.zip](/home/files/teaching/ML_Oxford_2022/Supervised.zip)  
+* [Active.zip](/home/files/teaching/ML_Oxford_2022/Active.zip)  
+* [Ethics.zip](/home/files/teaching/ML_Oxford_2022/Ethics.zip)
 
 
 ## Homework problems
