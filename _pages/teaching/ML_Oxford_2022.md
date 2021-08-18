@@ -40,9 +40,11 @@ Tentative Syllabus: [Syllabus_ML_Oxford_2022.pdf](/home/files/teaching/ML_Oxford
 
 
 ### Ethics and machine learning
-* Fairness
 
+* Fairness
+[Slides](/home/files/teaching/ML_Oxford_2022/fairness_slides.pdf)  
 * Differential privacy
+[Slides](/home/files/teaching/ML_Oxford_2022/differential_privacy_slides.pdf)  
 
 
 ## Class readers
