@@ -29,6 +29,8 @@ Tentative Syllabus: [Syllabus_ML_Oxford_2022.pdf](/home/files/teaching/ML_Oxford
 
 
 ### Online learning and active learning
+* Overview of online learning and active learning
+[Slides](/home/files/teaching/ML_Oxford_2022/active_learning_overview_slides.pdf)
 * Online learning
 [Slides](/home/files/teaching/ML_Oxford_2022/adversarial_online_learning_slides.pdf)
 * Bandit problems
