@@ -59,6 +59,9 @@ Tentative Syllabus: [Syllabus_ML_Oxford_2022.pdf](/home/files/teaching/ML_Oxford
 
 ## Homework problems
 
+1. [foundations_ml_ps1.pdf](/home/files/teaching/ML_Oxford_2022/foundations_ml_ps1.pdf)  
+2. [foundations_ml_ps2.pdf](/home/files/teaching/ML_Oxford_2022/foundations_ml_ps2.pdf)  
+3. [foundations_ml_ps3.pdf](/home/files/teaching/ML_Oxford_2022/foundations_ml_ps3.pdf)  
 
 ## Useful links
 
