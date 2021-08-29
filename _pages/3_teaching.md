@@ -10,9 +10,9 @@ permalink: /teaching/
 
 ## Oxford
 
-### Foundations of machine learning  (master, 2021)
-* Syllabus [Syllabus_ML_Oxford_2021.pdf](/home/files/teaching/ML_Oxford_2021/Syllabus_ML_Oxford_2021.pdf)
-* Class page [/home/ML_Oxford_2021](/home/ML_Oxford_2021)
+### Foundations of machine learning  (master, 2022)
+* Syllabus [Syllabus_ML_Oxford_2022.pdf](/home/files/teaching/ML_Oxford_2022/Syllabus_ML_Oxford_2022.pdf)
+* Class page [/home/ML_Oxford_2022](/home/ML_Oxford_2022)
 
 ### Labor economics (undergraduate, 2021)
 * Syllabus [Syllabus_Labor_Oxford_2021.pdf](/home/files/teaching/Labor_Oxford_2021/Syllabus_Labor_Oxford_2021.pdf)
