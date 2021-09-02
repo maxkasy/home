@@ -5,7 +5,7 @@ permalink: /presentations/
 
 **Social foundations for statistics and machine learning**  
   London, September 2021  
-  [Slides](/home/files/slides/social_foundations_slides_kasy.pdf)  
+  [Slides](/home/files/slides/social_foundations_slides.pdf)  
 
 **Piloting new social safety nets: Evaluation of a job guarantee program and of a basic income program**  
   Vienna, June 2021  
