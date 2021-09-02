@@ -3,13 +3,17 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Social foundations for statistics and machine learning**  
+  London, September 2021  
+  [Slides](/home/files/slides/social_foundations_slides_kasy.pdf)  
+
 **Piloting new social safety nets: Evaluation of a job guarantee program and of a basic income program**  
-  Vienna, June 2020  
+  Vienna, June 2021  
   [Slides](/home/files/slides/jobguarantee_basicincome_slides_kasy.pdf)  
   [Recording](https://www.youtube.com/watch?v=QN1oDtz3sjQ&authuser=0)  
 
 **Pre-analysis plans and mechanism design**  
-  Munich, June 2020  
+  Munich, June 2021  
   [Slides](/home/files/slides/preanalysis_slides_kasy.pdf)  
   
 **Statistical decision theory cannot justify  
