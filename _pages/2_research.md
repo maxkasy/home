@@ -13,7 +13,7 @@ permalink: /research/
   Supplementary appendix: [RefugeesWork_OnlineAppendix.pdf](/home/files/papers/RefugeesWork_onlineAppendix.pdf)  
   Registered pre-analysis plan: [AEA RCT Registry](https://www.socialscienceregistry.org/trials/3870)  
 
-**Adaptive Combinatorial Allocation**  
+**Learning by matching**  
   (joint with Alex Teytelboym)  
   *Working paper, 2021*  
   Manuscript: [adaptive_combinatorial.pdf](/home/files/papers/adaptive_combinatorial.pdf)  
