@@ -1,5 +1,5 @@
 ---
-title: "Machine learning and economics group, Oxford"
+title: "Machine Learning and Economics Group, Oxford"
 permalink: /ML_Econ_Oxford/
 layout: splash
 header:
@@ -22,16 +22,19 @@ Special emphasis will be put on the social impact of ML, and on non-commercial a
 
 ## Activities
 
-- I will send out a sign-up sheet for our e-mail list and for becoming a group affiliate. If you would like to sign up later, please send me an e-mail.
-- I will teach a new MPhil course on the foundations of ML for economists in HT 2022. All faculty and post-docs are invited to audit this course and participate in discussions. Syllabus, slides and readers can be found here:  
+- I will send out a sign-up sheet for our e-mail list and for becoming a group affiliate.   
+If you would like to sign up later, please send me an e-mail.
+- I will teach a new MPhil course on the foundations of ML for economists in HT 2022.  
+All faculty, post-docs, and doctoral students are invited to audit this course and participate in discussions.  
+Syllabus, slides and readers can be found here:  
 [Foundations of Machine Learning](https://maxkasy.github.io/home/ML_Oxford_2022/)
 - I will coordinate a bi-weekly reading and discussion group on ML and economics, starting in HT 2022.
 
 ## Reading and discussion group
 
 Meeting dates:
-- Coordinating meeting: 2pm, November 2, 2021
-- Reading and discussion group meetings: 2pm, Tuesdays in even weeks, starting HT 2022  
+- Coordinating meeting: 2:30pm, November 2, 2021
+- Reading and discussion group meetings: 2:30pm, Tuesdays in even weeks, starting HT 2022  
 (That is: Jan 25, Feb 8, Feb 22, March 8)  
 
 Location: TBD
@@ -42,7 +45,7 @@ TBD
 
 ## Associated faculty
 
-- Maximilian Kasy  
-[Website](https://maxkasy.github.io/home/), [Code](https://maxkasy.github.io/home/code-and-apps/)
+- Maximilian Kasy: [Website](https://maxkasy.github.io/home/), [Code](https://maxkasy.github.io/home/code-and-apps/)  
+- Alexander Teytelboym: [Website](https://t8el.com/)
 
 
