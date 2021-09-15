@@ -26,9 +26,10 @@ Special emphasis will be put on the social impact of ML, and on non-commercial a
 If you would like to sign up later, please send me an e-mail.
 - I will teach a new MPhil course on the foundations of ML for economists in HT 2022.  
 All faculty, post-docs, and doctoral students are invited to audit this course and participate in discussions.  
-Syllabus, slides and readers can be found here:  
+Syllabus, slides and readers can be found here:
 [Foundations of Machine Learning](https://maxkasy.github.io/home/ML_Oxford_2022/)
 - I will coordinate a bi-weekly reading and discussion group on ML and economics, starting in HT 2022.
+- In April 2021, we organized a conference on [Machine learning and economic inequality](https://maxkasy.github.io/home/ML_inequality_conference/). Recordings of the talks are available on [Youtube](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag/videos).
 
 ## Reading and discussion group
 
@@ -50,6 +51,7 @@ TBD
 - Jeremy Large: [Website](https://github.com/jeremy-large), [Code](https://github.com/jeremy-large)
 - Michael McMahon: [Website](mcmahonecon.com), [Code](https://github.com/mcmahonecon/)
 - Alexander Teytelboym: [Website](https://t8el.com/)
+- Martin Weidner: [Website](https://users.ox.ac.uk/~econ0610/)
 
 
 
