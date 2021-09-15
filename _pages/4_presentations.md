@@ -3,6 +3,10 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Rationalizing Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
+September 2021  
+[Slides](/home/files/slides/preanalysis_slides_kasy.pdf)  
+
 **Social foundations for statistics and machine learning**  
   London, September 2021  
   [Slides](/home/files/slides/social_foundations_slides.pdf)  
@@ -11,10 +15,6 @@ permalink: /presentations/
   Vienna, June 2021  
   [Slides](/home/files/slides/jobguarantee_basicincome_slides_kasy.pdf)  
   [Recording](https://www.youtube.com/watch?v=QN1oDtz3sjQ&authuser=0)  
-
-**Pre-analysis plans and mechanism design**  
-  Munich, June 2021  
-  [Slides](/home/files/slides/preanalysis_slides_kasy.pdf)  
   
 **Statistical decision theory cannot justify  
 randomization or pre-registration for experiments.**  
