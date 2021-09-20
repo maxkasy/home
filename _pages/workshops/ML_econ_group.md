@@ -46,6 +46,7 @@ TBD
 
 ## Associated faculty
 
+- Abigail Adams-Prassl: [Website](https://abiadams.com/)
 - Maximilian Kasy: [Website](https://maxkasy.github.io/home/), [Code](https://maxkasy.github.io/home/code-and-apps/)  
 - Nathaniel Lane: [Website](http://nathanlane.info), [Code](https://github.com/nathanlane)
 - Jeremy Large: [Website](https://github.com/jeremy-large), [Code](https://github.com/jeremy-large)
