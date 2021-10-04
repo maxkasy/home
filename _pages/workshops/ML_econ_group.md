@@ -35,10 +35,10 @@ Syllabus, slides and readers can be found here:
 
 Meeting dates:
 - Coordinating meeting: 2:30pm, November 2, 2021  
-*Manor roads building, lecture theatre*  
+*Manor Road Building, Lecture Theatre*  
 - Reading and discussion group meetings: 2:30pm, Tuesdays in even weeks, starting HT 2022  
 (That is: Jan 25, Feb 8, Feb 22, March 8)  
-*Manor roads building, Seminar room A*  
+*Manor Road Building, Seminar Room A*  
 
 
 ### Readings and discussion topics
