@@ -3,9 +3,13 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Learning by matching**  
+  September 2021, EAAMO conference  
+  [Slides](/home/files/slides/learning_by_matching_slides.pdf)  
+
 **Rationalizing Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
-September 2021  
-[Slides](/home/files/slides/preanalysis_slides_kasy.pdf)  
+  September 2021  
+  [Slides](/home/files/slides/preanalysis_slides_kasy.pdf)  
 
 **Social foundations for statistics and machine learning**  
   London, September 2021  
