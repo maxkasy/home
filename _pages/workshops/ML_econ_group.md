@@ -45,16 +45,29 @@ Meeting dates:
 
 TBD
 
-## Associated faculty
+## Affiliates 
+
+### Faculty
 
 - Abigail Adams-Prassl: [Website](https://abiadams.com/)
+- Frank DiTraglia: [Website](https://ditraglia.com), [Code](https://github.com/fditraglia)
 - Maximilian Kasy: [Website](https://maxkasy.github.io/home/), [Code](https://maxkasy.github.io/home/code-and-apps/)  
 - Nathaniel Lane: [Website](http://nathanlane.info), [Code](https://github.com/nathanlane)
 - Jeremy Large: [Website](https://github.com/jeremy-large), [Code](https://github.com/jeremy-large)
 - Michael McMahon: [Website](mcmahonecon.com), [Code](https://github.com/mcmahonecon/)
+- Charles Rahal: [Website](crahal.github.io), [Code](https://github.com/crahal)
+- Kevin Sheppard: [Website](https://www.kevinsheppard.com), [Code](https://github.com/bashtage)
 - Alexander Teytelboym: [Website](https://t8el.com/)
+- Severine Toussaert: [Website](http://severinetoussaert.com/)
 - Martin Weidner: [Website](https://users.ox.ac.uk/~econ0610/)
+- Francesco Zanetti: [Website](https://users.ox.ac.uk/~wadh4073/)
 
 
+### Post-docs
 
-
+- Andrea Bernini	
+- Christophe Gaillac: [Website](https://www.cgaillac.com/)
+- Claudia Noack: [Website](https://claudianoack.github.io/)
+- Edwin Lock: [Website](edwinlock.com)
+- Ryan Rholes: [Website](ryanholes.com)
+- Xiyu Jiao: [Website](https://sites.google.com/view/xiyujiao)
