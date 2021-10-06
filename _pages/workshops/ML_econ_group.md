@@ -67,7 +67,7 @@ TBD
 
 - Andrea Bernini	
 - Christophe Gaillac: [Website](https://www.cgaillac.com/)
-- Claudia Noack: [Website](https://claudianoack.github.io/)
-- Edwin Lock: [Website](edwinlock.com)
-- Ryan Rholes: [Website](ryanholes.com)
 - Xiyu Jiao: [Website](https://sites.google.com/view/xiyujiao)
+- Edwin Lock: [Website](edwinlock.com)
+- Claudia Noack: [Website](https://claudianoack.github.io/)
+- Ryan Rholes: [Website](ryanholes.com)
