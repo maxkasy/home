@@ -69,6 +69,7 @@ https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-mach
 - Nathaniel Lane: [Website](http://nathanlane.info), [Code](https://github.com/nathanlane)
 - Jeremy Large: [Website](https://github.com/jeremy-large), [Code](https://github.com/jeremy-large)
 - Michael McMahon: [Website](mcmahonecon.com), [Code](https://github.com/mcmahonecon/)
+- Barbara Petrongolo: [Website](https://sites.google.com/site/barbarapetrongolo/)
 - Charles Rahal: [Website](crahal.github.io), [Code](https://github.com/crahal)
 - Kevin Sheppard: [Website](https://www.kevinsheppard.com), [Code](https://github.com/bashtage)
 - Alexander Teytelboym: [Website](https://t8el.com/)
