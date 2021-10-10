@@ -44,18 +44,18 @@ Meeting dates:
 ### Readings and discussion topics
 
 Readings for HT 2022 (tentative):
-- W1:
+- W2:
   - Introduction of [Understanding machine learning: From theory to algorithms](
 https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
   - [Roles for Computing in Social Change](/files/other/ML_Econ_Oxford/computing_social_change.pdf)
-- W2:
+- W4:
   - [Learning Equilibria in Matching Markets from Bandit Feedback](/files/other/ML_Econ_Oxford/learning_equilibria.pdf)
   - [Digital Socialism?](/files/other/ML_Econ_Oxford/digital_socialism.pdf)
-- W3
+- W6
   - [The Limits of Price Discrimination](/files/other/ML_Econ_Oxford/limits-price-discrimination.pdf)
   - [AI’s Future Doesn’t Have to Be Dystopian](https://bostonreview.net/forum/science-nature/daron-acemoglu-redesigning-ai)
-- W4
-  - [The Algorithmic Foundations of Differential Privacy](/files/other/ML_Econ_Oxford/differential_privacy.pdf)
+- W8
+  - Chapters 1-3 of [The Algorithmic Foundations of Differential Privacy](/files/other/ML_Econ_Oxford/differential_privacy.pdf)
   - [Democratic Data: A Relational Theory For Data Governance](/files/other/ML_Econ_Oxford/relational_data_governance.pdf)
 
 
