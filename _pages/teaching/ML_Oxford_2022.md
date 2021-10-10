@@ -35,8 +35,8 @@ Tentative Syllabus: [Syllabus_ML_Oxford_2022.pdf](/home/files/teaching/ML_Oxford
 [Slides](/home/files/teaching/ML_Oxford_2022/adversarial_online_learning_slides.pdf)
 * Bandit problems
 [Slides](/home/files/teaching/ML_Oxford_2022/bandit_problems_slides.pdf)
-* Experiments for policy choice
-[Slides](/home/files/teaching/ML_Oxford_2022/policy_experiments_slides.pdf)
+<!-- * Experiments for policy choice
+[Slides](/home/files/teaching/ML_Oxford_2022/policy_experiments_slides.pdf) -->
 * Reinforcement learning
 [Slides](/home/files/teaching/ML_Oxford_2022/reinforcement_learning_slides.pdf)  
 
