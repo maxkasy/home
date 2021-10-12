@@ -64,7 +64,9 @@ https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-mach
 ### Faculty
 
 - Abigail Adams-Prassl: [Website](https://abiadams.com/)
+- Jeremias Adams-Prassl: [Website](https://www.magd.ox.ac.uk/member-of-staff/jeremias-prassl/)
 - Frank DiTraglia: [Website](https://ditraglia.com), [Code](https://github.com/fditraglia)
+- Paul Goldberg: [Website](http://www.cs.ox.ac.uk/people/paul.goldberg/index1.html)
 - Maximilian Kasy: [Website](https://maxkasy.github.io/home/), [Code](https://maxkasy.github.io/home/code-and-apps/)  
 - Nathaniel Lane: [Website](http://nathanlane.info), [Code](https://github.com/nathanlane)
 - Jeremy Large: [Website](https://github.com/jeremy-large), [Code](https://github.com/jeremy-large)
