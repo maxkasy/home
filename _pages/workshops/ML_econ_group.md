@@ -66,6 +66,7 @@ https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-mach
 - Abigail Adams-Prassl: [Website](https://abiadams.com/)
 - Jeremias Adams-Prassl: [Website](https://www.magd.ox.ac.uk/member-of-staff/jeremias-prassl/)
 - Frank DiTraglia: [Website](https://ditraglia.com), [Code](https://github.com/fditraglia)
+- Edith Elkind: [Website](http://www.cs.ox.ac.uk/people/edith.elkind/)
 - Paul Goldberg: [Website](http://www.cs.ox.ac.uk/people/paul.goldberg/index1.html)
 - Maximilian Kasy: [Website](https://maxkasy.github.io/home/), [Code](https://maxkasy.github.io/home/code-and-apps/)  
 - Nathaniel Lane: [Website](http://nathanlane.info), [Code](https://github.com/nathanlane)
@@ -77,7 +78,11 @@ https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-mach
 - Alexander Teytelboym: [Website](https://t8el.com/)
 - Severine Toussaert: [Website](http://severinetoussaert.com/)
 - Martin Weidner: [Website](https://users.ox.ac.uk/~econ0610/)
+- Frank Windmeijer: [Website](https://www.stats.ox.ac.uk/all-people/professor-frank-windmeijer/)
 - Francesco Zanetti: [Website](https://users.ox.ac.uk/~wadh4073/)
+
+
+
 
 
 ### Post-docs
