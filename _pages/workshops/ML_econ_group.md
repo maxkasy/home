@@ -39,7 +39,7 @@ Meeting dates:
 - Reading and discussion group meetings: 2:30pm, Tuesdays in even weeks, starting HT 2022  
 (That is: Jan 25, Feb 8, Feb 22, March 8)  
 *Manor Road Building, Seminar Room A*  
-
+- Slides for the coordinating meeting: [Slides](/files/other/ML_Econ_Oxford/ML_Econ_organizing_slides.pdf)  
 
 ### Readings and discussion topics
 
