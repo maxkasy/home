@@ -3,6 +3,10 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Machine learning for policy**  
+  November 2022, deputy ministers of Pakistan  
+  [Slides](/home/files/slides/ML_policy_slides.pdf)  
+
 **Learning by matching**  
   September 2021, EAAMO conference  
   [Slides](/home/files/slides/learning_by_matching_slides.pdf)  
@@ -32,7 +36,8 @@ Online Learning, Bandit Algorithms, and Reinforcement Learning**
 
 **Fairness, equality, and power in algorithmic decision making**  
   Oxford Law School, March 2021  
-  [Slides](/home/files/slides/fairness_equality_power_slides_law_kasy.pdf) 
+  [Slides](/home/files/slides/fairness_equality_power_slides_law_kasy.pdf)  
+  [Recording for Informs 2021](https://www.dropbox.com/s/2hoimu0o2tkhwmt/kasy_informs_2021.mp4?dl=0)  
 
 **Probably approximately correct learning and adversarial online learning**  
   Alan Turing Institute, Economics and ML reading group, February 2021  
