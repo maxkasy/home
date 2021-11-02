@@ -65,7 +65,17 @@ February 1, 2019
 [Guest Blog, US-BIG](https://usbig.net/guest-blog-the-case-for-an-unconditional-safety-net/)  
 
 
+# Op-eds in German
+
+**Die Marktmacht der Arbeitgeber**  
+Nov 2, 2021  
+[Die Presse](https://www.diepresse.com/6053848/die-marktmacht-der-arbeitgeber)  
+
 ## Moment Newsletter (in German)
+
+**Was passiert, wenn wir die Löhne erhöhen?**  
+July 28, 2021  
+[Moment](https://www.moment.at/story/hoehere-loehne-was-passiert-loehne-erhoehen)  
 
 **Warum große Unternehmen kaum noch Steuern zahlen, und was sich dagegen machen lässt**  
 June 9, 2021  
@@ -117,7 +127,7 @@ August 17, 2020
 
 
 
-## Der Standard Op-eds (in German)
+## Der Standard
 
 **Bringt die Maschinen unter Kontrolle!**  
   February 06, 2020  
