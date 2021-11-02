@@ -69,6 +69,9 @@ https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-mach
 - Edith Elkind: [Website](http://www.cs.ox.ac.uk/people/edith.elkind/)
 - Paul Goldberg: [Website](http://www.cs.ox.ac.uk/people/paul.goldberg/index1.html)
 - Maximilian Kasy: [Website](https://maxkasy.github.io/home/), [Code](https://maxkasy.github.io/home/code-and-apps/)  
+- Anders Kock: [Website](https://sites.google.com/site/andersbkock/)
+- Margaryta Klymak: [Website](https://sites.google.com/view/margarytaklymak)
+- Pantelis Koutroumpis: [Website](https://www.oxfordmartin.ox.ac.uk/people/dr-pantelis-koutroumpis/)
 - Nathaniel Lane: [Website](http://nathanlane.info), [Code](https://github.com/nathanlane)
 - Jeremy Large: [Website](https://github.com/jeremy-large), [Code](https://github.com/jeremy-large)
 - Michael McMahon: [Website](mcmahonecon.com), [Code](https://github.com/mcmahonecon/)
@@ -84,12 +87,15 @@ https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-mach
 
 
 
-
 ### Post-docs
 
 - Andrea Bernini	
 - Christophe Gaillac: [Website](https://www.cgaillac.com/)
+- Mathias Jensen: [Website](https://fjaellegaard.com/)
 - Xiyu Jiao: [Website](https://sites.google.com/view/xiyujiao)
 - Edwin Lock: [Website](edwinlock.com)
 - Claudia Noack: [Website](https://claudianoack.github.io/)
 - Ryan Rholes: [Website](ryanholes.com)
+- Ning Zhang: [Website](https://sites.google.com/view/ningzhangecon)
+
+
