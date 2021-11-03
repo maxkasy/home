@@ -3,8 +3,12 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Adaptive maximization of social welfare**  
+December 2021, ML and Econometrics workshop at NeurIPS  
+[Poster](/home/files/slides/adaptive_welfare_poster.pdf)  
+
 **Machine learning for policy**  
-  November 2022, deputy ministers of Pakistan  
+  November 2021, deputy ministers of Pakistan  
   [Slides](/home/files/slides/ML_policy_slides.pdf)  
 
 **Learning by matching**  
