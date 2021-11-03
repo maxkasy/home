@@ -22,14 +22,14 @@ Special emphasis will be put on the social impact of ML, and on non-commercial a
 
 ## Activities
 
-- I will send out a sign-up sheet for our e-mail list and for becoming a group affiliate.   
-If you would like to sign up later, please send me an e-mail.
-- I will teach a new MPhil course on the foundations of ML for economists in HT 2022.  
+- I have sent out a sign-up sheet for our e-mail list and for becoming a group affiliate. If you would still like to sign up, please send me an e-mail.
+- I will teach a new **MPhil course** on the foundations of ML for economists in HT 2022.  
 All faculty, post-docs, and doctoral students are invited to audit this course and participate in discussions.  
 Syllabus, slides and readers can be found here:
 [Foundations of Machine Learning](https://maxkasy.github.io/home/ML_Oxford_2022/)
-- I will coordinate a bi-weekly reading and discussion group on ML and economics, starting in HT 2022.
-- In April 2021, we organized a conference on [Machine learning and economic inequality](https://maxkasy.github.io/home/ML_inequality_conference/). Recordings of the talks are available on [Youtube](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag/videos).
+- I will coordinate a bi-weekly **reading** and discussion **group** on ML and economics, starting in HT 2022.
+- I have set up a **Wiki** for the group, for open discussion, suggestion of future readings and other activities, sharing code, etc. Please go to [Github Wiki](https://github.com/maxkasy/ML_Econ_Oxford/wiki) to participate and discuss!
+- In April 2021, we organized a **conference** on [Machine learning and economic inequality](https://maxkasy.github.io/home/ML_inequality_conference/). Recordings of the talks are available on [Youtube](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag/videos).
 
 ## Reading and discussion group
 
