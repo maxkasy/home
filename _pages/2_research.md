@@ -33,6 +33,12 @@ permalink: /research/
   Pre-analysis plan: [pre_analysis_plan_mein_grundeinkommen.pdf](/home/files/other/pre_analysis_plan_mein_grundeinkommen.pdf)  
   (Registered as [AEARCTR-0007734](https://www.socialscienceregistry.org/trials/7734))  
 
+
+**Correction regarding ``Adaptive treatment assignment in experiments for policy choice''**  
+  *Under review, Econometrica, 2021*  
+  Manuscript: [correction_adaptiveexperimentspolicy.pdf](/home/files/papers/correction_adaptiveexperimentspolicy.pdf)  
+
+
 ## Publications
 
 **Of forking paths and tied hands: Selective publication of findings, and what economists should do about it**  
