@@ -3,6 +3,10 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**How to run an adaptive field experiment**  
+  December 2021, Field Days conference  
+  [Slides](/home/files/slides/adaptive_field_slides_kasy.pdf)  
+
 **Adaptive maximization of social welfare**  
 December 2021, ML and Econometrics workshop at NeurIPS  
 [Poster](/home/files/slides/adaptive_welfare_poster.pdf)  
@@ -51,10 +55,6 @@ Online Learning, Bandit Algorithms, and Reinforcement Learning**
 **The social impact of algorithmic decision making: Economic perspectives**  
   Stanford, October 2020  
   [Slides](/home/files/slides/econ_algorithms_slides_kasy.pdf)  
-
-**How to run an adaptive field experiment**  
-  World Bank, September 2020  
-  [Slides](/home/files/slides/adaptive_field_slides_kasy.pdf)  
 
 **Basic income and basic income experiments**  
   July 2020  
