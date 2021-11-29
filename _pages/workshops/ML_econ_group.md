@@ -35,9 +35,9 @@ Syllabus, slides and readers can be found here:
 Meeting dates:
 - Coordinating meeting: 2:30pm, November 2, 2021  
 *Manor Road Building, Lecture Theatre*  
-- Reading and discussion group meetings: 2:30pm, Tuesdays in even weeks, starting HT 2022  
+- Reading and discussion group meetings: 3pm, Tuesdays in even weeks, starting HT 2022  
 (That is: Jan 25, Feb 8, Feb 22, March 8)  
-*Manor Road Building, Seminar Room A*  
+*Manor Road Building, Common Room*  
 - Slides for the coordinating meeting: [Slides](/home/files/other/ML_Econ_Oxford/ML_Econ_organizing_slides.pdf)  
 
 ### Readings and discussion topics
