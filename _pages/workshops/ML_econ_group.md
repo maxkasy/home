@@ -22,7 +22,6 @@ Special emphasis will be put on the social impact of ML, and on non-commercial a
 
 ## Activities
 
-- I have sent out a sign-up sheet for our e-mail list and for becoming a group affiliate. If you would still like to sign up, please send me an e-mail.
 - I will teach a new **MPhil course** on the foundations of ML for economists in HT 2022.  
 All faculty, post-docs, and doctoral students are invited to audit this course and participate in discussions.  
 Syllabus, slides and readers can be found here:
