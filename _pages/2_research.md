@@ -46,7 +46,7 @@ permalink: /research/
   Manuscript: [statistics_social_science.pdf](/home/files/papers/statistics_social_science.pdf)  
 
 **Who wins, who loses? Identification of conditional causal effects, and the welfare impact of changing wages**  
-  *Accepted, Journal of Econometrics, 2021*  
+  *Journal of Econometrics, 2022*  
   Manuscript: [whowinswholoses.pdf](/home/files/papers/Whowinswholoses.pdf)  
   
 **Which findings should be published**  
@@ -56,7 +56,7 @@ permalink: /research/
 
 **Fairness, equality, and power in algorithmic decision making**  
   (joint with Rediet Abebe)  
-  *Accepted for publication, ACM Conference on Fairness, Accountability, and Transparency, 2021*  
+  *Proceedings of the ACM Conference on Fairness, Accountability, and Transparency, 2021*  
   Manuscript: [fairness_equality_power.pdf](/home/files/papers/fairness_equality_power.pdf)  
 
 **Adaptive treatment assignment in experiments for policy choice**  
