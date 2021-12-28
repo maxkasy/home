@@ -3,6 +3,10 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Adaptive maximization of social welfare**  
+January 2022, ASSA  
+[Slides](/home/files/slides/adaptive_welfare_slides.pdf)  
+
 **How to run an adaptive field experiment**  
   December 2021, Field Days conference  
   [Slides](/home/files/slides/adaptive_field_slides_kasy.pdf)  
