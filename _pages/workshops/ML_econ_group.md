@@ -27,7 +27,7 @@ All faculty, post-docs, and doctoral students are invited to audit this course a
 Syllabus, slides and readers can be found here:
 [Foundations of Machine Learning](https://maxkasy.github.io/home/ML_Oxford_2022/)
 - I will coordinate a bi-weekly **reading** and discussion **group** on ML and economics, starting in HT 2022.
-- I have set up a **Wiki** for the group, for open discussion, suggestion of future readings and other activities, sharing code, etc. Please go to [Github Wiki](https://github.com/maxkasy/ML_Econ_Oxford/wiki) to participate and discuss!
+- I have set up a **Google doc** for the group, for open discussion, suggestion of future readings and other activities, sharing code, etc. Please go to [discussion doc](https://docs.google.com/document/d/1zlmB820Ps7elpJBmLFtonamBpG1UNTz8DeLbt81Cwlg/edit?usp=sharing) to participate and discuss!  
 - In April 2021, we organized a **conference** on [Machine learning and economic inequality](https://maxkasy.github.io/home/ML_inequality_conference/). Recordings of the talks are available on [Youtube](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag/videos).
 
 ## Reading and discussion group
@@ -47,6 +47,7 @@ Readings for HT 2022 (tentative):
   - Introduction of [Understanding machine learning: From theory to algorithms](
 https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
   - [Roles for Computing in Social Change](/home/files/other/ML_Econ_Oxford/computing_social_change.pdf)
+  - [Discussion questions](/home/files/other/ML_Econ_Oxford/Discussion_questions_1.pdf)
 - W4:
   - [Learning Equilibria in Matching Markets from Bandit Feedback](/home/files/other/ML_Econ_Oxford/learning_equilibria.pdf)
   - [Digital Socialism?](/home/files/other/ML_Econ_Oxford/digital_socialism.pdf)
