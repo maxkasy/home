@@ -3,6 +3,11 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Employing the unemployed of Marienthal:  
+ Evaluation of a guaranteed job program**  
+  January 2022, Marie Jahoda memorial conference  
+  [Slides](/home/files/slides/jahoda_slides_kasy.pdf)  
+
 **Adaptive maximization of social welfare**  
   January 2022, ASSA  
   [Slides](/home/files/slides/adaptive_welfare_slides.pdf)  
