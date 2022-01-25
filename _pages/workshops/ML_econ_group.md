@@ -47,7 +47,7 @@ Readings for HT 2022 (tentative):
   - Introduction of [Understanding machine learning: From theory to algorithms](
 https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
   - [Roles for Computing in Social Change](/home/files/other/ML_Econ_Oxford/computing_social_change.pdf)
-  - [Discussion questions](/home/files/other/ML_Econ_Oxford/Discussion_questions_1.pdf)
+  - [Discussion questions](/home/files/other/ML_Econ_Oxford/Discussion_questions_1.pdf) [Slides Binta](/home/files/other/ML_Econ_Oxford/Binta_slides_roles_computing.pdf)
 - W4:
   - [Learning Equilibria in Matching Markets from Bandit Feedback](/home/files/other/ML_Econ_Oxford/learning_equilibria.pdf)
   - [Digital Socialism?](/home/files/other/ML_Econ_Oxford/digital_socialism.pdf)
