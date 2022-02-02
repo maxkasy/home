@@ -51,6 +51,7 @@ https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-mach
 - W4:
   - [Learning Equilibria in Matching Markets from Bandit Feedback](/home/files/other/ML_Econ_Oxford/learning_equilibria.pdf)
   - [Digital Socialism?](/home/files/other/ML_Econ_Oxford/digital_socialism.pdf)
+  - [Discussion questions](/home/files/other/ML_Econ_Oxford/Discussion_questions_2.pdf)  
 - W6
   - [The Limits of Price Discrimination](/home/files/other/ML_Econ_Oxford/limits-price-discrimination.pdf)
   - [AI’s Future Doesn’t Have to Be Dystopian](https://bostonreview.net/forum/science-nature/daron-acemoglu-redesigning-ai)
