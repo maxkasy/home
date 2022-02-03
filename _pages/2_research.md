@@ -26,7 +26,6 @@ permalink: /research/
   (Registered as [AEARCTR-0006706](https://www.socialscienceregistry.org/trials/6706))  
   Code: [https://github.com/maxkasy/Marienthal](https://github.com/maxkasy/Marienthal)  
 
-
 **Experimental evaluation of a Basic Income Pilot in Germany**  
   (joint with Sandra Bohmann, Susann Fiedler, Jürgen Schupp, and Frederik Schwerter)  
   *Experiment in progress, 2021-2024*  
@@ -41,19 +40,19 @@ permalink: /research/
 
 ## Publications
 
-**Of forking paths and tied hands: Selective publication of findings, and what economists should do about it**  
-  *Journal of Economic Perspectives, 2021*  
-  Manuscript: [statistics_social_science.pdf](/home/files/papers/statistics_social_science.pdf)  
+**Which findings should be published**  
+  (joint with Alex Frankel)  
+  *American Economic Journal: Microeconomics, 2022*  
+  Manuscript: [findings.pdf](/home/files/papers/findings.pdf)  
 
 **Who wins, who loses? Identification of conditional causal effects, and the welfare impact of changing wages**  
   *Journal of Econometrics, 2022*  
   Manuscript: [whowinswholoses.pdf](/home/files/papers/Whowinswholoses.pdf)  
   
-**Which findings should be published**  
-  (joint with Alex Frankel)  
-  *Accepted, American Economic Journal: Microeconomics, 2021*  
-  Manuscript: [findings.pdf](/home/files/papers/findings.pdf)  
-
+**Of forking paths and tied hands: Selective publication of findings, and what economists should do about it**  
+  *Journal of Economic Perspectives, 2021*  
+  Manuscript: [statistics_social_science.pdf](/home/files/papers/statistics_social_science.pdf)  
+    
 **Fairness, equality, and power in algorithmic decision making**  
   (joint with Rediet Abebe)  
   *Proceedings of the ACM Conference on Fairness, Accountability, and Transparency, 2021*  
