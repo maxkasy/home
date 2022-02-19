@@ -28,6 +28,7 @@ Syllabus, slides and readers can be found here:
 [Foundations of Machine Learning](https://maxkasy.github.io/home/ML_Oxford_2022/)
 - I will coordinate a bi-weekly **reading** and discussion **group** on ML and economics, starting in HT 2022.
 - I have set up a **Google doc** for the group, for open discussion, suggestion of future readings and other activities, sharing code, etc. Please go to [discussion doc](https://docs.google.com/document/d/1zlmB820Ps7elpJBmLFtonamBpG1UNTz8DeLbt81Cwlg/edit?usp=sharing) to participate and discuss!  
+- On June 20 2022, we will organize a small **cross-departmental workshop** on ML and economics, with presentations of ongoing work and discussants, as well as external keynotes. Details to come. 
 - In April 2021, we organized a **conference** on [Machine learning and economic inequality](https://maxkasy.github.io/home/ML_inequality_conference/). Recordings of the talks are available on [Youtube](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag/videos).
 
 ## Reading and discussion group
