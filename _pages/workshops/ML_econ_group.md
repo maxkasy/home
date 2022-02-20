@@ -56,6 +56,7 @@ https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-mach
 - W6
   - [The Limits of Price Discrimination](/home/files/other/ML_Econ_Oxford/limits-price-discrimination.pdf)
   - [AI’s Future Doesn’t Have to Be Dystopian](https://bostonreview.net/forum/science-nature/daron-acemoglu-redesigning-ai)
+  - [Discussion questions](/home/files/other/ML_Econ_Oxford/Discussion_questions_3.pdf)  
 - W8
   - Chapters 1-3 of [The Algorithmic Foundations of Differential Privacy](/home/files/other/ML_Econ_Oxford/differential_privacy.pdf)
   - [Democratic Data: A Relational Theory For Data Governance](/home/files/other/ML_Econ_Oxford/relational_data_governance.pdf)
