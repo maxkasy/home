@@ -63,7 +63,7 @@ https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-mach
 - W8
   - Chapters 1-3 of [The Algorithmic Foundations of Differential Privacy](/home/files/other/ML_Econ_Oxford/differential_privacy.pdf)
   - [Democratic Data: A Relational Theory For Data Governance](/home/files/other/ML_Econ_Oxford/relational_data_governance.pdf)
-
+  - [Discussion questions](/home/files/other/ML_Econ_Oxford/Discussion_questions_4.pdf)  
 
 ## Affiliates
 
