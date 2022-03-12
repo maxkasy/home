@@ -3,6 +3,11 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Rationalizing Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
+  January 2022  
+  [Slides](/home/files/slides/preanalysis_slides_kasy.pdf)  
+  [Recording for BITSS 2022](https://www.youtube.com/watch?v=PBK0VhpAX9w)  
+  
 **Employing the unemployed of Marienthal:  
  Evaluation of a guaranteed job program**  
   January 2022, Marie Jahoda memorial conference  
@@ -27,10 +32,6 @@ permalink: /presentations/
 **Learning by matching**  
   September 2021, EAAMO conference  
   [Slides](/home/files/slides/learning_by_matching_slides.pdf)  
-
-**Rationalizing Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
-  September 2021  
-  [Slides](/home/files/slides/preanalysis_slides_kasy.pdf)  
 
 **Social foundations for statistics and machine learning**  
   London, September 2021  
