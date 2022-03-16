@@ -27,7 +27,8 @@ Special emphasis will be put on the social impact of ML, and on non-commercial a
 - Bi-weekly **reading** and discussion **group** on ML and economics, meeting in even weeks of term, starting in HT 2022.
 - On June 20 2022, we will organize a small **cross-departmental workshop** on ML and economics, with presentations of ongoing work and discussants, as well as external keynotes. Details to come.  
 Michael Jordan from UC Berkeley is a confirmed keynote speaker.  
-- **Google doc** for the group, for open discussion, suggestion of future readings and other activities, sharing code, etc. Please go to [discussion doc](https://docs.google.com/document/d/1zlmB820Ps7elpJBmLFtonamBpG1UNTz8DeLbt81Cwlg/edit?usp=sharing) to participate and discuss!  
+
+
 
 
 ### Previous
@@ -43,21 +44,18 @@ Syllabus, slides and readers can be found here:
 ### Trinity term 2022:
 
 Meeting dates:  
-2:30pm, Tuesdays in even weeks  
+
+- 2:30pm, Tuesdays in even weeks  
 (That is: 3 May, 17 May, 31 May, 14 June)  
 *Manor Road Building, Seminar Room C*  
 
+Topics:
 
+- In preparation. Suggestions welcome!  
 
 
 ### Hilary term 2022:
 
-Meeting dates:
-- Coordinating meeting: 2:30pm, November 2, 2021  
-*Manor Road Building, Lecture Theatre*  
-- Reading and discussion group meetings: 3pm, Tuesdays in even weeks, starting HT 2022  
-(That is: Jan 25, Feb 8, Feb 22, March 8)  
-*Manor Road Building, Common Room*  
 - Slides for the coordinating meeting: [Slides](/home/files/other/ML_Econ_Oxford/ML_Econ_organizing_slides.pdf)  
 
 Topics:  
