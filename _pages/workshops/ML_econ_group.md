@@ -22,16 +22,35 @@ Special emphasis will be put on the social impact of ML, and on non-commercial a
 
 ## Activities
 
-- I will teach a new **MPhil course** on the foundations of ML for economists in HT 2022.  
+### Upcoming
+
+- Bi-weekly **reading** and discussion **group** on ML and economics, meeting in even weeks of term, starting in HT 2022.
+- On June 20 2022, we will organize a small **cross-departmental workshop** on ML and economics, with presentations of ongoing work and discussants, as well as external keynotes. Details to come.  
+Michael Jordan from UC Berkeley is a confirmed keynote speaker.  
+- **Google doc** for the group, for open discussion, suggestion of future readings and other activities, sharing code, etc. Please go to [discussion doc](https://docs.google.com/document/d/1zlmB820Ps7elpJBmLFtonamBpG1UNTz8DeLbt81Cwlg/edit?usp=sharing) to participate and discuss!  
+
+
+### Previous
+
+- I started teaching a new **MPhil course** on the foundations of ML for economists in HT 2022.  
 All faculty, post-docs, and doctoral students are invited to audit this course and participate in discussions.  
 Syllabus, slides and readers can be found here:
 [Foundations of Machine Learning](https://maxkasy.github.io/home/ML_Oxford_2022/)
-- I will coordinate a bi-weekly **reading** and discussion **group** on ML and economics, starting in HT 2022.
-- I have set up a **Google doc** for the group, for open discussion, suggestion of future readings and other activities, sharing code, etc. Please go to [discussion doc](https://docs.google.com/document/d/1zlmB820Ps7elpJBmLFtonamBpG1UNTz8DeLbt81Cwlg/edit?usp=sharing) to participate and discuss!  
-- On June 20 2022, we will organize a small **cross-departmental workshop** on ML and economics, with presentations of ongoing work and discussants, as well as external keynotes. Details to come. 
 - In April 2021, we organized a **conference** on [Machine learning and economic inequality](https://maxkasy.github.io/home/ML_inequality_conference/). Recordings of the talks are available on [Youtube](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag/videos).
 
 ## Reading and discussion group
+
+### Trinity term 2022:
+
+Meeting dates:  
+2:30pm, Tuesdays in even weeks  
+(That is: 3 May, 17 May, 31 May, 14 June)  
+*Manor Road Building, Seminar Room C*  
+
+
+
+
+### Hilary term 2022:
 
 Meeting dates:
 - Coordinating meeting: 2:30pm, November 2, 2021  
@@ -41,9 +60,8 @@ Meeting dates:
 *Manor Road Building, Common Room*  
 - Slides for the coordinating meeting: [Slides](/home/files/other/ML_Econ_Oxford/ML_Econ_organizing_slides.pdf)  
 
-### Readings and discussion topics
+Topics:  
 
-Readings for HT 2022 (tentative):
 - W2:
   - Introduction of [Understanding machine learning: From theory to algorithms](
 https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
