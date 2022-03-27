@@ -51,7 +51,14 @@ Meeting dates:
 
 Topics:
 
-- In preparation. Suggestions welcome!  
+- W2
+  - [Algorithmic Fairness](/home/files/other/ML_Econ_Oxford/Pessach_Shmueli.pdf)
+  - [Sociological Perspectives on Racial Discrimination](/home/files/other/ML_Econ_Oxford/sociological_discrimination.pdf)
+  - Bonus material: [Fairness, Equality, and Power in Algorithmic Decision-Making](/home/files/other/ML_Econ_Oxford/Abebe_Kasy.pdf)
+- W4
+  - [Multitask principal-agent analyses](/home/files/other/ML_Econ_Oxford/human_compatible.pdf)
+  - [Human Compatible](/home/files/other/ML_Econ_Oxford/HumanCompatible.pdf)
+- W6 and W8: In preparation. Suggestions welcome!  
 
 
 ### Hilary term 2022:
