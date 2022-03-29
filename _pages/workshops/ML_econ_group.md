@@ -58,8 +58,9 @@ Topics:
 - W4
   - [Multitask principal-agent analyses](/home/files/other/ML_Econ_Oxford/human_compatible.pdf)
   - [Human Compatible](/home/files/other/ML_Econ_Oxford/HumanCompatible.pdf)
-- W6 and W8: In preparation. Suggestions welcome!  
-
+- W6: (Martin Weidner guest edition)  
+  - [Matrix Completion Methods for Causal Panel Data Models](/home/files/other/ML_Econ_Oxford/matrix_completion.pdf)  
+- W8: In preparation. Suggestions welcome!  
 
 ### Hilary term 2022:
 
