@@ -60,6 +60,7 @@ Topics:
   - [Human Compatible](/home/files/other/ML_Econ_Oxford/HumanCompatible.pdf)
 - W6: (Martin Weidner guest edition)  
   - [Matrix Completion Methods for Causal Panel Data Models](/home/files/other/ML_Econ_Oxford/matrix_completion.pdf)  
+  - [Reevaluating COVID-19 Mandates using Tensor Completion](/home/files/other/ML_Econ_Oxford/mask_mandates.pdf)  
 - W8: In preparation. Suggestions welcome!  
 
 ### Hilary term 2022:
