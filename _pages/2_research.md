@@ -8,14 +8,14 @@ permalink: /research/
 
 **An Adaptive Targeted Field Experiment: Job Search Assistance for Refugees in Jordan**  
   (joint with Stefano Caria, Grant Gordon, Soha Osman, Simon Quinn and Alex Teytelboym)  
-  *Revise and resubmit, JEEA, 2022*  
+  *Revise and resubmit, Journal of the European Economic Association, 2022*  
   Manuscript: [RefugeesWork.pdf](/home/files/papers/RefugeesWork.pdf)  
   Supplementary appendix: [RefugeesWork_OnlineAppendix.pdf](/home/files/papers/RefugeesWork_onlineAppendix.pdf)  
   Registered pre-analysis plan: [AEA RCT Registry](https://www.socialscienceregistry.org/trials/3870)  
 
 **Matching with semi-bandits**  
   (joint with Alex Teytelboym)  
-  *Working paper, 2022*  
+  *Revise and resubmit, Econometrics Journal, 2022*  
   Manuscript: [adaptive_combinatorial.pdf](/home/files/papers/adaptive_combinatorial.pdf)  
   
 **Employing the unemployed of Marienthal: Evaluation of a guaranteed job program**  
