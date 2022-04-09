@@ -15,7 +15,7 @@ permalink: /research/
 
 **Matching with semi-bandits**  
   (joint with Alex Teytelboym)  
-  *Revise and resubmit, Econometrics Journal, 2022*  
+  *Forthcoming, Econometrics Journal, 2022*  
   Manuscript: [adaptive_combinatorial.pdf](/home/files/papers/adaptive_combinatorial.pdf)  
   
 **Employing the unemployed of Marienthal: Evaluation of a guaranteed job program**  
