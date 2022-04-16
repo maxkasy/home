@@ -17,6 +17,7 @@ permalink: /research/
   (joint with Alex Teytelboym)  
   *Forthcoming, Econometrics Journal, 2022*  
   Manuscript: [adaptive_combinatorial.pdf](/home/files/papers/adaptive_combinatorial.pdf)  
+  Replication code: [Github](https://github.com/maxkasy/EJ_matching_with_semibandits_replication_files)  
   
 **Employing the unemployed of Marienthal: Evaluation of a guaranteed job program**  
   (joint with Lukas Lehner)  
