@@ -56,7 +56,7 @@ Topics:
   - [Sociological Perspectives on Racial Discrimination](/home/files/other/ML_Econ_Oxford/sociological_discrimination.pdf)
   - Bonus material: [Fairness, Equality, and Power in Algorithmic Decision-Making](/home/files/other/ML_Econ_Oxford/Abebe_Kasy.pdf)
 - W4
-  - [Multitask principal-agent analyses](/home/files/other/ML_Econ_Oxford/human_compatible.pdf)
+  - [Multitask principal-agent analyses](/home/files/other/ML_Econ_Oxford/Holmstrom_Milgrom.pdf)
   - [Human Compatible](/home/files/other/ML_Econ_Oxford/HumanCompatible.pdf)
 - W6: (Martin Weidner guest edition)  
   - [Matrix Completion Methods for Causal Panel Data Models](/home/files/other/ML_Econ_Oxford/matrix_completion.pdf)  
