@@ -57,7 +57,7 @@ Topics:
   - Bonus material: [Fairness, Equality, and Power in Algorithmic Decision-Making](/home/files/other/ML_Econ_Oxford/Abebe_Kasy.pdf)
 - W4
   - [Multitask principal-agent analyses](/home/files/other/ML_Econ_Oxford/Holmstrom_Milgrom.pdf)
-  - [Human Compatible](/home/files/other/ML_Econ_Oxford/HumanCompatible.pdf)
+  - [Human Compatible](/home/files/other/ML_Econ_Oxford/human_compatible.pdf)
 - W6: (Martin Weidner guest edition)  
   - [Matrix Completion Methods for Causal Panel Data Models](/home/files/other/ML_Econ_Oxford/matrix_completion.pdf)  
   - [Reevaluating COVID-19 Mandates using Tensor Completion](/home/files/other/ML_Econ_Oxford/mask_mandates.pdf)  
