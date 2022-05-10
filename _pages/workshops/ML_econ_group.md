@@ -25,8 +25,8 @@ Special emphasis will be put on the social impact of ML, and on non-commercial a
 ### Upcoming
 
 - Bi-weekly **reading** and discussion **group** on ML and economics, meeting in even weeks of term, starting in HT 2022.
-- On June 20 2022, we will organize a small **cross-departmental workshop** on ML and economics, with presentations of ongoing work and discussants, as well as external keynotes. Details to come.  
-Michael Jordan from UC Berkeley is a confirmed keynote speaker.  
+- On June 20 2022, we will organize a small **cross-departmental workshop** on ML and economics, with presentations of ongoing work and discussants, as well as a keynote by Michael Jordan from UC Berkeley. 
+The tentative schedule can be found at https://maxkasy.github.io/home/ML_Econ_Oxford/Jamboree_2022/
 
 
 

@@ -6,6 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.15"
   overlay_image: /files/other/machine_gears.jpg
+  caption: "Image credit: Andrey Kryukov"
 ---
 
 
@@ -14,7 +15,7 @@ header:
 - *Date*: 20th of June 2022
 - *Location*: Magdalen College
 
-## Schedule
+## Tentative schedule
 
 - 9:00am: Alex Teytelboym, *Topic: TBD*  
 Discussant: Christophe Gaillac
