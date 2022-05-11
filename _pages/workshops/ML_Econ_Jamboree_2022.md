@@ -17,7 +17,7 @@ header:
 
 ## Tentative schedule
 
-- 9:00am: Alex Teytelboym, *Topic: TBD*  
+- 9:00am: Alex Teytelboym, *Dynamic Placement in Refugee Resettlement*  
 Discussant: Christophe Gaillac
 - 9:30am Aislinn Kelly-Lyth, Jeremias Adams-Prassl, and Reuben Binns, *Directly discriminatory algorithms*  
 Discussant: Alex Teytelboym
