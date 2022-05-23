@@ -47,7 +47,7 @@ Discussant: Samira Barzin
 2:45pm **Keynote: Michael Jordan**,  
 *On Dynamics-Informed, Learning-Aware Mechanism Design*
 
-- 4:00pm Stephen Hansen, *Firm-Level Responses to Common News Shocks*  	
+- 4:00pm Stephen Hansen, *Firm-Level Responses to Common News Shocks*  
 Discussant: Julian Ashwin
 - 4:30pm Emmet Hall-Hoffarth, *NN estimation for DSGE models*  
 Discussant: Stephen Hansen
