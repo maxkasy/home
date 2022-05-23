@@ -44,7 +44,8 @@ Discussant: Samira Barzin
 
 2:30pm *Coffee Break*
 
-2:45pm **Keynote: Michael Jordan**
+2:45pm **Keynote: Michael Jordan**,  
+*On Dynamics-Informed, Learning-Aware Mechanism Design*
 
 - 4:00pm Stephen Hansen, *Firm-Level Responses to Common News Shocks*  	
 Discussant: Julian Ashwin
