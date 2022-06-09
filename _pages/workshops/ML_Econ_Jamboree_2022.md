@@ -39,9 +39,9 @@ Discussant: Martin Weidner
 
 
 - 1:30pm Samira Barzin, *ML meets Satellites meets development econ*  
-Discussant: Jeremy Large
+Recorded, no discussant.  
 - 2:00pm Julian Ashwin, *Qualitative Analysis at Scale: Aspirations in Cox’s Bazaar, Bangladesh*  
-Discussant: Samira Barzin
+Discussant: Jeremy Large  
 
 
 2:30pm *Coffee Break*

@@ -3,6 +3,10 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Adaptive maximization of social welfare**  
+  June 2022, ENSAI Artificial Intelligence and Economic Decision Making conference, Rennes  
+  [Slides](/home/files/slides/adaptive_welfare_slides.pdf)  
+  
 **Rationalizing Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
   January 2022  
   [Slides](/home/files/slides/preanalysis_slides_kasy.pdf)  
@@ -12,10 +16,6 @@ permalink: /presentations/
  Evaluation of a guaranteed job program**  
   January 2022, Marie Jahoda memorial conference  
   [Slides](/home/files/slides/jahoda_slides_kasy.pdf)  
-
-**Adaptive maximization of social welfare**  
-  January 2022, ASSA  
-  [Slides](/home/files/slides/adaptive_welfare_slides.pdf)  
 
 **How to run an adaptive field experiment**  
     December 2021, Field Days conference  
