@@ -5,6 +5,10 @@ permalink: /research/
 
 ## Working papers
 
+**Rationalizing Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
+  (joint with Jann Spiess)  
+  *Working paper*  
+  Manuscript: [theory_of_PAPs.pdf](/home/files/papers/theory_of_PAPs.pdf)  
 
 **An Adaptive Targeted Field Experiment: Job Search Assistance for Refugees in Jordan**  
   (joint with Stefano Caria, Grant Gordon, Soha Osman, Simon Quinn and Alex Teytelboym)  
