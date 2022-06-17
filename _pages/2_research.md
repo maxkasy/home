@@ -7,7 +7,7 @@ permalink: /research/
 
 **Rationalizing Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
   (joint with Jann Spiess)  
-  *Working paper*  
+  *Working paper, 2022*  
   Manuscript: [theory_of_PAPs.pdf](/home/files/papers/theory_of_PAPs.pdf)  
 
 **An Adaptive Targeted Field Experiment: Job Search Assistance for Refugees in Jordan**  
