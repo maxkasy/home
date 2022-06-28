@@ -33,8 +33,8 @@ Differential privacy
 
 ### Problems for the practice sessions
 
-1. Practice session Wednesday: [foundations_ml_ps3.pdf](/home/files/teaching/ML_Oxford_summerschool_2022/foundations_ml_ps1.pdf)  
-1. Practice session Friday: [foundations_ml_ps5.pdf](/home/files/teaching/ML_Oxford_summerschool_2022/foundations_ml_ps2.pdf)  
+1. Practice session Wednesday: [foundations_ml_ps3.pdf](/home/files/teaching/ML_Oxford_summerschool_2022/foundations_ml_ps3.pdf)  
+1. Practice session Friday: [foundations_ml_ps5.pdf](/home/files/teaching/ML_Oxford_summerschool_2022/foundations_ml_ps5.pdf)  
 
 
 
