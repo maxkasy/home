@@ -1,6 +1,6 @@
 ---
 title: "Foundations of Machine Learning"
-permalink: /ML_Oxford_2022/
+permalink: /ML_Oxford_summerschool_2022/
 ---
 
 
