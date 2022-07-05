@@ -1,13 +1,13 @@
 ---
-title: "Foundations of Machine Learning"
+title: "Foundations of Machine Learning - Oxford summerschool 2022"
 permalink: /ML_Oxford_summerschool_2022/
 ---
 
 
-Tentative Syllabus: [Syllabus_ML_Oxford_summerschool_2022.pdf](/home/files/teaching/ML_Oxford_summerschool_2022/Syllabus_ML_Oxford_summerschool_2022.pdf)
+Tentative Syllabus: [Syllabus_ML_Oxford_summerschool_2022.pdf](/home/files/teaching/ML_Oxford_summerschool_2022/Syllabus_ML_Oxford_summerschool_2022.pdf)  
 
 
-Summer school homepage: [september-summer-school](https://www.economics.ox.ac.uk/september-summer-school)
+Summer school homepage: [september-summer-school](https://www.economics.ox.ac.uk/september-summer-school)  
 
 ### Lecture slides
 
