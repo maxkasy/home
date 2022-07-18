@@ -6,6 +6,7 @@ permalink: /presentations/
 **Adaptive maximization of social welfare**  
   June 2022, ENSAI Artificial Intelligence and Economic Decision Making conference, Rennes  
   [Slides](/home/files/slides/adaptive_welfare_slides.pdf)  
+  [Recording at ENSAI 2022](https://www.youtube.com/watch?v=lrQp-nII8Rg)
   
 **Rationalizing Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
   January 2022  
