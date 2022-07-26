@@ -2,7 +2,11 @@
 title: Presentations
 permalink: /presentations/
 ---
-
+**Discussion of:  
+  Increasing the uptake of long-acting reversible contraceptives among adolescents and young women in Cameroon**  
+  July 2022, NBER Summer Institute  
+  [Slides](/home/files/slides/discussion_contraceptives_kasy.pdf)  
+  
 **Adaptive maximization of social welfare**  
   June 2022, ENSAI Artificial Intelligence and Economic Decision Making conference, Rennes  
   [Slides](/home/files/slides/adaptive_welfare_slides.pdf)  
