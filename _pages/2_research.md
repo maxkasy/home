@@ -38,9 +38,6 @@ permalink: /research/
   (Registered as [AEARCTR-0007734](https://www.socialscienceregistry.org/trials/7734))  
 
 
-**Correction regarding ``Adaptive treatment assignment in experiments for policy choice''**  
-  *Under review, Econometrica, 2021*  
-  Manuscript: [correction_adaptiveexperimentspolicy.pdf](/home/files/papers/correction_adaptiveexperimentspolicy.pdf)  
 
 
 ## Publications
@@ -69,6 +66,7 @@ permalink: /research/
   Manuscript: [adaptiveexperimentspolicy.pdf](/home/files/papers/adaptiveexperimentspolicy.pdf)  
   Supplementary Appendix: [adaptiveexperimentspolicy_supplement.pdf](/home/files/papers/adaptiveexperimentspolicy_supplement.pdf)  
   Interactive Dashboard for your own experiment: [exploration_sampling_dashboard](https://maxkasy.shinyapps.io/exploration_sampling_dashboard/)  
+  Correction regarding Theorem 1, Item 3: [correction_adaptiveexperimentspolicy.pdf](/home/files/papers/correction_adaptiveexperimentspolicy.pdf)  
 
 **Adaptive Targeted Infectious Disease Testing**  
   (joint with Alex Teytelboym)  
