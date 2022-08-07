@@ -1,16 +1,16 @@
 ---
-title: "14.385 Nonlinear Econometric Analysis"
+title: "MIT 14.385: Nonlinear Econometric Analysis"
 permalink: /Nonlineareconometrics_MIT_2022/
 ---
 
 
-Syllabus: [Syllabus_ML_Oxford_2022.pdf](/home/files/teaching/ML_Oxford_2022/Syllabus_ML_Oxford_2022.pdf)
+Syllabus: [Syllabus_Nonlineareconometrics_MIT_2022.pdf](/home/files/teaching/Nonlineareconometrics_MIT_2022/Syllabus_Nonlineareconometrics_MIT_2022.pdf)
 
 
 
 ### Identification and causality
 
-1. Causality, Identification, Instrumental variables  
+1. Causality, Identification, Instrumental variables
 [Slides](/home/files/teaching/Nonlineareconometrics_MIT_2022/CausalitySlides-IV.pdf)  
 1. Conditional independence, Difference in Differences, Regression Discontinuity
 [Slides](/home/files/teaching/Nonlineareconometrics_MIT_2022/CausalitySlides-CI-DID-RD.pdf)  
@@ -30,8 +30,8 @@ PAC-learning
 1. Matching  
 Double/debiased treatment effect estimation
 [Slides](/home/files/teaching/Nonlineareconometrics_MIT_2022/debiased_ml_slides.pdf)
-1. Synthetic controls  
-Matrix completion  
+<!-- 1. Synthetic controls  
+Matrix completion   -->
   
 
 
