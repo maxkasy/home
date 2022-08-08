@@ -4,8 +4,9 @@ permalink: /Nonlineareconometrics_MIT_2022/
 ---
 
 
-Syllabus: [Syllabus_Nonlineareconometrics_MIT_2022.pdf](/home/files/teaching/Nonlineareconometrics_MIT_2022/Syllabus_Nonlineareconometrics_MIT_2022.pdf)
+Syllabus: [Syllabus_Nonlineareconometrics_MIT_2022.pdf](/home/files/teaching/Nonlineareconometrics_MIT_2022/Syllabus_Nonlineareconometrics_MIT_2022.pdf)  
 
+Reader: [Reader_Nonlineareconometrics_MIT_2022.zip](/home/files/teaching/Nonlineareconometrics_MIT_2022/Reader_Nonlineareconometrics_MIT_2022.zip)
 
 
 ### Identification and causality
@@ -22,6 +23,7 @@ Syllabus: [Syllabus_Nonlineareconometrics_MIT_2022.pdf](/home/files/teaching/Non
 Multi-armed bandits
 [Slides](/home/files/teaching/Nonlineareconometrics_MIT_2022/bandit_problems_slides.pdf)
 1. Dynamic discrete choice  
+[Slides](/home/files/teaching/Nonlineareconometrics_MIT_2022/dynamic_discrete_choice_slides.pdf)  
 Reinforcement learning
 [Slides](/home/files/teaching/Nonlineareconometrics_MIT_2022/reinforcement_learning_slides.pdf)
 1. Kernel regression  
@@ -38,9 +40,10 @@ Matrix completion   -->
 
 ## Homework problems
 
-1. [nonlinear_2_ps1.pdf](/home/files/teaching/Nonlineareconometrics_MIT_2022/nonlinear_2_ps1.pdf)  
-1. 
-
+<!-- 1. [nonlinear_2_ps1.pdf](/home/files/teaching/Nonlineareconometrics_MIT_2022/nonlinear_2_ps1.pdf)   -->
+1.
+1.
+1.
 
 
 
