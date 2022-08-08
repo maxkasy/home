@@ -22,8 +22,7 @@ Reader: [Reader_Nonlineareconometrics_MIT_2022.zip](/home/files/teaching/Nonline
 1. Randomized experiments  
 Multi-armed bandits
 [Slides](/home/files/teaching/Nonlineareconometrics_MIT_2022/bandit_problems_slides.pdf)
-1. Dynamic discrete choice  
-[Slides](/home/files/teaching/Nonlineareconometrics_MIT_2022/dynamic_discrete_choice_slides.pdf)  
+1. Dynamic discrete choice [Slides](/home/files/teaching/Nonlineareconometrics_MIT_2022/dynamic_discrete_choice_slides.pdf)  
 Reinforcement learning
 [Slides](/home/files/teaching/Nonlineareconometrics_MIT_2022/reinforcement_learning_slides.pdf)
 1. Kernel regression  
@@ -42,7 +41,7 @@ Matrix completion   -->
 
 <!-- 1. [nonlinear_2_ps1.pdf](/home/files/teaching/Nonlineareconometrics_MIT_2022/nonlinear_2_ps1.pdf)   -->
 1.
-1.
+1. [nonlinear_2_ps2.pdf](/home/files/teaching/Nonlineareconometrics_MIT_2022/nonlinear_2_ps1.pdf) 
 1.
 
 
