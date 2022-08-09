@@ -19,7 +19,8 @@ Reader: [Reader_Nonlineareconometrics_MIT_2022.zip](/home/files/teaching/Nonline
 
 ### Applied econometrics and machine learning mashup
 
-1. Randomized experiments  
+1. Randomized experiments
+[Slides](/home/files/teaching/Nonlineareconometrics_MIT_2022/randomized_experiments_slides.pdf)  
 Multi-armed bandits
 [Slides](/home/files/teaching/Nonlineareconometrics_MIT_2022/bandit_problems_slides.pdf)
 1. Dynamic discrete choice [Slides](/home/files/teaching/Nonlineareconometrics_MIT_2022/dynamic_discrete_choice_slides.pdf)  
@@ -41,9 +42,8 @@ Matrix completion   -->
 ## Homework problems
 
 <!-- 1. [nonlinear_2_ps1.pdf](/home/files/teaching/Nonlineareconometrics_MIT_2022/nonlinear_2_ps1.pdf)   -->
-1.
-1. [nonlinear_2_ps2.pdf](/home/files/teaching/Nonlineareconometrics_MIT_2022/nonlinear_2_ps1.pdf) 
-1.
+
+[nonlinear_2_ps2.pdf](/home/files/teaching/Nonlineareconometrics_MIT_2022/nonlinear_2_ps1.pdf) 
 
 
 
