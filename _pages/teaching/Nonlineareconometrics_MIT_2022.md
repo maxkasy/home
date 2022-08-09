@@ -25,7 +25,8 @@ Multi-armed bandits
 1. Dynamic discrete choice [Slides](/home/files/teaching/Nonlineareconometrics_MIT_2022/dynamic_discrete_choice_slides.pdf)  
 Reinforcement learning
 [Slides](/home/files/teaching/Nonlineareconometrics_MIT_2022/reinforcement_learning_slides.pdf)
-1. Kernel regression  
+1. Kernel regression
+[Slides](/home/files/teaching/Nonlineareconometrics_MIT_2022/kernel_regression_slides.pdf)  
 PAC-learning
 [Slides](/home/files/teaching/Nonlineareconometrics_MIT_2022/pac_learning_slides.pdf)
 1. Matching  
