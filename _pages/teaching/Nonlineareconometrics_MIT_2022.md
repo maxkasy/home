@@ -30,7 +30,7 @@ Reinforcement learning
 [Slides](/home/files/teaching/Nonlineareconometrics_MIT_2022/kernel_regression_slides.pdf)  
 PAC-learning
 [Slides](/home/files/teaching/Nonlineareconometrics_MIT_2022/pac_learning_slides.pdf)
-1. Matching  
+1. Matching [Slides](/home/files/teaching/Nonlineareconometrics_MIT_2022/matching_slides.pdf)  
 Double/debiased treatment effect estimation
 [Slides](/home/files/teaching/Nonlineareconometrics_MIT_2022/debiased_ml_slides.pdf)
 <!-- 1. Synthetic controls  
