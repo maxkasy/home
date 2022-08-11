@@ -3,10 +3,18 @@ title: Teaching
 permalink: /teaching/
 ---
 
+* Oxford econometrics event schedule [Metrics events](http://exovar.com/metrics/events.html)  
 * My open online textbook on [Empirical research on economic inequality](http://inequalityresearch.net/) 
 * Collection of [useful computational ressources](/home/computationlinks/)
 * Conference [Machine learning and economic inequality](/home/ML_inequality_conference/)  
 * Conference [Statistics in a social context](/home/StatisticsSocialConference/)  
+
+## MIT
+
+### 14.385: Nonlinear Econometric Analysis
+
+* Syllabus [Syllabus_Nonlineareconometrics_MIT_2022.pdf](/home/files/teaching/Nonlineareconometrics_MIT_2022/Syllabus_Nonlineareconometrics_MIT_2022.pdf)  
+* Class page [/home/ML_Oxford_2022](/home/Nonlineareconometrics_MIT_2022)  
 
 ## Oxford
 
