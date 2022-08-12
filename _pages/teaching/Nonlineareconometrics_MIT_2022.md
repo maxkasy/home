@@ -41,7 +41,7 @@ Matrix completion   -->
 
 ## Homework problems
 
-1. [nonlinear_2_ps1.pdf]
+1. [nonlinear_2_ps1.pdf](/home/files/teaching/Nonlineareconometrics_MIT_2022/nonlinear_2_ps1.pdf) 
 1. [nonlinear_2_ps2.pdf](/home/files/teaching/Nonlineareconometrics_MIT_2022/nonlinear_2_ps2.pdf) 
 1. [nonlinear_2_ps3.pdf](/home/files/teaching/Nonlineareconometrics_MIT_2022/nonlinear_2_ps3.pdf) 
 
