@@ -17,12 +17,7 @@ permalink: /research/
   Supplementary appendix: [RefugeesWork_OnlineAppendix.pdf](/home/files/papers/RefugeesWork_onlineAppendix.pdf)  
   Registered pre-analysis plan: [AEA RCT Registry](https://www.socialscienceregistry.org/trials/3870)  
 
-**Matching with semi-bandits**  
-  (joint with Alex Teytelboym)  
-  *Forthcoming, Econometrics Journal, 2022*  
-  Manuscript: [adaptive_combinatorial.pdf](/home/files/papers/adaptive_combinatorial.pdf)  
-  Replication code: [Github](https://github.com/maxkasy/EJ_matching_with_semibandits_replication_files)  
-  
+
 **Employing the unemployed of Marienthal: Evaluation of a guaranteed job program**  
   (joint with Lukas Lehner)  
   *Experiment in progress, 2020-2023*  
@@ -41,6 +36,12 @@ permalink: /research/
 
 
 ## Publications
+
+**Matching with semi-bandits**  
+  (joint with Alex Teytelboym)  
+  *Forthcoming, Econometrics Journal, 2022*  
+  Manuscript: [adaptive_combinatorial.pdf](/home/files/papers/adaptive_combinatorial.pdf)  
+  Replication code: [Github](https://github.com/maxkasy/EJ_matching_with_semibandits_replication_files)  
 
 **Which findings should be published**  
   (joint with Alex Frankel)  
