@@ -17,6 +17,10 @@ permalink: /research/
   Supplementary appendix: [RefugeesWork_OnlineAppendix.pdf](/home/files/papers/RefugeesWork_onlineAppendix.pdf)  
   Registered pre-analysis plan: [AEA RCT Registry](https://www.socialscienceregistry.org/trials/3870)  
 
+**Adaptive maximization of social welfare**  
+  (joint with Nicolò Cesa-Bianchi and Roberto Colomboni)  
+  *Working paper, 2022*  
+  Manuscript: [adaptive_social_welfare.pdf](/home/files/papers/adaptive_social_welfare.pdf)  
 
 **Employing the unemployed of Marienthal: Evaluation of a guaranteed job program**  
   (joint with Lukas Lehner)  
