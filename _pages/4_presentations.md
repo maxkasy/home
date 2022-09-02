@@ -2,6 +2,11 @@
 title: Presentations
 permalink: /presentations/
 ---
+
+**Adaptive maximization of social welfare in theory and practice**  
+  October 2022, Harvard and MIT  
+  [Slides](/home/files/slides/adaptive_welfare_NIT_slides.pdf)  
+
 **Discussion of:  
   Increasing the uptake of long-acting reversible contraceptives among adolescents and young women in Cameroon**  
   July 2022, NBER Summer Institute  
@@ -25,10 +30,6 @@ permalink: /presentations/
 **How to run an adaptive field experiment**  
     December 2021, Field Days conference  
     [Slides](/home/files/slides/adaptive_field_slides_kasy.pdf)  
-
-**Adaptive maximization of social welfare**  
-  December 2021, ML and Econometrics workshop at NeurIPS  
-  [Poster](/home/files/slides/adaptive_welfare_poster.pdf)  
 
 **Machine learning for policy**  
   November 2021, deputy ministers of Pakistan  
