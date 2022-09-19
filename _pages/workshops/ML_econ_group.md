@@ -41,6 +41,28 @@ Syllabus, slides and readers can be found here:
 
 ## Reading and discussion group
 
+### Hilary term 2023:
+
+Meeting dates: To be determined.
+
+Topics:
+
+This term we will be discussing several chapters of the book [Prediction, learning, and games](https://cesa-bianchi.di.unimi.it/predbook/) by Nicolò Cesa-Bianchi and Gábor Lugosi. This book builds on ideas in game theory and learning theory, and provides a comprehensive framework for online decision-making and adversarial learning.
+
+We will cover the following chapters:
+
+- W2: Chapter 2 (Prediction with expert advice)
+- W4: Chapter 4 (Randomized prediction)
+- W6: Chapter 6 (Prediction with limited feedback)
+- W8: Chapter 7 (Prediction and playing games)
+
+
+
+### Michaelmas term 2022:
+
+No meetings (Max on sabbatical at MIT).
+
+
 ### Trinity term 2022:
 
 Meeting dates:  
