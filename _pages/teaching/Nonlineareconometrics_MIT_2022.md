@@ -33,8 +33,10 @@ PAC-learning
 1. Matching [Slides](/home/files/teaching/Nonlineareconometrics_MIT_2022/matching_slides.pdf)  
 Double/debiased treatment effect estimation
 [Slides](/home/files/teaching/Nonlineareconometrics_MIT_2022/debiased_ml_slides.pdf)
-<!-- 1. Synthetic controls  
-Matrix completion   -->
+1. Synthetic controls
+[Slides](/home/files/teaching/Nonlineareconometrics_MIT_2022/synthetic_control_slides.pdf)  
+Matrix completion
+[Slides](/home/files/teaching/Nonlineareconometrics_MIT_2022/matrix_completion_slides.pdf)  
   
 
 

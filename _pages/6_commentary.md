@@ -67,6 +67,10 @@ February 1, 2019
 
 # Op-eds in German
 
+**Was ist Kapitalismus?**  
+Sep 20, 2022  
+[How I met my money podcast](https://open.spotify.com/episode/7dSoU0ZzZK7HJUJ3yDIVmC?si=UyQg8D17TJCrkMQ0yxH1rw&nd=1)  
+
 **Die Marktmacht der Arbeitgeber**  
 Nov 2, 2021  
 [Die Presse](https://www.diepresse.com/6053848/die-marktmacht-der-arbeitgeber)  
