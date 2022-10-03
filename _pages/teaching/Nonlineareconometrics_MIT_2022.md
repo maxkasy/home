@@ -47,5 +47,10 @@ Matrix completion
 1. [nonlinear_2_ps2.pdf](/home/files/teaching/Nonlineareconometrics_MIT_2022/nonlinear_2_ps2.pdf) 
 1. [nonlinear_2_ps3.pdf](/home/files/teaching/Nonlineareconometrics_MIT_2022/nonlinear_2_ps3.pdf) 
 
+## Links
+
+* Class page for my full-term machine learning course [ML_Oxford_2022](/home/ML_Oxford_2022)
+* Collection of [useful computational ressources](/home/computationlinks/)
+* The Oxford [ML and economics reading group](/home/ML_Econ_Oxford/)
 
 

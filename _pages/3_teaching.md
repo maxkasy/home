@@ -3,7 +3,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-* Oxford econometrics event schedule [Metrics events](http://exovar.com/metrics/events.html)  
+* Oxford econometrics event schedule [Metrics events](http://econbase.uk/events/)  
 * My open online textbook on [Empirical research on economic inequality](http://inequalityresearch.net/) 
 * Collection of [useful computational ressources](/home/computationlinks/)
 * Conference [Machine learning and economic inequality](/home/ML_inequality_conference/)  
