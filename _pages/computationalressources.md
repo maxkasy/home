@@ -21,6 +21,10 @@ permalink: /computationlinks/
 (An introduction to statistical learning theory in the tradition of Vapnik)  
 <https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf>
 
+**Prediction, Learning, and Games**  
+(A principled adversarial (non-stochastic) framework for learning and online decision making)  
+<https://cesa-bianchi.di.unimi.it/predbook/>
+
 **Reinforcement learning - An introduction**  
 (Adaptive learning for Markov decision problems)  
 <http://www.incompleteideas.net/book/RLbook2018.pdf>  
@@ -32,6 +36,7 @@ permalink: /computationlinks/
 **The Ethical Algorithm**  
 (How to impose normative constraints on ML and other algorithms)  
 <https://global.oup.com/academic/product/the-ethical-algorithm-9780190948207>  
+  
 
 ## Programming in R
 **An Introduction to R**  
