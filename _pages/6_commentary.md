@@ -18,7 +18,7 @@ April 24, 2021 (includes coverage of our joint work)
 
 **The means of prediction**  
 May 20, 2021 (with Rediet Abebe)  
-[Boston Review](https://bostonreview.net/forum/redesigning-ai/rediet-abebe-maximilian-kasy-means-prediction)  
+[Boston Review](https://www.bostonreview.net/forum_response/the-means-of-prediction/)  
 
 **Adaptive experiments for policy research**  
 January 15, 2021 (with Anja Sautmann)  
