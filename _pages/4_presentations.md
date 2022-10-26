@@ -6,6 +6,7 @@ permalink: /presentations/
 **Democratic control of the means of prediction**  
   October 2022, Oxford Ethics in AI Colloquium  
   [Slides](/home/files/slides/discussion_kasy_acemoglu_2022.pdf)  
+  [Recording](https://youtu.be/hv7qROIpGJI?t=2173)  
 
 **Adaptive maximization of social welfare in theory and practice**  
   October 2022, Harvard and MIT  
