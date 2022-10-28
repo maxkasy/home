@@ -43,7 +43,11 @@ Syllabus, slides and readers can be found here:
 
 ### Hilary term 2023:
 
-Meeting dates: To be determined.
+Meeting dates: 
+
+- 2:30pm, Tuesdays in even weeks  
+(That is: 24 Jan, 7 Feb, 21 Feb, 7 Mar)  
+*Manor Road Building, Seminar Room C*  
 
 Topics:
 
