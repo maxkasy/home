@@ -47,7 +47,7 @@ Meeting dates:
 
 - 2:30pm, Tuesdays in even weeks  
 (That is: 24 Jan, 7 Feb, 21 Feb, 7 Mar)  
-*Manor Road Building, Seminar Room C*  
+*Manor Road Building, Seminar Room B*  
 
 Topics:
 
