@@ -25,6 +25,10 @@ permalink: /computationlinks/
 (A principled adversarial (non-stochastic) framework for learning and online decision making)  
 <https://cesa-bianchi.di.unimi.it/predbook/>
 
+**Introduction to Online Convex Optimization**  
+An accessible introduction to adversarial learning and adaptive decision-making through the lens of optimization theory.  
+<https://arxiv.org/abs/1909.05207v2>  
+
 **Reinforcement learning - An introduction**  
 (Adaptive learning for Markov decision problems)  
 <http://www.incompleteideas.net/book/RLbook2018.pdf>  
