@@ -5,9 +5,10 @@ permalink: /research/
 
 ## Working papers
 
-**The political economy of AI regulation: Towards democratic control of the means of prediction**  
-*Requested for the Handbook on Algorithmic Governance and the Law, 2022*
-Manuscript: [theory_of_PAPs.pdf](/home/files/papers/handbook_politicalecon_ai.pdf)  
+**The political economy of AI regulation:  
+Towards democratic control of the means of prediction**  
+*Requested for the Handbook on Algorithmic Governance and the Law, 2022*  
+Manuscript: [handbook_politicalecon_ai.pdf](/home/files/papers/handbook_politicalecon_ai.pdf)  
 
 **Rationalizing Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
   (joint with Jann Spiess)  
