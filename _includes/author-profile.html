@@ -73,14 +73,6 @@
         </li>
       {% endif %}
 
-      {% if author.twitter %}
-        <li>
-          <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs">
-            <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
-          </a>
-        </li>
-      {% endif %}
-      
       {% if author.mastodon %}
         <li>
           <a rel="me" href="https://econtwitter.net/web/@maxkasy" itemprop="sameAs">
@@ -90,6 +82,14 @@
         </li>
       {% endif %}
 
+      {% if author.twitter %}
+      <li>
+        <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs">
+          <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
+        </a>
+      </li>
+      {% endif %}
+      
       {% if author.facebook %}
         <li>
           <a href="https://www.facebook.com/{{ author.facebook }}" itemprop="sameAs">
