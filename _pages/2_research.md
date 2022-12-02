@@ -10,6 +10,15 @@ Towards democratic control of the means of prediction**
 *Requested for the Handbook on Algorithmic Governance and the Law, 2022*  
 Manuscript: [handbook_politicalecon_ai.pdf](/home/files/papers/handbook_politicalecon_ai.pdf)  
 
+**Employing the unemployed of Marienthal: Evaluation of a guaranteed job program**  
+  (joint with Lukas Lehner)  
+  *Working paper, 2022*  
+  Manuscript: [Jobguarantee_marienthal.pdf](/home/files/papers/Jobguarantee_marienthal.pdf)  
+  Code (study design): [https://github.com/maxkasy/Marienthal](https://github.com/maxkasy/Marienthal)  
+  Code (data analysis): [https://github.com/maxkasy/Marienthal_Analysis](https://github.com/maxkasy/Marienthal_Analysis)  
+  Pre-analysis plan: [PAP_job_guarantee_Marienthal.pdf](/home/files/other/PAP_job_guarantee_Marienthal.pdf)  
+  (Registered as [AEARCTR-0006706](https://www.socialscienceregistry.org/trials/6706))  
+
 **Rationalizing Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
   (joint with Jann Spiess)  
   *Working paper, 2022*  
@@ -26,15 +35,6 @@ Manuscript: [handbook_politicalecon_ai.pdf](/home/files/papers/handbook_politica
   (joint with Nicolò Cesa-Bianchi and Roberto Colomboni)  
   *Working paper, 2022*  
   Manuscript: [adaptive_social_welfare.pdf](/home/files/papers/adaptive_social_welfare.pdf)  
-
-**Employing the unemployed of Marienthal: Evaluation of a guaranteed job program**  
-  (joint with Lukas Lehner)  
-  *Experiment in progress, 2020-2023*  
-  Study homepage: [/Marienthal](/home/Marienthal)  
-  Code (study design): [https://github.com/maxkasy/Marienthal](https://github.com/maxkasy/Marienthal)  
-  Code (data analysis): [https://github.com/maxkasy/Marienthal_Analysis](https://github.com/maxkasy/Marienthal_Analysis)  
-  Pre-analysis plan: [PAP_job_guarantee_Marienthal.pdf](/home/files/other/PAP_job_guarantee_Marienthal.pdf)  
-  (Registered as [AEARCTR-0006706](https://www.socialscienceregistry.org/trials/6706))  
 
 **Experimental evaluation of a Basic Income Pilot in Germany**  
   (joint with Sandra Bohmann, Susann Fiedler, Jürgen Schupp, and Frederik Schwerter)  
