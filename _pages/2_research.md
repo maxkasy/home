@@ -14,6 +14,7 @@ Manuscript: [handbook_politicalecon_ai.pdf](/home/files/papers/handbook_politica
   (joint with Lukas Lehner)  
   *Working paper, 2022*  
   Manuscript: [Jobguarantee_marienthal.pdf](/home/files/papers/Jobguarantee_marienthal.pdf)  
+  Online Appendix: [Online_appendix_jobguarantee_marienthal.pdf](/home/files/papers/Online_appendix_jobguarantee_marienthal.pdf)  
   Code (study design): [https://github.com/maxkasy/Marienthal](https://github.com/maxkasy/Marienthal)  
   Code (data analysis): [https://github.com/maxkasy/Marienthal_Analysis](https://github.com/maxkasy/Marienthal_Analysis)  
   Pre-analysis plan: [PAP_job_guarantee_Marienthal.pdf](/home/files/other/PAP_job_guarantee_Marienthal.pdf)  
