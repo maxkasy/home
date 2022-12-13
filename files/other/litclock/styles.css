@@ -12,7 +12,7 @@ html, body {
 */
 #lit_quote em {
     font-weight: 900;
-    color: rgb(19, 19, 19);
+    color: rgb(187, 86, 86);
     font-style: normal
 }
 
@@ -65,7 +65,7 @@ body.dark {
 }
 
 body.dark #lit_quote em {
-    color: rgb(220, 217, 212);
+    color: rgb(187, 86, 86);
 }
 
 body.dark #main_text, body.dark #buttom {
