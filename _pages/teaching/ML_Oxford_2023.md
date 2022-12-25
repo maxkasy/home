@@ -33,6 +33,8 @@ Tentative Syllabus: [Syllabus_ML_Oxford_2023.pdf](/home/files/teaching/ML_Oxford
 [Slides](/home/files/teaching/ML_Oxford_2023/active_learning_overview_slides.pdf)
 * Online learning
 [Slides](/home/files/teaching/ML_Oxford_2023/adversarial_online_learning_slides.pdf)
+* Online convex optimization
+[Slides](/home/files/teaching/ML_Oxford_2023/online_convex_optimization_slides.pdf)
 * Bandit problems
 [Slides](/home/files/teaching/ML_Oxford_2023/bandit_problems_slides.pdf)
 <!-- * Experiments for policy choice
