@@ -5,8 +5,7 @@ permalink: /research/
 
 ## Working papers
 
-**The political economy of AI regulation:  
-Towards democratic control of the means of prediction**  
+**The political economy of AI: Towards democratic control of the means of prediction**  
 *Requested for the Handbook on Algorithmic Governance and the Law, 2022*  
 Manuscript: [handbook_politicalecon_ai.pdf](/home/files/papers/handbook_politicalecon_ai.pdf)  
 
