@@ -3,8 +3,8 @@ title: Presentations
 permalink: /presentations/
 ---
 
-**The political economy of AI: Who controls the means of prediction?**
-  February 2023, Oxford series "What economists really do"
+**The political economy of AI: Who controls the means of prediction?**  
+  February 2023, Oxford series "What economists really do"  
   [Slides](/home/files/slides/political_econ_ai_slides.pdf)  
 
 **Democratic control of the means of prediction**  
