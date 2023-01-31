@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.15"
   overlay_image: /files/other/pixray_social.png
   caption: "Image credit: Pixray text2Image"
-excerpt: May 22-27, 2022
+excerpt: May 22-27, 2023
 ---
 
 

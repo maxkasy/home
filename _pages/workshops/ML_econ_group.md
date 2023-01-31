@@ -25,7 +25,7 @@ Special emphasis will be put on the social impact of ML, and on non-commercial a
 ### Upcoming
 
 - Bi-weekly **reading** and discussion **group** on ML and economics, meeting in even weeks of term.
-- In May 2023, there will be a workshop on *social foundations for statistics and machine learning*, including tutorials and frontier talks, as well as a panel discussion. Details coming shortly.
+- In the week of May 22-27, 2023, there will be a **workshop** on [Social foundations for statistics and machine learning](https://maxkasy.github.io/home/social_foundations_workshop/), featuring tutorials and frontier talks, as well as a panel discussion.
 
 
 
