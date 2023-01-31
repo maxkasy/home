@@ -24,9 +24,8 @@ Special emphasis will be put on the social impact of ML, and on non-commercial a
 
 ### Upcoming
 
-- Bi-weekly **reading** and discussion **group** on ML and economics, meeting in even weeks of term, starting in HT 2022.
-- On June 20 2022, we will organize a small **cross-departmental workshop** on ML and economics, with presentations of ongoing work and discussants, as well as a keynote by Michael Jordan from UC Berkeley. 
-The tentative schedule can be found at [Machine Learning and Economics Jamboree 2022](https://maxkasy.github.io/home/ML_Econ_Oxford/Jamboree_2022/).
+- Bi-weekly **reading** and discussion **group** on ML and economics, meeting in even weeks of term.
+- In May 2023, there will be a workshop on *social foundations for statistics and machine learning*, including tutorials and frontier talks, as well as a panel discussion. Details coming shortly.
 
 
 
@@ -38,6 +37,8 @@ All faculty, post-docs, and doctoral students are invited to audit this course a
 Syllabus, slides and readers can be found here:
 [Foundations of Machine Learning](https://maxkasy.github.io/home/ML_Oxford_2022/)
 - In April 2021, we organized a **conference** on [Machine learning and economic inequality](https://maxkasy.github.io/home/ML_inequality_conference/). Recordings of the talks are available on [Youtube](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag/videos).
+- In June 2022, we organized a small **cross-departmental workshop** on ML and economics, with presentations of ongoing work and discussants, as well as a keynote by Michael Jordan from UC Berkeley. 
+Information on this workshop can be found at [Machine Learning and Economics Jamboree 2022](https://maxkasy.github.io/home/ML_Econ_Oxford/Jamboree_2022/).
 
 ## Reading and discussion group
 
