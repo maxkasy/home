@@ -39,7 +39,7 @@ Speakers at this workshop have been personally invited.
 Attendance at the tutorial lectures and frontier talks is open to all, both in person (subject to space constraints) and online (via Zoom).
 To register for either in-person attendance or Zoom participation, please fill out the following form:
 
-**(LINK COMING SOON)**
+[Workshop registration](https://econresearch.fra1.qualtrics.com/jfe/form/SV_9BRwEGlBdxLPyIe)
 
 
 Talks will also be **live-streamed**, and recordings made available, on this [Youtube channel](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag)  
@@ -50,8 +50,8 @@ Talks will also be **live-streamed**, and recordings made available, on this [Yo
 * **Date:** May 22-27, 2022
 * **Location:** SR C, Department of Economics, University of Oxford.  
   Manor Road Building, Manor Road, Oxford, OX1 3UQ, UK
-* **Contact:** For logistical questions, please contact [oxfordaiecon@maillist.ox.ac.uk](mailto:oxfordaiecon@maillist.ox.ac.uk).
-* **Papers and Slides**: Please also email these to [oxfordaiecon@maillist.ox.ac.uk](mailto:oxfordaiecon@maillist.ox.ac.uk), and we will post them on this website before the conference.
+* **Contact:** For logistical questions, please contact [carlos.gonzalezperez@economics.ox.ac.uk](mailto:carlos.gonzalezperez@economics.ox.ac.uk).
+* **Papers and Slides**: Please also email these to [carlos.gonzalezperez@economics.ox.ac.uk](mailto:carlos.gonzalezperez@economics.ox.ac.uk), and we will post them on this website before the conference.
 * **Videos** of talks will be recorded and posted online; please let us know if you don't want to be recorded.
 
 
