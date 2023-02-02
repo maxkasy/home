@@ -38,7 +38,6 @@ The workshop will conclude with an open-ended panel discussion on big *open ques
 Speakers at this workshop have been personally invited.
 Attendance at the tutorial lectures and frontier talks is open to all, both in person (subject to space constraints) and online (via Zoom).
 To register for either in-person attendance or Zoom participation, please fill out the following form:
-
 [Workshop registration](https://econresearch.fra1.qualtrics.com/jfe/form/SV_9BRwEGlBdxLPyIe)
 
 
@@ -47,9 +46,10 @@ Talks will also be **live-streamed**, and recordings made available, on this [Yo
 
 ## Logistics (for speakers)
 
-* **Date:** May 22-27, 2022
+* **Date:** May 22-27, 2022.
 * **Location:** SR C, Department of Economics, University of Oxford.  
   Manor Road Building, Manor Road, Oxford, OX1 3UQ, UK
+* **Accommodation:** [Bath Place Hotel](https://www.bathplace.co.uk/), May 21-27.
 * **Contact:** For logistical questions, please contact [carlos.gonzalezperez@economics.ox.ac.uk](mailto:carlos.gonzalezperez@economics.ox.ac.uk).
 * **Papers and Slides**: Please also email these to [carlos.gonzalezperez@economics.ox.ac.uk](mailto:carlos.gonzalezperez@economics.ox.ac.uk), and we will post them on this website before the conference.
 * **Videos** of talks will be recorded and posted online; please let us know if you don't want to be recorded.
