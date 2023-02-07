@@ -5,6 +5,11 @@ permalink: /research/
 
 ## Working papers
 
+**Adaptive maximization of social welfare**  
+  (joint with Nicolò Cesa-Bianchi and Roberto Colomboni)  
+  *Working paper, 2023*  
+  Manuscript: [adaptive_social_welfare.pdf](/home/files/papers/adaptive_social_welfare.pdf)  
+
 **The political economy of AI: Towards democratic control of the means of prediction**  
 *Requested for the Handbook on Algorithmic Governance and the Law, 2022*  
 Manuscript: [handbook_politicalecon_ai.pdf](/home/files/papers/handbook_politicalecon_ai.pdf)  
@@ -30,11 +35,6 @@ Manuscript: [handbook_politicalecon_ai.pdf](/home/files/papers/handbook_politica
   Manuscript: [RefugeesWork.pdf](/home/files/papers/RefugeesWork.pdf)  
   Supplementary appendix: [RefugeesWork_OnlineAppendix.pdf](/home/files/papers/RefugeesWork_onlineAppendix.pdf)  
   Registered pre-analysis plan: [AEA RCT Registry](https://www.socialscienceregistry.org/trials/3870)  
-
-**Adaptive maximization of social welfare**  
-  (joint with Nicolò Cesa-Bianchi and Roberto Colomboni)  
-  *Working paper, 2022*  
-  Manuscript: [adaptive_social_welfare.pdf](/home/files/papers/adaptive_social_welfare.pdf)  
 
 **Experimental evaluation of a Basic Income Pilot in Germany**  
   (joint with Sandra Bohmann, Susann Fiedler, Jürgen Schupp, and Frederik Schwerter)  
