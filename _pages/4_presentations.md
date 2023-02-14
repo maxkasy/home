@@ -3,6 +3,11 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Employing the unemployed of Marienthal:  
+ Evaluation of a guaranteed job program**  
+  March 2023, IHS  
+  [Slides](/home/files/slides/jobguarantee_slides_kasy.pdf)  
+
 **The political economy of AI: Who controls the means of prediction?**  
   February 2023, Oxford series "What economists really do"  
   [Slides](/home/files/slides/political_econ_ai_slides.pdf)  
