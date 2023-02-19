@@ -29,12 +29,6 @@ Manuscript: [handbook_politicalecon_ai.pdf](/home/files/papers/handbook_politica
   *Working paper, 2022*  
   Manuscript: [theory_of_PAPs.pdf](/home/files/papers/theory_of_PAPs.pdf)  
 
-**An Adaptive Targeted Field Experiment: Job Search Assistance for Refugees in Jordan**  
-  (joint with Stefano Caria, Grant Gordon, Soha Osman, Simon Quinn and Alex Teytelboym)  
-  *Conditionally accepted, Journal of the European Economic Association, 2022*  
-  Manuscript: [RefugeesWork.pdf](/home/files/papers/RefugeesWork.pdf)  
-  Supplementary appendix: [RefugeesWork_OnlineAppendix.pdf](/home/files/papers/RefugeesWork_onlineAppendix.pdf)  
-  Registered pre-analysis plan: [AEA RCT Registry](https://www.socialscienceregistry.org/trials/3870)  
 
 **Experimental evaluation of a Basic Income Pilot in Germany**  
   (joint with Sandra Bohmann, Susann Fiedler, Jürgen Schupp, and Frederik Schwerter)  
@@ -47,9 +41,16 @@ Manuscript: [handbook_politicalecon_ai.pdf](/home/files/papers/handbook_politica
 
 ## Publications
 
+**An Adaptive Targeted Field Experiment: Job Search Assistance for Refugees in Jordan**  
+  (joint with Stefano Caria, Grant Gordon, Soha Osman, Simon Quinn and Alex Teytelboym)  
+  *Conditionally accepted, Journal of the European Economic Association, 2023*  
+  Manuscript: [RefugeesWork.pdf](/home/files/papers/RefugeesWork.pdf)  
+  Supplementary appendix: [RefugeesWork_OnlineAppendix.pdf](/home/files/papers/RefugeesWork_onlineAppendix.pdf)  
+  Registered pre-analysis plan: [AEA RCT Registry](https://www.socialscienceregistry.org/trials/3870)  
+
 **Matching with semi-bandits**  
   (joint with Alex Teytelboym)  
-  *Forthcoming, Econometrics Journal, 2022*  
+  *Econometrics Journal, 2023*  
   Manuscript: [adaptive_combinatorial.pdf](/home/files/papers/adaptive_combinatorial.pdf)  
   Replication code: [Github](https://github.com/maxkasy/EJ_matching_with_semibandits_replication_files)  
 
