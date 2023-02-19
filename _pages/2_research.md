@@ -31,7 +31,7 @@ Manuscript: [handbook_politicalecon_ai.pdf](/home/files/papers/handbook_politica
 
 **An Adaptive Targeted Field Experiment: Job Search Assistance for Refugees in Jordan**  
   (joint with Stefano Caria, Grant Gordon, Soha Osman, Simon Quinn and Alex Teytelboym)  
-  *Revise and resubmit, Journal of the European Economic Association, 2022*  
+  *Conditionally accepted, Journal of the European Economic Association, 2022*  
   Manuscript: [RefugeesWork.pdf](/home/files/papers/RefugeesWork.pdf)  
   Supplementary appendix: [RefugeesWork_OnlineAppendix.pdf](/home/files/papers/RefugeesWork_onlineAppendix.pdf)  
   Registered pre-analysis plan: [AEA RCT Registry](https://www.socialscienceregistry.org/trials/3870)  
