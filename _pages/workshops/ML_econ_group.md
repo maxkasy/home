@@ -88,7 +88,7 @@ Topics:
 - W6: (Martin Weidner guest edition)  
   - [Matrix Completion Methods for Causal Panel Data Models](/home/files/other/ML_Econ_Oxford/matrix_completion.pdf)  
   - [Reevaluating COVID-19 Mandates using Tensor Completion](/home/files/other/ML_Econ_Oxford/mask_mandates.pdf)  
-- W8: In preparation. Suggestions welcome!  
+
 
 ### Hilary term 2022:
 
@@ -117,7 +117,7 @@ https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-mach
   - [Democratic Data: A Relational Theory For Data Governance](/home/files/other/ML_Econ_Oxford/relational_data_governance.pdf)
   - [Discussion questions](/home/files/other/ML_Econ_Oxford/Discussion_questions_4.pdf)  
 
-## Affiliates
+<!-- ## Affiliates
 
 ### Faculty
 
@@ -156,4 +156,4 @@ https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-mach
 - Ryan Rholes: [Website](ryanholes.com)
 - Ning Zhang: [Website](https://sites.google.com/view/ningzhangecon)
 
-
+ -->
