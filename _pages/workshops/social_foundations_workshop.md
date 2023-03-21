@@ -75,15 +75,17 @@ Talks will also be **live-streamed**, and recordings made available, on this [Yo
 
 ### Tutorial lectures: May 22-24
 
-- Ana-Andreea Stoica: *Diagnosing and mitigating bias in networks*
+- Isaiah Andrews: *Correcting for Selective Publication and Attention*
 - Celestine Mendler-Dünner: *Performative Prediction*
 - Carina Prunkl: *Algorithms and social epistemology* 
+- Ana-Andreea Stoica: *Diagnosing and mitigating bias in networks*
 
 ### Frontier talks: May 24-26
 
-- Ana-Andreea Stoica: *New models and insights in network interference problems*
+- Isaiah Andrews: *A Model of Scientific Communication*
 - Celestine Mendler-Dünner: *Algorithmic Collective Action in ML*
 - Carina Prunkl: *Which decisions should we not automate?*
+- Ana-Andreea Stoica: *New models and insights in network interference problems*
 
 ### Panel discussion - agenda setting: May 27
 
