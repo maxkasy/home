@@ -75,7 +75,14 @@ Talks will also be **live-streamed**, and recordings made available, on this [Yo
 
 ### Tutorial lectures: May 22-24
 
+- Ana-Andreea Stoica: *Diagnosing and mitigating bias in networks*
+- Celestine Mendler-Dünner: *Performative Prediction*
+
+
 ### Frontier talks: May 24-26
+
+- Ana-Andreea Stoica: *New models and insights in network interference problems*
+- Celestine Mendler-Dünner: *Algorithmic Collective Action in ML*
 
 ### Panel discussion - agenda setting: May 27
 
