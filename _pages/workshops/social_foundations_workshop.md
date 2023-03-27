@@ -76,6 +76,7 @@ Talks will also be **live-streamed**, and recordings made available, on this [Yo
 ### Tutorial lectures: May 22-24
 
 - Isaiah Andrews: *Correcting for Selective Publication and Attention*
+- Lily Hu: *Causal Inference and the Problem of Variable Choice*
 - Celestine Mendler-Dünner: *Performative Prediction*
 - Carina Prunkl: *Algorithms and social epistemology* 
 - Ana-Andreea Stoica: *Diagnosing and mitigating bias in networks*
@@ -83,6 +84,7 @@ Talks will also be **live-streamed**, and recordings made available, on this [Yo
 ### Frontier talks: May 24-26
 
 - Isaiah Andrews: *A Model of Scientific Communication*
+- Lily Hu: *Do Causal Diagrams Assume a Can Opener?*
 - Celestine Mendler-Dünner: *Algorithmic Collective Action in ML*
 - Carina Prunkl: *Which decisions should we not automate?*
 - Ana-Andreea Stoica: *New models and insights in network interference problems*

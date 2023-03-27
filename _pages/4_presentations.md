@@ -6,6 +6,7 @@ permalink: /presentations/
 **Employing the unemployed of Marienthal: Evaluation of a guaranteed job program**  
   March 2023, IHS  
   [Slides](/home/files/slides/jobguarantee_slides_kasy.pdf)  
+  [Recording](https://www.youtube.com/watch?v=4LsCT_J09XY)  
 
 **The political economy of AI: Who controls the means of prediction?**  
   February 2023, Oxford series "What economists really do"  
