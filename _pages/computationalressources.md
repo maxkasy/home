@@ -9,17 +9,21 @@ permalink: /computationlinks/
 (General introduction to machine learning)  
 <https://web.stanford.edu/~hastie/Papers/ESLII.pdf>
 
+**Understanding machine learning: From theory to algorithms**  
+(An introduction to statistical learning theory in the tradition of Vapnik)  
+<https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf>
+
+**Patterns, Predictions, and Actions**  
+(Another introduction, with a focus on pattern classification, and an discussion of causal and dynamic frameworks)  
+<https://mlstory.org/index.html>
+
 **Gaussian Processes for Machine Learning**  
-(Extremely useful tools for nonparametric Bayesian modeling)  
+(Very useful tools for nonparametric Bayesian modeling)  
 <http://www.gaussianprocess.org/gpml/chapters/>  
 
 **Deep Learning**  
 (The theory and implementation of neural nets)  
 <https://www.deeplearningbook.org/>  
-
-**Understanding machine learning: From theory to algorithms**  
-(An introduction to statistical learning theory in the tradition of Vapnik)  
-<https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf>
 
 **Prediction, Learning, and Games**  
 (A principled adversarial (non-stochastic) framework for learning and online decision making)  
