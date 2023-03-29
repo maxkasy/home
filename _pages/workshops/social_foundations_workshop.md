@@ -72,24 +72,86 @@ Talks will also be **live-streamed**, and recordings made available, on this [Yo
 
 ## Tentative Schedule
 
+<!-- rooms available until 5:30 -->
+<!-- 90 min slots -->
 
-### Tutorial lectures: May 22-24
+### Tutorial lectures
 
-- Isaiah Andrews: *Correcting for Selective Publication and Attention*
-- Lily Hu: *Causal Inference and the Problem of Variable Choice*
-- Celestine Mendler-Dünner: *Performative Prediction*
-- Carina Prunkl: *Algorithms and social epistemology* 
-- Ana-Andreea Stoica: *Diagnosing and mitigating bias in networks*
+#### Monday, May 22
 
-### Frontier talks: May 24-26
+11:45 Maximilian Kasy  
+*Opening remarks*  
 
-- Isaiah Andrews: *A Model of Scientific Communication*
-- Lily Hu: *Do Causal Diagrams Assume a Can Opener?*
-- Celestine Mendler-Dünner: *Algorithmic Collective Action in ML*
-- Carina Prunkl: *Which decisions should we not automate?*
-- Ana-Andreea Stoica: *New models and insights in network interference problems*
+12:00 Carina Prunkl  
+*Algorithms and social epistemology*  
 
-### Panel discussion - agenda setting: May 27
+14:15 Celestine Mendler-Dünner  
+*Performative Prediction*  
+
+16:00 Jann Spiess  
+*Integrating machine learning into pre-analysis plans*  
+  
+#### Tuesday, May 23
+
+<!-- Newey seminar 1-2pm -->
+
+11:30 Lily Hu  
+*Causal Inference and the Problem of Variable Choice*  
+
+14:15 Isaiah Andrews  
+*Correcting for Selective Publication and Attention*  
+
+16:00 Ana-Andreea Stoica  
+*Diagnosing and mitigating bias in networks*  
+
+
+#### Wednesday, May 24
+
+11:30 Nika Haghtalab  
+*TBD*  
+  
+13:45 **Guided tour of Oxford for speakers**
+<!-- 2 hour tour -->
+
+
+### Frontier talks
+
+
+#### Wednesday, May 24
+
+16:00 Ana-Andreea Stoica  
+*New models and insights in network interference problems*  
+ 
+#### Thursday, May 25
+
+11:30 Carina Prunkl  
+*Which decisions should we not automate?*  
+
+14:15 Jann Spiess  
+*Explanations with a purpose: regulating black-box algorithmic decisions*  
+
+16:00 Celestine Mendler-Dünner  
+*Algorithmic Collective Action in ML*
+  
+
+#### Friday, May 26
+
+<!-- Room unavailable 1-2pm -->
+
+11:30  Nika Haghtalab  
+*TBD*  
+
+14:15 Isaiah Andrews  
+*A Model of Scientific Communication*  
+
+16:00 Lily Hu  
+*Do Causal Diagrams Assume a Can Opener?*  
+
+
+#### Saturday, May 27
+
+10:00 **Panel discussion**
+
 
 
 
