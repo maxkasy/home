@@ -41,7 +41,7 @@ To register for either in-person attendance or Zoom participation, please fill o
 [Workshop registration](https://econresearch.fra1.qualtrics.com/jfe/form/SV_9BRwEGlBdxLPyIe)
 
 
-Talks will also be **live-streamed**, and recordings made available, on this [Youtube channel](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag)  
+Talks will also be **live-streamed** at [Youtube livestream](https://m.youtube.com/watch?v=3b8LclxZsBE), and **recordings** made available, on this [Youtube channel](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag)  
 
 
 ## Logistics (for speakers)
