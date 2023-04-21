@@ -16,7 +16,7 @@ Manuscript: [handbook_politicalecon_ai.pdf](/home/files/papers/handbook_politica
 
 **Employing the unemployed of Marienthal: Evaluation of a guaranteed job program**  
   (joint with Lukas Lehner)  
-  *Working paper, 2022*  
+  *Working paper, 2023*  
   Manuscript: [Jobguarantee_marienthal.pdf](/home/files/papers/Jobguarantee_marienthal.pdf)  
   Appendix: [Appendix_marienthal.pdf](/home/files/papers/Appendix_marienthal.pdf)  
   Code (study design): [https://github.com/maxkasy/Marienthal](https://github.com/maxkasy/Marienthal)  
