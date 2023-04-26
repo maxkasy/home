@@ -2,6 +2,9 @@
 title: Presentations
 permalink: /presentations/
 ---
+**Optimal Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
+May 2023, LMU Munich  
+[Slides](/home/files/slides/implementable_preanalysis_slides_kasy.pdf)  
 
 **Employing the unemployed of Marienthal: Evaluation of a guaranteed job program**  
   March 2023, IHS  
