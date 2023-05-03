@@ -11,8 +11,8 @@ permalink: /research/
   Manuscript: [adaptive_social_welfare.pdf](/home/files/papers/adaptive_social_welfare.pdf)  
 
 **The political economy of AI: Towards democratic control of the means of prediction**  
-*Requested for the Handbook on Algorithmic Governance and the Law, 2022*  
-Manuscript: [handbook_politicalecon_ai.pdf](/home/files/papers/handbook_politicalecon_ai.pdf)  
+  *Requested for the Handbook on Algorithmic Governance and the Law, 2022*  
+  Manuscript: [handbook_politicalecon_ai.pdf](/home/files/papers/handbook_politicalecon_ai.pdf)  
 
 **Employing the unemployed of Marienthal: Evaluation of a guaranteed job program**  
   (joint with Lukas Lehner)  
@@ -29,7 +29,6 @@ Manuscript: [handbook_politicalecon_ai.pdf](/home/files/papers/handbook_politica
   *Working paper, 2022*  
   Manuscript: [theory_of_PAPs.pdf](/home/files/papers/theory_of_PAPs.pdf)  
 
-
 **Experimental evaluation of a Basic Income Pilot in Germany**  
   (joint with Sandra Bohmann, Susann Fiedler, Jürgen Schupp, and Frederik Schwerter)  
   *Experiment in progress, 2021-2024*  
@@ -43,7 +42,7 @@ Manuscript: [handbook_politicalecon_ai.pdf](/home/files/papers/handbook_politica
 
 **An Adaptive Targeted Field Experiment: Job Search Assistance for Refugees in Jordan**  
   (joint with Stefano Caria, Grant Gordon, Soha Osman, Simon Quinn and Alex Teytelboym)  
-  *Conditionally accepted, Journal of the European Economic Association, 2023*  
+  *Forthcoming, Journal of the European Economic Association, 2023*  
   Manuscript: [RefugeesWork.pdf](/home/files/papers/RefugeesWork.pdf)  
   Supplementary appendix: [RefugeesWork_OnlineAppendix.pdf](/home/files/papers/RefugeesWork_onlineAppendix.pdf)  
   Registered pre-analysis plan: [AEA RCT Registry](https://www.socialscienceregistry.org/trials/3870)  
