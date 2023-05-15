@@ -61,7 +61,7 @@ Talks will also be **live-streamed** at [Youtube livestream](https://m.youtube.c
 ## Confirmed speakers
 
 - Isaiah Andrews (Econometrics)	[Website](https://scholar.harvard.edu/iandrews/home)
-- Celestine Dünner (Computer Science) [Website](https://www.celestine.ai/)
+- Celestine Mendler-Dünner (Computer Science) [Website](https://www.celestine.ai/)
 - Nika Haghtalab (Computer Science) [Website](https://people.eecs.berkeley.edu/~nika/)
 - Lily Hu	(Philosophy) [Website](https://scholar.harvard.edu/lilyhu)
 - Carina Prunkl	(Philosophy) [Website](https://www.carinaprunkl.com/)
