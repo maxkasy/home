@@ -82,6 +82,7 @@ Talks will also be **live-streamed** at [Youtube livestream](https://m.youtube.c
 
 11:45 Maximilian Kasy  
 *Opening remarks*  
+[Slides](/home/files/slides/social_foundations_opening.pdf)  
 
 12:00 Carina Prunkl  
 *Algorithms and social epistemology*  
