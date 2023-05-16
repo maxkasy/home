@@ -127,7 +127,7 @@ Talks will also be **live-streamed** at [Youtube livestream](https://m.youtube.c
 #### Thursday, May 25
 
 11:30 Carina Prunkl  
-*Which decisions should we not automate?*  
+*Noise - a flaw in algorithmic judgment?*  
 
 14:15 Jann Spiess  
 *Explanations with a purpose: regulating black-box algorithmic decisions*  
