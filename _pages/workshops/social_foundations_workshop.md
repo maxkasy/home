@@ -109,8 +109,8 @@ Talks will also be **live-streamed** at [Youtube livestream](https://m.youtube.c
 
 #### Wednesday, May 24
 
-11:30 Scheduled: Nika Haghtalab. Substitute: Maximilian Kasy  
-*Optimal Pre-Analysis Plans: Statistical Decisions Subject to Implementability*  
+11:30 Nika Haghtalab  
+*Foundations of learning and incentives*  
   
 13:45 **Guided tour of Oxford for speakers**
 <!-- 2 hour tour -->
@@ -140,8 +140,8 @@ Talks will also be **live-streamed** at [Youtube livestream](https://m.youtube.c
 
 <!-- Room unavailable 1-2pm -->
 
-11:30  Scheduled: Nika Haghtalab. Substitute: Maximilian Kasy  
-*Adaptive maximization of social welfare*  
+11:30 Nika Haghtalab  
+*Multi-objective learning: A unifying perspective on collaboration, fairness, and robustness*  
 
 14:15 Isaiah Andrews  
 *A Model of Scientific Communication*  
