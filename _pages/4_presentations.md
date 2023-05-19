@@ -15,6 +15,8 @@ May 2023, LMU Munich
   February 2023, Oxford series "What economists really do"  
   [Slides](/home/files/slides/political_econ_ai_slides.pdf)  
   [Recording](https://www.youtube.com/watch?v=SVDUgqfrM6o)  
+  April 2023, MIT SERC Symposium   
+  [Recording](https://youtu.be/N8oh0l5fCzg)
 
 **Democratic control of the means of prediction**  
   October 2022, Oxford Ethics in AI Colloquium  
