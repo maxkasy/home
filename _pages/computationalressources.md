@@ -37,6 +37,10 @@ An accessible introduction to adversarial learning and adaptive decision-making 
 (Adaptive learning for Markov decision problems)  
 <http://www.incompleteideas.net/book/RLbook2018.pdf>  
 
+**Speech and Language Processing**  
+(Natural language processing and language models)  
+<https://web.stanford.edu/~jurafsky/slp3/>  
+
 **Algorithms**  
 (Introduction to the theory of algorithms)  
 <http://jeffe.cs.illinois.edu/teaching/algorithms/>  

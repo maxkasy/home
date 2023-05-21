@@ -91,7 +91,7 @@ Talks will also be **live-streamed** at [Youtube livestream](https://m.youtube.c
 *Performative Prediction*  
 
 16:00 Jann Spiess  
-*Integrating machine learning into pre-analysis plans*  
+*Econometrics with Misaligned Preferences*  
   
 #### Tuesday, May 23
 
