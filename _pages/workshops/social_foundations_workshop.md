@@ -104,7 +104,7 @@ Talks will also be **live-streamed** at [Youtube livestream](https://m.youtube.c
 *Correcting for Selective Publication and Attention*  
 
 16:00 Ana-Andreea Stoica  
-*Diagnosing and mitigating bias in networks*  
+*Diagnosing Algorithmic Inequality in Social Networks*  
 
 
 #### Wednesday, May 24
@@ -122,7 +122,7 @@ Talks will also be **live-streamed** at [Youtube livestream](https://m.youtube.c
 #### Wednesday, May 24
 
 16:00 Ana-Andreea Stoica  
-*New models and insights in network interference problems*  
+*Interventions for mitigating Algorithmic Inequality in Social Networks*  
  
 #### Thursday, May 25
 
