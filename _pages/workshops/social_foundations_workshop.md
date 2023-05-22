@@ -105,7 +105,7 @@ Talks will also be **live-streamed** at [Youtube livestream](https://m.youtube.c
 
 16:00 Ana-Andreea Stoica  
 *Diagnosing Algorithmic Inequality in Social Networks*  
-
+[Slides](/home/files/other/social_foundations_workshop/AnaStoica_OxfordMLEcon_tutorial.pdf)  
 
 #### Wednesday, May 24
 
@@ -123,6 +123,7 @@ Talks will also be **live-streamed** at [Youtube livestream](https://m.youtube.c
 
 16:00 Ana-Andreea Stoica  
 *Interventions for mitigating Algorithmic Inequality in Social Networks*  
+[Slides](/home/files/other/social_foundations_workshop/AnaStoica_OxfordMLEcon_frontiertalk.pdf)  
  
 #### Thursday, May 25
 
