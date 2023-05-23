@@ -99,10 +99,11 @@ Talks will also be **live-streamed** at [Youtube livestream](https://m.youtube.c
 
 11:30 Lily Hu  
 *Causal Inference and the Problem of Variable Choice*  
-[Slides](/home/files/other/social_foundations_workshop/Lily_Hu_Variable_Choice)  
+[Slides](/home/files/other/social_foundations_workshop/Lily_Hu_Variable_Choice.pptx)  
 
 14:15 Isaiah Andrews  
 *Correcting for Selective Publication and Attention*  
+[Slides](/home/files/other/social_foundations_workshop/Screening_and_Selection.pdf)  
 
 16:00 Ana-Andreea Stoica  
 *Diagnosing Algorithmic Inequality in Social Networks*  
