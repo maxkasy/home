@@ -99,6 +99,7 @@ Talks will also be **live-streamed** at [Youtube livestream](https://m.youtube.c
 
 11:30 Lily Hu  
 *Causal Inference and the Problem of Variable Choice*  
+[Slides](/home/files/other/social_foundations_workshop/Lily_Hu_Variable_Choice)  
 
 14:15 Isaiah Andrews  
 *Correcting for Selective Publication and Attention*  
