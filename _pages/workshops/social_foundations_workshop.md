@@ -83,16 +83,20 @@ Talks will also be **live-streamed** at [Youtube livestream - Day 1](https://m.y
 
 11:45 Maximilian Kasy  
 *Opening remarks*  
-[Slides](/home/files/slides/social_foundations_opening.pdf)  
+[Slides](/home/files/slides/social_foundations_opening.pdf) [Recording](https://youtu.be/RMxRqotKX7s)
 
 12:00 Carina Prunkl  
 *Algorithms and social epistemology*  
+[Recording](https://youtu.be/k3c8mPkOZBA)  
 
 14:15 Celestine Mendler-Dünner  
 *Performative Prediction*  
+[Recording](https://youtu.be/-V7aC5mk_P8)  
 
 16:00 Jann Spiess  
 *Econometrics with Misaligned Preferences*  
+[Recording](https://youtu.be/ZgJUTMX_V4w)  
+
   
 #### Tuesday, May 23
 
