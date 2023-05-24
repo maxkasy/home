@@ -42,7 +42,7 @@ To register for either in-person attendance or Zoom participation, please fill o
 
 
 Talks will also be **live-streamed** at [Youtube livestream - Day 1](https://m.youtube.com/watch?v=3b8LclxZsBE),
-[Youtube livestream - Day 2](https://www.youtube.com/watch?v=mGHLcRG37pg), and **recordings** made available, on this [Youtube channel](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag).  
+[Youtube livestream - Day 2](https://www.youtube.com/watch?v=mGHLcRG37pg), [Youtube livestream - Day 3](https://www.youtube.com/watch?v=GWvMmWUnfwI), and **recordings** made available, on this [Youtube channel](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag).  
 
 
 ## Logistics (for speakers)
