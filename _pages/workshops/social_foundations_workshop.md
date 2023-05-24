@@ -118,6 +118,7 @@ Talks will also be **live-streamed** at [Youtube livestream - Day 1](https://m.y
 
 11:30 Nika Haghtalab  
 *Foundations of learning and incentives*  
+[Slides](/home/files/other/social_foundations_workshop/Nika_Haghtalab_Learning_Incentives.pptx)  
   
 13:45 **Guided tour of Oxford for speakers**
 <!-- 2 hour tour -->
