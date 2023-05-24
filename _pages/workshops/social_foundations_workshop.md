@@ -83,7 +83,7 @@ Talks will also be **live-streamed** at [Youtube livestream - Day 1](https://m.y
 
 11:45 Maximilian Kasy  
 *Opening remarks*  
-[Slides](/home/files/slides/social_foundations_opening.pdf) [Recording](https://youtu.be/RMxRqotKX7s)
+[Slides](/home/files/slides/social_foundations_opening.pdf), [Recording](https://youtu.be/RMxRqotKX7s)
 
 12:00 Carina Prunkl  
 *Algorithms and social epistemology*  
@@ -100,19 +100,19 @@ Talks will also be **live-streamed** at [Youtube livestream - Day 1](https://m.y
   
 #### Tuesday, May 23
 
-<!-- Newey seminar 1-2pm -->
-
 11:30 Lily Hu  
 *Causal Inference and the Problem of Variable Choice*  
-[Slides](/home/files/other/social_foundations_workshop/Lily_Hu_Variable_Choice.pptx)  
+[Slides](/home/files/other/social_foundations_workshop/Lily_Hu_Variable_Choice.pptx), [Recording](https://youtu.be/zSwAVwypMSs)  
 
 14:15 Isaiah Andrews  
 *Correcting for Selective Publication and Attention*  
-[Slides](/home/files/other/social_foundations_workshop/Screening_and_Selection.pdf)  
+[Slides](/home/files/other/social_foundations_workshop/Screening_and_Selection.pdf), [Recording](https://youtu.be/PVsmo1hynrw)  
 
 16:00 Ana-Andreea Stoica  
 *Diagnosing Algorithmic Inequality in Social Networks*  
-[Slides](/home/files/other/social_foundations_workshop/AnaStoica_OxfordMLEcon_tutorial.pdf)  
+[Slides](/home/files/other/social_foundations_workshop/AnaStoica_OxfordMLEcon_tutorial.pdf), [Recording](https://youtu.be/lqonoDcLp6w)  
+
+
 
 #### Wednesday, May 24
 
