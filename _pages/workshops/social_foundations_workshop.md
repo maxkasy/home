@@ -118,7 +118,7 @@ Talks will also be **live-streamed** at [Youtube livestream - Day 1](https://m.y
 
 11:30 Nika Haghtalab  
 *Foundations of learning and incentives*  
-[Slides](/home/files/other/social_foundations_workshop/Nika_Haghtalab_Learning_Incentives.pptx)  
+[Slides](/home/files/other/social_foundations_workshop/Nika_Haghtalab_Learning_Incentives.pdf)  
   
 13:45 **Guided tour of Oxford for speakers**
 <!-- 2 hour tour -->
@@ -135,11 +135,11 @@ Talks will also be **live-streamed** at [Youtube livestream - Day 1](https://m.y
  
 #### Thursday, May 25
 
-11:30 Carina Prunkl  
-*Noise - a flaw in algorithmic judgment?*  
-
-14:15 Jann Spiess  
+11:30 Jann Spiess  
 *Explanations with a purpose: regulating black-box algorithmic decisions*  
+
+14:15 Carina Prunkl  
+*Noise - a flaw in algorithmic judgment?*  
 
 16:00 Celestine Mendler-Dünner  
 *Algorithmic Collective Action in ML*
