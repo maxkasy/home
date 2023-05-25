@@ -165,7 +165,8 @@ and **recordings** made available, on this [Youtube channel](https://www.youtube
 
 #### Saturday, May 27
 
-10:00 **Panel discussion**
+10:00 **Group discussion**  
+Speakers only. Radcliffe Humanities building.
 
 
 
