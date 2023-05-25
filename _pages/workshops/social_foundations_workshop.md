@@ -41,8 +41,12 @@ To register for either in-person attendance or Zoom participation, please fill o
 [Workshop registration](https://econresearch.fra1.qualtrics.com/jfe/form/SV_9BRwEGlBdxLPyIe)
 
 
-Talks will also be **live-streamed** at [Youtube livestream - Day 1](https://m.youtube.com/watch?v=3b8LclxZsBE),
-[Youtube livestream - Day 2](https://www.youtube.com/watch?v=mGHLcRG37pg), [Youtube livestream - Day 3](https://www.youtube.com/watch?v=GWvMmWUnfwI), and **recordings** made available, on this [Youtube channel](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag).  
+Talks will also be **live-streamed** at
+[Youtube livestream - Day 1](https://m.youtube.com/watch?v=3b8LclxZsBE),
+[Youtube livestream - Day 2](https://www.youtube.com/watch?v=mGHLcRG37pg),
+[Youtube livestream - Day 3](https://www.youtube.com/watch?v=GWvMmWUnfwI), 
+[Youtube livestream - Day 4](https://www.youtube.com/live/wUrblXN-ItA),
+and **recordings** made available, on this [Youtube channel](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag).  
 
 
 ## Logistics (for speakers)
@@ -91,7 +95,7 @@ Talks will also be **live-streamed** at [Youtube livestream - Day 1](https://m.y
 
 14:15 Celestine Mendler-Dünner  
 *Performative Prediction*  
-[Recording](https://youtu.be/-V7aC5mk_P8)  
+[Slides](/home/files/slides/Celestine_Mendler_Performative_Prediction.pdf), [Recording](https://youtu.be/-V7aC5mk_P8)  
 
 16:00 Jann Spiess  
 *Econometrics with Misaligned Preferences*  
