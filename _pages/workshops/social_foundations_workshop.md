@@ -88,7 +88,7 @@ and **recordings** made available, on this [Youtube channel](https://www.youtube
 
 11:45 Maximilian Kasy  
 *Opening remarks*  
-[Slides](/home/files/slides/social_foundations_opening.pdf), [Recording](https://youtu.be/RMxRqotKX7s)
+[Slides](/home/files/other/social_foundations_workshop/social_foundations_opening.pdf), [Recording](https://youtu.be/RMxRqotKX7s)
 
 12:00 Carina Prunkl  
 *Algorithms and social epistemology*  
@@ -96,7 +96,7 @@ and **recordings** made available, on this [Youtube channel](https://www.youtube
 
 14:15 Celestine Mendler-Dünner  
 *Performative Prediction*  
-[Slides](/home/files/slides/Celestine_Mendler_Performative_Prediction.pdf), [Recording](https://youtu.be/-V7aC5mk_P8)  
+[Slides](/home/files/other/social_foundations_workshop/Celestine_Mendler_Performative_Prediction.pdf), [Recording](https://youtu.be/-V7aC5mk_P8)  
 
 16:00 Jann Spiess  
 *Econometrics with Misaligned Preferences*  
@@ -148,7 +148,7 @@ and **recordings** made available, on this [Youtube channel](https://www.youtube
 
 16:00 Celestine Mendler-Dünner  
 *Algorithmic Collective Action in ML*  
-[Slides](/home/files/slides/Celestine_Mendler_Collective_Action.pdf)  
+[Slides](/home/files/other/social_foundations_workshop/Celestine_Mendler_Collective_Action.pdf)  
   
 
 #### Friday, May 26
@@ -157,14 +157,15 @@ and **recordings** made available, on this [Youtube channel](https://www.youtube
 
 11:30 Nika Haghtalab  
 *Multi-objective learning: A unifying perspective on collaboration, fairness, and robustness*  
+[Slides](/home/files/other/social_foundations_workshop/Nika_Haghtalab_Multi_Objective.pdf)  
 
 14:15 Isaiah Andrews  
 *A Model of Scientific Communication*  
-[Slides](/home/files/slides/Isaiah_Andrews_Scientific_Communication.pdf)  
+[Slides](/home/files/other/social_foundations_workshop/Isaiah_Andrews_Scientific_Communication.pdf)  
 
 16:00 Lily Hu  
 *Do Causal Diagrams Assume a Can Opener?*  
-[Slides](/home/files/slides/Lily_Hu_Sameness_Difference.pptx)  
+[Slides](/home/files/other/social_foundations_workshop/Lily_Hu_Sameness_Difference.pptx)  
 
 #### Saturday, May 27
 
