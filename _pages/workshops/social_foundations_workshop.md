@@ -160,6 +160,7 @@ and **recordings** made available, on this [Youtube channel](https://www.youtube
 
 14:15 Isaiah Andrews  
 *A Model of Scientific Communication*  
+[Slides](/home/files/slides/Isaiah_Andrews_Scientific_Communication.pdf)  
 
 16:00 Lily Hu  
 *Do Causal Diagrams Assume a Can Opener?*  
