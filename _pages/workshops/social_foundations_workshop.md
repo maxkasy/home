@@ -46,6 +46,7 @@ Talks will also be **live-streamed** at
 [Youtube livestream - Day 2](https://www.youtube.com/watch?v=mGHLcRG37pg),
 [Youtube livestream - Day 3](https://www.youtube.com/watch?v=GWvMmWUnfwI), 
 [Youtube livestream - Day 4](https://www.youtube.com/live/wUrblXN-ItA),
+[Youtube livestream - Day 5](https://www.youtube.com/watch?v=1fzsVKUwh4Q),
 and **recordings** made available, on this [Youtube channel](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag).  
 
 
@@ -146,7 +147,8 @@ and **recordings** made available, on this [Youtube channel](https://www.youtube
 *Noise - a flaw in algorithmic judgment?*  
 
 16:00 Celestine Mendler-Dünner  
-*Algorithmic Collective Action in ML*
+*Algorithmic Collective Action in ML*  
+[Slides](/home/files/slides/Celestine_Mendler_Collective_Action.pdf)  
   
 
 #### Friday, May 26
@@ -161,7 +163,7 @@ and **recordings** made available, on this [Youtube channel](https://www.youtube
 
 16:00 Lily Hu  
 *Do Causal Diagrams Assume a Can Opener?*  
-
+[Slides](/home/files/slides/Lily_Hu_Sameness_Difference.pptx)  
 
 #### Saturday, May 27
 
