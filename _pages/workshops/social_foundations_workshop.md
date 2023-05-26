@@ -123,7 +123,8 @@ and **recordings** made available, on this [Youtube channel](https://www.youtube
 
 11:30 Nika Haghtalab  
 *Foundations of learning and incentives*  
-[Slides](/home/files/other/social_foundations_workshop/Nika_Haghtalab_Learning_Incentives.pdf)  
+[Slides](/home/files/other/social_foundations_workshop/Nika_Haghtalab_Learning_Incentives.pdf),
+[Recording](https://www.youtube.com/watch?v=xxshaRj69uM)  
   
 13:45 **Guided tour of Oxford for speakers**
 <!-- 2 hour tour -->
@@ -142,13 +143,16 @@ and **recordings** made available, on this [Youtube channel](https://www.youtube
 
 11:30 Jann Spiess  
 *Explanations with a purpose: regulating black-box algorithmic decisions*  
+[Recording](https://www.youtube.com/watch?v=WNKDz9s9G9A)  
 
 14:15 Carina Prunkl  
 *Noise - a flaw in algorithmic judgment?*  
+[Recording](https://www.youtube.com/watch?v=IvCfLEKRt1M)  
 
 16:00 Celestine Mendler-Dünner  
 *Algorithmic Collective Action in ML*  
-[Slides](/home/files/other/social_foundations_workshop/Celestine_Mendler_Collective_Action.pdf)  
+[Slides](/home/files/other/social_foundations_workshop/Celestine_Mendler_Collective_Action.pdf),
+[Recording](https://www.youtube.com/watch?v=WZZyxTlqF_o)  
   
 
 #### Friday, May 26
