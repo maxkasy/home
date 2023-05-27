@@ -100,6 +100,7 @@ and **recordings** made available, on this [Youtube channel](https://www.youtube
 
 16:00 Jann Spiess  
 *Econometrics with Misaligned Preferences*  
+[Slides](/home/files/other/social_foundations_workshop/Jann_Spiess_Aligned_Econometrics.pdf),
 [Recording](https://youtu.be/ZgJUTMX_V4w)  
 
   
@@ -143,6 +144,7 @@ and **recordings** made available, on this [Youtube channel](https://www.youtube
 
 11:30 Jann Spiess  
 *Explanations with a purpose: regulating black-box algorithmic decisions*  
+[Slides](/home/files/other/social_foundations_workshop/Jann_Spiess_Explanations_with_a_Purpose.pdf),
 [Recording](https://www.youtube.com/watch?v=WNKDz9s9G9A)  
 
 14:15 Carina Prunkl  
