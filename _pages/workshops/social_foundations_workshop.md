@@ -32,7 +32,7 @@ The workshop will conclude with an open-ended panel discussion on big *open ques
 
 
 
-
+<!-- 
 ## Registration (for attendees)
 
 Speakers at this workshop have been personally invited.
@@ -59,7 +59,7 @@ and **recordings** made available, on this [Youtube channel](https://www.youtube
 * **Accommodation:** [Bath Place Hotel](https://www.bathplace.co.uk/), May 21-27.
 * **Contact:** For logistical questions, please contact [carlos.gonzalezperez@economics.ox.ac.uk](mailto:carlos.gonzalezperez@economics.ox.ac.uk).
 * **Papers and Slides**: Please also email these to [carlos.gonzalezperez@economics.ox.ac.uk](mailto:carlos.gonzalezperez@economics.ox.ac.uk), and we will post them on this website before the conference.
-* **Videos** of talks will be recorded and posted online; please let us know if you don't want to be recorded.
+* **Videos** of talks will be recorded and posted online; please let us know if you don't want to be recorded. -->
 
 
 
@@ -77,7 +77,7 @@ and **recordings** made available, on this [Youtube channel](https://www.youtube
 
 
 
-## Tentative Schedule
+## Schedule
 
 <!-- rooms available until 5:30 -->
 <!-- 90 min slots -->
@@ -88,15 +88,18 @@ and **recordings** made available, on this [Youtube channel](https://www.youtube
 
 11:45 Maximilian Kasy  
 *Opening remarks*  
-[Slides](/home/files/other/social_foundations_workshop/social_foundations_opening.pdf), [Recording](https://youtu.be/RMxRqotKX7s)
+[Slides](/home/files/other/social_foundations_workshop/social_foundations_opening.pdf),
+[Recording](https://youtu.be/RMxRqotKX7s)
 
 12:00 Carina Prunkl  
 *Algorithms and social epistemology*  
+[Slides](/home/files/other/social_foundations_workshop/Carina_Prunkl_Algorithms_Social_Epistemology.pptm),
 [Recording](https://youtu.be/k3c8mPkOZBA)  
 
 14:15 Celestine Mendler-Dünner  
 *Performative Prediction*  
-[Slides](/home/files/other/social_foundations_workshop/Celestine_Mendler_Performative_Prediction.pdf), [Recording](https://youtu.be/-V7aC5mk_P8)  
+[Slides](/home/files/other/social_foundations_workshop/Celestine_Mendler_Performative_Prediction.pdf),
+[Recording](https://youtu.be/-V7aC5mk_P8)  
 
 16:00 Jann Spiess  
 *Econometrics with Misaligned Preferences*  
@@ -108,7 +111,8 @@ and **recordings** made available, on this [Youtube channel](https://www.youtube
 
 11:30 Lily Hu  
 *Causal Inference and the Problem of Variable Choice*  
-[Slides](/home/files/other/social_foundations_workshop/Lily_Hu_Variable_Choice.pptx), [Recording](https://youtu.be/zSwAVwypMSs)  
+[Slides](/home/files/other/social_foundations_workshop/Lily_Hu_Variable_Choice.pptx),
+[Recording](https://youtu.be/zSwAVwypMSs)  
 
 14:15 Isaiah Andrews  
 *Correcting for Selective Publication and Attention*  
@@ -163,15 +167,18 @@ and **recordings** made available, on this [Youtube channel](https://www.youtube
 
 11:30 Nika Haghtalab  
 *Multi-objective learning: A unifying perspective on collaboration, fairness, and robustness*  
-[Slides](/home/files/other/social_foundations_workshop/Nika_Haghtalab_Multi_Objective.pdf)  
+[Slides](/home/files/other/social_foundations_workshop/Nika_Haghtalab_Multi_Objective.pdf),
+[Recording](https://www.youtube.com/watch?v=eInHOJdJuck)  
 
 14:15 Isaiah Andrews  
 *A Model of Scientific Communication*  
-[Slides](/home/files/other/social_foundations_workshop/Isaiah_Andrews_Scientific_Communication.pdf)  
+[Slides](/home/files/other/social_foundations_workshop/Isaiah_Andrews_Scientific_Communication.pdf),
+[Recording](https://www.youtube.com/watch?v=r7KdV0bDyo4)  
 
 16:00 Lily Hu  
 *Do Causal Diagrams Assume a Can Opener?*  
-[Slides](/home/files/other/social_foundations_workshop/Lily_Hu_Sameness_Difference.pptx)  
+[Slides](/home/files/other/social_foundations_workshop/Lily_Hu_Sameness_Difference.pptx),
+[Recording](https://www.youtube.com/watch?v=7FqCSoe04rM)  
 
 #### Saturday, May 27
 
