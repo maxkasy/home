@@ -153,7 +153,7 @@ and **recordings** made available, on this [Youtube channel](https://www.youtube
 
 14:15 Carina Prunkl  
 *Noise - a flaw in algorithmic judgment?*  
-[Recording](https://www.youtube.com/watch?v=IvCfLEKRt1M)  
+<!-- [Recording](https://www.youtube.com/watch?v=IvCfLEKRt1M)   -->
 
 16:00 Celestine Mendler-Dünner  
 *Algorithmic Collective Action in ML*  
