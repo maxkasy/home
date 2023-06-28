@@ -5,6 +5,10 @@ permalink: /research/
 
 ## Working papers
 
+**Algorithmic bias and racial inequality: A critical review**  
+  *Requested for OxREP special issue on Race and Economics, 2023*  
+  Manuscript: [Algorithmic_bias_inequality.pdf](/home/files/papers/Algorithmic_bias_inequality.pdf)  
+
 **Adaptive maximization of social welfare**  
   (joint with Nicolò Cesa-Bianchi and Roberto Colomboni)  
   *Working paper, 2023*  
