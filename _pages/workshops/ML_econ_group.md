@@ -53,12 +53,16 @@ Meeting dates:
 Topics:
 
 This term we will discuss large language models.
-We will draw on this textbook, among other sources:  
-[Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)    
+We will draw on the textbook
+[Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/),
+and on the online [Huggingface NLP course](https://huggingface.co/learn/nlp-course/).  
 
-- W2: Foundations (Neural networks and natural language processing)
-- W4: Foundations (Transformers)
-- W6: Practical implementation
+- W2: Foundations (Neural networks and natural language processing)  
+  Chapters 6,7, and 9 of [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+- W4: Foundations (Transformers)  
+  Chapters 10 and 11 of [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+- W6: Practical implementation  
+  [Huggingface NLP course](https://huggingface.co/learn/nlp-course/)
 - W8: Social impact of generative AI
 
 ### Hilary term 2023:
