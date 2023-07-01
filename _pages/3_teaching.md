@@ -4,17 +4,17 @@ permalink: /teaching/
 ---
 
 * Oxford econometrics event schedule [Metrics events](http://econbase.uk/events/)  
-* My open online textbook on [Empirical research on economic inequality](http://inequalityresearch.net/) 
 * Collection of [useful computational ressources](/home/computationlinks/)
-* Conference [Machine learning and economic inequality](/home/ML_inequality_conference/)  
-* Conference [Statistics in a social context](/home/StatisticsSocialConference/)  
+* My open online textbook on [Empirical research on economic inequality](http://inequalityresearch.net/) 
 
-## MIT
+## Conferences
 
-### 14.385: Nonlinear Econometric Analysis (2nd year PhD, 2022)
+* [Youtube channel](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag/videos) of workshops and discussions.
+* 2023 Conference [Social foundations for statistics and machine learning](https://maxkasy.github.io/home/social_foundations_workshop/)
+* 2022 Conference [Oxford Machine Learning and Economics Jamboree](https://maxkasy.github.io/home/ML_Econ_Oxford/Jamboree_2022/)
+* 2021 Conference [Machine learning and economic inequality](/home/ML_inequality_conference/)  
+* 2019 Conference [Statistics in a social context](/home/StatisticsSocialConference/)  
 
-* Syllabus [Syllabus_Nonlineareconometrics_MIT_2022.pdf](/home/files/teaching/Nonlineareconometrics_MIT_2022/Syllabus_Nonlineareconometrics_MIT_2022.pdf)  
-* Class page [Nonlineareconometrics_MIT_2022](/home/Nonlineareconometrics_MIT_2022)  
 
 ## Oxford
 
@@ -25,6 +25,15 @@ permalink: /teaching/
 ### Labor economics (undergraduate, 2021)
 * Syllabus [Syllabus_Labor_Oxford_2021.pdf](/home/files/teaching/Labor_Oxford_2021/Syllabus_Labor_Oxford_2021.pdf)
 * Class page [Labor_Oxford_2021](/home/Labor_Oxford_2021)
+
+
+## MIT
+
+### 14.385: Nonlinear Econometric Analysis (2nd year PhD, 2022)
+
+* Syllabus [Syllabus_Nonlineareconometrics_MIT_2022.pdf](/home/files/teaching/Nonlineareconometrics_MIT_2022/Syllabus_Nonlineareconometrics_MIT_2022.pdf)  
+* Class page [Nonlineareconometrics_MIT_2022](/home/Nonlineareconometrics_MIT_2022)  
+
 
 ## Harvard
 
