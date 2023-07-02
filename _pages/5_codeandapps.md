@@ -4,8 +4,13 @@ permalink: /code-and-apps/
 ---
 
 
+### The PAP App (beta version): Optimal incentive compatible pre-analysis plans that control size and maximize power 
+* Interactive App: [The_PAP_App](https://maxkasy.shinyapps.io/The_PAP_App/))  
+* Repository: [https://github.com/maxkasy/The_PAP_App](https://github.com/maxkasy/The_PAP_App)  
+* Theoretical background: [implementable_preanalysis_slides_kasy.pdf](/home/files/slides/implementable_preanalysis_slides_kasy.pdf)  
+
 ### Exploration sampling: Adaptive treatment assignment in experiments for policy choice  
-* Interactive dashboard: [exploration_sampling_dashboard](https://maxkasy.shinyapps.io/exploration_sampling_dashboard/)  
+* Interactive App: [exploration_sampling_dashboard](https://maxkasy.shinyapps.io/exploration_sampling_dashboard/)  
 * Repository: [https://github.com/maxkasy/exploration-sampling-dashboard](https://github.com/maxkasy/exploration-sampling-dashboard)  
 * Theoretical background: [adaptiveexperimentspolicy.pdf](/home/files/papers/adaptiveexperimentspolicy.pdf)  
 
