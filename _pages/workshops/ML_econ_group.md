@@ -50,12 +50,7 @@ Meeting dates:
 (That is: 17 Oct, 31 Oct, 14 Nov, 28 Nov)  
 *Manor Road Building*  
 
-Topics:
-
-This term we will discuss large language models.
-We will draw on the textbook
-[Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/),
-and on the online [Huggingface NLP course](https://huggingface.co/learn/nlp-course/).  
+Topic: Large Language Models.
 
 - W2: Foundations (Neural networks and natural language processing)  
   Chapters 6,7, and 9 of [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
@@ -63,7 +58,10 @@ and on the online [Huggingface NLP course](https://huggingface.co/learn/nlp-cour
   Chapters 10 and 11 of [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 - W6: Practical implementation  
   [Huggingface NLP course](https://huggingface.co/learn/nlp-course/)
-- W8: Social impact of generative AI
+- W8: The impact of large language models
+  [ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)  
+  [The Debate Over Understanding in AI's Large Language Models](https://arxiv.org/abs/2210.13966)
+
 
 ### Hilary term 2023:
 
