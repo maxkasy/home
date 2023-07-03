@@ -48,7 +48,7 @@ Meeting dates:
 
 - 2:30pm, Tuesdays in even weeks  
 (That is: 17 Oct, 31 Oct, 14 Nov, 28 Nov)  
-*Manor Road Building*  
+*SR B, Manor Road Building*  
 
 Topic: Large Language Models.
 
