@@ -58,7 +58,7 @@ Topic: Large Language Models.
   Chapters 10 and 11 of [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 - W6: Practical implementation  
   [Huggingface NLP course](https://huggingface.co/learn/nlp-course/)
-- W8: The impact of large language models
+- W8: The impact of large language models  
   [ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)  
   [The Debate Over Understanding in AI's Large Language Models](https://arxiv.org/abs/2210.13966)
 
