@@ -53,14 +53,18 @@ Meeting dates:
 Topic: Large Language Models.
 
 - W2: Foundations (Neural networks and natural language processing)  
-  Chapters 6,7, and 9 of [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+  Chapters 6,7, and 9 of [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)  
+  Presenter: James Dufy
 - W4: Foundations (Transformers)  
-  Chapters 10 and 11 of [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+  Chapters 10 and 11 of [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)  
+  Presenter: Maximilian Kasy
 - W6: Practical implementation  
-  [Huggingface NLP course](https://huggingface.co/learn/nlp-course/)
+  [Huggingface NLP course](https://huggingface.co/learn/nlp-course/)  
+  Presenter: Jeremy Large
 - W8: The impact of large language models  
   [ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)  
-  [The Debate Over Understanding in AI's Large Language Models](https://arxiv.org/abs/2210.13966)
+  [The Debate Over Understanding in AI's Large Language Models](https://arxiv.org/abs/2210.13966)  
+  Presenter: Giulia Caprini  
 
 
 ### Hilary term 2023:
