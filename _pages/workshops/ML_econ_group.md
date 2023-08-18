@@ -57,7 +57,7 @@ Topic: Large Language Models.
   Presenter: James Dufy
 - W4: Foundations (Transformers)  
   Chapters 10 and 11 of [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)  
-  Presenter: Maximilian Kasy
+  Presenter: Maximilian Kasy. [Slides](/home/files/slides/transformer_slides.pdf)  
 - W6: Practical implementation  
   [Huggingface NLP course](https://huggingface.co/learn/nlp-course/)  
   Presenter: Jeremy Large
