@@ -2,6 +2,11 @@
 title: Presentations
 permalink: /presentations/
 ---
+
+**Economics and Machine Learning: What can they teach each other?**  
+September 2023, Berlin  
+[Slides](/home/files/slides/2023_fall_keynotes/ml_econ_slides.pdf)
+
 **Optimal Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
 May 2023, LMU Munich  
 [Slides](/home/files/slides/implementable_preanalysis_slides_kasy.pdf)  
