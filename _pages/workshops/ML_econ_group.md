@@ -42,13 +42,11 @@ Syllabus, slides and readers can be found here:
 
 ## Reading and discussion group
 
-### Michaelmas term 2023:
+### Michaelmas term 2023
 
-Meeting dates: 
-
-- 2:30pm, Tuesdays in even weeks  
-(That is: 17 Oct, 31 Oct, 14 Nov, 28 Nov)  
-*SR B, Manor Road Building*  
+- Time: 2:30pm, Tuesdays in even weeks. (That is: 17 Oct, 31 Oct, 14 Nov, 28 Nov)  
+- Location: *SR A, Manor Road Building* (There will be coffee and pastries!)  
+- For those who cannot make in person, please join via [Zoom](https://zoom.us/j/91261172120?pwd=RUUzdDZIeWd1bTlNWHFOU2doaDJEQT09).  
 
 Topic: Large Language Models.
 
@@ -67,7 +65,7 @@ Topic: Large Language Models.
   Presenter: Giulia Caprini  
 
 
-### Hilary term 2023:
+### Hilary term 2023
 
 Meeting dates: 
 
@@ -88,12 +86,12 @@ We will cover the following chapters:
 
 
 
-### Michaelmas term 2022:
+### Michaelmas term 2022
 
 No meetings (Max on sabbatical at MIT).
 
 
-### Trinity term 2022:
+### Trinity term 2022
 
 Meeting dates:  
 
@@ -115,7 +113,7 @@ Topics:
   - [Reevaluating COVID-19 Mandates using Tensor Completion](/home/files/other/ML_Econ_Oxford/mask_mandates.pdf)  
 
 
-### Hilary term 2022:
+### Hilary term 2022
 
 - Slides for the coordinating meeting: [Slides](/home/files/other/ML_Econ_Oxford/ML_Econ_organizing_slides.pdf)  
 
