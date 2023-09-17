@@ -5,7 +5,8 @@ permalink: /presentations/
 
 **Economics and Machine Learning: What can they teach each other?**  
 September 2023, Berlin  
-[Slides](/home/files/slides/ml_econ_slides.pdf)
+[Slides](/home/files/slides/ml_econ_slides.pdf)  
+[Recording](https://www.youtube.com/live/gQda056qax8?feature=shared&t=616)  
 
 **Optimal Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
 May 2023, LMU Munich  
