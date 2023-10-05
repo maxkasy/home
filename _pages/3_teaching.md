@@ -22,6 +22,13 @@ permalink: /teaching/
 * Syllabus [Syllabus_ML_Oxford_2023.pdf](/home/files/teaching/ML_Oxford_2023/Syllabus_ML_Oxford_2023.pdf)
 * Class page [ML_Oxford_2023](/home/ML_Oxford_2023)
 
+### Topics in Econometrics (master, 2023/24)  
+* Syllabus: [Syllabus_Topics_Econometrics_2021.pdf](/home/files/teaching/Topics_Econometrics_Oxford_2023/Syllabus_Topics_Econometrics_2021.pdf)  
+* Class page [Topics_Econometrics_Oxford_2023](/home/Topics_Econometrics_Oxford_2023)  
+
+### Machine Learning and Economics reading group (ongoing, since 2021)
+* Reading group page [Machine Learning and Economics](/home/ML_Econ_Oxford/) 
+
 ### Labor economics (undergraduate, 2021)
 * Syllabus [Syllabus_Labor_Oxford_2021.pdf](/home/files/teaching/Labor_Oxford_2021/Syllabus_Labor_Oxford_2021.pdf)
 * Class page [Labor_Oxford_2021](/home/Labor_Oxford_2021)
