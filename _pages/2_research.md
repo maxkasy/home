@@ -36,11 +36,6 @@ permalink: /research/
   Pre-analysis plan: [PAP_job_guarantee_Marienthal.pdf](/home/files/other/PAP_job_guarantee_Marienthal.pdf)  
   (Registered as [AEARCTR-0006706](https://www.socialscienceregistry.org/trials/6706))  
 
-**Rationalizing Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
-  (joint with Jann Spiess)  
-  *Working paper, 2022*  
-  Manuscript: [theory_of_PAPs.pdf](/home/files/papers/theory_of_PAPs.pdf)  
-
 **Experimental evaluation of a Basic Income Pilot in Germany**  
   (joint with Sandra Bohmann, Susann Fiedler, Jürgen Schupp, and Frederik Schwerter)  
   *Experiment in progress, 2021-2024*  
