@@ -5,6 +5,14 @@ permalink: /research/
 
 ## Working papers
 
+
+
+**Optimal Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
+  (joint with Jann Spiess)  
+  *Working paper, 2023*  
+  Manuscript: [optimal_preanalysis_plans.pdf](/home/files/papers/optimal_preanalysis_plans.pdf)  
+  Related older draft (of a different model): [theory_of_PAPs.pdf](/home/files/papers/theory_of_PAPs.pdf)  
+
 **Algorithmic bias and racial inequality: A critical review**  
   *Requested for OxREP special issue on Race and Economics, 2023*  
   Manuscript: [Algorithmic_bias_inequality.pdf](/home/files/papers/Algorithmic_bias_inequality.pdf)  
