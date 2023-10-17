@@ -52,7 +52,7 @@ Topic: Large Language Models.
 
 - W2: Foundations (Neural networks and natural language processing)  
   Chapters 6,7, and 9 of [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)  
-  Presenter: James Dufy
+  Presenter: James Dufy. [Slides](/home/files/other/ML_Econ_Oxford/duffy-slides.pdf)  
 - W4: Foundations (Transformers)  
   Chapters 10 and 11 of [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)  
   Presenter: Maximilian Kasy. [Slides](/home/files/slides/transformer_slides.pdf)  
