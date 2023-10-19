@@ -3,14 +3,14 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Optimal Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
+October 2023, Yale (Cowles Foundation)  
+[Slides](/home/files/slides/implementable_preanalysis_slides_kasy.pdf)  
+
 **Economics and Machine Learning: What can they teach each other?**  
 September 2023, Berlin  
 [Slides](/home/files/slides/ml_econ_slides.pdf)  
 [Recording](https://www.youtube.com/live/gQda056qax8?feature=shared&t=616)  
-
-**Optimal Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
-May 2023, LMU Munich  
-[Slides](/home/files/slides/implementable_preanalysis_slides_kasy.pdf)  
 
 **Employing the unemployed of Marienthal: Evaluation of a guaranteed job program**  
   March 2023, IHS  
