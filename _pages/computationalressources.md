@@ -67,7 +67,7 @@ An accessible introduction to adversarial learning and adaptive decision-making 
 (Fitting ML models in R)  
 <https://bradleyboehmke.github.io/HOML/>  
 
-**Bayesian statistics using Stan**  
+https://github.com/jakevdp/WhirlwindTourOfPython#a-whirlwind-tour-of-python**Bayesian statistics using Stan**  
 <https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started>  
 <https://mc-stan.org/docs/2_20/stan-users-guide/index.html>  
 
@@ -80,6 +80,18 @@ An accessible introduction to adversarial learning and adaptive decision-making 
 
 **Training neural nets using Keras and Tensorflow**  
 <https://tensorflow.rstudio.com/keras/>  
+
+
+## Programming in Python
+
+**A Whirlwind Tour of Python**  
+(Quick introduction to the basics of Python)  
+<https://github.com/jakevdp/WhirlwindTourOfPython>  
+
+**Python Data Science Handbook**  
+(In depth discussion of several packages for numerical computing and data science)  
+<https://jakevdp.github.io/PythonDataScienceHandbook/>  
+
 
 
 ## Data visualization
