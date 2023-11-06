@@ -53,6 +53,13 @@ Tentative Syllabus: [Syllabus_ML_Oxford_2024.pdf](/home/files/teaching/ML_Oxford
 [Slides](/home/files/teaching/ML_Oxford_2024/differential_privacy_slides.pdf)  
 
 
+## Homework problems
+
+1. [foundations_ml_ps1.pdf](/home/files/teaching/ML_Oxford_2024/foundations_ml_ps1.pdf)  
+2. [foundations_ml_ps2.pdf](/home/files/teaching/ML_Oxford_2024/foundations_ml_ps2.pdf)  
+3. [foundations_ml_ps3.pdf](/home/files/teaching/ML_Oxford_2024/foundations_ml_ps3.pdf)  
+
+
 ## Class readers
 
 * [Foundations.zip](/home/files/teaching/ML_Oxford_2022/Foundations.zip)  
@@ -60,12 +67,6 @@ Tentative Syllabus: [Syllabus_ML_Oxford_2024.pdf](/home/files/teaching/ML_Oxford
 * [Active.zip](/home/files/teaching/ML_Oxford_2022/Active.zip)  
 * [Ethics.zip](/home/files/teaching/ML_Oxford_2022/Ethics.zip)
 
-
-## Homework problems
-
-1. [foundations_ml_ps1.pdf](/home/files/teaching/ML_Oxford_2024/foundations_ml_ps1.pdf)  
-2. [foundations_ml_ps2.pdf](/home/files/teaching/ML_Oxford_2024/foundations_ml_ps2.pdf)  
-3. [foundations_ml_ps3.pdf](/home/files/teaching/ML_Oxford_2024/foundations_ml_ps3.pdf)  
 
 ## Useful links
 
