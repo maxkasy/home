@@ -18,9 +18,9 @@ permalink: /teaching/
 
 ## Oxford
 
-### Foundations of machine learning  (master, 2023)
-* Syllabus [Syllabus_ML_Oxford_2023.pdf](/home/files/teaching/ML_Oxford_2023/Syllabus_ML_Oxford_2023.pdf)
-* Class page [ML_Oxford_2023](/home/ML_Oxford_2023)
+### Foundations of machine learning  (master, 2024)
+* Syllabus [Syllabus_ML_Oxford_2024.pdf](/home/files/teaching/ML_Oxford_2024/Syllabus_ML_Oxford_2024.pdf)
+* Class page [ML_Oxford_2024](/home/ML_Oxford_2024)
 
 ### Topics in Econometrics (master, 2023/24)  
 * Syllabus: [Syllabus_Topics_Econometrics_2021.pdf](/home/files/teaching/Topics_Econometrics_Oxford_2023/Syllabus_Topics_Econometrics_2021.pdf)  

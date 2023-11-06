@@ -50,6 +50,18 @@ An accessible introduction to adversarial learning and adaptive decision-making 
 <https://global.oup.com/academic/product/the-ethical-algorithm-9780190948207>  
   
 
+## Programming in Python
+
+**A Whirlwind Tour of Python**  
+(Quick introduction to the basics of Python)  
+<https://github.com/jakevdp/WhirlwindTourOfPython>  
+
+**Python Data Science Handbook**  
+(In depth discussion of several packages for numerical computing and data science)  
+<https://jakevdp.github.io/PythonDataScienceHandbook/>  
+
+
+
 ## Programming in R
 **An Introduction to R**  
 (Complete introduction to base R)  
@@ -67,7 +79,7 @@ An accessible introduction to adversarial learning and adaptive decision-making 
 (Fitting ML models in R)  
 <https://bradleyboehmke.github.io/HOML/>  
 
-https://github.com/jakevdp/WhirlwindTourOfPython#a-whirlwind-tour-of-python**Bayesian statistics using Stan**  
+**Bayesian statistics using Stan**  
 <https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started>  
 <https://mc-stan.org/docs/2_20/stan-users-guide/index.html>  
 
@@ -81,16 +93,6 @@ https://github.com/jakevdp/WhirlwindTourOfPython#a-whirlwind-tour-of-python**Bay
 **Training neural nets using Keras and Tensorflow**  
 <https://tensorflow.rstudio.com/keras/>  
 
-
-## Programming in Python
-
-**A Whirlwind Tour of Python**  
-(Quick introduction to the basics of Python)  
-<https://github.com/jakevdp/WhirlwindTourOfPython>  
-
-**Python Data Science Handbook**  
-(In depth discussion of several packages for numerical computing and data science)  
-<https://jakevdp.github.io/PythonDataScienceHandbook/>  
 
 
 
