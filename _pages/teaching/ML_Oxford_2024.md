@@ -24,6 +24,8 @@ Tentative Syllabus: [Syllabus_ML_Oxford_2024.pdf](/home/files/teaching/ML_Oxford
 [Slides](/home/files/teaching/ML_Oxford_2024/random_forests_slides.pdf)
 * Deep neural nets
 [Slides](/home/files/teaching/ML_Oxford_2024/neural_nets_slides.pdf)
+* Transformer models for natural language processing
+[Slides](/home/files/teaching/ML_Oxford_2024/transformer_slides.pdf)  
 * Double/debiased machine learning
 [Slides](/home/files/teaching/ML_Oxford_2024/debiased_ml_slides.pdf)
 
