@@ -58,7 +58,7 @@ Topic: Large Language Models.
   Presenter: Maximilian Kasy. [Slides](/home/files/slides/transformer_slides.pdf)  
 - W6: Practical implementation  
   [Huggingface NLP course](https://huggingface.co/learn/nlp-course/)  
-  Presenter: Jeremy Large. [Slides](/home/files/other/ML_Econ_Oxford/LLM_Jeremy_large_slides.html), [Python notebook](LLM_Jeremy_Large.ipynb)  
+  Presenter: Jeremy Large. [Slides](/home/files/other/ML_Econ_Oxford/LLM_Jeremy_large_slides.html), [Python notebook](/home/files/other/ML_Econ_Oxford/LLM_Jeremy_Large.ipynb)  
 - W8: The impact of large language models  
   [ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)  
   [The Debate Over Understanding in AI's Large Language Models](https://arxiv.org/abs/2210.13966)  
