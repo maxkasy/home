@@ -11,6 +11,8 @@ permalink: /research/
   (joint with Jann Spiess)  
   *Working paper, 2023*  
   Manuscript: [optimal_preanalysis_plans.pdf](/home/files/papers/optimal_preanalysis_plans.pdf)  
+  Interactive App: [The_PAP_App](https://maxkasy.shinyapps.io/The_PAP_App/)  
+  Repository and tutorial explaining the App: [Github repository](https://github.com/maxkasy/The_PAP_App)  
   Related older draft (of a different model): [theory_of_PAPs.pdf](/home/files/papers/theory_of_PAPs.pdf)  
 
 **Algorithmic bias and racial inequality: A critical review**  
