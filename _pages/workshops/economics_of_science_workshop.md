@@ -1,11 +1,11 @@
 ---
-title: "Economic perspectives on Science"
+title: "Economic Analyses of Science"
 permalink: /economics_of_science_workshop/
 layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.15"
-  overlay_image: /files/other/econofscience.jpg
+  overlay_image: /files/other/economics_of_science_workshop/econofscience.jpg
 excerpt: May 20-22, 2024
 ---
 
