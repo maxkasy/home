@@ -64,6 +64,7 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 ## Confirmed speakers
 
 - Marco Ottaviani (micro theory) [Website](https://didattica.unibocconi.eu/mypage/index.php?IdUte=48832&idr=16546&lingua=eng)
+- Alessio Mitra (European Commission) [Website](https://sites.google.com/view/alessiomitra/home)  
 - Carolyn Stein (applied micro) [Website](https://carolynstein.github.io/)
 - Davide Viviano (econometrics) [Website](https://dviviano.github.io/)
 - Fabian Waldinger (applied micro) [Website](https://www.fabianwaldinger.com/)
@@ -81,17 +82,17 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 
 12:00 Marco Ottaviani
 
-
 14:15 Carolyn Stein
 
-
-16:00 Davide Viviano
+16:00 Alessio Mitra
 
 
   
 #### Tuesday, May 21
 
-10:30  Fabian Waldinger
+10:30 Davide Viviano
+
+12:45  Fabian Waldinger
 
 
 
@@ -99,9 +100,7 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 
 #### Tuesday, May 21
 
-12:45 Maximilian Kasy
-
-14:30 Davide Viviano
+14:30 Maximilian Kasy
 
 16:15 Carolyn Stein
 
@@ -113,3 +112,5 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 
 12:45 Marco Ottaviani  
   
+14:30 Davide Viviano
+

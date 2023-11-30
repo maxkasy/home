@@ -24,6 +24,7 @@ Special emphasis will be put on the social impact of ML, and on non-commercial a
 
 ### Upcoming
 
+- May 20-22, 2024: **Workshop** [Economic Analyses of Science](https://maxkasy.github.io/home/economics_of_science_workshop/).  
 - Bi-weekly **reading** and discussion **group** on ML and economics, meeting in even weeks of term.
 - [Youtube channel](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag/videos) of workshops and discussions.
 
