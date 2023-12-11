@@ -49,7 +49,8 @@ Syllabus, slides and readers can be found here:
 - Location: *SR E, Manor Road Building* in week 2, 6 and 8, and *SR C, Manor Road Building* in week 4 (There will be coffee and pastries!).
 - For those who cannot make in person, please join via [Zoom](https://zoom.us/j/91261172120?pwd=RUUzdDZIeWd1bTlNWHFOU2doaDJEQT09).  
 
-Topic: Applications of AI
+Topic: Applications of AI  
+Curation this term thanks to [Friedrich Geiecke](https://sites.google.com/view/friedrichgeiecke/home)!  
 
 Tentative outline:
 
