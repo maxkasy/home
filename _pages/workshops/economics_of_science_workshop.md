@@ -51,7 +51,7 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 ## Logistics (for speakers)
 
 * **Date:** May 20-22, 2024.
-* **Location:** SR C, Department of Economics, University of Oxford.  
+* **Location:** Skills Lab, Department of Economics, University of Oxford.  
   Manor Road Building, Manor Road, Oxford, OX1 3UQ, UK
 * **Accommodation:** TBD.
 * **Contact:** For logistical questions, please contact [carlos.gonzalezperez@economics.ox.ac.uk](mailto:carlos.gonzalezperez@economics.ox.ac.uk).

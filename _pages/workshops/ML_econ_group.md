@@ -43,6 +43,30 @@ Syllabus, slides and readers can be found here:
 
 ## Reading and discussion group
 
+### Hilary term 2024
+
+- Time: 2:30pm, Tuesdays in even weeks. (That is: 23 Jan,6 Feb, 20 Feb, and 5 Mar)  
+- Location: *SR E, Manor Road Building* in week 2, 6 and 8, and *SR C, Manor Road Building* in week 4 (There will be coffee and pastries!).
+- For those who cannot make in person, please join via [Zoom](https://zoom.us/j/91261172120?pwd=RUUzdDZIeWd1bTlNWHFOU2doaDJEQT09).  
+
+Topic: Applications of AI
+
+Tentative outline:
+
+- W2: Reinforcement learning from human feedback / AI feedback  
+  [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155),  
+  [Scaling Reinforcement Learning from Human Feedback with AI Feedback](https://arxiv.org/abs/2309.00267) 
+- W4: Labor market impact of LLMs  
+  [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130)  
+- W6: Diffusion models (image generation)  
+  [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)
+- W8: AI in science  
+  [Learning skillful medium-range global weather forecasting](https://www.science.org/stoken/author-tokens/ST-1550/full)  
+  [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2)
+
+
+
+
 ### Michaelmas term 2023
 
 - Time: 2:30pm, Tuesdays in even weeks. (That is: 17 Oct, 31 Oct, 14 Nov, 28 Nov)  
