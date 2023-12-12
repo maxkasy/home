@@ -56,11 +56,14 @@ Tentative outline:
 
 - W2: Reinforcement learning from human feedback / AI feedback  
   [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155),  
-  [Scaling Reinforcement Learning from Human Feedback with AI Feedback](https://arxiv.org/abs/2309.00267) 
+  [Scaling Reinforcement Learning from Human Feedback with AI Feedback](https://arxiv.org/abs/2309.00267)  
+  Presenter: Friedrich Geiecke.
 - W4: Labor market impact of LLMs  
   [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130)  
 - W6: Diffusion models (image generation)  
-  [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)
+  [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970),  
+  [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://arxiv.org/abs/2209.00796)  
+  Presenter: Maximilian Kasy.
 - W8: AI in science  
   [Learning skillful medium-range global weather forecasting](https://www.science.org/stoken/author-tokens/ST-1550/full)  
   [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2)
