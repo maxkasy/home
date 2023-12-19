@@ -63,7 +63,7 @@ Tentative outline:
 - W6: Diffusion models (image generation)  
   [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970),  
   [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://arxiv.org/abs/2209.00796)  
-  Presenter: Maximilian Kasy.
+  Presenter: Maximilian Kasy. [Slides](/home/files/slides/encoders_diffusion.pdf)  
 - W8: AI in science  
   [Learning skillful medium-range global weather forecasting](https://www.science.org/stoken/author-tokens/ST-1550/full)  
   [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2)
