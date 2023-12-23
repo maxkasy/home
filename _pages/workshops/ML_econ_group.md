@@ -60,6 +60,7 @@ Tentative outline:
   Presenter: Friedrich Geiecke.
 - W4: Labor market impact of LLMs  
   [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130)  
+  Presenter: Jacob Greenspon.  
 - W6: Diffusion models (image generation)  
   [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970),  
   [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://arxiv.org/abs/2209.00796)  
