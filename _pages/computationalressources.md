@@ -60,7 +60,9 @@ An accessible introduction to adversarial learning and adaptive decision-making 
 (In depth discussion of several packages for numerical computing and data science)  
 <https://jakevdp.github.io/PythonDataScienceHandbook/>  
 
-
+**Dash Python User Guide**  
+(A framework for quickly building web-apps in Python)  
+<https://dash.plotly.com/>  
 
 ## Programming in R
 **An Introduction to R**  
