@@ -5,7 +5,7 @@ permalink: /code-and-apps/
 
 
 ### The PAP App (beta version): Optimal incentive compatible pre-analysis plans that control size and maximize power 
-* Interactive: [The_PAP_App](http://pap-env.eba-tjdispek.us-east-1.elasticbeanstalk.com/)  
+* Interactive: [The_PAP_App](https://pap-app.onrender.com/)  
 * Repository: [https://github.com/maxkasy/The_PAP_App](https://github.com/maxkasy/The_PAP_App)  
 * Theoretical background: [implementable_preanalysis_slides_kasy.pdf](/home/files/slides/implementable_preanalysis_slides_kasy.pdf)  
 
