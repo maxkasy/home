@@ -7,9 +7,11 @@ permalink: /pap_app/
 
 
 
-<iframe src="https://maxkasy.shinyapps.io/MetaStudiesApp/" style="border:none;width:1000px;height:800px;">
+<div style="display: flex; justify-content: center;">
+<iframe src="https://pap-app.onrender.com/" style="border:none;width:1000px;height:800px;">
 The app is loading. This should not take more than a minute.
 </iframe>
+</div>
 
 
 
