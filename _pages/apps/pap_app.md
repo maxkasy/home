@@ -8,11 +8,11 @@ permalink: /pap_app/
 
 
 <div style="display: flex; justify-content: center;">
-<iframe src="https://pap-app.onrender.com/" style="border:none;width:1000px;height:800px;">
-The app is loading. This should not take more than a minute.
+<iframe src="https://pap-app.onrender.com/" style="border:none;width:1200px;height:1000px;">
+App is loading.
 </iframe>
 </div>
-
+The app might take some time to load, but usually less than a minute.
 
 
 
@@ -210,6 +210,5 @@ solution_normal = optimal_test(test_args_normal, size = .05)
 
 ```python
 t_norm = solution_normal["t"]
-# t_norm[t_norm["t"]>0].sort_values(by = ["t", "X1", "X2"])
 t_norm.to_csv("optimal_pap_normal.csv", index=False)
 ```
