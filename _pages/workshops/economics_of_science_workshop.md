@@ -80,9 +80,11 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 11:45 Maximilian Kasy  
 *Opening remarks*  
 
-12:00 Marco Ottaviani
+12:00 Marco Ottaviani  
+*Comparison of Monotonic Experiments*
 
-14:15 Carolyn Stein
+14:15 Carolyn Stein  
+*Incentives in Science*  
 
 16:00 Alessio Mitra
 
@@ -90,7 +92,8 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
   
 #### Tuesday, May 21
 
-10:30 Davide Viviano
+10:30 Davide Viviano  
+*Hypothesis Testing in Economic Research*
 
 12:45  Fabian Waldinger
 
@@ -100,9 +103,11 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 
 #### Tuesday, May 21
 
-14:30 Maximilian Kasy
+14:30 Maximilian Kasy  
+*Optimal Pre-Analysis Plans: Statistical Decisions Subject to Implementability*  
 
-16:15 Carolyn Stein
+16:15 Carolyn Stein  
+*Race to the Bottom: Competition and Quality in Science*
 
 
 
@@ -111,6 +116,9 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 10:30 Fabian Waldinger
 
 12:45 Marco Ottaviani  
+*Grantmaking*
   
-14:30 Davide Viviano
+14:30 Davide Viviano  
+*(When) Should you adjust inference for multiple hypothesis testing?*
+
 
