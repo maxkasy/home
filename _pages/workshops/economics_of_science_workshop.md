@@ -86,8 +86,8 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 14:15 Carolyn Stein  
 *Incentives in Science*  
 
-16:00 Alessio Mitra
-
+16:00 Alessio Mitra  
+*R&I Policy Evaluation at the European Commission*  
 
   
 #### Tuesday, May 21
@@ -95,8 +95,8 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 10:30 Davide Viviano  
 *Hypothesis Testing in Economic Research*
 
-12:45  Fabian Waldinger
-
+12:45  Fabian Waldinger  
+*Citations and Their Use in Social Science Research*  
 
 
 ### Frontier talks
@@ -113,7 +113,8 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 
 #### Wednesday, May 22
 
-10:30 Fabian Waldinger
+10:30 Fabian Waldinger  
+*Measuring Science: Performance Metrics and the Allocation of Talent*  
 
 12:45 Marco Ottaviani  
 *Grantmaking*
