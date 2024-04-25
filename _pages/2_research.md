@@ -3,11 +3,13 @@ title: Research
 permalink: /research/
 ---
 
-## Working papers
 
 **How AI works (and for whom)**  
 Book, forthcoming  
 *University of Chicago Press, 2024*  
+
+
+## Working papers
 
 **Optimal Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
   (joint with Jann Spiess)  
