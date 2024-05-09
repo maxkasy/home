@@ -54,7 +54,8 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 * **Location:** Skills Lab, Department of Economics, University of Oxford.  
   Manor Road Building, Manor Road, Oxford, OX1 3UQ, UK
 * **Accommodation:** [Bath Place Hotel](https://www.bathplace.co.uk/).
-* **Conference Dinner:** Nuffield College, May 21 (speakers only).
+* **Pub evening:** [The Chequers](https://maps.app.goo.gl/9RFVjMU5T6e3oRXp8), 6:15pm, May 20 (open to all conference attendants).
+* **Conference Dinner:** Nuffield College, 7pm, May 21 (speakers only).
 * **Contact:** For logistical questions, please contact [carlos.gonzalezperez@economics.ox.ac.uk](mailto:carlos.gonzalezperez@economics.ox.ac.uk).
 * **Papers and Slides**: Please also email these to [carlos.gonzalezperez@economics.ox.ac.uk](mailto:carlos.gonzalezperez@economics.ox.ac.uk), and we will post them on this website before the conference.
 * **Videos** of talks will be recorded and posted online; please let us know if you don't want to be recorded.
