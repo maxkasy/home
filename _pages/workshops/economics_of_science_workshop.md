@@ -66,10 +66,10 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 ## Confirmed speakers
 
 - Marco Ottaviani (micro theory) [Website](https://didattica.unibocconi.eu/mypage/index.php?IdUte=48832&idr=16546&lingua=eng)
-- Alessio Mitra (European Commission) [Website](https://sites.google.com/view/alessiomitra/home)  
+- Alessio Mitra (policy) [Website](https://sites.google.com/view/alessiomitra/home)  
 - Carolyn Stein (applied micro) [Website](https://carolynstein.github.io/)
 - Davide Viviano (econometrics) [Website](https://dviviano.github.io/)
-- Fabian Waldinger (applied micro) [Website](https://www.fabianwaldinger.com/)
+- Fabian Waldinger (economic history) [Website](https://www.fabianwaldinger.com/)
 
 
 
@@ -81,6 +81,8 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 
 11:45 Maximilian Kasy  
 *Opening remarks*  
+[Slides](/home/files/other/economics_of_science_workshop/economics_of_science_opening.pdf)
+
 
 12:00 Marco Ottaviani  
 *Comparison of Monotonic Experiments*
@@ -107,6 +109,7 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 
 14:30 Maximilian Kasy  
 *Optimal Pre-Analysis Plans: Statistical Decisions Subject to Implementability*  
+[Slides](/home/files/slides/implementable_preanalysis_slides_kasy_60.pdf) 
 
 16:15 Carolyn Stein  
 *Race to the Bottom: Competition and Quality in Science*
