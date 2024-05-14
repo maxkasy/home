@@ -35,6 +35,11 @@ permalink: /teaching/
 * Class page [Labor_Oxford_2021](/home/Labor_Oxford_2021)
 
 
+## Abidjan
+
+### Africa Summer School in Econometrics (graduate, 2024)
+* Class page [Adaptive_Abidjan_2024](/home/Adaptive_Abidjan_2024/)
+
 ## MIT
 
 ### 14.385: Nonlinear Econometric Analysis (2nd year PhD, 2022)
