@@ -1,8 +1,10 @@
 ---
-title: "Adaptive field experiments and multi-armed bandits - Africa Summer School in Econometrics 2024, Abidjan"
+title: "Adaptive field experiments and multi-armed bandits"
 permalink: /Adaptive_Abidjan_2024/
 ---
 
+
+## Africa Summer School in Econometrics 2024, Abidjan
 
 
 ASSE 2024 homepage: [Africa Summer School in Econometrics 2024](https://www.africaeconometricsociety.com/summer-schools)  
