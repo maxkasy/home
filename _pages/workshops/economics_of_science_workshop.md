@@ -85,7 +85,7 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 
 
 12:00 Marco Ottaviani  
-*Comparison of Monotonic Experiments*
+*Designing Scientific Grants*
 
 14:15 Carolyn Stein  
 *Incentives in Science*  
@@ -122,7 +122,7 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 *Measuring Science: Performance Metrics and the Allocation of Talent*  
 
 12:45 Marco Ottaviani  
-*Grantmaking*
+*Economics of Clinical Trials*
   
 14:30 Davide Viviano  
 *(When) Should you adjust inference for multiple hypothesis testing?*
