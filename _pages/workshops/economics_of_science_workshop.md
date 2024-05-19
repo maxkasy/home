@@ -68,8 +68,9 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 - Marco Ottaviani (micro theory) [Website](https://didattica.unibocconi.eu/mypage/index.php?IdUte=48832&idr=16546&lingua=eng)
 - Alessio Mitra (policy) [Website](https://sites.google.com/view/alessiomitra/home)  
 - Carolyn Stein (applied micro) [Website](https://carolynstein.github.io/)
+- Séverine Toussaert (behavioral) [Website](https://severinetoussaert.com/)  
 - Davide Viviano (econometrics) [Website](https://dviviano.github.io/)
-- Fabian Waldinger (economic history) [Website](https://www.fabianwaldinger.com/)
+- Fabian Waldinger (economic history) [Website](https://www.fabianwaldinger.com/) [CANCELED]
 
 
 
@@ -99,7 +100,10 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 10:30 Davide Viviano  
 *Hypothesis Testing in Economic Research*
 
-12:45  Fabian Waldinger  
+12:45 Séverine Toussaert  
+*Predicting social science results*  
+
+[Canceled] Fabian Waldinger  
 *Citations and Their Use in Social Science Research*  
 
 
@@ -118,7 +122,7 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 
 #### Wednesday, May 22
 
-10:30 Fabian Waldinger  
+[Canceled] Fabian Waldinger  
 *Measuring Science: Performance Metrics and the Allocation of Talent*  
 
 12:45 Marco Ottaviani  
