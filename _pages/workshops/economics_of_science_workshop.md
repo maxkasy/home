@@ -91,6 +91,9 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 
 14:15 Carolyn Stein  
 *Incentives in Science*  
+[Slides](/home/files/other/economics_of_science_workshop/incentives_science.pdf)  
+
+
 
 16:00 Alessio Mitra  
 *R&I Policy Evaluation at the European Commission*  
