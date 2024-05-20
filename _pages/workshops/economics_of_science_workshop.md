@@ -86,7 +86,8 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 
 
 12:00 Marco Ottaviani  
-*Designing Scientific Grants*
+*Designing Scientific Grants*  
+[Slides](/home/files/other/economics_of_science_workshop/Oxford_Designing_Scientific_Grants.pdf)
 
 14:15 Carolyn Stein  
 *Incentives in Science*  
