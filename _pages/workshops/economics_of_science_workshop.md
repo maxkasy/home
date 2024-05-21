@@ -102,7 +102,8 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 #### Tuesday, May 21
 
 10:30 Davide Viviano  
-*Hypothesis Testing in Economic Research*
+*Hypothesis Testing in Economic Research*  
+[Slides](/home/files/other/economics_of_science_workshop/hypothesis_testing.pdf)  
 
 12:45 Séverine Toussaert  
 *Predicting social science results*  
