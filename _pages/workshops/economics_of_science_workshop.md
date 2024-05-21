@@ -107,6 +107,7 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 
 12:45 Séverine Toussaert  
 *Predicting social science results*  
+[Slides](/home/files/other/economics_of_science_workshop/Forecasting_slides__Sev_.pdf)    
 
 [Canceled] Fabian Waldinger  
 *Citations and Their Use in Social Science Research*  
