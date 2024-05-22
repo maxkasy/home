@@ -131,7 +131,7 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 
 12:45 Marco Ottaviani  
 *Economics of Clinical Trials*  
-  
+[Slides](/home/files/other/economics_of_science_workshop/Oxford_Clinical_Trials.pdf)  
 
 14:30 Davide Viviano  
 *(When) Should you adjust inference for multiple hypothesis testing?*  
