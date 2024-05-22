@@ -93,11 +93,9 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 *Incentives in Science*  
 [Slides](/home/files/other/economics_of_science_workshop/incentives_science.pdf)  
 
-
-
 16:00 Alessio Mitra  
 *R&I Policy Evaluation at the European Commission*  
-
+[Slides](/home/files/other/economics_of_science_workshop/Alessio Mitra - Oxford Workshop 2024.pdf)  
   
 #### Tuesday, May 21
 
@@ -132,9 +130,10 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 *Measuring Science: Performance Metrics and the Allocation of Talent*  
 
 12:45 Marco Ottaviani  
-*Economics of Clinical Trials*
+*Economics of Clinical Trials*  
   
-14:30 Davide Viviano  
-*(When) Should you adjust inference for multiple hypothesis testing?*
 
+14:30 Davide Viviano  
+*(When) Should you adjust inference for multiple hypothesis testing?*  
+[Slides](/home/files/other/economics_of_science_workshop/MHT_presentation-14.pdf)  
 
