@@ -82,30 +82,35 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 
 11:45 Maximilian Kasy  
 *Opening remarks*  
-[Slides](/home/files/other/economics_of_science_workshop/economics_of_science_opening.pdf)
+[Slides](/home/files/other/economics_of_science_workshop/economics_of_science_opening.pdf)  
 
 
 12:00 Marco Ottaviani  
 *Designing Scientific Grants*  
-[Slides](/home/files/other/economics_of_science_workshop/Oxford_Designing_Scientific_Grants.pdf)
+[Slides](/home/files/other/economics_of_science_workshop/Oxford_Designing_Scientific_Grants.pdf), 
+[Recording](https://www.youtube.com/watch?v=k1ZtYTVQ0XE)  
 
 14:15 Carolyn Stein  
 *Incentives in Science*  
-[Slides](/home/files/other/economics_of_science_workshop/incentives_science.pdf)  
+[Slides](/home/files/other/economics_of_science_workshop/incentives_science.pdf), 
+[Recording](https://www.youtube.com/watch?v=9QcJ-jTfuCw)    
 
 16:00 Alessio Mitra  
 *R&I Policy Evaluation at the European Commission*  
-[Slides](/home/files/other/economics_of_science_workshop/Alessio Mitra - Oxford Workshop 2024.pdf)  
+[Slides](/home/files/other/economics_of_science_workshop/Alessio Mitra - Oxford Workshop 2024.pdf), 
+[Recording](https://www.youtube.com/watch?v=hSJuhFmtUc8)    
   
 #### Tuesday, May 21
 
 10:30 Davide Viviano  
 *Hypothesis Testing in Economic Research*  
-[Slides](/home/files/other/economics_of_science_workshop/hypothesis_testing.pdf)  
+[Slides](/home/files/other/economics_of_science_workshop/hypothesis_testing.pdf), 
+[Recording](https://www.youtube.com/watch?v=ODS_PDRP1bw)    
 
 12:45 Séverine Toussaert  
 *Predicting social science results*  
-[Slides](/home/files/other/economics_of_science_workshop/Forecasting_slides__Sev_.pdf)    
+[Slides](/home/files/other/economics_of_science_workshop/Forecasting_slides__Sev_.pdf), 
+[Recording](https://www.youtube.com/watch?v=sDegIdrnXtM&t=4s)      
 
 [Canceled] Fabian Waldinger  
 *Citations and Their Use in Social Science Research*  
@@ -117,10 +122,12 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 
 14:30 Maximilian Kasy  
 *Optimal Pre-Analysis Plans: Statistical Decisions Subject to Implementability*  
-[Slides](/home/files/slides/implementable_preanalysis_slides_kasy_60.pdf) 
+[Slides](/home/files/slides/implementable_preanalysis_slides_kasy_60.pdf), 
+[Recording](https://www.youtube.com/watch?v=HD9NRNU7RZE)   
 
 16:15 Carolyn Stein  
-*Race to the Bottom: Competition and Quality in Science*
+*Race to the Bottom: Competition and Quality in Science*  
+[Recording](https://www.youtube.com/watch?v=gWpCZz4s-EA)    
 
 
 
@@ -131,9 +138,11 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 
 12:45 Marco Ottaviani  
 *Economics of Clinical Trials*  
-[Slides](/home/files/other/economics_of_science_workshop/Oxford_Clinical_Trials.pdf)  
+[Slides](/home/files/other/economics_of_science_workshop/Oxford_Clinical_Trials.pdf), 
+[Recording](https://www.youtube.com/watch?v=9GLUQRkeRG4)    
 
 14:30 Davide Viviano  
 *(When) Should you adjust inference for multiple hypothesis testing?*  
-[Slides](/home/files/other/economics_of_science_workshop/MHT_presentation-14.pdf)  
+[Slides](/home/files/other/economics_of_science_workshop/MHT_presentation-14.pdf), 
+[Recording](https://www.youtube.com/watch?v=kzg_rUUTKCU)    
 
