@@ -3,7 +3,7 @@
 <html lang="en">
 <head><meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>3_bandit</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<title>3_bandit copy</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <style type="text/css">
     pre { line-height: 125%; }
 td.linenos .normal { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }
@@ -7509,7 +7509,7 @@ a.anchor-link {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p>Lets go over some preliminaries, to familiarize ourselves with the required commands.</p>
+<p>Let's go over some preliminaries, to familiarize ourselves with the required commands.</p>
 <p>Assume we have three treatment arms 0, 1, 2, and two possible outcomes, 0, 1.</p>
 <p>To get started, define two example vectors of treatment values and outcome values.</p>
 <p>We just use these for illustration, and to develop our implementation.</p>
@@ -7769,7 +7769,7 @@ a.anchor-link {
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <p>Assume a uniform prior for each treatment arm.</p>
-<p>Thenthe true mean has a posterior distribution which is a Beta distribution with parameters given by:
+<p>Then the true mean has a posterior distribution which is a Beta distribution with parameters given by:
 <code>1 + successes</code>, <code>1 + failures</code>.</p>
 <p>For example, for treatment 2 in the above example we have a Beta(2,1) posterior.</p>
 <p>We can sample one draw from the posterior for each arm as follows, since numpy functions are vectorized.</p>
@@ -7883,7 +7883,8 @@ a.anchor-link {
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <p>Now let's test this function.</p>
-<p>Every time we call it, it should return a treatment value, which we should assign to the next unit, according to Thompson sampling.</p>
+<p>Every time we call it, it returns a treatment value.</p>
+<p>This is the treatment that we should assign to the next unit, according to Thompson sampling.</p>
 </div>
 </div>
 </div>
@@ -7957,9 +7958,9 @@ a.anchor-link {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h1 id="Code-for-simulations">Code for simulations<a class="anchor-link" href="#Code-for-simulations">¶</a></h1><p>The function we just built is all unit to run an experiment using Thompson sampling.</p>
-<p>But to simulate how well Thompson sampling performs, we need to do more work.
-Let's first build a function which simulates outcomes according to the parameter vector $\theta$, and assigns treatment according to Thompson sampling.</p>
+<h1 id="Code-for-simulations">Code for simulations<a class="anchor-link" href="#Code-for-simulations">¶</a></h1><p>The function that we just built is all you need to run an experiment using Thompson sampling.</p>
+<p>But to simulate how well Thompson sampling performs, we need to do more work.</p>
+<p>Let us first build a function which simulates outcomes according to the parameter vector $\theta$, and assigns treatment according to Thompson sampling.</p>
 <p>We can simulate outcomes using <code>np.random.binomial</code>.
 The following does so for an example of $\theta$.</p>
 </div>
@@ -8040,7 +8041,7 @@ The following does so for an example of $\theta$.</p>
 <p>To simulate a trajectory of treatments and outcomes, we need to loop over time periods <code>t</code> going from 1 to <code>T</code>.</p>
 <p>In each time period the <code>thompson</code> function uses the trajectory generated thus far, to give a new treatment assignment.</p>
 <p>The outcome is then simulated using this assigned treatment.</p>
-<p>The function returns trajectories of treatment, outcome, and expected outcome for each time period, stored in a matrix.</p>
+<p>The following function returns trajectories of treatment, outcome, and expected outcome for each time period, stored in a matrix.</p>
 </div>
 </div>
 </div>
@@ -8121,8 +8122,8 @@ The following does so for an example of $\theta$.</p>
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <p>Now we want to set up simulations where we evaluate the performance of Thompson sampling.</p>
 <p>To do so, we want to run the simulation many times, from scratch, and to store the results.</p>
-<p>Any time you have to do the same computation many times, parallel processing is a good idea, to make things run faster.
-Parallel processing is easy in Python with the <code>multiprocess</code> package.</p>
+<p>Any time you have to do the same computation many times, parallel processing is a good idea, to make things run faster.</p>
+<p>Parallel processing is easy in Python with the <code>multiprocess</code> package.</p>
 </div>
 </div>
 </div>
