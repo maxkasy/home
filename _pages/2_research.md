@@ -25,7 +25,7 @@ Book, forthcoming
 
 **Adaptive maximization of social welfare**  
   (joint with Nicolò Cesa-Bianchi and Roberto Colomboni)  
-  *Working paper, 2023*  
+  *Revise and resubmit, Econometrica, 2024*  
   Manuscript: [adaptive_social_welfare.pdf](/home/files/papers/adaptive_social_welfare.pdf)  
 
 **The political economy of AI: Towards democratic control of the means of prediction**  
