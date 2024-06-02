@@ -11,6 +11,19 @@ Book, forthcoming
 
 ## Working papers
 
+**Adaptive maximization of social welfare**  
+  (joint with Nicolò Cesa-Bianchi and Roberto Colomboni)  
+  *Revise and resubmit, Econometrica, 2024*  
+  Manuscript: [adaptive_social_welfare.pdf](/home/files/papers/adaptive_social_welfare.pdf)  
+
+**Algorithmic bias and racial inequality: A critical review**  
+  *Requested for OxREP special issue on Race and Economics, 2023*  
+  Manuscript: [Algorithmic_bias_inequality.pdf](/home/files/papers/Algorithmic_bias_inequality.pdf)  
+
+**The political economy of AI: Towards democratic control of the means of prediction**  
+  *Requested for the Handbook on Algorithmic Governance and the Law, 2022*  
+  Manuscript: [handbook_politicalecon_ai.pdf](/home/files/papers/handbook_politicalecon_ai.pdf)  
+
 **Optimal Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
   (joint with Jann Spiess)  
   *Working paper, 2023*  
@@ -18,19 +31,6 @@ Book, forthcoming
   Interactive App: [The_PAP_App](https://maxkasy.github.io/home/pap_app/)  
   Repository and tutorial explaining the App: [Github repository](https://github.com/maxkasy/The_PAP_App)  
   Related older draft (of a different model): [theory_of_PAPs.pdf](/home/files/papers/theory_of_PAPs.pdf)  
-
-**Algorithmic bias and racial inequality: A critical review**  
-  *Requested for OxREP special issue on Race and Economics, 2023*  
-  Manuscript: [Algorithmic_bias_inequality.pdf](/home/files/papers/Algorithmic_bias_inequality.pdf)  
-
-**Adaptive maximization of social welfare**  
-  (joint with Nicolò Cesa-Bianchi and Roberto Colomboni)  
-  *Revise and resubmit, Econometrica, 2024*  
-  Manuscript: [adaptive_social_welfare.pdf](/home/files/papers/adaptive_social_welfare.pdf)  
-
-**The political economy of AI: Towards democratic control of the means of prediction**  
-  *Requested for the Handbook on Algorithmic Governance and the Law, 2022*  
-  Manuscript: [handbook_politicalecon_ai.pdf](/home/files/papers/handbook_politicalecon_ai.pdf)  
 
 **Employing the unemployed of Marienthal: Evaluation of a guaranteed job program**  
   (joint with Lukas Lehner)  
