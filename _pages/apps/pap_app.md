@@ -6,13 +6,14 @@ permalink: /pap_app/
  
 
 
+For a tutorial on [How to use the PAP App](#how-to-use-the-pap-app), see below.  
+The app might take some time to launch, but usually less than a minute.
 
 <div style="display: flex; justify-content: center;">
 <iframe src="https://pap-app.onrender.com/" style="border:none;width:1200px;height:1000px;">
 App is loading.
 </iframe>
 </div>
-The app might take some time to load, but usually less than a minute.
 
 
 
