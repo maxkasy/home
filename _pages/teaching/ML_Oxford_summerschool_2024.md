@@ -11,10 +11,10 @@ Summer school homepage: [september-summer-school](https://sites.google.com/view/
 
 ### Lecture slides
 
-1. Probably approximately correct learning theory
+1. Supervised learning using Python
+[Jupyter Notebook](/home/files/teaching/ML_Oxford_2024/supervised_learning_python.ipynb), [Html version](/home/files/teaching/ML_Oxford_2024/supervised_learning_python.ipynb)  
+Probably approximately correct learning theory
 [Slides](/home/files/teaching/ML_Oxford_2024/pac_learning_slides.pdf)  
-Supervised learning using Python
-[Jupyter Notebook](/home/files/teaching/ML_Oxford_2024/supervised_learning_python.ipynb)  
 1. Shrinkage in the normal means model
 [Slides](/home/files/teaching/ML_Oxford_2024/normal_shrinkage_slides.pdf)
 1. Deep neural nets
