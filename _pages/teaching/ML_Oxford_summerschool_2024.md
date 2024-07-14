@@ -12,7 +12,7 @@ Summer school homepage: [september-summer-school](https://sites.google.com/view/
 ### Lecture slides
 
 1. Supervised learning using Python
-[Jupyter Notebook](/home/files/teaching/ML_Oxford_2024/supervised_learning_python.ipynb), [Html version](/home/files/teaching/ML_Oxford_2024/supervised_learning_python.ipynb)  
+[Jupyter Notebook](/home/files/teaching/ML_Oxford_summerschool_2024/supervised_learning_python.ipynb), [Html version](/home/files/teaching/ML_Oxford_summerschool_2024/supervised_learning_python.ipynb)  
 Probably approximately correct learning theory
 [Slides](/home/files/teaching/ML_Oxford_2024/pac_learning_slides.pdf)  
 1. Shrinkage in the normal means model
