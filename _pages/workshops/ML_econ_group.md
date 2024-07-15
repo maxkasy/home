@@ -32,7 +32,8 @@ Special emphasis will be put on the social impact of ML, and on non-commercial a
 ### Previous
 
 
-- In May 2023, we organized a **workshop** on [Social foundations for statistics and machine learning](https://maxkasy.github.io/home/social_foundations_workshop/), featuring tutorials and frontier talks, as well as a panel discussion. All talks are available on [Youtube](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag/videos).
+- In May 2024, we organized a **workshop** on [Economic Analyses of Science ](https://maxkasy.github.io/home/economics_of_science_workshop/), featuring tutorials and frontier talks. All talks are available on [Youtube](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag/videos).
+- In May 2023, we organized a **workshop** on [Social foundations for statistics and machine learning](https://maxkasy.github.io/home/social_foundations_workshop/), similarly featuring tutorials and frontier talks. All talks are available on [Youtube](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag/videos).
 - In June 2022, we organized a small **cross-departmental workshop** on ML and economics, with presentations of ongoing work and discussants, as well as a keynote by Michael Jordan from UC Berkeley. 
 Information on this workshop can be found at [Machine Learning and Economics Jamboree 2022](https://maxkasy.github.io/home/ML_Econ_Oxford/Jamboree_2022/).
 - I started teaching a new **MPhil course** on the foundations of ML for economists in HT 2022.  
@@ -43,11 +44,24 @@ Syllabus, slides and readers can be found here:
 
 ## Reading and discussion group
 
+### Michaelmas term 2024
+
+- Time: 2:30pm, Tuesdays in even weeks. (That is: 22 Oct, 5 Nov, 19 Nov, and 3 Dec)  
+- Location: *Manor Road Building* (There will be coffee and pastries!).
+- For those who cannot make in person, please join via [Zoom](https://zoom.us/j/91261172120?pwd=RUUzdDZIeWd1bTlNWHFOU2doaDJEQT09).  
+
+Topic: Explainability and explanations
+
+- W2: Model interpretability in machine learning  
+  [The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490)
+- W4: Explanations of automated decisions and the law  
+  [Counterfactual Explanations without Opening the Black Box](https://arxiv.org/abs/1711.00399)
+- W6: Explanation and the metaphysics of causality  
+  [Two concepts of causation](/home/files/other/ML_Econ_Oxford/Ned_Hall_2_concepts_of_causation.pdf) (Chapter 9 in [Causation and counterfactuals](https://direct.mit.edu/books/edited-volume/2458/Causation-and-Counterfactuals))
+
+
 ### Hilary term 2024
 
-- Time: 2:30pm, Tuesdays in even weeks. (That is: 23 Jan,6 Feb, 20 Feb, and 5 Mar)  
-- Location: *SR E, Manor Road Building* in week 2, 6 and 8, and *SR C, Manor Road Building* in week 4 (There will be coffee and pastries!).
-- For those who cannot make in person, please join via [Zoom](https://zoom.us/j/91261172120?pwd=RUUzdDZIeWd1bTlNWHFOU2doaDJEQT09).  
 
 Topic: Applications of AI  
 Curation this term thanks to [Friedrich Geiecke](https://sites.google.com/view/friedrichgeiecke/home)!  
@@ -75,10 +89,6 @@ Tentative outline:
 
 ### Michaelmas term 2023
 
-- Time: 2:30pm, Tuesdays in even weeks. (That is: 17 Oct, 31 Oct, 14 Nov, 28 Nov)  
-- Location: *SR A, Manor Road Building* (There will be coffee and pastries!)  
-- For those who cannot make in person, please join via [Zoom](https://zoom.us/j/91261172120?pwd=RUUzdDZIeWd1bTlNWHFOU2doaDJEQT09).  
-
 Topic: Large Language Models.
 
 - W2: Foundations (Neural networks and natural language processing)  
@@ -98,11 +108,6 @@ Topic: Large Language Models.
 
 ### Hilary term 2023
 
-Meeting dates: 
-
-- 2:30pm, Tuesdays in even weeks  
-(That is: 24 Jan, 7 Feb, 21 Feb, 7 Mar)  
-*Manor Road Building, Seminar Room D*  
 
 Topics:
 
@@ -123,12 +128,6 @@ No meetings (Max on sabbatical at MIT).
 
 
 ### Trinity term 2022
-
-Meeting dates:  
-
-- 2:30pm, Tuesdays in even weeks  
-(That is: 3 May, 17 May, 31 May, 14 June)  
-*Manor Road Building, Seminar Room C*  
 
 Topics:
 

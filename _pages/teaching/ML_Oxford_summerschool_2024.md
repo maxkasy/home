@@ -35,7 +35,7 @@ Differential privacy
 
 ### Problems for the practice sessions
 
-1. Coding exercise - supervised learning: [coding_exercise_shrinkage.pdf](/home/files/teaching/ML_Oxford_summerschool_2024/coding_exercise_supervised.pdf)  
+1. Coding exercise - supervised learning: [coding_exercise_supervised.pdf](/home/files/teaching/ML_Oxford_summerschool_2024/coding_exercise_supervised.pdf)  
 1. Coding exercise - shrinkage estimation: [coding_exercise_shrinkage.pdf](/home/files/teaching/ML_Oxford_summerschool_2024/coding_exercise_shrinkage.pdf)  
 1. Coding exercise - multiarmed bandits: [coding_exercise_bandits.pdf](/home/files/teaching/ML_Oxford_summerschool_2024/coding_exercise_bandits.pdf)  
 
