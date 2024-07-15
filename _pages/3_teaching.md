@@ -19,44 +19,41 @@ permalink: /teaching/
 
 ## Oxford
 
-### Foundations of machine learning  (master, 2024)
-* Syllabus [Syllabus_ML_Oxford_2024.pdf](/home/files/teaching/ML_Oxford_2024/Syllabus_ML_Oxford_2024.pdf)
-* Class page [ML_Oxford_2024](/home/ML_Oxford_2024)
+### Foundations of machine learning (master, 2024)
+Class page: [ML_Oxford_2024](/home/ML_Oxford_2024)
 
-### Topics in Econometrics (master, 2023/24)  
-* Syllabus: [Syllabus_Topics_Econometrics_2021.pdf](/home/files/teaching/Topics_Econometrics_Oxford_2023/Syllabus_Topics_Econometrics_2021.pdf)  
-* Class page [Topics_Econometrics_Oxford_2023](/home/Topics_Econometrics_Oxford_2023)  
+### Machine learning and economics reading group (open, since 2021)
+Reading group page: [Machine Learning and Economics](/home/ML_Econ_Oxford/) 
 
-### Machine Learning and Economics reading group (ongoing, since 2021)
-* Reading group page [Machine Learning and Economics](/home/ML_Econ_Oxford/) 
+### Topics in econometrics reading group (master, since 2023)  
+Class page: [Topics_Econometrics_Oxford_2024](/home/Topics_Econometrics_Oxford_2024)  
+Class page 2023/24: [Topics_Econometrics_Oxford_2023](/home/Topics_Econometrics_Oxford_2023)  
+
+### Foundations of machine learning summer school (graduate, 2024)
+Class page: [ML_Oxford_summerschool_2024](/home/ML_Oxford_summerschool_2024)  
 
 ### Labor economics (undergraduate, 2021)
-* Syllabus [Syllabus_Labor_Oxford_2021.pdf](/home/files/teaching/Labor_Oxford_2021/Syllabus_Labor_Oxford_2021.pdf)
-* Class page [Labor_Oxford_2021](/home/Labor_Oxford_2021)
+Class page: [Labor_Oxford_2021](/home/Labor_Oxford_2021)
 
 
 ## Abidjan
 
 ### Africa Summer School in Econometrics (graduate, 2024)
-* Class page [Adaptive_Abidjan_2024](/home/Adaptive_Abidjan_2024/)
+Class page: [Adaptive_Abidjan_2024](/home/Adaptive_Abidjan_2024/)
 
 ## MIT
 
 ### 14.385: Nonlinear Econometric Analysis (2nd year PhD, 2022)
-
-* Syllabus [Syllabus_Nonlineareconometrics_MIT_2022.pdf](/home/files/teaching/Nonlineareconometrics_MIT_2022/Syllabus_Nonlineareconometrics_MIT_2022.pdf)  
-* Class page [Nonlineareconometrics_MIT_2022](/home/Nonlineareconometrics_MIT_2022)  
+Class page: [Nonlineareconometrics_MIT_2022](/home/Nonlineareconometrics_MIT_2022)  
 
 
 ## Harvard
 
 ### Advances in causality and foundations of machine learning  (2nd year PhD, 2019)
-* Syllabus [2148SyllabusKasy_Fall2019.pdf](/home/files/teaching/TopicsEconometrics2019/2148SyllabusKasy_Fall2019.pdf)
-* Class page [TopicsInEconometrics2019](/home/TopicsInEconometrics2019)
+Class page: [TopicsInEconometrics2019](/home/TopicsInEconometrics2019)
 
 ### Empirical research on economic inequality (advanced undergraduate, 2019):
-* Syllabus [980wSyllabusKasy_Spring2019.pdf](/home/files/teaching/Inequality2019/980wSyllabusKasy_Spring2019.pdf) 
-* Class page [Inequality2019](/home/Inequality2019)
+Class page: [Inequality2019](/home/Inequality2019)
 
 ### Microeconometric methods (1st year PhD, 2018)
 * Syllabus: [2140part1syllabusspring2018.pdf](/home/files/teaching/MicroeconometricMethods/2140part1syllabusspring2018.pdf) 
