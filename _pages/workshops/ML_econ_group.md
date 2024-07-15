@@ -50,7 +50,7 @@ Syllabus, slides and readers can be found here:
 - Location: *Manor Road Building* (There will be coffee and pastries!).
 - For those who cannot make in person, please join via [Zoom](https://zoom.us/j/91261172120?pwd=RUUzdDZIeWd1bTlNWHFOU2doaDJEQT09).  
 
-Topic: Explainability and explanations
+Topic: **Explainability and explanations**
 
 - W2: Model interpretability in machine learning  
   [The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490)
@@ -58,12 +58,15 @@ Topic: Explainability and explanations
   [Counterfactual Explanations without Opening the Black Box](https://arxiv.org/abs/1711.00399)
 - W6: Explanation and the metaphysics of causality  
   [Two concepts of causation](/home/files/other/ML_Econ_Oxford/Ned_Hall_2_concepts_of_causation.pdf) (Chapter 9 in [Causation and counterfactuals](https://direct.mit.edu/books/edited-volume/2458/Causation-and-Counterfactuals))
+- W8: Adversarial perturbations in computer vision  
+  [Universal adversarial perturbations](https://arxiv.org/abs/1610.08401)
+
 
 
 ### Hilary term 2024
 
 
-Topic: Applications of AI  
+Topic: **Applications of AI**  
 Curation this term thanks to [Friedrich Geiecke](https://sites.google.com/view/friedrichgeiecke/home)!  
 
 Tentative outline:
@@ -89,7 +92,7 @@ Tentative outline:
 
 ### Michaelmas term 2023
 
-Topic: Large Language Models.
+Topic: **Large Language Models**.
 
 - W2: Foundations (Neural networks and natural language processing)  
   Chapters 6,7, and 9 of [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)  
@@ -107,9 +110,6 @@ Topic: Large Language Models.
 
 
 ### Hilary term 2023
-
-
-Topics:
 
 This term we will be discussing several chapters of the book [Prediction, learning, and games](https://cesa-bianchi.di.unimi.it/predbook/) by Nicolò Cesa-Bianchi and Gábor Lugosi. This book builds on ideas in game theory and learning theory, and provides a comprehensive framework for online decision-making and adversarial learning.
 
@@ -129,7 +129,6 @@ No meetings (Max on sabbatical at MIT).
 
 ### Trinity term 2022
 
-Topics:
 
 - W2
   - [Algorithmic Fairness](/home/files/other/ML_Econ_Oxford/Pessach_Shmueli.pdf)
@@ -146,8 +145,6 @@ Topics:
 ### Hilary term 2022
 
 - Slides for the coordinating meeting: [Slides](/home/files/other/ML_Econ_Oxford/ML_Econ_organizing_slides.pdf)  
-
-Topics:  
 
 - W2:
   - Introduction of [Understanding machine learning: From theory to algorithms](
