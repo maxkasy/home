@@ -24,7 +24,6 @@ Special emphasis will be put on the social impact of ML, and on non-commercial a
 
 ### Upcoming
 
-- May 20-22, 2024: **Workshop** [Economic Analyses of Science](https://maxkasy.github.io/home/economics_of_science_workshop/).  
 - Bi-weekly **reading** and discussion **group** on ML and economics, meeting in even weeks of term.
 - [Youtube channel](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag/videos) of workshops and discussions.
 
@@ -32,15 +31,15 @@ Special emphasis will be put on the social impact of ML, and on non-commercial a
 ### Previous
 
 
-- In May 2024, we organized a **workshop** on [Economic Analyses of Science ](https://maxkasy.github.io/home/economics_of_science_workshop/), featuring tutorials and frontier talks. All talks are available on [Youtube](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag/videos).
-- In May 2023, we organized a **workshop** on [Social foundations for statistics and machine learning](https://maxkasy.github.io/home/social_foundations_workshop/), similarly featuring tutorials and frontier talks. All talks are available on [Youtube](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag/videos).
-- In June 2022, we organized a small **cross-departmental workshop** on ML and economics, with presentations of ongoing work and discussants, as well as a keynote by Michael Jordan from UC Berkeley. 
+- May 2024: **Workshop** on [Economic Analyses of Science ](https://maxkasy.github.io/home/economics_of_science_workshop/), featuring tutorials and frontier talks. All talks are available on [Youtube](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag/videos).
+- May 2023: **Workshop** on [Social foundations for statistics and machine learning](https://maxkasy.github.io/home/social_foundations_workshop/), similarly featuring tutorials and frontier talks. All talks are available on [Youtube](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag/videos).
+- June 2022: **Cross-departmental workshop** on ML and economics, with presentations of ongoing work and discussants, as well as a keynote by Michael Jordan from UC Berkeley. 
 Information on this workshop can be found at [Machine Learning and Economics Jamboree 2022](https://maxkasy.github.io/home/ML_Econ_Oxford/Jamboree_2022/).
-- I started teaching a new **MPhil course** on the foundations of ML for economists in HT 2022.  
+- April 2021: **Conference** on [Machine learning and economic inequality](https://maxkasy.github.io/home/ML_inequality_conference/). Recordings of the talks are available on [Youtube](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag/videos).
+- I teach an **MPhil course** on the foundations of ML for economists.  
 All faculty, post-docs, and doctoral students are invited to audit this course and participate in discussions.  
 Syllabus, slides and readers can be found here:
-[Foundations of Machine Learning](https://maxkasy.github.io/home/ML_Oxford_2023/)
-- In April 2021, we organized a **conference** on [Machine learning and economic inequality](https://maxkasy.github.io/home/ML_inequality_conference/). Recordings of the talks are available on [Youtube](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag/videos).
+[Foundations of Machine Learning](https://maxkasy.github.io/home/ML_Oxford_2024/)
 
 ## Reading and discussion group
 

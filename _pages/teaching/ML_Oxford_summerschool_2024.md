@@ -53,7 +53,7 @@ Differential privacy
 * [The Ethical Algorithm](https://global.oup.com/academic/product/the-ethical-algorithm-9780190948207)  
   
 
-## Programming in Python
+### Programming in Python
 * [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
