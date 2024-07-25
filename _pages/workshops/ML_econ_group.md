@@ -46,7 +46,7 @@ Syllabus, slides and readers can be found here:
 ### Michaelmas term 2024
 
 - Time: 2:30pm, Tuesdays in even weeks. (That is: 22 Oct, 5 Nov, 19 Nov, and 3 Dec)  
-- Location: *SR B, Manor Road Building* (There will be coffee and pastries!).
+- Location: *SR A, Manor Road Building* (There will be coffee and pastries!).
 - For those who cannot make in person, please join via [Zoom](https://zoom.us/j/91261172120?pwd=RUUzdDZIeWd1bTlNWHFOU2doaDJEQT09).  
 
 Topic: **Explainability and explanations**
