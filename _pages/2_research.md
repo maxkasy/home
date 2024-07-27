@@ -4,9 +4,9 @@ permalink: /research/
 ---
 
 
-**How AI works (and for whom)**  
-Book, forthcoming  
-*University of Chicago Press, 2024*  
+**How AI works, and for whom**  
+  Book, forthcoming  
+  *University of Chicago Press, 2024*  
 
 
 ## Working papers
@@ -16,21 +16,12 @@ Book, forthcoming
   *Revise and resubmit, Econometrica, 2024*  
   Manuscript: [adaptive_social_welfare.pdf](/home/files/papers/adaptive_social_welfare.pdf)  
 
-**Algorithmic bias and racial inequality: A critical review**  
-  *Requested for OxREP special issue on Race and Economics, 2023*  
-  Manuscript: [Algorithmic_bias_inequality.pdf](/home/files/papers/Algorithmic_bias_inequality.pdf)  
-
-**The political economy of AI: Towards democratic control of the means of prediction**  
-  *Requested for the Handbook on Algorithmic Governance and the Law, 2022*  
-  Manuscript: [handbook_politicalecon_ai.pdf](/home/files/papers/handbook_politicalecon_ai.pdf)  
-
 **Optimal Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
   (joint with Jann Spiess)  
-  *Working paper, 2023*  
+  *Working paper, 2024*  
   Manuscript: [optimal_preanalysis_plans.pdf](/home/files/papers/optimal_preanalysis_plans.pdf)  
   Interactive App: [The_PAP_App](https://maxkasy.github.io/home/pap_app/)  
   Repository and tutorial explaining the App: [Github repository](https://github.com/maxkasy/The_PAP_App)  
-  Related older draft (of a different model): [theory_of_PAPs.pdf](/home/files/papers/theory_of_PAPs.pdf)  
 
 **Employing the unemployed of Marienthal: Evaluation of a guaranteed job program**  
   (joint with Lukas Lehner)  
@@ -42,6 +33,10 @@ Book, forthcoming
   Pre-analysis plan: [PAP_job_guarantee_Marienthal.pdf](/home/files/other/PAP_job_guarantee_Marienthal.pdf)  
   (Registered as [AEARCTR-0006706](https://www.socialscienceregistry.org/trials/6706))  
 
+**The political economy of AI: Towards democratic control of the means of prediction**  
+  *Requested for the Handbook on Algorithmic Governance and the Law, 2022*  
+  Manuscript: [handbook_politicalecon_ai.pdf](/home/files/papers/handbook_politicalecon_ai.pdf)  
+
 **Experimental evaluation of a Basic Income Pilot in Germany**  
   (joint with Sandra Bohmann, Susann Fiedler, Jürgen Schupp, and Frederik Schwerter)  
   *Experiment in progress, 2021-2024*  
@@ -52,6 +47,10 @@ Book, forthcoming
 
 
 ## Publications
+
+**Algorithmic bias and racial inequality: A critical review**  
+  *Forthcoming, OxREP special issue on Race and Economics, 2024*  
+  Manuscript: [Algorithmic_bias_inequality.pdf](/home/files/papers/Algorithmic_bias_inequality.pdf)  
 
 **An Adaptive Targeted Field Experiment: Job Search Assistance for Refugees in Jordan**  
   (joint with Stefano Caria, Grant Gordon, Soha Osman, Simon Quinn and Alex Teytelboym)  
