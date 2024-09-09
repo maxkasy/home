@@ -7,7 +7,7 @@ permalink: /ML_Oxford_summerschool_2024/
 Tentative Syllabus: [Syllabus_ML_Oxford_summerschool_2024.pdf](/home/files/teaching/ML_Oxford_summerschool_2024/Syllabus_ML_Oxford_Summerschool_2024.pdf)  
 
 
-Summer school homepage: [september-summer-school](https://sites.google.com/view/oxfordeconomicssummerschool24/home)  
+Summer school homepage: [september-summer-school](https://sites.google.com/view/ouess2024)  
 
 ### Lecture slides
 
