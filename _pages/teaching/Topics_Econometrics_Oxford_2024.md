@@ -10,11 +10,10 @@ Syllabus: [Syllabus_Topics_Econometrics_2024.pdf](/home/files/teaching/Topics_Ec
 
 ## MT week 1
 
-Information and coordination session
+Information and coordination session  
 
-*This session will take place online.*
-
- 
+*This session will take place online:*  
+[Zoom](https://zoom.us/j/96904244746?pwd=2ormehs90w1ARc8NlNu26utymStCOP.1)  
 
 ## MT week 2,3,4
 *Frank DiTraglia*
@@ -37,13 +36,34 @@ Kirill Borusyak, Peter Hull,  Xavier Jaravel, 2024
 ## MT week 5,6,7
 *James Duffy*
 
-TBD
+Granular instrumental variables  
+Gabaix, X. and Koijen, R. S. J. (2024)  
+[https://doi.org/10.1086/728743](https://doi.org/10.1086/728743)  
+
+Robust Bayesian inference for set-identified models  
+Giacomini, R. and Kitagawa, T. (2021)  
+[https://doi.org/10.3982/ECTA16773](https://doi.org/10.3982/ECTA16773)  
+
+Limit theorems for network dependent random variables  
+Kojevnikov, D., Marmer, V. and Song, K. (2021)  
+[https://doi.org/10.1016/j.jeconom.2020.05.019](https://doi.org/10.1016/j.jeconom.2020.05.019)  
+
  
 
 ## MT week 8, and HT week 1,2
 *Martin Weidner*  
 
-TBD 
+Comment: Sequential moment restrictions in panel data  
+Chamberlain, Gary (1992)  
+[https://doi.org/10.1080/07350015.1992.10509881](https://doi.org/10.1080/07350015.1992.10509881)  
+
+Average and quantile effects in nonseparable panel models  
+Chernozhukov, Victor, Iván Fernández‐Val, Jinyong Hahn, and Whitney Newey (2013)  
+[https://doi.org/10.3982/ECTA8405](https://doi.org/10.3982/ECTA8405)  
+
+Estimating Counterfactual Matrix Means with Short Panel Data  
+Lei, Lihua, and Brad Ross, working paper  
+[https://arxiv.org/abs/2312.07520](https://arxiv.org/abs/2312.07520)  
 
 ## HT week 3,4,5
 *Maximilian Kasy*
