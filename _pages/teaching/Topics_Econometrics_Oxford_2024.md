@@ -6,7 +6,8 @@ permalink: /Topics_Econometrics_Oxford_2024/
 
 Syllabus: [Syllabus_Topics_Econometrics_2024.pdf](/home/files/teaching/Topics_Econometrics_Oxford_2024/Syllabus_Topics_Econometrics_2024.pdf)
 
-
+Presentation sign-up form:
+[Sign-up form](https://docs.google.com/forms/d/e/1FAIpQLSep1_1K9-fdGWaXNHiPeYgYjawDfHFnK6YhxXr3DWcao7H0sg/viewform?usp=sf_link)
 
 ## MT week 1
 
@@ -26,7 +27,7 @@ Logs with zeros? Some problems and solutions
 Jiafeng Chen, Jonathan Roth, 2024  
 [https://doi.org/10.1093/qje/qjad054](https://doi.org/10.1093/qje/qjad054)
 
-Design-based identification with formula instruments: A review.  
+Design-based identification with formula instruments: A review  
 Kirill Borusyak, Peter Hull,  Xavier Jaravel, 2024  
 [https://doi.org/10.1093/ectj/utae003](https://doi.org/10.1093/ectj/utae003)
 
@@ -88,7 +89,7 @@ Alternate link:
 ## HT week 6,7,8
 *Sophocles Mavroides*
 
-Double Robustness of Local Projections and Some Unpleasant VARithmetic.  
+Double Robustness of Local Projections and Some Unpleasant VARithmetic  
 Olea, José Luis Montiel, Mikkel Plagborg-Møller, Eric Qian, and Christian K. Wolf, 2024  
 [https://www.nber.org/system/files/working_papers/w32495/w32495.pdf](https://www.nber.org/system/files/working_papers/w32495/w32495.pdf)  
 
