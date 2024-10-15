@@ -87,7 +87,7 @@ Alternate link:
  
 
 ## HT week 6,7,8
-*Sophocles Mavroides*
+*Sophocles Mavroeidis*
 
 Double Robustness of Local Projections and Some Unpleasant VARithmetic  
 Olea, José Luis Montiel, Mikkel Plagborg-Møller, Eric Qian, and Christian K. Wolf, 2024  
