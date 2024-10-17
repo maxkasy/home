@@ -19,6 +19,8 @@ Information and coordination session
 ## MT week 2,3,4
 *Frank DiTraglia*
 
+Blog post: [How to Read an Econometrics Paper](https://www.econometrics.blog/post/how-to-read-an-econometrics-paper/)  
+
 Can machines learn weak signals?  
 Zhouyu Shen, Dacheng Xiu, 2024  
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4722678](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4722678)
