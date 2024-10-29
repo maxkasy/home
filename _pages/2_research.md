@@ -4,9 +4,9 @@ permalink: /research/
 ---
 
 
-**How AI works, and for whom**  
+**The means of prediction: How AI works, and for whom**  
   Book, forthcoming  
-  *University of Chicago Press, 2024*  
+  *University of Chicago Press, 2025*  
 
 
 ## Working papers
