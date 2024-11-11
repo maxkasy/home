@@ -19,8 +19,8 @@ permalink: /teaching/
 
 ## Oxford
 
-### Foundations of machine learning (master, 2024)
-Class page: [ML_Oxford_2024](/home/ML_Oxford_2024)
+### Foundations of machine learning (master, 2025)
+Class page: [ML_Oxford_2025](/home/ML_Oxford_2025)
 
 ### Machine learning and economics reading group (open, since 2021)
 Reading group page: [Machine Learning and Economics](/home/ML_Econ_Oxford/) 
