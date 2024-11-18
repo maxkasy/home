@@ -73,6 +73,17 @@
         </li>
       {% endif %}
 
+      {% if author.bluesky %}
+        <li>
+          <a href="https://bsky.app/profile/{{ author.bluesky }}" itemprop="sameAs" rel="me">
+            <i aria-hidden="true">
+              {% include social-icons/Bluesky_Logo.svg %}
+            </i> Bluesky
+          </a>
+        </li>
+      {% endif %}
+
+      
       {% if author.mastodon %}
         <li>
           <a rel="me" href="https://mastodon.social/@maxkasy" itemprop="sameAs">
@@ -82,22 +93,14 @@
         </li>
       {% endif %}
 
-      {% if author.bluesky %}
-        <li>
-          <a rel="me" href="https://bsky.app/profile/maxkasy.bsky.social" itemprop="sameAs">
-            <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> 
-            Bluesky
-          </a>
-        </li>
-      {% endif %}
 
-      {% if author.twitter %}
+      <!-- {% if author.twitter %}
       <li>
         <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs">
           <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
         </a>
       </li>
-      {% endif %}
+      {% endif %} -->
       
       {% if author.facebook %}
         <li>
