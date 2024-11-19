@@ -53,22 +53,27 @@ Kojevnikov, D., Marmer, V. and Song, K. (2021)
 
  
 
-## MT week 8, and HT week 1,2
+## MT week 8, and HT week 1,3
 *Martin Weidner*  
+
+MT week 8, 16:45 - 17:30:  
+Martin Weidner will give a short introduction to panel data.
 
 Comment: Sequential moment restrictions in panel data  
 Chamberlain, Gary (1992)  
 [https://doi.org/10.1080/07350015.1992.10509881](https://doi.org/10.1080/07350015.1992.10509881)  
+HT week 1, presenter: Dheeraj Kumar Singh  
 
 Average and quantile effects in nonseparable panel models  
 Chernozhukov, Victor, Iván Fernández‐Val, Jinyong Hahn, and Whitney Newey (2013)  
 [https://doi.org/10.3982/ECTA8405](https://doi.org/10.3982/ECTA8405)  
+HT week 3, presenter Yang Xu 
 
 Estimating Counterfactual Matrix Means with Short Panel Data  
 Lei, Lihua, and Brad Ross, working paper  
 [https://arxiv.org/abs/2312.07520](https://arxiv.org/abs/2312.07520)  
 
-## HT week 3,4,5
+## HT week 2,4,5
 *Maximilian Kasy*
 
 Randomization tests for peer effects in group formation experiments  
