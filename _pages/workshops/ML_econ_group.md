@@ -58,7 +58,8 @@ Topic: **Explainability and explanations**
   [Counterfactual Explanations without Opening the Black Box](https://arxiv.org/abs/1711.00399)  
   Presenter: Rania Belahsen  
 - W6: Explanation and the metaphysics of causality  
-  [Two concepts of causation](/home/files/other/ML_Econ_Oxford/Ned_Hall_2_concepts_of_causation.pdf) (Chapter 9 in [Causation and counterfactuals](https://direct.mit.edu/books/edited-volume/2458/Causation-and-Counterfactuals))
+  [Two concepts of causation](/home/files/other/ML_Econ_Oxford/Ned_Hall_2_concepts_of_causation.pdf) (Chapter 9 in [Causation and counterfactuals](https://direct.mit.edu/books/edited-volume/2458/Causation-and-Counterfactuals))  
+  [Slides Jeremy](/home/files/other/ML_Econ_Oxford/JLarge_2causation.pptx)  
 - W8: Adversarial perturbations in computer vision  
   [Universal adversarial perturbations](https://arxiv.org/abs/1610.08401)  
   Presenter: Maximilian Reith  
