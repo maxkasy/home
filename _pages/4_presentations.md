@@ -5,7 +5,7 @@ permalink: /presentations/
 
 **The risk function of regularized empirical risk minimization estimators, tuned using cross-validation**  
 February 2025, Oxford  
-[Slides](/home/files/slides/Feb_2025/cv_and_sure_slides.pdf)
+[Slides](/home/files/slides/cv_and_sure_slides.pdf)
 
 
 **Optimal Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
