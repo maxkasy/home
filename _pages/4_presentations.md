@@ -7,6 +7,9 @@ permalink: /presentations/
 February 2025, Oxford  
 [Slides](/home/files/slides/cv_and_sure_slides.pdf)
 
+**``Fair inequality'' -- Some comments**  
+December 2024, UCL  
+[Slides](/home/files/slides/fair_inequality_discussion.pdf)
 
 **Optimal Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
 October 2023, Yale (Cowles Foundation)  
