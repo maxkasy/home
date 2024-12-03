@@ -62,7 +62,7 @@ Topic: **Explainability and explanations**
   Presenter: Jeremy Large. [Slides](/home/files/other/ML_Econ_Oxford/JLarge_2causation.pptx)  
 - W8: Adversarial perturbations in computer vision  
   [Universal adversarial perturbations](https://arxiv.org/abs/1610.08401)  
-  Presenter: Maximilian Reith  
+  Presenter: Maximilian Reith. [Slides](/home/files/other/ML_Econ_Oxford/Reith_slides.pdf)  
 
 
 
