@@ -4,9 +4,9 @@ permalink: /research/
 ---
 
 
-**The means of prediction: How AI works, and for whom**  
-  Book, forthcoming  
-  *University of Chicago Press, 2025*  
+**The Means of Prediction: How AI Really Works (and Who Benefits)**  
+  Book  
+  *University of Chicago Press, forthcoming fall 2025*  
 
 
 ## Working papers
