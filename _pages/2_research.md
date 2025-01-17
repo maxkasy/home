@@ -28,7 +28,8 @@ permalink: /research/
   *Working paper, 2024*  
   Manuscript: [Jobguarantee_marienthal.pdf](/home/files/papers/Jobguarantee_marienthal.pdf)  
   Appendix: [Appendix_marienthal.pdf](/home/files/papers/Appendix_marienthal.pdf)  
-  Code: Study design [https://github.com/maxkasy/Marienthal](https://github.com/maxkasy/Marienthal), data analysis [https://github.com/maxkasy/Marienthal_Analysis](https://github.com/maxkasy/Marienthal_Analysis)  
+  Code (study design): [https://github.com/maxkasy/Marienthal](https://github.com/maxkasy/Marienthal)  
+  Code (data analysis): [https://github.com/maxkasy/Marienthal_Analysis](https://github.com/maxkasy/Marienthal_Analysis)  
   Pre-analysis plan: [PAP_job_guarantee_Marienthal.pdf](/home/files/other/PAP_job_guarantee_Marienthal.pdf), registered as [AEARCTR-0006706](https://www.socialscienceregistry.org/trials/6706)  
 
 **The risk function of regularized empirical risk minimization estimators tuned using cross-validation**  
