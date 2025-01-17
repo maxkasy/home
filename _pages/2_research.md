@@ -25,36 +25,37 @@ permalink: /research/
 
 **Employing the unemployed of Marienthal: Evaluation of a guaranteed job program**  
   (joint with Lukas Lehner)  
-  *Working paper, 2023*  
+  *Working paper, 2024*  
   Manuscript: [Jobguarantee_marienthal.pdf](/home/files/papers/Jobguarantee_marienthal.pdf)  
   Appendix: [Appendix_marienthal.pdf](/home/files/papers/Appendix_marienthal.pdf)  
-  Code (study design): [https://github.com/maxkasy/Marienthal](https://github.com/maxkasy/Marienthal)  
-  Code (data analysis): [https://github.com/maxkasy/Marienthal_Analysis](https://github.com/maxkasy/Marienthal_Analysis)  
-  Pre-analysis plan: [PAP_job_guarantee_Marienthal.pdf](/home/files/other/PAP_job_guarantee_Marienthal.pdf)  
-  (Registered as [AEARCTR-0006706](https://www.socialscienceregistry.org/trials/6706))  
+  Code: Study design [https://github.com/maxkasy/Marienthal](https://github.com/maxkasy/Marienthal), data analysis [https://github.com/maxkasy/Marienthal_Analysis](https://github.com/maxkasy/Marienthal_Analysis)  
+  Pre-analysis plan: [PAP_job_guarantee_Marienthal.pdf](/home/files/other/PAP_job_guarantee_Marienthal.pdf), registered as [AEARCTR-0006706](https://www.socialscienceregistry.org/trials/6706)  
 
-**The political economy of AI: Towards democratic control of the means of prediction**  
-  *Requested for the Handbook on Algorithmic Governance and the Law, 2022*  
-  Manuscript: [handbook_politicalecon_ai.pdf](/home/files/papers/handbook_politicalecon_ai.pdf)  
+**The risk function of regularized empirical risk minimization estimators tuned using cross-validation**  
+  (joint with Karun Adusumilli and Ashia Wilson)  
+  *Working paper coming soon*  
 
 **Experimental evaluation of a Basic Income Pilot in Germany**  
   (joint with Sandra Bohmann, Susann Fiedler, Jürgen Schupp, and Frederik Schwerter)  
-  *Experiment in progress, 2021-2024*  
-  Pre-analysis plan: [pre_analysis_plan_mein_grundeinkommen.pdf](/home/files/other/pre_analysis_plan_mein_grundeinkommen.pdf)  
-  (Registered as [AEARCTR-0007734](https://www.socialscienceregistry.org/trials/7734))  
-
-
+  *Working papers coming soon:*  
+    - *Unconditional cash transfers improve mental health, purpose in life and life satisfaction: Evidence from an RCT in Germany*  
+    - *The labor market impact of unconditional cash transfers: Evidence from an RCT in Germany*  
+  Pre-analysis plan: [pre_analysis_plan_mein_grundeinkommen.pdf](/home/files/other/pre_analysis_plan_mein_grundeinkommen.pdf), registered as [AEARCTR-0007734](https://www.socialscienceregistry.org/trials/7734)  
 
 
 ## Publications
 
+**The political economy of AI: Towards democratic control of the means of prediction**  
+  *Handbook on Algorithmic Governance and the Law, 2025*  
+  Manuscript: [handbook_politicalecon_ai.pdf](/home/files/papers/handbook_politicalecon_ai.pdf)  
+
 **Algorithmic bias and racial inequality: A critical review**  
-  *Forthcoming, OxREP special issue on Race and Economics, 2024*  
+  *OxREP special issue on Race and Economics, 2024*  
   Manuscript: [Algorithmic_bias_inequality.pdf](/home/files/papers/Algorithmic_bias_inequality.pdf)  
 
 **An Adaptive Targeted Field Experiment: Job Search Assistance for Refugees in Jordan**  
   (joint with Stefano Caria, Grant Gordon, Soha Osman, Simon Quinn and Alex Teytelboym)  
-  *Forthcoming, Journal of the European Economic Association, 2023*  
+  *Journal of the European Economic Association, 2024*  
   Manuscript: [RefugeesWork.pdf](/home/files/papers/RefugeesWork.pdf)  
   Supplementary appendix: [RefugeesWork_OnlineAppendix.pdf](/home/files/papers/RefugeesWork_onlineAppendix.pdf)  
   Registered pre-analysis plan: [AEA RCT Registry](https://www.socialscienceregistry.org/trials/3870)  
