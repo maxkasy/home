@@ -36,6 +36,10 @@ permalink: /research/
   (joint with Karun Adusumilli and Ashia Wilson)  
   *Working paper coming soon*  
 
+**Evidence aggregation and meta-analysis: A toolkit for economists**  
+  (joint with Peter Ganong and Avik Garg)  
+  *Requested for Journal of Economic Literature*  
+
 **Experimental evaluation of a Basic Income Pilot in Germany**  
   (joint with Sandra Bohmann, Susann Fiedler, Jürgen Schupp, and Frederik Schwerter)  
   *Working papers coming soon:*  
@@ -71,6 +75,7 @@ permalink: /research/
   (joint with Alex Frankel)  
   *American Economic Journal: Microeconomics, 2022*  
   Manuscript: [findings.pdf](/home/files/papers/findings.pdf)  
+  Online appendix: [findings_supplement.pdf](/home/files/papers/findings_supplement.pdf)  
 
 **Who wins, who loses? Identification of conditional causal effects, and the welfare impact of changing wages**  
   *Journal of Econometrics, 2022*  
