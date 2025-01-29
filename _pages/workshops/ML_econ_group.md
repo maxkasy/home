@@ -43,6 +43,13 @@ Syllabus, slides and readers can be found here:
 
 ## Reading and discussion group
 
+### Hilary term 2025
+
+Special event: *Text and data mining - resources at Oxford*
+- 1pm – 2:30pm on Tuesday, 11 March 2025
+- SR C, Manor Road Building 
+- John Southall, Bodleian data librarian will present
+
 ### Michaelmas term 2024
 
 - Time: 2:30pm, Tuesdays in even weeks. (That is: 22 Oct, 5 Nov, 19 Nov, and 3 Dec)  
