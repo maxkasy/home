@@ -13,7 +13,7 @@ permalink: /research/
 
 **Adaptive maximization of social welfare**  
   (joint with Nicolò Cesa-Bianchi and Roberto Colomboni)  
-  *Revise and resubmit, Econometrica, 2024*  
+  *Conditionally accepted, Econometrica, 2025*  
   Manuscript: [adaptive_social_welfare.pdf](/home/files/papers/adaptive_social_welfare.pdf)  
 
 **Optimal Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
