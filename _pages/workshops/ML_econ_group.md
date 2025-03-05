@@ -43,6 +43,26 @@ Syllabus, slides and readers can be found here:
 
 ## Reading and discussion group
 
+### Trinity term 2025
+- Time: 2:30pm, Tuesdays in even weeks. 
+- Location: *TBD, Manor Road Building* (There will be coffee and pastries!).
+- For those who cannot make in person, please join via [Zoom](https://zoom.us/j/91261172120?pwd=RUUzdDZIeWd1bTlNWHFOU2doaDJEQT09).  
+
+Topic: **The origins of data**  
+Curation thanks to [Johanna Barop](https://www.oii.ox.ac.uk/people/profiles/johanna-barop/)
+
+- W2 What are data and where do they come from?  
+  [Critical Data Studies: An Introduction](https://doi.org/10.1177/2053951716674238)  
+  [Web Mining](https://doi.org/10.1007/978-3-031-24628-9_20)   
+- W4 Data sovereignty  
+  [Introduction: Sovereignty 2.0](https://doi.org/10.1093/oso/9780197582794.003.0001)  
+- W6 Surveillance and recommender systems  
+  The Age of Surveillance Capitalism (Introduction and conclusion)  
+  [Recommender Systems](https://doi.org/10.1007/978-3-031-24628-9_28)  
+- W8 Data infrastructure  and federated learning  
+  [“Stuff You Can Kick”: Toward a Theory of Media Infrastructures’](doi.org/10.7551/mitpress/9465.003.0031)  
+
+
 ### Hilary term 2025
 
 Special event: *Text and data mining - resources at Oxford*
