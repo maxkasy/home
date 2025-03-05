@@ -30,16 +30,15 @@ Special emphasis will be put on the social impact of ML, and on non-commercial a
 
 ### Previous
 
+- I teach an **MPhil course** on [Foundations of Machine Learning](https://maxkasy.github.io/home/ML_Oxford_2025/).  
+All faculty, post-docs, and doctoral students are invited to audit this course and participate in discussions. 
+- **Workshops and conferences** (featuring tutorials and frontier talks):  
+  All talks are available on [Youtube](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag/videos).
+  - May 2024: [Economic Analyses of Science ](https://maxkasy.github.io/home/economics_of_science_workshop/).
+  - May 2023: [Social foundations for statistics and machine learning](https://maxkasy.github.io/home/social_foundations_workshop/).
+  - June 2022: [Machine Learning and Economics Jamboree 2022](https://maxkasy.github.io/home/ML_Econ_Oxford/Jamboree_2022/).
+  - April 2021: [Machine learning and economic inequality](https://maxkasy.github.io/home/ML_inequality_conference/).
 
-- May 2024: **Workshop** on [Economic Analyses of Science ](https://maxkasy.github.io/home/economics_of_science_workshop/), featuring tutorials and frontier talks. All talks are available on [Youtube](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag/videos).
-- May 2023: **Workshop** on [Social foundations for statistics and machine learning](https://maxkasy.github.io/home/social_foundations_workshop/), similarly featuring tutorials and frontier talks. All talks are available on [Youtube](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag/videos).
-- June 2022: **Cross-departmental workshop** on ML and economics, with presentations of ongoing work and discussants, as well as a keynote by Michael Jordan from UC Berkeley. 
-Information on this workshop can be found at [Machine Learning and Economics Jamboree 2022](https://maxkasy.github.io/home/ML_Econ_Oxford/Jamboree_2022/).
-- April 2021: **Conference** on [Machine learning and economic inequality](https://maxkasy.github.io/home/ML_inequality_conference/). Recordings of the talks are available on [Youtube](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag/videos).
-- I teach an **MPhil course** on the foundations of ML for economists.  
-All faculty, post-docs, and doctoral students are invited to audit this course and participate in discussions.  
-Syllabus, slides and readers can be found here:
-[Foundations of Machine Learning](https://maxkasy.github.io/home/ML_Oxford_2024/)
 
 ## Reading and discussion group
 
