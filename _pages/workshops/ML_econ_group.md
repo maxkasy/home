@@ -51,15 +51,15 @@ Topic: **The origins of data**
 Curation thanks to [Johanna Barop](https://www.oii.ox.ac.uk/people/profiles/johanna-barop/)
 
 - W2 What are data and where do they come from?  
-  [Critical Data Studies: An Introduction](https://doi.org/10.1177/2053951716674238)  
-  [Web Mining](https://doi.org/10.1007/978-3-031-24628-9_20)   
+  [Critical Data Studies: An Introduction](/home/files/other/ML_Econ_Oxford/Critical_data_studies_Iliadis.pdf)  
+  [Web Mining](/home/files/other/ML_Econ_Oxford/Webmining_Ristoski.pdf)  
 - W4 Data sovereignty  
-  [Introduction: Sovereignty 2.0](https://doi.org/10.1093/oso/9780197582794.003.0001)  
+  [Introduction: Sovereignty 2.0](/home/files/other/ML_Econ_Oxford/Reith_slides.pdf)  
 - W6 Surveillance and recommender systems  
-  The Age of Surveillance Capitalism (Introduction and conclusion)  
-  [Recommender Systems](https://doi.org/10.1007/978-3-031-24628-9_28)  
+  [The Age of Surveillance Capitalism](/home/files/other/ML_Econ_Oxford/Surveillance_capitalism_intro_Zuboff.pdf) (Introduction)  
+  [Recommender Systems](/home/files/other/ML_Econ_Oxford/Recommender_systems_Zhang.pdf)  
 - W8 Data infrastructure  and federated learning  
-  [“Stuff You Can Kick”: Toward a Theory of Media Infrastructures’](doi.org/10.7551/mitpress/9465.003.0031)  
+  [“Stuff You Can Kick”: Toward a Theory of Media Infrastructures](/home/files/other/ML_Econ_Oxford/Stuff_you_can_kick_Parks.pdf)  
 
 
 ### Hilary term 2025
