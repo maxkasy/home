@@ -54,7 +54,7 @@ Curation thanks to [Johanna Barop](https://www.oii.ox.ac.uk/people/profiles/joha
   [Critical Data Studies: An Introduction](/home/files/other/ML_Econ_Oxford/Critical_data_studies_Iliadis.pdf)  
   [Web Mining](/home/files/other/ML_Econ_Oxford/Webmining_Ristoski.pdf)  
 - W4 Data sovereignty  
-  [Introduction: Sovereignty 2.0](/home/files/other/ML_Econ_Oxford/Reith_slides.pdf)  
+  [Introduction: Sovereignty 2.0](/home/files/other/ML_Econ_Oxford/Data_sovereignty_Chander.pdf)  
 - W6 Surveillance and recommender systems  
   [The Age of Surveillance Capitalism](/home/files/other/ML_Econ_Oxford/Surveillance_capitalism_intro_Zuboff.pdf) (Introduction)  
   [Recommender Systems](/home/files/other/ML_Econ_Oxford/Recommender_systems_Zhang.pdf)  
@@ -67,7 +67,9 @@ Curation thanks to [Johanna Barop](https://www.oii.ox.ac.uk/people/profiles/joha
 Special event: *Text and data mining - resources at Oxford*
 - 1pm – 2:30pm on Tuesday, 11 March 2025
 - SR C, Manor Road Building 
-- John Southall, Bodleian data librarian will present
+- John Southall, Bodleian data librarian will present  
+[Orientation to text and datamining](/home/files/other/ML_Econ_Oxford/TDM_Orientation.pdf)
+
 
 ### Michaelmas term 2024
 
