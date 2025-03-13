@@ -43,9 +43,11 @@ All faculty, post-docs, and doctoral students are invited to audit this course a
 ## Reading and discussion group
 
 ### Trinity term 2025
-- Time: 2:30pm, Tuesdays in even weeks. 
-- Location: *TBD, Manor Road Building* (There will be coffee and pastries!).
+- Time: 2:30pm, Tuesdays in even weeks (that is, 6 May, 20 May, 3 June, and 17 June). 
+- Location: *SRF, Manor Road Building* (weeks 2, 6, and 8) and *Skills Lab, Manor Road Building* (week 4). 
+- There will be coffee and pastries!
 - For those who cannot make in person, please join via [Zoom](https://zoom.us/j/91261172120?pwd=RUUzdDZIeWd1bTlNWHFOU2doaDJEQT09).  
+
 
 Topic: **The origins of data**  
 Curation thanks to [Johanna Barop](https://www.oii.ox.ac.uk/people/profiles/johanna-barop/)
@@ -65,17 +67,12 @@ Curation thanks to [Johanna Barop](https://www.oii.ox.ac.uk/people/profiles/joha
 ### Hilary term 2025
 
 Special event: *Text and data mining - resources at Oxford*
-- 1pm – 2:30pm on Tuesday, 11 March 2025
-- SR C, Manor Road Building 
+- Tuesday, 11 March 2025
 - John Southall, Bodleian data librarian will present  
 [Orientation to text and datamining](/home/files/other/ML_Econ_Oxford/TDM_Orientation.pdf)
 
 
 ### Michaelmas term 2024
-
-- Time: 2:30pm, Tuesdays in even weeks. (That is: 22 Oct, 5 Nov, 19 Nov, and 3 Dec)  
-- Location: *SR A, Manor Road Building* (There will be coffee and pastries!).
-- For those who cannot make in person, please join via [Zoom](https://zoom.us/j/91261172120?pwd=RUUzdDZIeWd1bTlNWHFOU2doaDJEQT09).  
 
 Topic: **Explainability and explanations**
 
