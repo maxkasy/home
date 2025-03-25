@@ -7,14 +7,9 @@ permalink: /research/
 **The Means of Prediction: How AI Really Works (and Who Benefits)**  
   Book  
   *University of Chicago Press, forthcoming fall 2025*  
-
+  Pre-order here: [The Means of Prediction](https://press.uchicago.edu/ucp/books/book/chicago/M/bo255887145.html)
 
 ## Working papers
-
-**Adaptive maximization of social welfare**  
-  (joint with Nicolò Cesa-Bianchi and Roberto Colomboni)  
-  *Conditionally accepted, Econometrica, 2025*  
-  Manuscript: [adaptive_social_welfare.pdf](/home/files/papers/adaptive_social_welfare.pdf)  
 
 **Optimal Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
   (joint with Jann Spiess)  
@@ -49,6 +44,11 @@ permalink: /research/
 
 
 ## Publications
+
+**Adaptive maximization of social welfare**  
+  (joint with Nicolò Cesa-Bianchi and Roberto Colomboni)  
+  *Forthcoming, Econometrica, 2025*  
+  Manuscript: [adaptive_social_welfare.pdf](/home/files/papers/adaptive_social_welfare.pdf)  
 
 **The political economy of AI: Towards democratic control of the means of prediction**  
   *Handbook on Algorithmic Governance and the Law, 2025*  
