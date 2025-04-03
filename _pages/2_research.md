@@ -4,7 +4,7 @@ permalink: /research/
 ---
 
 
-<figure style="width: 20%" class="align-right">
+<figure style="width: 30%" class="align-right">
   <img src="/home/files/other/meansofprediction_cover.jpg">
 </figure>
 
