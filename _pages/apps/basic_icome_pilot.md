@@ -14,7 +14,7 @@ Coming soon!
 
 - [Cash Transfers, Mental Health, and Agency](https://maxkasy.github.io/home/files/papers/basic_income_wellbeing.pdf)
 - [Basic Income and Labor Supply](https://maxkasy.github.io/home/files/papers/basic_income_econ.pdf)
-- [Does money change economic preferences and political attitudes](https://maxkasy.github.io/home/files/papers/basic_income_preferences.pdf)
+- [Money, Economic Preferences, and Political Attitudes](https://maxkasy.github.io/home/files/papers/basic_income_preferences.pdf)
 
 ## Team
 
