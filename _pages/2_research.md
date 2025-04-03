@@ -9,6 +9,13 @@ permalink: /research/
   *University of Chicago Press, forthcoming fall 2025*  
   Pre-order here: [The Means of Prediction](https://press.uchicago.edu/ucp/books/book/chicago/M/bo255887145.html)
 
+
+<figure style="width: 30%" class="align-right">
+  <img src="/home/files/other/meansofprediction_cover.jpg">
+</figure>
+
+
+
 ## Working papers
 
 **Optimal Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
