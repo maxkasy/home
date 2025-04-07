@@ -37,7 +37,7 @@ permalink: /research/
 **Experimental evaluation of a Basic Income Pilot in Germany**  
   (joint with Sandra Bohmann, Susann Fiedler, Jürgen Schupp, and Frederik Schwerter)  
   Project website: [Basic income pilot study](/home/basic_income_pilot/)  
-  Pre-analysis plan: [pre_analysis_plan_mein_grundeinkommen.pdf](/home/files/other/pre_analysis_plan_mein_grundeinkommen.pdf), registered as [AEARCTR-0007734](https://www.socialscienceregistry.org/trials/7734)  
+
 
 **The risk function of regularized empirical risk minimization estimators tuned using cross-validation**  
   (joint with Karun Adusumilli and Ashia Wilson)  
