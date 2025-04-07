@@ -34,6 +34,11 @@ permalink: /research/
   Code (data analysis): [https://github.com/maxkasy/Marienthal_Analysis](https://github.com/maxkasy/Marienthal_Analysis)  
   Pre-analysis plan: [PAP_job_guarantee_Marienthal.pdf](/home/files/other/PAP_job_guarantee_Marienthal.pdf), registered as [AEARCTR-0006706](https://www.socialscienceregistry.org/trials/6706)  
 
+**Experimental evaluation of a Basic Income Pilot in Germany**  
+  (joint with Sandra Bohmann, Susann Fiedler, Jürgen Schupp, and Frederik Schwerter)  
+  Project website: [Basic income pilot study](/home/basic_income_pilot/)  
+  Pre-analysis plan: [pre_analysis_plan_mein_grundeinkommen.pdf](/home/files/other/pre_analysis_plan_mein_grundeinkommen.pdf), registered as [AEARCTR-0007734](https://www.socialscienceregistry.org/trials/7734)  
+
 **The risk function of regularized empirical risk minimization estimators tuned using cross-validation**  
   (joint with Karun Adusumilli and Ashia Wilson)  
   *Working paper coming soon*  
@@ -41,13 +46,6 @@ permalink: /research/
 **Evidence aggregation and meta-analysis: A toolkit for economists**  
   (joint with Peter Ganong and Avik Garg)  
   *Requested for Journal of Economic Literature*  
-
-**Experimental evaluation of a Basic Income Pilot in Germany**  
-  (joint with Sandra Bohmann, Susann Fiedler, Jürgen Schupp, and Frederik Schwerter)  
-  *Working papers coming soon:*  
-    - *Unconditional cash transfers improve mental health, purpose in life and life satisfaction: Evidence from an RCT in Germany*  
-    - *The labor market impact of unconditional cash transfers: Evidence from an RCT in Germany*  
-  Pre-analysis plan: [pre_analysis_plan_mein_grundeinkommen.pdf](/home/files/other/pre_analysis_plan_mein_grundeinkommen.pdf), registered as [AEARCTR-0007734](https://www.socialscienceregistry.org/trials/7734)  
 
 
 ## Publications
