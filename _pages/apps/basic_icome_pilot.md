@@ -18,6 +18,9 @@ Coming soon:
 - Basic Income and Labor Supply
 - Money, Economic Preferences, and Political Attitudes
 
+DIW report summarizing preliminary findings (in German):
+- [DIW Wochenbericht](https://www.diw.de/de/diw_01.c.945347.de/publikationen/wochenberichte/2025_15_1/pilotprojekt_grundeinkommen__kein_rueckzug_vom_arbeitsmarkt__aber_bessere_mentale_gesundheit.html)
+
 Pre-analysis plan:
 - [pre_analysis_plan_mein_grundeinkommen.pdf](/home/files/other/pre_analysis_plan_mein_grundeinkommen.pdf)
 - Registered as [AEARCTR-0007734](https://www.socialscienceregistry.org/trials/7734)  
