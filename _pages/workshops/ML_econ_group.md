@@ -54,12 +54,15 @@ Curation thanks to [Johanna Barop](https://www.oii.ox.ac.uk/people/profiles/joha
 
 - W2 What are data and where do they come from?  
   [Critical Data Studies: An Introduction](/home/files/other/ML_Econ_Oxford/Critical_data_studies_Iliadis.pdf)  
+  Presenter: Lea Stöter  
 - W4 Data sovereignty  
   [Introduction: Sovereignty 2.0](/home/files/other/ML_Econ_Oxford/Data_sovereignty_Chander.pdf)  
 - W6 Recommender systems  
   [An Introduction to Recommender Systems](/home/files/other/ML_Econ_Oxford/charu_recsys_intro.pdf)  
+  Presenter: Calos Gonzalez-Perez 
 - W8 Surveillance capitalism  
   [The Age of Surveillance Capitalism](/home/files/other/ML_Econ_Oxford/Surveillance_capitalism_intro_Zuboff.pdf) (Introduction)  
+  Presenter: Jasmin Baier
   
   
 
