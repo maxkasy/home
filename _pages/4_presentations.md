@@ -14,6 +14,7 @@ December 2024, UCL
 **Optimal Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
 October 2023, Yale (Cowles Foundation)  
 [Slides](/home/files/slides/implementable_preanalysis_slides_kasy.pdf)  
+[Recording](https://drive.google.com/file/d/1kuVsguKy1ROmEl7ej4er3_jiWzaZfJHI/view) (International Seminar on Selective Inference)
 
 **Economics and Machine Learning: What can they teach each other?**  
 September 2023, Berlin  
