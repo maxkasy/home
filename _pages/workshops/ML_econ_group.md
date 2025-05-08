@@ -54,7 +54,7 @@ Curation thanks to [Johanna Barop](https://www.oii.ox.ac.uk/people/profiles/joha
 
 - W2 What are data and where do they come from?  
   [Critical Data Studies: An Introduction](/home/files/other/ML_Econ_Oxford/Critical_data_studies_Iliadis.pdf)  
-  Presenter: Lea Stöter  
+  Presenter: Lea Stöter.  [Slides](/home/files/other/OII-origins-of-data-w2-stoeter.pdf)
 - W4 Data sovereignty  
   [Introduction: Sovereignty 2.0](/home/files/other/ML_Econ_Oxford/Data_sovereignty_Chander.pdf)  
 - W6 Recommender systems  
