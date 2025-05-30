@@ -62,7 +62,7 @@ Curation thanks to [Johanna Barop](https://www.oii.ox.ac.uk/people/profiles/joha
   Presenter: Calos Gonzalez-Perez 
 - W8 Surveillance capitalism  
   [The Age of Surveillance Capitalism](/home/files/other/ML_Econ_Oxford/Surveillance_capitalism_intro_Zuboff.pdf) (Introduction)  
-  Presenter: Jasmin Baier
+  Presenter: Emma Semaan
   
   
 
