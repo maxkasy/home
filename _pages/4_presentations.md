@@ -3,6 +3,10 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**The Means of Prediction: How AI Really Works (And Who Benefits)**  
+June 2025, Queen Mary University  
+[Slides](/home/files/slides/meansofprediction_slides.pdf)  
+
 **The risk function of regularized empirical risk minimization estimators, tuned using cross-validation**  
 February 2025, Oxford  
 [Slides](/home/files/slides/cv_and_sure_slides.pdf)
