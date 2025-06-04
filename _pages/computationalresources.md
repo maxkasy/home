@@ -1,5 +1,5 @@
 ---
-title: Useful computational ressources
+title: Useful computational resources
 permalink: /computationlinks/
 ---
 ## Machine learning textbooks
