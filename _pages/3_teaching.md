@@ -4,7 +4,7 @@ permalink: /teaching/
 ---
 
 * Oxford econometrics event schedule [Metrics events](http://econbase.uk/events/)  
-* Collection of [useful computational ressources](/home/computationlinks/)
+* Collection of [useful computational resources](/home/computationlinks/)
 * My open online textbook on [Empirical research on economic inequality](https://maxkasy.github.io/inequalityresearch/) 
 
 ## Conferences
