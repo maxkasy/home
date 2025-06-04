@@ -33,6 +33,8 @@ permalink: /computationlinks/
   <https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.28.1.209>  
 - **A Layered Grammar of Graphics**  (The theory behind ggplot2)  
   <https://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf>  
+
+
 ## Programming in Python
 
 ### General introductions
@@ -48,7 +50,7 @@ permalink: /computationlinks/
   <https://scikit-learn.org/stable/>
 - **Vega-Altair** (A declarative library for data visualization)  
   <https://altair-viz.github.io/index.html>
-- **GreatTables**(A library for producing formatted tables from data frames, in html, latex, etc.)  
+- **GreatTables** (A library for producing formatted tables from data frames, in html, latex, etc.)  
   <https://posit-dev.github.io/great-tables/articles/intro.html>
 - **Dash** (A library for building web-apps in Python)  
   <https://dash.plotly.com/>
