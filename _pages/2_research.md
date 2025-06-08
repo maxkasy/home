@@ -25,6 +25,12 @@ permalink: /research/
   Interactive App: [The_PAP_App](https://maxkasy.github.io/home/pap_app/)  
   Repository and tutorial explaining the App: [Github repository](https://github.com/maxkasy/The_PAP_App)  
 
+**Experimental evaluation of a Basic Income Pilot in Germany**  
+  (joint with Sandra Bohmann, Susann Fiedler, Jürgen Schupp, and Frederik Schwerter)  
+  Project website: [Basic income pilot study](/home/basic_income_pilot/)  
+  Working paper 1: [Cash Transfers, Mental Health, and Agency](https://maxkasy.github.io/home/files/papers/cash_mentalhealth_agency.pdf)  
+  Working paper 2: [Basic income and labor supply: Evidence from an RCT in Germany](https://maxkasy.github.io/home/files/papers/basic_income_econ.pdf)  
+
 **Employing the unemployed of Marienthal: Evaluation of a guaranteed job program**  
   (joint with Lukas Lehner)  
   *Working paper, 2024*  
@@ -34,25 +40,20 @@ permalink: /research/
   Code (data analysis): [https://github.com/maxkasy/Marienthal_Analysis](https://github.com/maxkasy/Marienthal_Analysis)  
   Pre-analysis plan: [PAP_job_guarantee_Marienthal.pdf](/home/files/other/PAP_job_guarantee_Marienthal.pdf), registered as [AEARCTR-0006706](https://www.socialscienceregistry.org/trials/6706)  
 
-**Experimental evaluation of a Basic Income Pilot in Germany**  
-  (joint with Sandra Bohmann, Susann Fiedler, Jürgen Schupp, and Frederik Schwerter)  
-  Project website: [Basic income pilot study](/home/basic_income_pilot/)  
-
+**Evidence aggregation and meta-analysis: A toolkit for economists**  
+  (joint with Peter Ganong and Avik Garg)  
+  *Requested for Journal of Economic Literature*  
 
 **The risk function of regularized empirical risk minimization estimators tuned using cross-validation**  
   (joint with Karun Adusumilli and Ashia Wilson)  
   *Working paper coming soon*  
-
-**Evidence aggregation and meta-analysis: A toolkit for economists**  
-  (joint with Peter Ganong and Avik Garg)  
-  *Requested for Journal of Economic Literature*  
 
 
 ## Publications
 
 **Adaptive maximization of social welfare**  
   (joint with Nicolò Cesa-Bianchi and Roberto Colomboni)  
-  *Forthcoming, Econometrica, 2025*  
+  *Econometrica, 2025*  
   Manuscript: [adaptive_social_welfare.pdf](/home/files/papers/adaptive_social_welfare.pdf)  
 
 **The political economy of AI: Towards democratic control of the means of prediction**  
