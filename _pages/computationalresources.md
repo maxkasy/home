@@ -71,7 +71,7 @@ permalink: /computationlinks/
 - **Hands-On Machine Learning with R** (Fitting ML models in R)  
   <https://bradleyboehmke.github.io/HOML/> 
 - **Bayesian statistics using Stan**  
-  <https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started> 
+  <https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started>,   
   <https://mc-stan.org/docs/2_20/stan-users-guide/index.html>  
 - **RStudio Cheat Sheets** (for various extensions, including data processing, visualization, writing web apps, ...)  
   <https://www.rstudio.com/resources/cheatsheets/>  
