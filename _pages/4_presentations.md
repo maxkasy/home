@@ -3,6 +3,10 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Causal inference on endogenous social network formation**  
+June 2025, Oxford  
+[Slides](/home/files/slides/network_formation_slides.pdf)  
+
 **The Means of Prediction: How AI Really Works (And Who Benefits)**  
 June 2025, Queen Mary University  
 [Slides](/home/files/slides/meansofprediction_slides.pdf)  

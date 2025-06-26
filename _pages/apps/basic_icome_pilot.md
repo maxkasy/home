@@ -10,7 +10,6 @@ header:
 
 ## Working papers
 
-
 1. [Cash Transfers, Mental Health, and Agency](https://maxkasy.github.io/home/files/papers/cash_mentalhealth_agency.pdf)
    - [Supplementary Appendix](https://maxkasy.github.io/home/files/papers/supplement_cash_mentalhealth_agency.pdf)
 2. [Basic income and labor supply: Evidence from an RCT in Germany](https://maxkasy.github.io/home/files/papers/basic_income_econ.pdf)
