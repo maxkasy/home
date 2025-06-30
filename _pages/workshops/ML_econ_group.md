@@ -56,7 +56,9 @@ Topic: **Scaling laws and the production function of AI**
   [High-dimensional analysis of double descent for linear regression with random projections](https://arxiv.org/abs/2303.01372)  
 - W6 Scaling laws in linear models (theory).  
   [Scaling Laws in Linear Regression: Compute, Parameters, and Data](https://arxiv.org/abs/2406.08466)  
-- W8 TBD
+- W8 Scaling and the means of prediction.  
+  [Empire of AI](https://www.penguinrandomhouse.com/books/743569/empire-of-ai-by-karen-hao/), chapter 5.  
+  [The means of prediction](https://press.uchicago.edu/ucp/books/book/chicago/M/bo255887145.html), chapter 11.  
 
 ### Trinity term 2025
 
