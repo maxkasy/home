@@ -3,24 +3,34 @@ title: Useful computational resources
 permalink: /computationlinks/
 ---
 ## Machine learning textbooks
+
+### General theory
 - **The Elements of Statistical Learning**  (General introduction to machine learning)  
   <https://web.stanford.edu/~hastie/Papers/ESLII.pdf>
-- **Understanding machine learning: From theory to algorithms**  (An introduction to statistical learning theory in the tradition of Vapnik)  
-  <https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf>
 - **Patterns, Predictions, and Actions**  (Another introduction, with a focus on pattern classification, and an discussion of causal and dynamic frameworks)  
   <https://mlstory.org/index.html>
+- **Understanding machine learning: From theory to algorithms**  (An introduction to statistical learning theory in the tradition of Vapnik)  
+  <https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf>
+- **Learning Theory from First Principles** (A rigorous overview of topics in current learning theory)  
+  <https://www.di.ens.fr/~fbach/ltfp_book.pdf>  
+  
+### Supervised learning
 - **Gaussian Processes for Machine Learning**  (Very useful tools for nonparametric Bayesian modeling)  
   <http://www.gaussianprocess.org/gpml/chapters/>  
 - **Deep Learning**  (The theory and implementation of neural nets)  
   <https://www.deeplearningbook.org/>  
+- **Speech and Language Processing**  (Natural language processing and language models)  
+  <https://web.stanford.edu/~jurafsky/slp3/>  
+  
+### Adaptive and adversarial learning
 - **Prediction, Learning, and Games**  (A principled adversarial - non-stochastic - framework for learning and online decision making)  
   <https://cesa-bianchi.di.unimi.it/predbook/>
 - **Introduction to Online Convex Optimization**  (An accessible introduction to adversarial learning and adaptive decision-making through the lens of optimization theory.)  
   <https://arxiv.org/abs/1909.05207v2> 
 - **Reinforcement learning - An introduction**  (Adaptive learning for Markov decision problems)  
   <http://www.incompleteideas.net/book/RLbook2018.pdf>
-- **Speech and Language Processing**  (Natural language processing and language models)  
-  <https://web.stanford.edu/~jurafsky/slp3/>  
+  
+### Algorithms
 - **Algorithms**  (Introduction to the theory of algorithms)  
   <http://jeffe.cs.illinois.edu/teaching/algorithms/>
 - **The Ethical Algorithm**  (How to impose normative constraints on ML and other algorithms)  
@@ -85,6 +95,8 @@ permalink: /computationlinks/
   <https://tobi.oetiker.ch/lshort/lshort.pdf>  
 - **Markdown** (a lightweight markup language)  
   <https://www.markdownguide.org/>  
+- **Obsidian** (great lightweight, hackable app using markdown, for note-taking, task-management, typesetting, ...)  
+  <https://obsidian.md/>
 - **Setting up a webpage using Jekyll and Github pages**  (Such as this webpage)  
 	- Getting started: <https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages>  
 	- The minimal-mistakes theme: <https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/>  
