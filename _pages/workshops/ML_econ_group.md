@@ -41,13 +41,24 @@ All faculty, post-docs, and doctoral students are invited to audit this course a
 
 
 ## Reading and discussion group
-
-### Trinity term 2025
-- Time: 2:30pm, Tuesdays in even weeks (that is, 6 May, 20 May, 3 June, and 17 June). 
-- Location: *SRF, Manor Road Building* (weeks 2, 6, and 8) and *Skills Lab, Manor Road Building* (week 4). 
+- Time: 2:30pm, Tuesdays in even weeks. 
+- Location: *Manor Road Building*.
 - There will be coffee and pastries!
 - For those who cannot make in person, please join via [Zoom](https://zoom.us/j/91261172120?pwd=RUUzdDZIeWd1bTlNWHFOU2doaDJEQT09).  
 
+### Hilary term 2026
+
+Topic: **Scaling laws and the production function of AI**
+- W2 Empirical scaling laws in LLMs.  
+  [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)  
+  [Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264)  
+- W4 Double descent in linear models (theory).  
+  [High-dimensional analysis of double descent for linear regression with random projections](https://arxiv.org/abs/2303.01372)  
+- W6 Scaling laws in linear models (theory).  
+  [Scaling Laws in Linear Regression: Compute, Parameters, and Data](https://arxiv.org/abs/2406.08466)  
+- W8 TBD
+
+### Trinity term 2025
 
 Topic: **The origins of data**  
 Curation thanks to [Johanna Barop](https://www.oii.ox.ac.uk/people/profiles/johanna-barop/)
