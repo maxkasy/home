@@ -16,9 +16,10 @@ Useful links: [computationlinks](/home/computationlinks/)
 
 ### Lecture slides
 
-<figure style="width: 50%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="/home/files/teaching/ML_Oxford_2025/overfitting_underfitting.png">
-</figure>
+</figure>  
+
 1. Supervised learning using Python
 [Jupyter Notebook](/home/files/teaching/ML_Oxford_summerschool_2025/supervised_learning_python.ipynb), [Html version](/home/files/teaching/ML_Oxford_summerschool_2025/supervised_learning_python.html)  
 Probably approximately correct learning theory
@@ -27,9 +28,6 @@ Probably approximately correct learning theory
 [Slides](/home/files/teaching/ML_Oxford_2025/normal_shrinkage_slides.pdf)
 3. Deep neural nets
 [Slides](/home/files/teaching/ML_Oxford_2025/neural_nets_slides.pdf)  
-<figure style="width: 50%" class="align-right">
-  <img src="/home/files/teaching/ML_Oxford_2025/neural_network.png">
-</figure>
 Conformal inference for prediction
 [Slides](/home/files/teaching/ML_Oxford_2025/conformal_slides.pdf)  
 4. Overview of online learning and active learning
@@ -42,9 +40,11 @@ Bandit problems
 [Slides](/home/files/teaching/ML_Oxford_2025/fairness_slides.pdf)  
 Differential privacy
 [Slides](/home/files/teaching/ML_Oxford_2025/differential_privacy_slides.pdf)  
-<figure style="width: 40%" class="align-right">
-  <img src="/home/files/teaching/ML_Oxford_2025/private_coinflip.png" >
-</figure>
+
+<figure style="width: 45%" class="align-right">
+  <img src="/home/files/teaching/ML_Oxford_2025/neural_network.png">
+</figure>  
+
 
 ### Problems for the practice sessions
 
