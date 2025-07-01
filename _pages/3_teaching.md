@@ -29,8 +29,8 @@ Reading group page: [Machine Learning and Economics](/home/ML_Econ_Oxford/)
 Class page 2024/25: [Topics_Econometrics_Oxford_2024](/home/Topics_Econometrics_Oxford_2024)  
 Class page 2023/24: [Topics_Econometrics_Oxford_2023](/home/Topics_Econometrics_Oxford_2023)  
 
-### Foundations of machine learning summer school (graduate, 2024)
-Class page: [ML_Oxford_summerschool_2024](/home/ML_Oxford_summerschool_2024)  
+### Foundations of machine learning summer school (graduate, 2025)
+Class page: [ML_Oxford_summerschool_2025](/home/ML_Oxford_summerschool_2025)  
 
 ### Labor economics (undergraduate, 2021)
 Class page: [Labor_Oxford_2021](/home/Labor_Oxford_2021)
