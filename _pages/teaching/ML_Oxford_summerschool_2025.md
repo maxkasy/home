@@ -4,7 +4,7 @@ permalink: /ML_Oxford_summerschool_2025/
 ---
 
 
-Tentative Syllabus: [Syllabus_ML_Oxford_summerschool_2025.pdf](/home/files/teaching/ML_Oxford_summerschool_2025/Syllabus_ML_Oxford_Summerschool_2025.pdf)  
+Syllabus: [Syllabus_ML_Oxford_summerschool_2025.pdf](/home/files/teaching/ML_Oxford_summerschool_2025/Syllabus_ML_Oxford_Summerschool_2025.pdf)  
 
 Summer school homepage: [september-summer-school](https://sites.google.com/view/ouess2025)  
 
@@ -40,7 +40,6 @@ Bandit problems
 [Slides](/home/files/teaching/ML_Oxford_2025/fairness_slides.pdf)  
 Differential privacy
 [Slides](/home/files/teaching/ML_Oxford_2025/differential_privacy_slides.pdf)  
-
 <figure style="width: 45%" class="align-right">
   <img src="/home/files/teaching/ML_Oxford_2025/neural_network.png">
 </figure>  
