@@ -11,9 +11,9 @@ header:
 ## Working papers
 
 1. [Cash Transfers, Mental Health, and Agency](https://maxkasy.github.io/home/files/papers/cash_mentalhealth_agency.pdf)
-   - [Supplementary Appendix](https://maxkasy.github.io/home/files/papers/supplement_cash_mentalhealth_agency.pdf)
-2. [Basic income and labor supply: Evidence from an RCT in Germany](https://maxkasy.github.io/home/files/papers/basic_income_econ.pdf)
-3. Coming soon: Money, Economic Preferences, and Political Attitudes
+   - [Supplementary Appendix](https://maxkasy.github.io/home/files/papers/onlineappendix_cash_mentalhealth_agency.pdf)
+1. [Basic income and labor supply: Evidence from an RCT in Germany](https://maxkasy.github.io/home/files/papers/basic_income_econ.pdf)
+2. Coming soon: Money, Economic Preferences, and Political Attitudes
 
 DIW report summarizing preliminary findings (in German):
 - [DIW Wochenbericht](https://www.diw.de/de/diw_01.c.945347.de/publikationen/wochenberichte/2025_15_1/pilotprojekt_grundeinkommen__kein_rueckzug_vom_arbeitsmarkt__aber_bessere_mentale_gesundheit.html)
