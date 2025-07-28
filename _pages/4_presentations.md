@@ -5,7 +5,10 @@ permalink: /presentations/
 
 **The Means of Prediction: How AI Really Works (And Who Benefits)**  
 September 2025, Harvard Kennedy School, Yale Law School  
-[Slides](/home/files/slides/meansofprediction_slides.pdf)  
+November 2025, Reference.point, Utrecht, Barbican, LSE, Imperial  
+December 2025 UC Berkeley (Matrix), Stanford (Silicon Valley Archive)  
+[Slides](/home/files/slides/meansofprediction_slides.pdf)   
+[Soundtrack](https://open.spotify.com/playlist/52l72Xt61OWGm8tb8vbiEZ?si=lI6KDGJlSp-4elDCNAzCpA&pi=-h7p7qx5RPeyX)  
 
 **Causal inference on endogenous social network formation**  
 June 2025, Oxford  
