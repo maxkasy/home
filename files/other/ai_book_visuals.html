@@ -1,0 +1,770 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Means of Prediction - Visual Presentation</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Courier+Prime:wght@400;700&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: #000;
+            color: #0ff;
+            font-family: 'Orbitron', monospace;
+            overflow: hidden;
+            height: 100vh;
+        }
+        
+        .slide-container {
+            position: relative;
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .slide {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            opacity: 0;
+            transition: opacity 2s ease-in-out;
+            background: radial-gradient(circle at center, #001122 0%, #000 70%);
+        }
+        
+        .slide.active {
+            opacity: 1;
+        }
+        
+        /* Terminal slide */
+        .terminal-slide {
+            background: linear-gradient(45deg, #000814, #001d3d);
+            font-family: 'Courier Prime', monospace;
+            padding: 40px;
+        }
+        
+        .terminal-window {
+            background: #000;
+            border: 2px solid #0ff;
+            border-radius: 10px;
+            padding: 20px;
+            max-width: 800px;
+            box-shadow: 0 0 50px #0ff;
+        }
+        
+        .terminal-header {
+            color: #0ff;
+            font-size: 18px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        
+        .terminal-text {
+            color: #0f0;
+            font-size: 16px;
+            line-height: 1.6;
+            animation: typewriter 4s steps(50) infinite;
+        }
+        
+        @keyframes typewriter {
+            0%, 100% { width: 0; }
+            50% { width: 100%; }
+        }
+        
+        /* Data visualization slide */
+        .data-viz-slide {
+            background: radial-gradient(circle at 30% 70%, #1e3a8a, #000);
+        }
+        
+        .data-network {
+            position: relative;
+            width: 600px;
+            height: 400px;
+        }
+        
+        .node {
+            position: absolute;
+            width: 12px;
+            height: 12px;
+            background: #0ff;
+            border-radius: 50%;
+            box-shadow: 0 0 10px #0ff;
+            animation: pulse 2s infinite;
+        }
+        
+        .connection {
+            position: absolute;
+            height: 2px;
+            background: linear-gradient(90deg, #0ff, transparent);
+            transform-origin: left center;
+            animation: dataFlow 3s infinite;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); opacity: 1; }
+            50% { transform: scale(1.5); opacity: 0.7; }
+        }
+        
+        @keyframes dataFlow {
+            0% { width: 0; opacity: 1; }
+            100% { width: 100%; opacity: 0; }
+        }
+        
+        /* Optimization slide */
+        .geometric-slide {
+            background: #000;
+            position: relative;
+        }
+        
+        .geometric-pattern {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background: 
+                linear-gradient(45deg, transparent 30%, #0ff 32%, #0ff 34%, transparent 36%),
+                linear-gradient(-45deg, transparent 30%, #ff0080 32%, #ff0080 34%, transparent 36%);
+            background-size: 60px 60px;
+            animation: geometricMove 8s linear infinite;
+            opacity: 0.3;
+        }
+        
+        @keyframes geometricMove {
+            0% { transform: translateX(0); }
+            100% { transform: translateX(60px); }
+        }
+        
+        .center-text {
+            z-index: 10;
+            font-size: 48px;
+            font-weight: 700;
+            text-align: center;
+            text-shadow: 0 0 20px currentColor;
+        }
+        
+        .optimization-container-fullscreen {
+            position: relative;
+            width: 100vw;
+            height: 100vh;
+        }
+        
+        .optimization-viz {
+            width: 100%;
+            height: 100%;
+            z-index: 5;
+        }
+        
+        .gradient-path {
+            stroke-dasharray: 300;
+            stroke-dashoffset: 300;
+            animation: drawGradientPath 4s ease-in-out infinite;
+        }
+        
+        .current-position {
+            filter: drop-shadow(0 0 10px #fff);
+        }
+        
+        @keyframes drawGradientPath {
+            0% { stroke-dashoffset: 300; }
+            100% { stroke-dashoffset: 0; }
+        }
+        
+        /* Diagram slides */
+        .diagram-slide {
+            background: linear-gradient(135deg, #0d1b2a, #1b263b);
+            flex-direction: column;
+            padding: 40px;
+        }
+        
+        .diagram-title {
+            font-size: 36px;
+            margin-bottom: 40px;
+            color: #0ff;
+            text-align: center;
+        }
+        
+        /* Overfitting diagram */
+        .overfitting-container {
+            width: 700px;
+            height: 400px;
+            margin: 20px 0;
+        }
+        
+        .overfitting-chart {
+            width: 100%;
+            height: 100%;
+        }
+        
+        .animated-curve {
+            stroke-dasharray: 1000;
+            stroke-dashoffset: 1000;
+            animation: drawCurveSmooth 6s ease-in-out infinite;
+        }
+        
+        .in-sample {
+            animation-delay: 0s;
+        }
+        
+        .out-sample {
+            animation-delay: 2s;
+        }
+        
+        @keyframes drawCurveSmooth {
+            0% { stroke-dashoffset: 1000; }
+            30%, 70% { stroke-dashoffset: 0; }
+            100% { stroke-dashoffset: -1000; }
+        }
+        
+        /* Neural Network */
+        .neural-network-container {
+            width: 800px;
+            height: 400px;
+            margin: 20px 0;
+        }
+        
+        .neural-network {
+            width: 100%;
+            height: 100%;
+        }
+        
+        .neuron {
+            filter: drop-shadow(0 0 8px currentColor);
+            animation: neuronPulse 3s ease-in-out infinite;
+        }
+        
+        .connection {
+            animation: connectionFlow 4s ease-in-out infinite;
+        }
+        
+        .input-to-hidden1 .connection {
+            animation-delay: 0s;
+        }
+        
+        .hidden1-to-hidden2 .connection {
+            animation-delay: 1s;
+        }
+        
+        .hidden2-to-output .connection {
+            animation-delay: 2s;
+        }
+        
+        @keyframes neuronPulse {
+            0%, 100% { r: 15; opacity: 0.8; }
+            50% { r: 18; opacity: 1; }
+        }
+        
+        @keyframes connectionFlow {
+            0%, 100% { opacity: 0.3; stroke-width: 1; }
+            50% { opacity: 0.9; stroke-width: 2; }
+        }
+        
+        /* Production Function */
+        .production-container {
+            width: 600px;
+            height: 400px;
+            margin: 20px 0;
+        }
+        
+        .production-chart {
+            width: 100%;
+            height: 100%;
+        }
+        
+        .old-tech {
+            animation-delay: 0s;
+        }
+        
+        .new-tech {
+            animation-delay: 2s;
+        }
+        
+        /* Matrix rain slide */
+        /* .matrix-slide {
+            background: #000;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .matrix-rain {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            font-family: 'Courier Prime', monospace;
+            font-size: 14px;
+            color: #0f0;
+        }
+        
+        .matrix-column {
+            position: absolute;
+            animation: matrixFall 3s linear infinite;
+        }
+        
+        @keyframes matrixFall {
+            0% { transform: translateY(-100vh); opacity: 1; }
+            100% { transform: translateY(100vh); opacity: 0; }
+        } */
+        
+        .overlay-text {
+            position: absolute;
+            z-index: 10;
+            font-size: 64px;
+            font-weight: 900;
+            color: #fff;
+            text-shadow: 0 0 20px #0ff;
+            animation: glow 2s ease-in-out infinite alternate;
+        }
+        
+        @keyframes glow {
+            from { text-shadow: 0 0 20px #0ff, 0 0 30px #0ff; }
+            to { text-shadow: 0 0 30px #ff0080, 0 0 40px #ff0080; }
+        }
+        
+        /* Glitch art slide */
+        .glitch-slide {
+            background: linear-gradient(135deg, #ff006e, #8338ec, #3a86ff);
+            animation: glitchBg 3s infinite;
+        }
+        
+        .glitch-text {
+            font-size: 72px;
+            font-weight: 900;
+            text-transform: uppercase;
+            position: relative;
+            color: #fff;
+            animation: glitch 2s infinite;
+        }
+        
+        .glitch-text::before,
+        .glitch-text::after {
+            content: attr(data-text);
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+        
+        .glitch-text::before {
+            animation: glitchTop 1s infinite;
+            clip-path: polygon(0 0, 100% 0, 100% 35%, 0 35%);
+            color: #ff006e;
+        }
+        
+        .glitch-text::after {
+            animation: glitchBottom 1.5s infinite;
+            clip-path: polygon(0 65%, 100% 65%, 100% 100%, 0 100%);
+            color: #00f5ff;
+        }
+        
+        @keyframes glitch {
+            2%, 64% { transform: translate(2px, 0) skew(0deg); }
+            4%, 60% { transform: translate(-2px, 0) skew(0deg); }
+            62% { transform: translate(0, 0) skew(5deg); }
+        }
+        
+        @keyframes glitchTop {
+            2%, 64% { transform: translate(2px, -2px); }
+            4%, 60% { transform: translate(-2px, 2px); }
+            62% { transform: translate(13px, -1px) skew(-13deg); }
+        }
+        
+        @keyframes glitchBottom {
+            2%, 64% { transform: translate(-2px, 0); }
+            4%, 60% { transform: translate(-2px, 0); }
+            62% { transform: translate(-22px, 5px) skew(21deg); }
+        }
+        
+        @keyframes glitchBg {
+            0%, 100% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <!-- Slide 1: Terminal Introduction -->
+        <div class="slide terminal-slide active">
+            <div class="terminal-window">
+                <div class="terminal-header">INITIALIZING PREDICTION SYSTEMS...</div>
+                <div class="terminal-text">
+                    > LOADING ALGORITHMIC FRAMEWORKS<br>
+                    > ANALYZING OPTIMIZATION PARAMETERS<br>
+                    > DETECTING IDEOLOGICAL OBFUSCATION<br>
+                    > READY FOR DEMOCRATIC INTERVENTION
+                </div>
+            </div>
+        </div>
+        
+        <!-- Slide 2: Data Network Visualization -->
+        <div class="slide data-viz-slide">
+            <div class="data-network" id="network">
+                <!-- Nodes and connections will be generated by JavaScript -->
+            </div>
+        </div>
+        
+        <!-- Slide 3: Optimization with Gradient Descent -->
+        <div class="slide geometric-slide">
+            <div class="center-text">OPTIMIZATION</div>
+            <div class="geometric-pattern"></div>
+            <div class="optimization-container-fullscreen">
+                <svg class="optimization-viz" viewBox="0 0 1200 600">
+                    <defs>
+                        <radialGradient id="surface" cx="50%" cy="30%" r="50%">
+                            <stop offset="0%" style="stop-color:#ff0080;stop-opacity:0.8"/>
+                            <stop offset="50%" style="stop-color:#8338ec;stop-opacity:0.6"/>
+                            <stop offset="100%" style="stop-color:#0ff;stop-opacity:0.3"/>
+                        </radialGradient>
+                        <marker id="arrowhead3" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+                            <polygon points="0 0, 10 3.5, 0 7" fill="#fff"/>
+                        </marker>
+                    </defs>
+                    
+                    <!-- Error surface contours -->
+                    <ellipse cx="600" cy="250" rx="400" ry="120" fill="url(#surface)" opacity="0.3"/>
+                    <ellipse cx="600" cy="250" rx="300" ry="90" fill="none" stroke="#0ff" stroke-width="1" opacity="0.4"/>
+                    <ellipse cx="600" cy="250" rx="200" ry="60" fill="none" stroke="#0ff" stroke-width="1" opacity="0.6"/>
+                    <ellipse cx="600" cy="250" rx="100" ry="30" fill="none" stroke="#0ff" stroke-width="1" opacity="0.8"/>
+                    
+                    <!-- Gradient descent path -->
+                    <path d="M 900 350 Q 800 320 700 290 Q 640 265 600 250" 
+                          stroke="#ff0080" stroke-width="4" fill="none" 
+                          filter="drop-shadow(0 0 8px #ff0080)"
+                          class="gradient-path"/>
+                    
+                    <!-- Current position dot -->
+                    <circle cx="600" cy="250" r="12" fill="#fff" class="current-position">
+                        <animate attributeName="cx" values="900;800;700;640;600" dur="4s" repeatCount="indefinite"/>
+                        <animate attributeName="cy" values="350;320;290;265;250" dur="4s" repeatCount="indefinite"/>
+                    </circle>
+                    
+                    <!-- Gradient vectors -->
+                    <g class="gradient-arrows">
+                        <line x1="900" y1="350" x2="860" y2="330" stroke="#fff" stroke-width="3" marker-end="url(#arrowhead3)" opacity="0.8">
+                            <animate attributeName="opacity" values="0.8;0;0.8" dur="4s" repeatCount="indefinite"/>
+                        </line>
+                        <line x1="800" y1="320" x2="760" y2="300" stroke="#fff" stroke-width="3" marker-end="url(#arrowhead3)" opacity="0.6">
+                            <animate attributeName="opacity" values="0;0.6;0;0" dur="4s" repeatCount="indefinite"/>
+                        </line>
+                        <line x1="700" y1="290" x2="660" y2="270" stroke="#fff" stroke-width="3" marker-end="url(#arrowhead3)" opacity="0.4">
+                            <animate attributeName="opacity" values="0;0;0.4;0;0" dur="4s" repeatCount="indefinite"/>
+                        </line>
+                    </g>
+                </svg>
+            </div>
+        </div>
+        
+        <!-- Slide 4: Overfitting Diagram (exact TikZ coordinates) -->
+        <div class="slide diagram-slide">
+            <div class="overfitting-container">
+                <svg class="overfitting-chart" viewBox="0 0 800 480">
+                    <defs>
+                        <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+                            <polygon points="0 0, 10 3.5, 0 7" fill="#0ff"/>
+                        </marker>
+                    </defs>
+                    <!-- Axes (scaled from TikZ coordinates) -->
+                    <line x1="80" y1="400" x2="720" y2="400" stroke="#0ff" stroke-width="2" marker-end="url(#arrowhead)"/>
+                    <line x1="80" y1="400" x2="80" y2="80" stroke="#0ff" stroke-width="2" marker-end="url(#arrowhead)"/>
+                    
+                    <!-- Axis labels -->
+                    <text x="50" y="240" fill="#0ff" text-anchor="middle" font-family="Orbitron" font-size="14" transform="rotate(-90 50 240)">Prediction Error</text>
+                    <text x="400" y="480" fill="#0ff" text-anchor="middle" font-family="Orbitron" font-size="18">Model complexity</text>
+                    
+                    <!-- Underfitting/Overfitting labels -->
+                    <text x="120" y="450" fill="#ff0080" text-anchor="middle" font-family="Orbitron" font-size="12">Underfitting</text>
+                    <text x="680" y="450" fill="#ff0080" text-anchor="middle" font-family="Orbitron" font-size="12">Overfitting</text>
+                    
+                    <!-- In-sample error curve: (0,5) (2,3.2) (4,2) (6,1.4) (8,1.1) (10,1) -->
+                    <path d="M 80 120 Q 208 230 336 280 Q 464 320 592 350 Q 656 365 720 375" 
+                          stroke="#ff0080" stroke-width="3" fill="none" 
+                          filter="drop-shadow(0 0 5px #ff0080)"
+                          class="animated-curve in-sample"/>
+                    
+                    <!-- Out-of-sample error curve: smooth convex U-shape with raised midpoint -->
+                    <path d="M 80 110 C 200 160, 300 180, 400 190 C 500 180, 600 160, 720 110" 
+                          stroke="#0ff" stroke-width="3" fill="none" stroke-dasharray="8,4"
+                          filter="drop-shadow(0 0 5px #0ff)"
+                          class="animated-curve out-sample"/>
+                    
+                    <!-- Curve labels -->
+                    <text x="600" y="340" fill="#ff0080" font-family="Orbitron" font-size="12">In sample</text>
+                    <text x="560" y="130" fill="#0ff" font-family="Orbitron" font-size="12">Out of sample</text>
+                </svg>
+            </div>
+        </div>
+        
+        <!-- Slide 5: Neural Network Diagram -->
+        <div class="slide diagram-slide">
+            <div class="neural-network-container">
+                <svg class="neural-network" viewBox="0 0 800 400">
+                    <!-- Input Layer Neurons -->
+                    <g class="input-layer">
+                        <circle cx="100" cy="150" r="15" fill="#0ff" class="neuron"/>
+                        <circle cx="100" cy="200" r="15" fill="#0ff" class="neuron"/>
+                        <circle cx="100" cy="250" r="15" fill="#0ff" class="neuron"/>
+                        <text x="100" y="120" fill="#0ff" text-anchor="middle" font-family="Orbitron" font-size="12">Input Layer</text>
+                    </g>
+                    
+                    <!-- Hidden Layer 1 Neurons -->
+                    <g class="hidden-layer-1">
+                        <circle cx="300" cy="125" r="15" fill="#ff0080" class="neuron"/>
+                        <circle cx="300" cy="175" r="15" fill="#ff0080" class="neuron"/>
+                        <circle cx="300" cy="225" r="15" fill="#ff0080" class="neuron"/>
+                        <circle cx="300" cy="275" r="15" fill="#ff0080" class="neuron"/>
+                        <text x="300" y="95" fill="#ff0080" text-anchor="middle" font-family="Orbitron" font-size="12">Hidden Layer 1</text>
+                    </g>
+                    
+                    <!-- Hidden Layer 2 Neurons -->
+                    <g class="hidden-layer-2">
+                        <circle cx="500" cy="125" r="15" fill="#ff0080" class="neuron"/>
+                        <circle cx="500" cy="175" r="15" fill="#ff0080" class="neuron"/>
+                        <circle cx="500" cy="225" r="15" fill="#ff0080" class="neuron"/>
+                        <circle cx="500" cy="275" r="15" fill="#ff0080" class="neuron"/>
+                        <text x="500" y="95" fill="#ff0080" text-anchor="middle" font-family="Orbitron" font-size="12">Hidden Layer 2</text>
+                    </g>
+                    
+                    <!-- Output Layer Neurons -->
+                    <g class="output-layer">
+                        <circle cx="700" cy="175" r="15" fill="#00ff00" class="neuron"/>
+                        <circle cx="700" cy="225" r="15" fill="#00ff00" class="neuron"/>
+                        <text x="700" y="145" fill="#00ff00" text-anchor="middle" font-family="Orbitron" font-size="12">Output Layer</text>
+                    </g>
+                    
+                    <!-- Connections -->
+                    <g class="connections input-to-hidden1">
+                        <line x1="115" y1="150" x2="285" y2="125" stroke="#0ff" stroke-width="1" opacity="0.6" class="connection"/>
+                        <line x1="115" y1="150" x2="285" y2="175" stroke="#0ff" stroke-width="1" opacity="0.6" class="connection"/>
+                        <line x1="115" y1="150" x2="285" y2="225" stroke="#0ff" stroke-width="1" opacity="0.6" class="connection"/>
+                        <line x1="115" y1="150" x2="285" y2="275" stroke="#0ff" stroke-width="1" opacity="0.6" class="connection"/>
+                        
+                        <line x1="115" y1="200" x2="285" y2="125" stroke="#0ff" stroke-width="1" opacity="0.6" class="connection"/>
+                        <line x1="115" y1="200" x2="285" y2="175" stroke="#0ff" stroke-width="1" opacity="0.6" class="connection"/>
+                        <line x1="115" y1="200" x2="285" y2="225" stroke="#0ff" stroke-width="1" opacity="0.6" class="connection"/>
+                        <line x1="115" y1="200" x2="285" y2="275" stroke="#0ff" stroke-width="1" opacity="0.6" class="connection"/>
+                        
+                        <line x1="115" y1="250" x2="285" y2="125" stroke="#0ff" stroke-width="1" opacity="0.6" class="connection"/>
+                        <line x1="115" y1="250" x2="285" y2="175" stroke="#0ff" stroke-width="1" opacity="0.6" class="connection"/>
+                        <line x1="115" y1="250" x2="285" y2="225" stroke="#0ff" stroke-width="1" opacity="0.6" class="connection"/>
+                        <line x1="115" y1="250" x2="285" y2="275" stroke="#0ff" stroke-width="1" opacity="0.6" class="connection"/>
+                    </g>
+                    
+                    <!-- Hidden 1 to Hidden 2 -->
+                    <g class="connections hidden1-to-hidden2">
+                        <line x1="315" y1="125" x2="485" y2="125" stroke="#ff0080" stroke-width="1" opacity="0.6" class="connection"/>
+                        <line x1="315" y1="125" x2="485" y2="175" stroke="#ff0080" stroke-width="1" opacity="0.6" class="connection"/>
+                        <line x1="315" y1="125" x2="485" y2="225" stroke="#ff0080" stroke-width="1" opacity="0.6" class="connection"/>
+                        <line x1="315" y1="125" x2="485" y2="275" stroke="#ff0080" stroke-width="1" opacity="0.6" class="connection"/>
+                        
+                        <line x1="315" y1="175" x2="485" y2="125" stroke="#ff0080" stroke-width="1" opacity="0.6" class="connection"/>
+                        <line x1="315" y1="175" x2="485" y2="175" stroke="#ff0080" stroke-width="1" opacity="0.6" class="connection"/>
+                        <line x1="315" y1="175" x2="485" y2="225" stroke="#ff0080" stroke-width="1" opacity="0.6" class="connection"/>
+                        <line x1="315" y1="175" x2="485" y2="275" stroke="#ff0080" stroke-width="1" opacity="0.6" class="connection"/>
+                        
+                        <line x1="315" y1="225" x2="485" y2="125" stroke="#ff0080" stroke-width="1" opacity="0.6" class="connection"/>
+                        <line x1="315" y1="225" x2="485" y2="175" stroke="#ff0080" stroke-width="1" opacity="0.6" class="connection"/>
+                        <line x1="315" y1="225" x2="485" y2="225" stroke="#ff0080" stroke-width="1" opacity="0.6" class="connection"/>
+                        <line x1="315" y1="225" x2="485" y2="275" stroke="#ff0080" stroke-width="1" opacity="0.6" class="connection"/>
+                        
+                        <line x1="315" y1="275" x2="485" y2="125" stroke="#ff0080" stroke-width="1" opacity="0.6" class="connection"/>
+                        <line x1="315" y1="275" x2="485" y2="175" stroke="#ff0080" stroke-width="1" opacity="0.6" class="connection"/>
+                        <line x1="315" y1="275" x2="485" y2="225" stroke="#ff0080" stroke-width="1" opacity="0.6" class="connection"/>
+                        <line x1="315" y1="275" x2="485" y2="275" stroke="#ff0080" stroke-width="1" opacity="0.6" class="connection"/>
+                    </g>
+                    
+                    <!-- Hidden 2 to Output -->
+                    <g class="connections hidden2-to-output">
+                        <line x1="515" y1="125" x2="685" y2="175" stroke="#00ff00" stroke-width="1" opacity="0.6" class="connection"/>
+                        <line x1="515" y1="125" x2="685" y2="225" stroke="#00ff00" stroke-width="1" opacity="0.6" class="connection"/>
+                        <line x1="515" y1="175" x2="685" y2="175" stroke="#00ff00" stroke-width="1" opacity="0.6" class="connection"/>
+                        <line x1="515" y1="175" x2="685" y2="225" stroke="#00ff00" stroke-width="1" opacity="0.6" class="connection"/>
+                        <line x1="515" y1="225" x2="685" y2="175" stroke="#00ff00" stroke-width="1" opacity="0.6" class="connection"/>
+                        <line x1="515" y1="225" x2="685" y2="225" stroke="#00ff00" stroke-width="1" opacity="0.6" class="connection"/>
+                        <line x1="515" y1="275" x2="685" y2="175" stroke="#00ff00" stroke-width="1" opacity="0.6" class="connection"/>
+                        <line x1="515" y1="275" x2="685" y2="225" stroke="#00ff00" stroke-width="1" opacity="0.6" class="connection"/>
+                    </g>
+                </svg>
+            </div>
+        </div>
+        
+        <!-- Slide 6: Matrix Rain -->
+        <!-- <div class="slide matrix-slide">
+            <div class="matrix-rain" id="matrix"></div>
+            <div class="overlay-text">PREDICTION</div>
+        </div> -->
+        
+        <!-- Slide 7: Production Function (exact TikZ coordinates) -->
+        <div class="slide diagram-slide">
+            <div class="diagram-title">AUTOMATION & LABOR PRODUCTIVITY</div>
+            <div class="production-container">
+                <svg class="production-chart" viewBox="0 0 600 400">
+                    <defs>
+                        <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+                            <polygon points="0 0, 10 3.5, 0 7" fill="#0ff"/>
+                        </marker>
+                    </defs>
+                    <!-- Axes: 0 to 6 on x, 0 to 5 on y, scaled to viewBox -->
+                    <line x1="50" y1="350" x2="550" y2="350" stroke="#0ff" stroke-width="2" marker-end="url(#arrowhead2)"/>
+                    <line x1="50" y1="350" x2="50" y2="50" stroke="#0ff" stroke-width="2" marker-end="url(#arrowhead2)"/>
+                    
+                    <!-- Axis labels -->
+                    <text x="300" y="380" fill="#0ff" text-anchor="middle" font-family="Orbitron" font-size="14">Number of workers</text>
+                    <text x="25" y="200" fill="#0ff" text-anchor="middle" font-family="Orbitron" font-size="14" transform="rotate(-90 25 200)">Output of the firm</text>
+                    
+                    <!-- Old technology: x^(3/4) for domain 0 to 5.5 -->
+                    <!-- Key points: x=0→y=0, x=1→y=1, x=2→y=1.68, x=3→y=2.28, x=4→y=2.83, x=5→y=3.34, x=5.5→y=3.57 -->
+                    <path d="M 50 350 Q 134 290 217 248 Q 300 218 383 178 Q 467 147 550 128" 
+                          stroke="#ff0080" stroke-width="3" fill="none" 
+                          filter="drop-shadow(0 0 5px #ff0080)"
+                          class="animated-curve old-tech"/>
+                    
+                    <!-- New technology: 3*x^(1/5) for domain 0 to 5.5 -->
+                    <!-- Key points: x=0→y=0, x=1→y=3, x=2→y=3.38, x=3→y=3.65, x=4→y=3.85, x=5→y=4.02, x=5.5→y=4.11 -->
+                    <path d="M 50 350 Q 134 148 217 143 Q 300 134 383 127 Q 467 120 550 115" 
+                          stroke="#0ff" stroke-width="3" fill="none" stroke-dasharray="8,4"
+                          filter="drop-shadow(0 0 5px #0ff)"
+                          class="animated-curve new-tech"/>
+                    
+                    <!-- Vertical dashed line at x=3 -->
+                    <line x1="300" y1="218" x2="300" y2="134" stroke="#fff" stroke-width="2" stroke-dasharray="4,2" opacity="0.8"/>
+                    
+                    <!-- Tangent line for old technology (steeper slope) -->
+                    <line x1="267" y1="230" x2="333" y2="200" stroke="#ff0080" stroke-width="2" opacity="0.7"/>
+                    
+                    <!-- Tangent line for new technology (flatter slope) -->
+                    <line x1="267" y1="138" x2="333" y2="130" stroke="#0ff" stroke-width="2" opacity="0.7"/>
+                    
+                    <!-- Curve labels -->
+                    <text x="460" y="200" fill="#ff0080" font-family="Orbitron" font-size="12">Old technology</text>
+                    <text x="460" y="108" fill="#0ff" font-family="Orbitron" font-size="12">New technology</text>
+                    <text x="250" y="180" fill="#fff" font-family="Orbitron" font-size="11">Flatter slope</text>
+                </svg>
+            </div>
+        </div>
+        
+        <!-- Slide 8: Final Glitch -->
+        <div class="slide glitch-slide">
+            <div class="glitch-text" data-text="CONTROL">CONTROL</div>
+        </div>
+    </div>
+
+    <script>
+        // Slide rotation
+        let currentSlide = 0;
+        const slides = document.querySelectorAll('.slide');
+        const totalSlides = slides.length;
+        
+        function showSlide(index) {
+            slides.forEach(slide => slide.classList.remove('active'));
+            slides[index].classList.add('active');
+        }
+        
+        function nextSlide() {
+            currentSlide = (currentSlide + 1) % totalSlides;
+            showSlide(currentSlide);
+        }
+        
+        // Change slide every 15 seconds
+        setInterval(nextSlide, 15000);
+        
+        // Generate network nodes
+        function createNetwork() {
+            const network = document.getElementById('network');
+            if (!network) return;
+            
+            const nodes = [];
+            
+            // Create nodes
+            for (let i = 0; i < 20; i++) {
+                const node = document.createElement('div');
+                node.className = 'node';
+                node.style.left = Math.random() * 580 + 'px';
+                node.style.top = Math.random() * 380 + 'px';
+                node.style.animationDelay = Math.random() * 2 + 's';
+                network.appendChild(node);
+                nodes.push(node);
+            }
+            
+            // Create connections
+            for (let i = 0; i < 15; i++) {
+                const connection = document.createElement('div');
+                connection.className = 'connection';
+                const startNode = nodes[Math.floor(Math.random() * nodes.length)];
+                const endNode = nodes[Math.floor(Math.random() * nodes.length)];
+                
+                const startX = parseInt(startNode.style.left);
+                const startY = parseInt(startNode.style.top);
+                const endX = parseInt(endNode.style.left);
+                const endY = parseInt(endNode.style.top);
+                
+                const distance = Math.sqrt((endX - startX) ** 2 + (endY - startY) ** 2);
+                const angle = Math.atan2(endY - startY, endX - startX) * 180 / Math.PI;
+                
+                connection.style.left = startX + 'px';
+                connection.style.top = startY + 'px';
+                connection.style.width = distance + 'px';
+                connection.style.transform = `rotate(${angle}deg)`;
+                connection.style.animationDelay = Math.random() * 3 + 's';
+                
+                network.appendChild(connection);
+            }
+        }
+        
+        // Generate matrix rain
+        // function createMatrix() {
+        //     const matrix = document.getElementById('matrix');
+        //     const chars = '01アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲン';
+            
+        //     for (let i = 0; i < 50; i++) {
+        //         const column = document.createElement('div');
+        //         column.className = 'matrix-column';
+        //         column.style.left = Math.random() * 100 + '%';
+        //         column.style.animationDelay = Math.random() * 3 + 's';
+        //         column.style.animationDuration = (3 + Math.random() * 2) + 's';
+                
+        //         let columnText = '';
+        //         for (let j = 0; j < 20; j++) {
+        //             columnText += chars[Math.floor(Math.random() * chars.length)] + '<br>';
+        //         }
+        //         column.innerHTML = columnText;
+                
+        //         matrix.appendChild(column);
+        //     }
+        // }
+        
+        // Initialize after DOM is ready
+        // function initialize() {
+        //     console.log('Initializing...');
+        // createMatrix();
+        createNetwork();
+        // }
+        
+        // Wait for DOM to be ready
+        // if (document.readyState === 'loading') {
+        //     document.addEventListener('DOMContentLoaded', initialize);
+        // } else {
+        //     initialize();
+        // }
+        
+        // Keyboard controls for manual navigation
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowRight' || e.key === ' ') {
+                nextSlide();
+            } else if (e.key === 'ArrowLeft') {
+                currentSlide = (currentSlide - 1 + totalSlides) % totalSlides;
+                showSlide(currentSlide);
+            }
+        });
+    </script>
+</body>
+</html>
