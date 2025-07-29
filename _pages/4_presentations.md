@@ -3,6 +3,10 @@ title: Presentations
 permalink: /presentations/
 ---
 
+<div style="float: right; width: 45%; margin-left: 2em;">
+  <iframe src="/home/files/other/ai_book_visuals.html" width="100%" height="500" frameborder="0" allowfullscreen></iframe>
+</div>
+
 **Book talk: The Means of Prediction: How AI Really Works (And Who Benefits)**  
 September 2025, Harvard Kennedy School, Yale Law School  
 November 2025, Reference.point, Utrecht, Barbican, LSE, Imperial  
