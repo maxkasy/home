@@ -1,5 +1,5 @@
 ---
-title: Core Econometrics, Instrumental variables - Oxford, 2025
+title: Core Econometrics, instrumental variables - Oxford, 2025
 permalink: /Core_Econometrics_Oxford_2025/
 ---
 
@@ -16,9 +16,10 @@ permalink: /Core_Econometrics_Oxford_2025/
 
 
 
-### Problem sets
+### Homework
 
-
+1. [Homework week 6](/home/files/teaching/Core_Econometrics_Oxford_2025/core_econometrics_HW6_2025.pdf)
+1. [Homework week 7](/home/files/teaching/Core_Econometrics_Oxford_2025/core_econometrics_HW7_2025.pdf)
 
 
 
