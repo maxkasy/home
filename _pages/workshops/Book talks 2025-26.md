@@ -14,7 +14,7 @@ permalink: /presentations/booktalks
   [EAAMO conference](https://conference.eaamo.org/)
 - **Nov 11**: Utrecht  
 - **Nov 13** (*not confirmed*): Barbican London  
-  [Barbican evens](https://www.barbican.org.uk/whats-on/talks-events)
+  [Barbican events](https://www.barbican.org.uk/whats-on/talks-events)
 - **Nov 20**: London School of Economics (Economics)  
 - **Nov 28**: Digital Economics conference / Imperial College London  
   [Digital Economics conference](https://competitionpolicy.ac.uk/events/4th-workshop-on-digital-economics/)

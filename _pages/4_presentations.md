@@ -5,11 +5,11 @@ permalink: /presentations/
 
 **Book talk: The Means of Prediction: How AI Really Works (And Who Benefits)**  
 September 2025, MIT Knight Science Journalism, Harvard Kennedy School, Yale Law School  
-November 2025, Reference.point, EAAMO local Oxford, Utrecht, Barbican, LSE, Imperial College London 
+November 2025, Reference.point, EAAMO local Oxford, Utrecht, Barbican, LSE, Imperial College London  
 December 2025 UC Berkeley (Matrix), Stanford (Silicon Valley Archive), UC Davis  
-[Slides](/home/files/slides/meansofprediction_slides.pdf)   
+[Slides (short version)](/home/files/slides/meansofprediction_slides_short.pdf), [Slides (long version)](/home/files/slides/meansofprediction_slides_long.pdf)   
 [List of events](/home/presentations/booktalks)  
-[Soundtrack](https://open.spotify.com/playlist/52l72Xt61OWGm8tb8vbiEZ?si=lI6KDGJlSp-4elDCNAzCpA&pi=-h7p7qx5RPeyX)  
+[Soundtrack](https://open.spotify.com/playlist/52l72Xt61OWGm8tb8vbiEZ?si=lI6KDGJlSp-4elDCNAzCpA&pi=-h7p7qx5RPeyX), 
 [Visuals](/home/files/other/ai_book_visuals.html)  
 
 **Causal inference on endogenous social network formation**  
