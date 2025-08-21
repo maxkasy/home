@@ -11,12 +11,21 @@ permalink: /research/
 
 **The Means of Prediction: How AI Really Works (and Who Benefits)**  
   Book  
-  *University of Chicago Press, forthcoming fall 2025*  
+  *University of Chicago Press, October 2025*  
   Pre-order here: [The Means of Prediction](https://press.uchicago.edu/ucp/books/book/chicago/M/bo255887145.html)
 
 
 
 ## Working papers
+
+**Employing the unemployed of Marienthal: Evaluation of a guaranteed job program**  
+  (joint with Lukas Lehner)  
+  *Revise and resubmit, AEJ:Policy, 2025*  
+  Manuscript: [Jobguarantee_marienthal.pdf](/home/files/papers/Jobguarantee_marienthal.pdf)  
+  Appendix: [Appendix_marienthal.pdf](/home/files/papers/Appendix_marienthal.pdf)  
+  Code (study design): [https://github.com/maxkasy/Marienthal](https://github.com/maxkasy/Marienthal)  
+  Code (data analysis): [https://github.com/maxkasy/Marienthal_Analysis](https://github.com/maxkasy/Marienthal_Analysis)  
+  Pre-analysis plan: [PAP_job_guarantee_Marienthal.pdf](/home/files/other/PAP_job_guarantee_Marienthal.pdf), registered as [AEARCTR-0006706](https://www.socialscienceregistry.org/trials/6706)  
 
 **Optimal Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
   (joint with Jann Spiess)  
@@ -30,15 +39,6 @@ permalink: /research/
   Project website: [Basic income pilot study](/home/basic_income_pilot/)  
   Working paper 1: [Cash Transfers, Mental Health, and Agency](https://maxkasy.github.io/home/files/papers/cash_mentalhealth_agency.pdf)  
   Working paper 2: [Basic income and labor supply: Evidence from an RCT in Germany](https://maxkasy.github.io/home/files/papers/basic_income_econ.pdf)  
-
-**Employing the unemployed of Marienthal: Evaluation of a guaranteed job program**  
-  (joint with Lukas Lehner)  
-  *Working paper, 2024*  
-  Manuscript: [Jobguarantee_marienthal.pdf](/home/files/papers/Jobguarantee_marienthal.pdf)  
-  Appendix: [Appendix_marienthal.pdf](/home/files/papers/Appendix_marienthal.pdf)  
-  Code (study design): [https://github.com/maxkasy/Marienthal](https://github.com/maxkasy/Marienthal)  
-  Code (data analysis): [https://github.com/maxkasy/Marienthal_Analysis](https://github.com/maxkasy/Marienthal_Analysis)  
-  Pre-analysis plan: [PAP_job_guarantee_Marienthal.pdf](/home/files/other/PAP_job_guarantee_Marienthal.pdf), registered as [AEARCTR-0006706](https://www.socialscienceregistry.org/trials/6706)  
 
 **Evidence aggregation and meta-analysis: A toolkit for economists**  
   (joint with Peter Ganong and Avik Garg)  
