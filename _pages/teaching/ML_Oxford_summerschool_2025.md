@@ -21,7 +21,7 @@ Useful links: [computationlinks](/home/computationlinks/)
 </figure>  
 
 1. Supervised learning using Python
-[Jupyter Notebook](/home/files/teaching/ML_Oxford_summerschool_2025/supervised_learning_python.ipynb), [Html version](/home/files/teaching/ML_Oxford_summerschool_2025/supervised_learning_python.html)  
+[Jupyter Notebook](/home/files/teaching/ML_Oxford_2025/supervised_learning_python.ipynb), [Html version](//home/files/teaching/ML_Oxford_2025/supervised_learning_python.html)  
 Probably approximately correct learning theory
 [Slides](/home/files/teaching/ML_Oxford_2025/pac_learning_slides.pdf)  
 2. Shrinkage in the normal means model
