@@ -2,13 +2,15 @@
 title: Book talks 2025-26
 permalink: /presentations/booktalks
 ---
+- **Sep 11**: ETH Zurich (virtual)  
+  [Zoom link](https://ethz.zoom.us/j/6654465706?omn=66589950899)  
 - **Sep 23**: MIT Knight Science Journalism program  
   [KSJ events](https://ksj.mit.edu/events/)
 - **Sep 24**: Harvard Kennedy School (including discussion with Dani Rodrik)  
   [HKS booktalk](https://www.hks.harvard.edu/events/book-presentation-means-prediction-how-ai-really-works)
 - **Sep 25**: Yale Law School (Legal Theory Workshop / Law Economics and Organization workshop)  
   [YLS events](https://law.yale.edu/centers-workshops/law-economics-organization-workshop)
-- **Nov 3**: Reference.point London (Book launch party)  
+- **Nov 3**: Reference.point London (Book launch party, including discussion with Noam Yuchtman)    
   [Reference.point](https://www.reference-point.uk/), [Reference.point events](https://www.eventbrite.co.uk/o/reference-point-41139473493)
 - **Nov 6**: EAAMO local keynote (Oxford)  
   [EAAMO conference](https://conference.eaamo.org/)
