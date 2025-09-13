@@ -11,7 +11,7 @@ permalink: /presentations/booktalks
 - **Sep 25**: Yale Law School (Legal Theory Workshop / Law Economics and Organization workshop)  
   [YLS events](https://law.yale.edu/centers-workshops/law-economics-organization-workshop)
 - **Nov 3**: Reference.point London (Book launch party, including discussion with Noam Yuchtman)    
-  [Reference.point](https://www.reference-point.uk/), [Reference.point events](https://www.eventbrite.co.uk/o/reference-point-41139473493)
+  [Reference.point](https://www.reference-point.uk/), [Ticket reservation](https://www.eventbrite.com/e/book-launch-for-the-means-of-prediction-by-maximilian-kasy-tickets-1680704395089)
 - **Nov 6**: EAAMO local keynote (Oxford)  
   [EAAMO conference](https://conference.eaamo.org/)
 - **Nov 11**: Utrecht  
