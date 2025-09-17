@@ -23,5 +23,5 @@ permalink: /presentations/booktalks
 - **Dec 2**: UC Berkeley Matrix / Berkeley Economy and Society Initiative  
   [UC Berkeley Matrix](https://matrix.berkeley.edu/), [BESI](https://besi.berkeley.edu/)
 - **Dec 3**: Stanford - Silicon Valley Archive (incl discussion with Rob Reich)  
-  [Silicon Valley Archives](https://library.stanford.edu/libraries/silicon-valley-archives)
+  [Stanford events](https://events.stanford.edu/event/max-kasy-in-conversation-with-rob-reich)
 - **Dec 5**: UC Davis economics department seminar  
