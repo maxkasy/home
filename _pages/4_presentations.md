@@ -16,6 +16,11 @@ December 2025 UC Berkeley (Matrix), Stanford (Silicon Valley Archive), UC Davis
 October 2025, LSE  
 [Slides](/home/files/slides/basicincome_jobguarantee_slides.pdf)  
 
+**Taxes and AI**  
+September 2025, Co-opting AI seminar UVA/NYU  
+[Slides](/home/files/slides/taxes_and_AI-slides.pdf)  
+[Recording](https://www.youtube.com/watch?v=qrT3d4oACk8)  
+
 **Causal inference on endogenous social network formation**  
 June 2025, Oxford  
 [Slides](/home/files/slides/network_formation_slides.pdf)  
