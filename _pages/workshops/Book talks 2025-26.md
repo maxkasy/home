@@ -12,11 +12,11 @@ permalink: /presentations/booktalks
   [YLS events](https://law.yale.edu/centers-workshops/law-economics-organization-workshop)
 - **Nov 3**: Reference.point London (Book launch party, including discussion with Noam Yuchtman)    
   [Reference.point](https://www.reference-point.uk/), [Ticket reservation](https://www.eventbrite.com/e/book-launch-for-the-means-of-prediction-by-maximilian-kasy-tickets-1680704395089)
+- **Nov 5**: LSE & Anthropic Symposium
 - **Nov 6**: EAAMO local keynote (Oxford)  
   [EAAMO conference](https://conference.eaamo.org/)
-- **Nov 11**: Utrecht  
-- **Nov 13** (*not confirmed*): Barbican London  
-  [Barbican events](https://www.barbican.org.uk/whats-on/talks-events)
+- **Nov 11**: Utrecht
+- **Nov 19**: University of Washington (virtual)
 - **Nov 20**: London School of Economics (Economics)  
 - **Nov 28**: Digital Economics conference / Imperial College London  
   [Digital Economics conference](https://competitionpolicy.ac.uk/events/4th-workshop-on-digital-economics/)

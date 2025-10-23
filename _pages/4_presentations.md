@@ -12,6 +12,10 @@ December 2025 UC Berkeley (Matrix), Stanford (Silicon Valley Archive), UC Davis
 [Soundtrack](https://open.spotify.com/playlist/52l72Xt61OWGm8tb8vbiEZ?si=lI6KDGJlSp-4elDCNAzCpA&pi=-h7p7qx5RPeyX), 
 [Visuals](/home/files/other/ai_book_visuals.html)  
 
+**Causal inference on endogenous social network formation**  
+November 2025, UCL and UC Berkeley  
+[Slides](/home/files/slides/network_formation_slides.pdf)  
+
 **Basic Income and Job Guarantee: Two field experiments**  
 October 2025, LSE  
 [Slides](/home/files/slides/basicincome_jobguarantee_slides.pdf)  
@@ -20,10 +24,6 @@ October 2025, LSE
 September 2025, Co-opting AI seminar UVA/NYU  
 [Slides](/home/files/slides/taxes_and_AI-slides.pdf)  
 [Recording](https://www.youtube.com/watch?v=qrT3d4oACk8)  
-
-**Causal inference on endogenous social network formation**  
-June 2025, Oxford  
-[Slides](/home/files/slides/network_formation_slides.pdf)  
 
 **The risk function of regularized empirical risk minimization estimators, tuned using cross-validation**  
 February 2025, Oxford  
