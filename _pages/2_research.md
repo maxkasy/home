@@ -12,7 +12,8 @@ permalink: /research/
 **The Means of Prediction: How AI Really Works (and Who Benefits)**  
   Book  
   *University of Chicago Press, October 2025*  
-  Pre-order here: [The Means of Prediction](https://press.uchicago.edu/ucp/books/book/chicago/M/bo255887145.html)
+  Pre-order here: [The Means of Prediction](https://press.uchicago.edu/ucp/books/book/chicago/M/bo255887145.html)  
+  Reviews and media coverage: [Bookreviews](/home/presentations/bookreviews)  
 
 
 
