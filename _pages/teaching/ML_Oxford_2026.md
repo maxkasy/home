@@ -98,7 +98,7 @@ Tentative Syllabus: [Syllabus_ML_Oxford_2026.pdf](/home/files/teaching/ML_Oxford
 
 1. Supervised learning: [foundations_ml_ps1.pdf](/home/files/teaching/ML_Oxford_2026/foundations_ml_ps1.pdf)  
 2. Shrinkage estimation: [foundations_ml_ps2.pdf](/home/files/teaching/ML_Oxford_2026/foundations_ml_ps2.pdf)  
-3. Double/debiased estimation: [foundations_ml_ps3.pdf](/home/files/teaching/ML_Oxford_2026/foundations_ml_ps3.pdf)  
+3. Conformal inference: [foundations_ml_ps3.pdf](/home/files/teaching/ML_Oxford_2026/foundations_ml_ps3.pdf)  
 4. Multiarmed bandits: [foundations_ml_ps4.pdf](/home/files/teaching/ML_Oxford_2026/foundations_ml_ps4.pdf)  
 
 
