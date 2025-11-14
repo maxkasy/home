@@ -15,7 +15,8 @@ Stone Center CUNY: [Who’s Afraid of AI?](https://stonecenter.gc.cuny.edu/whos-
 Literary Hub: [Why Big Tech’s Abuse of Artificial Intelligence Doesn’t Need to Be Inevitable](https://lithub.com/why-big-techs-abuse-of-artificial-intelligence-doesnt-need-to-be-inevitable/)
 
 ## Reviews
-- Jacobin: [Humanity Needs Democratic Control of AI](https://jacobin.com/2025/11/ai-inequality-algorithms-democracy-capitalism)
+- Jacobin: [Humanity Needs Democratic Control of AI](https://jacobin.com/2025/11/ai-inequality-algorithms-democracy-capitalism)  
+  - Jacobin Greece: [Η Ανθρωπότητα Χρειάζεται Δημοκρατικό Έλεγχο της Τεχνητής Νοημοσύνης](https://jacobin.gr/i-anthropotita-chreiazetai-dimokratiko-elegcho-tis-technitis-noimosynis/)
 - The Enlightened Economist: [The people’s AI?](http://www.enlightenmenteconomics.com/blog/index.php/2025/10/7845/)
 - Boing-Boing: [AI's impact: not about killer robots, but about power, control, and who benefits from automation](https://boingboing.net/2025/10/24/ais-impact-not-about-killer-robots-but-about-power-control-and-who-benefits-from-automation.html)
 - Harvard Kennedy School: [The Means of Prediction: How AI Really Works (and Who Benefits)](https://www.hks.harvard.edu/centers/wiener/programs/economy/our-work/reimagining-economy-blog/means-prediction-how-ai-really)

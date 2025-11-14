@@ -18,10 +18,11 @@ permalink: /presentations/booktalks
 - **Nov 11**: Utrecht
 - **Nov 19**: University of Washington (virtual)
 - **Nov 20**: London School of Economics (Economics)  
+[LSE STICERD seminar](https://sticerd.lse.ac.uk/_new/events/event/?index=10262)
 - **Nov 28**: Digital Economics conference / Imperial College London  
   [Digital Economics conference](https://competitionpolicy.ac.uk/events/4th-workshop-on-digital-economics/)
 - **Dec 2**: UC Berkeley Matrix / Berkeley Economy and Society Initiative  
-  [UC Berkeley Matrix](https://matrix.berkeley.edu/), [BESI](https://besi.berkeley.edu/)
+  [UC Berkeley Matrix](https://matrix.berkeley.edu/events/maximilian-kasy-the-means-of-prediction-how-ai-really-works-and-who-benefits/), [BCDSS Berkeley](https://cdss.berkeley.edu/events/maximilian-kasy-means-prediction-how-ai-really-works-and-who-benefits)
 - **Dec 3**: Stanford - Silicon Valley Archive (incl discussion with Rob Reich)  
   [Stanford events](https://events.stanford.edu/event/max-kasy-in-conversation-with-rob-reich)
 - **Dec 5**: UC Davis economics department seminar  
