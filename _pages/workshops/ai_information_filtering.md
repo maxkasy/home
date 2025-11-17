@@ -12,11 +12,9 @@ excerpt: May 25-27, 2026
 
 ## Workshop announcement
 
-### An interdisciplinary debate about the political economy of online information filtering
-
 AI systems filter information on social media, news outlets, and search engines, shaping public discourse and democratic processes. Recommendation and moderation algorithms optimize objectives that are privately chosen by firms or state actors, potentially affecting the spread of misinformation and political polarization, especially around elections. 
 
-This workshop will map open questions at the intersection of economics, public policy, information and computer sciences: What are the consequences of content ranking and moderation? What is the role of governments in information control? What institutional arrangements could align algorithmic objectives with democratic values? The goal is to link academic research with platform design and regulatory policy.
+This workshop will explore open questions at the intersection of economics, public policy, information and computer sciences: What are the consequences of content ranking and moderation? What is the role of governments in information control? What institutional arrangements could align algorithmic objectives with democratic values? The goal is to link academic research with platform design and regulatory policy.
 
 
 

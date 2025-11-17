@@ -5,14 +5,15 @@ permalink: /presentations/bookreviews
 
 
 ## Op-eds
-New York Times: [How A.I. Can Use Your Personal Data to Hurt Your Neighbor](https://www.nytimes.com/2025/11/02/opinion/ai-privacy.html)
+- New York Times: [How A.I. Can Use Your Personal Data to Hurt Your Neighbor](https://www.nytimes.com/2025/11/02/opinion/ai-privacy.html)
 
 ## Interviews
-Stone Center CUNY: [Who’s Afraid of AI?](https://stonecenter.gc.cuny.edu/whos-afraid-of-ai-maximilian-kasy-discusses-his-new-book-the-means-of-prediction/)
+- Stone Center CUNY: [Who’s Afraid of AI?](https://stonecenter.gc.cuny.edu/whos-afraid-of-ai-maximilian-kasy-discusses-his-new-book-the-means-of-prediction/)
+- Moment Austria: [Künstliche Intelligenz: Wie kann KI den Vielen nutzen?](https://www.moment.at/story/kuenstliche-intelligenz-kasy/)
 
 ## Extract
 
-Literary Hub: [Why Big Tech’s Abuse of Artificial Intelligence Doesn’t Need to Be Inevitable](https://lithub.com/why-big-techs-abuse-of-artificial-intelligence-doesnt-need-to-be-inevitable/)
+- Literary Hub: [Why Big Tech’s Abuse of Artificial Intelligence Doesn’t Need to Be Inevitable](https://lithub.com/why-big-techs-abuse-of-artificial-intelligence-doesnt-need-to-be-inevitable/)
 
 ## Reviews
 - Jacobin: [Humanity Needs Democratic Control of AI](https://jacobin.com/2025/11/ai-inequality-algorithms-democracy-capitalism)  

@@ -5,7 +5,7 @@ permalink: /presentations/
 
 **Book talk: The Means of Prediction: How AI Really Works (And Who Benefits)**  
 September 2025, MIT Knight Science Journalism, Harvard Kennedy School, Yale Law School  
-November 2025, Reference.point, EAAMO local Oxford, Utrecht, Barbican, LSE, Imperial College London  
+November 2025, Reference.point, EAAMO local Oxford, Utrecht, UWashington, LSE, Imperial College London  
 December 2025 UC Berkeley (Matrix), Stanford (Silicon Valley Archive), UC Davis  
 [Slides (short version)](/home/files/slides/meansofprediction_slides_short.pdf), [Slides (long version)](/home/files/slides/meansofprediction_slides_long.pdf)   
 [List of events](/home/presentations/booktalks), [Reviews and media coverage](/home/presentations/bookreviews)  

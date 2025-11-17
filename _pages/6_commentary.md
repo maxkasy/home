@@ -3,14 +3,22 @@ title: Commentary
 permalink: /commentary/
 ---
 
+**How A.I. Can Use Your Personal Data to Hurt Your Neighbor**  
+November 2, 2025  
+[New York Times](https://www.nytimes.com/2025/11/02/opinion/ai-privacy.html)  
+
 **Welfare for the 21st century**  
 July 4, 2025  
 [Oxford expert comment](https://www.ox.ac.uk/news/2025-07-04-expert-comment-welfare-21st-century)  
 
 ## Media coverage
 
+**The Means of Prediction: How AI Really Works (And Who Benefits)**  
+2025  
+[Links to media coverage](/home/presentations/bookreviews)  
+
 **Employing the unemployed of Marienthal: Evaluation of a guaranteed job program**  
-2020-2021  
+2020-2024  
 [Links to media coverage](/home/Marienthal/#media-coverage)
 
 **Isaiah Andrews wins the John Bates Clark Medal**  
