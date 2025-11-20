@@ -10,6 +10,8 @@ permalink: /presentations/bookreviews
 ## Interviews
 - Stone Center CUNY: [Who’s Afraid of AI?](https://stonecenter.gc.cuny.edu/whos-afraid-of-ai-maximilian-kasy-discusses-his-new-book-the-means-of-prediction/)
 - Moment Austria: [Künstliche Intelligenz: Wie kann KI den Vielen nutzen?](https://www.moment.at/story/kuenstliche-intelligenz-kasy/)
+- Alexander Spermann: [Künstliche Intelligenz: Es geht nicht um den Kampf zwischen
+Menschen und Maschinen](https://alexander-spermann.de/wp-content/uploads/2025/11/Kolumne_Nr_64_Max_Kasy_AI_Means-of-Prediction.pdf)
 
 ## Extract
 
