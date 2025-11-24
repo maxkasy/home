@@ -24,5 +24,6 @@ Menschen und Maschinen](https://alexander-spermann.de/wp-content/uploads/2025/11
 - Boing-Boing: [AI's impact: not about killer robots, but about power, control, and who benefits from automation](https://boingboing.net/2025/10/24/ais-impact-not-about-killer-robots-but-about-power-control-and-who-benefits-from-automation.html)
 - Harvard Kennedy School: [The Means of Prediction: How AI Really Works (and Who Benefits)](https://www.hks.harvard.edu/centers/wiener/programs/economy/our-work/reimagining-economy-blog/means-prediction-how-ai-really)
 - SA Examiner: [Inside The Means of Prediction and Why the Future of AI Depends on Who Owns It](https://saexaminer.org/2025/11/03/inside-the-means-of-prediction-and-why-the-future-of-ai-depends-on-who-owns-it/)
+- Business reporter: [Best read for: AI and society](https://www.business-reporter.co.uk/ai--automation/five-new-ai-book-releases)  
 - Oxford alumni newsletter: [OFF THE SHELF: OCTOBER 2025](https://www.alumni.ox.ac.uk/article/off-the-shelf-october-2025)
 - Nature: [AI can supercharge inequality — unless the public learns to control it](https://www.nature.com/articles/d41586-025-03475-w)
