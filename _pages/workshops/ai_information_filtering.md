@@ -44,8 +44,8 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 ## Logistics (for speakers)
 
 * **Date:** May 25-27, 2026.
-* **Location:** Lecture hall, St Catz college, University of Oxford, OX1 3UQ, UK
-* **Accommodation:** 
+* **Location:** Oxford, UK. Details TBD.
+* **Accommodation:** Provided. Details TBD.
 * **Pub evening:** 6:15pm, May 25 (open to all conference attendants).
 * **Conference Dinner:** Nuffield College, 7pm, May 26 (speakers only).
 * **Contact:** For logistical questions, please contact [aarushi.kalra@economics.ox.ac.uk](mailto:aarushi.kalra@economics.ox.ac.uk).
@@ -55,7 +55,7 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 
 
 
-## Invited speakers and topics
+## Invited speakers and proposed topics
 
 1. Political effects of information filtering: Ekaterina Zhuravskaya    
 2. Generative AI and information quality: Ananya Sen 
@@ -64,5 +64,6 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 5. User preferences and machine learning: Manish Raghavan
 6. Recommender systems and engagement maximization: Benjamin Hébert 
 7. Platform power and governance: Nick Srnicek 
+8. Algorithmic filtering - a regulator's perspective: Andreas Hofele
 
 
