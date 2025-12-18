@@ -9,14 +9,14 @@ permalink: /teaching/
 
 ## Conferences
 
-* [Youtube channel](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag/videos) of workshops and discussions.
-* 2026 Conference [AI and the political economy of information filtering](https://maxkasy.github.io/home/information_filtering_workshop/)  
-* 2024 Conference [Economic Analyses of Science](https://maxkasy.github.io/home/economics_of_science_workshop/)  
-* 2023 Conference [Social foundations for statistics and machine learning](https://maxkasy.github.io/home/social_foundations_workshop/)
-* 2022 Conference [Oxford Machine Learning and Economics Jamboree](https://maxkasy.github.io/home/ML_Econ_Oxford/Jamboree_2022/)
-* 2021 Conference [Machine learning and economic inequality](/home/ML_inequality_conference/)  
-* 2019 Conference [Statistics in a social context](/home/StatisticsSocialConference/)  
+* 2026: [AI and the political economy of information filtering](https://maxkasy.github.io/home/information_filtering_workshop/)  
+* 2024: [Economic Analyses of Science](https://maxkasy.github.io/home/economics_of_science_workshop/)  
+* 2023: [Social foundations for statistics and machine learning](https://maxkasy.github.io/home/social_foundations_workshop/)
+* 2022: [Oxford Machine Learning and Economics Jamboree](https://maxkasy.github.io/home/ML_Econ_Oxford/Jamboree_2022/)
+* 2021: [Machine learning and economic inequality](/home/ML_inequality_conference/)  
+* 2019: [Statistics in a social context](/home/StatisticsSocialConference/)  
 
+[Youtube channel](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag/videos) of workshops and discussions.
 
 ## Oxford
 - **Foundations of machine learning** (master, 2026)  
