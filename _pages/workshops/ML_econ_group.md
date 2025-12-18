@@ -34,7 +34,8 @@ Special emphasis will be put on the social impact of ML, and on non-commercial a
 All faculty, post-docs, and doctoral students are invited to audit this course and participate in discussions. 
 - **Workshops and conferences** (featuring tutorials and frontier talks):  
   All talks are available on [Youtube](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag/videos).
-  - May 2024: [Economic Analyses of Science ](https://maxkasy.github.io/home/economics_of_science_workshop/).
+  - May 2026: [AI and the political economy of information filtering](https://maxkasy.github.io/home/information_filtering_workshop/).  
+  - May 2024: [Economic Analyses of Science](https://maxkasy.github.io/home/economics_of_science_workshop/).
   - May 2023: [Social foundations for statistics and machine learning](https://maxkasy.github.io/home/social_foundations_workshop/).
   - June 2022: [Machine Learning and Economics Jamboree 2022](https://maxkasy.github.io/home/ML_Econ_Oxford/Jamboree_2022/).
   - April 2021: [Machine learning and economic inequality](https://maxkasy.github.io/home/ML_inequality_conference/).
@@ -42,7 +43,7 @@ All faculty, post-docs, and doctoral students are invited to audit this course a
 
 ## Reading and discussion group
 - Time: 2:30pm, Tuesdays in even weeks. 
-- Location: *Manor Road Building*.
+- Location: *SR A, Manor Road Building*.
 - There will be coffee and pastries!
 - For those who cannot make in person, please join via [Zoom](https://zoom.us/j/91261172120?pwd=RUUzdDZIeWd1bTlNWHFOU2doaDJEQT09).  
 
