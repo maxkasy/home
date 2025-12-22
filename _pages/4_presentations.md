@@ -3,6 +3,10 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Machine learning, causal inference, and economics**  
+January 2026, Isaac Newton Institute, Cambridge  
+[Slides](/home/files/slides/causality_ml_econ.pdf)  
+
 **Book talk: The Means of Prediction: How AI Really Works (And Who Benefits)**  
 September 2025, MIT Knight Science Journalism, Harvard Kennedy School, Yale Law School  
 November 2025, Reference.point, EAAMO local Oxford, Utrecht, UWashington, LSE, Imperial College London  
