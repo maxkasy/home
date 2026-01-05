@@ -4,12 +4,13 @@ permalink: /ML_Oxford_2026/
 ---
 
 
-Tentative Syllabus: [Syllabus_ML_Oxford_2026.pdf](/home/files/teaching/ML_Oxford_2026/Syllabus_ML_Oxford_2026.pdf)
+- Tentative Syllabus: [Syllabus_ML_Oxford_2026](/home/files/teaching/ML_Oxford_2026/Syllabus_ML_Oxford_2026.pdf)
+- Introduction: [The Means of Prediction - Introduction](/home/files/teaching/ML_Oxford_2026/means_of_prediction_introduction_proofs.pdf)
 
+
+## Slides
 * Review of decision theory
 [Slides](/home/files/teaching/ML_Oxford_2026/decision_theory_slides.pdf)
-
-
 
 <figure style="width: 50%" class="align-right">
   <img src="/home/files/teaching/ML_Oxford_2026/overfitting_underfitting.png">
