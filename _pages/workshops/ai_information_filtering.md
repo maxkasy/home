@@ -64,10 +64,11 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 
 ## Further invited speakers
 
-1. Political effects of information filtering: Ekaterina Zhuravskaya    
-2. State actors and surveillance: Noam Yuchtman 
-3. Technology policy: Amba Kak 
-4. User preferences and machine learning: Manish Raghavan
+1. Empirical analysis of platform content: Homa Hosseinmardi
+2. Political effects of information filtering: Ekaterina Zhuravskaya    
+3. State actors and surveillance: Noam Yuchtman 
+4. Technology policy: Amba Kak 
+5. User preferences and machine learning: Manish Raghavan
 
 
 
