@@ -57,18 +57,18 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 
 ## Confirmed speakers and proposed topics
 
-1. Generative AI and information quality: Ananya Sen 
-2. Recommender systems and engagement maximization: Benjamin Hébert 
-3. Algorithmic filtering - a regulator's perspective: Andreas Hofele
+1. Benjamin Hébert: Recommender systems and engagement maximization
+2. Andreas Hofele: Algorithmic filtering - a regulator's perspective
+3. Homa Hosseinmardi: Empirical analysis of platform content 
+4. Manish Raghavan: User preferences and machine learning 
+5. Ananya Sen: Generative AI and information quality  
 
 
 ## Further invited speakers
 
-1. Empirical analysis of platform content: Homa Hosseinmardi
-2. Political effects of information filtering: Ekaterina Zhuravskaya    
-3. State actors and surveillance: Noam Yuchtman 
-4. Technology policy: Amba Kak 
-5. User preferences and machine learning: Manish Raghavan
+1. Political effects of information filtering: Ekaterina Zhuravskaya    
+2. State actors and surveillance: Noam Yuchtman 
+3. Technology policy: Amba Kak 
 
 
 

@@ -11,6 +11,7 @@ January 2026, Isaac Newton Institute, Cambridge
 September 2025, MIT Knight Science Journalism, Harvard Kennedy School, Yale Law School  
 November 2025, Reference.point, EAAMO local Oxford, Utrecht, UWashington, LSE, Imperial College London  
 December 2025 UC Berkeley (Matrix), Stanford (Silicon Valley Archive), UC Davis  
+[UC Berkeley recording](https://matrix.berkeley.edu/research-article/maximilian-kasy-the-means-of-prediction-how-ai-really-works-and-who-benefits/)  
 [Slides (short version)](/home/files/slides/meansofprediction_slides_short.pdf), [Slides (long version)](/home/files/slides/meansofprediction_slides_long.pdf)   
 [List of events](/home/presentations/booktalks), [Reviews and media coverage](/home/presentations/bookreviews)  
 [Soundtrack](https://open.spotify.com/playlist/52l72Xt61OWGm8tb8vbiEZ?si=lI6KDGJlSp-4elDCNAzCpA&pi=-h7p7qx5RPeyX), 
