@@ -55,6 +55,7 @@ Topic: **Scaling laws and the production function of AI**
   [Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264)  
 - W4 Double descent in linear models (theory).  
   [High-dimensional analysis of double descent for linear regression with random projections](https://arxiv.org/abs/2303.01372)  
+  Presenter: Maximilian Kasy  
 - W6 Scaling laws in linear models (theory).  
   [Scaling Laws in Linear Regression: Compute, Parameters, and Data](https://arxiv.org/abs/2406.08466)  
 - W8 Scaling and the means of prediction.  
