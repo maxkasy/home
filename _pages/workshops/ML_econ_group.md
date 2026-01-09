@@ -62,6 +62,7 @@ Topic: **Scaling laws and the production function of AI**
 - W8 Scaling and the means of prediction.  
   [Empire of AI](https://www.penguinrandomhouse.com/books/743569/empire-of-ai-by-karen-hao/), chapter 5.  
   [The means of prediction](https://press.uchicago.edu/ucp/books/book/chicago/M/bo255887145.html), chapter 11.  
+  Presenter: Aarushi Kalra  
 
 ### Trinity term 2025
 

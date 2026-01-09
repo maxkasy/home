@@ -12,7 +12,7 @@ permalink: /research/
 **The Means of Prediction: How AI Really Works (and Who Benefits)**  
   Book  
   *University of Chicago Press, October 2025*  
-  Pre-order here: [The Means of Prediction](https://press.uchicago.edu/ucp/books/book/chicago/M/bo255887145.html)  
+  Order here: [The Means of Prediction](https://press.uchicago.edu/ucp/books/book/chicago/M/bo255887145.html)  
   Reviews and media coverage: [Bookreviews](/home/presentations/bookreviews)  
 
 
@@ -21,7 +21,7 @@ permalink: /research/
 
 **Employing the unemployed of Marienthal: Evaluation of a guaranteed job program**  
   (joint with Lukas Lehner)  
-  *Revise and resubmit, AEJ:Policy, 2025*  
+  *Conditionally accepted, AEJ:Policy, 2026*  
   Manuscript: [Jobguarantee_marienthal.pdf](/home/files/papers/Jobguarantee_marienthal.pdf)  
   Appendix: [Appendix_marienthal.pdf](/home/files/papers/Appendix_marienthal.pdf)  
   Code (study design): [https://github.com/maxkasy/Marienthal](https://github.com/maxkasy/Marienthal)  
