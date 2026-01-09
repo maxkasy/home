@@ -50,14 +50,15 @@ All faculty, post-docs, and doctoral students are invited to audit this course a
 ### Hilary term 2026
 
 Topic: **Scaling laws and the production function of AI**
-- W2 Empirical scaling laws in LLMs.  
-  [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)  
-  [Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264)  
+- W2 Scaling laws in linear models (theory).  
+  [Scaling Laws in Linear Regression: Compute, Parameters, and Data](https://arxiv.org/abs/2406.08466)  
 - W4 Double descent in linear models (theory).  
   [High-dimensional analysis of double descent for linear regression with random projections](https://arxiv.org/abs/2303.01372)  
   Presenter: Maximilian Kasy  
-- W6 Scaling laws in linear models (theory).  
-  [Scaling Laws in Linear Regression: Compute, Parameters, and Data](https://arxiv.org/abs/2406.08466)  
+- W6 Empirical scaling laws in LLMs.  
+  [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)  
+  [Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264)  
+  Presenter: Thomas Foster  
 - W8 Scaling and the means of prediction.  
   [Empire of AI](https://www.penguinrandomhouse.com/books/743569/empire-of-ai-by-karen-hao/), chapter 5.  
   [The means of prediction](https://press.uchicago.edu/ucp/books/book/chicago/M/bo255887145.html), chapter 11.  
