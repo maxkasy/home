@@ -41,6 +41,10 @@ permalink: /research/
   Working paper 1: [Cash Transfers, Mental Health, and Agency](https://maxkasy.github.io/home/files/papers/cash_mentalhealth_agency.pdf)  
   Working paper 2: [Basic income and labor supply: Evidence from an RCT in Germany](https://maxkasy.github.io/home/files/papers/basic_income_econ.pdf)  
 
+**Causal inference for social network formation**  
+  (joint with Elizabeth Linos and Sanaz Mobasseri)  
+  *Working paper coming soon*  
+
 **Evidence aggregation and meta-analysis: A toolkit for economists**  
   (joint with Peter Ganong and Avik Garg)  
   *Requested for Journal of Economic Literature*  
