@@ -34,9 +34,8 @@ The schedule will allow for extended discussions after each talk.
 
 Speakers at this workshop have been personally invited.
 Attendance at the tutorial lectures and frontier talks is open to all, both in person (subject to space constraints) and online (via Zoom).
-To register for either in-person attendance or Zoom participation, please fill out the following form:
-
-*Sign-up form coming soon*
+To register for either in-person attendance or Zoom participation, please fill out the following form:  
+[Sign-up for attendees](https://docs.google.com/forms/d/e/1FAIpQLSeHq-IEXmmLNI9YZ__DJInZUF24tqn3gQcjrk3AbdOa-CIo6w/viewform)  
 
 Talks will also be **live-streamed** and **recordings** will be made available, on this [Youtube channel](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag).  
 
