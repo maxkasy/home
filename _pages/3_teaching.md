@@ -21,7 +21,7 @@ permalink: /teaching/
 ## Oxford
 - **Foundations of machine learning** (master, 2026)  
     Class page: [ML_Oxford_2026](/home/ML_Oxford_2026)
-- **Machine learning and economics reading group**(open, since 2021)  
+- **Machine learning and economics reading group** (open, since 2021)  
     Reading group page: [Machine Learning and Economics](/home/ML_Econ_Oxford/) 
 - **Core econometrics** (master, 2025)  
     Class page: [Core_Econometrics_Oxford_2025](/home/Core_Econometrics_Oxford_2025)

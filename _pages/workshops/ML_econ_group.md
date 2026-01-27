@@ -52,7 +52,7 @@ All faculty, post-docs, and doctoral students are invited to audit this course a
 Topic: **Scaling laws and the production function of AI**
 - W2 Scaling laws in linear models (theory).  
   [Scaling Laws in Linear Regression: Compute, Parameters, and Data](https://arxiv.org/abs/2406.08466)  
-  Presenter: Greg Levy  
+  Presenter: Greg Levy. [Slides](/home/files/other/ML_Econ_Oxford/Levy_Presentation_27_01_26.pdf)   
 - W4 Double descent in linear models (theory).  
   [High-dimensional analysis of double descent for linear regression with random projections](https://arxiv.org/abs/2303.01372)  
   Presenter: Maximilian Kasy  
