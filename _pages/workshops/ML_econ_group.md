@@ -55,6 +55,7 @@ Topic: **Scaling laws and the production function of AI**
   Presenter: Greg Levy. [Slides](/home/files/other/ML_Econ_Oxford/Levy_Presentation_27_01_26.pdf)   
 - W4 Double descent in linear models (theory).  
   [High-dimensional analysis of double descent for linear regression with random projections](https://arxiv.org/abs/2303.01372)  
+  See also chapter 12.2 of [Learning Theory from First Principles](https://www.di.ens.fr/%7Efbach/ltfp_book.pdf)  
   Presenter: Maximilian Kasy  
 - W6 Empirical scaling laws in LLMs.  
   [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)  
