@@ -13,6 +13,7 @@ permalink: /research/
   Book  
   *University of Chicago Press, October 2025*  
   Order here: [The Means of Prediction](https://press.uchicago.edu/ucp/books/book/chicago/M/bo255887145.html)  
+  Audiobook: [Audible](https://www.audible.co.uk/pd/B0GL99H5JK)  
   Reviews and media coverage: [Bookreviews](/home/presentations/bookreviews)  
 
 
