@@ -18,11 +18,12 @@ Menschen und Maschinen](https://alexander-spermann.de/wp-content/uploads/2025/11
 - Literary Hub: [Why Big Tech’s Abuse of Artificial Intelligence Doesn’t Need to Be Inevitable](https://lithub.com/why-big-techs-abuse-of-artificial-intelligence-doesnt-need-to-be-inevitable/)
 
 ## Reviews
+- Barry Eichengreen: [Interview with Barry Eichengreen](https://smartthinkingbooks.com/smart-thinking-books-interview-barry-eichengreen.html)  
 - Jacobin: [Humanity Needs Democratic Control of AI](https://jacobin.com/2025/11/ai-inequality-algorithms-democracy-capitalism)  
   - Jacobin Greece: [Η Ανθρωπότητα Χρειάζεται Δημοκρατικό Έλεγχο της Τεχνητής Νοημοσύνης](https://jacobin.gr/i-anthropotita-chreiazetai-dimokratiko-elegcho-tis-technitis-noimosynis/)
+- Harvard Kennedy School: [The Means of Prediction: How AI Really Works (and Who Benefits)](https://www.hks.harvard.edu/centers/wiener/programs/economy/our-work/reimagining-economy-blog/means-prediction-how-ai-really)
 - The Enlightened Economist: [The people’s AI?](http://www.enlightenmenteconomics.com/blog/index.php/2025/10/7845/)
 - Boing-Boing: [AI's impact: not about killer robots, but about power, control, and who benefits from automation](https://boingboing.net/2025/10/24/ais-impact-not-about-killer-robots-but-about-power-control-and-who-benefits-from-automation.html)
-- Harvard Kennedy School: [The Means of Prediction: How AI Really Works (and Who Benefits)](https://www.hks.harvard.edu/centers/wiener/programs/economy/our-work/reimagining-economy-blog/means-prediction-how-ai-really)
 - SA Examiner: [Inside The Means of Prediction and Why the Future of AI Depends on Who Owns It](https://saexaminer.org/2025/11/03/inside-the-means-of-prediction-and-why-the-future-of-ai-depends-on-who-owns-it/)
 - Business reporter: [Best read for: AI and society](https://www.business-reporter.co.uk/ai--automation/five-new-ai-book-releases)  
 - Oxford alumni newsletter: [OFF THE SHELF: OCTOBER 2025](https://www.alumni.ox.ac.uk/article/off-the-shelf-october-2025)

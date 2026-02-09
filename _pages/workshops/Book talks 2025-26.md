@@ -2,6 +2,8 @@
 title: Book talks 2025-26
 permalink: /presentations/booktalks
 ---
+
+## 2025
 - **Sep 11**: ETH Zurich (virtual)  
   [Zoom link](https://ethz.zoom.us/j/6654465706?omn=66589950899)  
 - **Sep 23**: MIT Knight Science Journalism program  
@@ -26,3 +28,11 @@ permalink: /presentations/booktalks
 - **Dec 3**: Stanford - Silicon Valley Archive (incl discussion with Rob Reich)  
   [Stanford events](https://events.stanford.edu/event/max-kasy-in-conversation-with-rob-reich)
 - **Dec 5**: UC Davis economics department seminar  
+
+## 2026
+- **Feb 4**: INET Oxford  
+  [INET](https://www.inet.ox.ac.uk/events/the-means-of-prediction)  
+- **March 2**: Madrid  
+  [UC3M](https://economics.uc3m.es/event/tba-170/)
+- **March 5**: Oxford Martin School  
+  [Oxford Martin School](https://www.oxfordmartin.ox.ac.uk/events/the-means-of-prediction)
