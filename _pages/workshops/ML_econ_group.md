@@ -60,7 +60,7 @@ Topic: **Scaling laws and the production function of AI**
 - W6 Empirical scaling laws in LLMs.  
   [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)  
   [Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264)  
-  Presenter: Thomas Foster  
+  Presenter: Thomas Foster. [Slides](/home/files/other/ML_Econ_Oxford/LLM_Scaling_Laws.pdf)  
 - W8 Scaling and the means of prediction.  
   [Empire of AI](https://www.penguinrandomhouse.com/books/743569/empire-of-ai-by-karen-hao/), chapter 5.  
   [The means of prediction](https://press.uchicago.edu/ucp/books/book/chicago/M/bo255887145.html), chapter 11.  
