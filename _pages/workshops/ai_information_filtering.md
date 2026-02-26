@@ -43,7 +43,7 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 ## Logistics (for speakers)
 
 * **Date:** May 25-27, 2026.
-* **Location:** Oxford, UK. Details TBD.
+* **Location:** Manor Road Building, Manor Road, Oxford, UK. Details TBD.
 * **Accommodation:** [University Club](https://universityclub.ox.ac.uk/accommodation).
 * **Pub evening:** 6:15pm, May 25 (open to all conference attendants).
 * **Conference Dinner:** Nuffield College, 7pm, May 26 (speakers only).
@@ -77,21 +77,21 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 11:45 Maximilian Kasy  
 *Opening remarks*
 
-12:00 Benjamin Hébert  
-*Recommender systems and engagement maximization*
+12:00 Manish Raghavan  
+*User preferences and machine learning*
 
 14:15 Homa Hosseinmardi  
-*Empirical analysis of platform content*
+*Empirical analysis of platform content*  
 
 16:00 Ananya Sen  
 *Generative AI and information quality*
 
 #### Tuesday, May 26
 
-11:00 Manish Raghavan
-*User preferences and machine learning*
+11:00 Benjamin Hébert  
+*Recommender systems and engagement maximization*  
 
-13:15 Andreas Hofele
+13:15 Andreas Hofele  
 *Algorithmic filtering - a regulator's perspective*
 
 
@@ -99,23 +99,23 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 
 #### Tuesday, May 26
 
-15:00 Aarushi Kalra
+15:00 Aarushi Kalra  
 *TBD*
 
-16:45 Manish Raghavan
+16:45 Manish Raghavan  
 *TBD*
 
 
 #### Wednesday, May 27
 
-11:00 Andreas Hofele
+11:00 Andreas Hofele  
 *TBD*
 
-13:15 Benjamin Hébert
+13:15 Benjamin Hébert  
 *TBD*
 
-15:00 Ananya Sen
+15:00 Ananya Sen  
 *TBD*
 
-16:45 Homa Hosseinmardi
+16:45 Homa Hosseinmardi  
 *TBD*
