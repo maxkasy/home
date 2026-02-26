@@ -44,7 +44,7 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 
 * **Date:** May 25-27, 2026.
 * **Location:** Oxford, UK. Details TBD.
-* **Accommodation:** Provided. Details TBD.
+* **Accommodation:** [University Club](https://universityclub.ox.ac.uk/accommodation).
 * **Pub evening:** 6:15pm, May 25 (open to all conference attendants).
 * **Conference Dinner:** Nuffield College, 7pm, May 26 (speakers only).
 * **Contact:** For logistical questions, please contact [aarushi.kalra@economics.ox.ac.uk](mailto:aarushi.kalra@economics.ox.ac.uk).
@@ -54,21 +54,68 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 
 
 
-## Confirmed speakers and proposed topics
+## Confirmed speakers
 
-1. Benjamin Hébert: Recommender systems and engagement maximization
-2. Andreas Hofele: Algorithmic filtering - a regulator's perspective
-3. Homa Hosseinmardi: Empirical analysis of platform content 
-4. Manish Raghavan: User preferences and machine learning 
-5. Ananya Sen: Generative AI and information quality  
-
-
-## Further invited speakers
-
-1. Political effects of information filtering: Ekaterina Zhuravskaya    
-2. State actors and surveillance: Noam Yuchtman 
-3. Technology policy: Amba Kak 
+1. Benjamin Hébert [Website](https://gsb-faculty.stanford.edu/benjamin-hebert/)
+2. Andreas Hofele [Website](https://ideas.repec.org/f/pho383.html)
+3. Homa Hosseinmardi [Website](https://homahm.github.io/) 
+4. Manish Raghavan [Website](https://mraghavan.github.io/) 
+5. Ananya Sen [Website](https://sites.google.com/view/ananyasen/home)  
 
 
 
 
+
+
+
+## Tentative Schedule
+
+### Tutorial lectures (proposed topics)
+
+#### Monday, May 25
+
+11:45 Maximilian Kasy  
+*Opening remarks*
+
+12:00 Benjamin Hébert  
+*Recommender systems and engagement maximization*
+
+14:15 Homa Hosseinmardi  
+*Empirical analysis of platform content*
+
+16:00 Ananya Sen  
+*Generative AI and information quality*
+
+#### Tuesday, May 26
+
+11:00 Manish Raghavan
+*User preferences and machine learning*
+
+13:15 Andreas Hofele
+*Algorithmic filtering - a regulator's perspective*
+
+
+### Frontier talks
+
+#### Tuesday, May 26
+
+15:00 Aarushi Kalra
+*TBD*
+
+16:45 Manish Raghavan
+*TBD*
+
+
+#### Wednesday, May 27
+
+11:00 Andreas Hofele
+*TBD*
+
+13:15 Benjamin Hébert
+*TBD*
+
+15:00 Ananya Sen
+*TBD*
+
+16:45 Homa Hosseinmardi
+*TBD*

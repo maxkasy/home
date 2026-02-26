@@ -28,19 +28,19 @@ April 24, 2021 (includes coverage of our joint work)
 ## Policy papers and essays (in English)  
 
 **Individual property rights or collective democratic governance? Privacy in the age of AI**  
-January 2026  
+July 2026  
 [Society for Privacy and Confidentiality Research](/home/files/papers/Privacy_society_commentary.pdf)  
 
 **Book review: The Microeconomics of Artificial Intelligence**  
-January 2026  
+July 2026  
 [Journal of Economic Literature](/home/files/papers/Review_Microeconomics_of_AI.pdf)  
 
 **Welfare for the 21st century: Basic income and job guarantee policies**  
-December 2025 (with Lukas Lehner)  
+February 2026 (with Lukas Lehner)  
 [Efip policy brief](/home/files/papers/Efip_brief_JG_and_UBI.pdf)  
 
 **The means of prediction and the production function of AI**  
-August 2026  
+January 2026  
 [Efip policy brief](/home/files/papers/Efip_brief_AI.pdf)  
 
 **The means of prediction**  
