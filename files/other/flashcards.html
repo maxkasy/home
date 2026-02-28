@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flashcards for jazz practice</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: sans-serif;
+      background: #fff;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+
+    #app {
+      max-width: 800px;
+      margin: 5% auto;
+      text-align: center;
+      padding: 0 20px;
+    }
+
+    .checkbox-group {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 4px 20px;
+    }
+
+    .checkbox-group label {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      cursor: pointer;
+      font-size: 1rem;
+    }
+
+    .spacer-sm { height: 25px; }
+    .spacer-md { height: 50px; }
+
+    button#next-btn {
+      font-size: 1.1rem;
+      padding: 8px 24px;
+      cursor: pointer;
+      border: 1px solid #aaa;
+      border-radius: 4px;
+      background: #f8f8f8;
+    }
+
+    button#next-btn:hover {
+      background: #e8e8e8;
+    }
+
+    #flashcard-display {
+      font-size: 80px;
+      margin: 0;
+      min-height: 1.2em;
+    }
+  </style>
+</head>
+<body>
+<div id="app">
+
+  <!-- Exercise checkboxes -->
+  <div class="checkbox-group" id="exercise-selection">
+    <label><input type="checkbox" value="Arpeggios" checked> Arpeggios</label>
+    <label><input type="checkbox" value="Chords" checked> Chords</label>
+    <label><input type="checkbox" value="Scales" checked> Scales</label>
+  </div>
+
+  <div class="spacer-sm"></div>
+
+  <!-- Scale checkboxes -->
+  <div class="checkbox-group" id="scale-selection">
+    <label><input type="checkbox" value="Δ" checked> Δ</label>
+    <label><input type="checkbox" value="-7" checked> -7</label>
+    <label><input type="checkbox" value="7" checked> 7</label>
+    <label><input type="checkbox" value="ii-V7-I" checked> ii-V7-I</label>
+    <label><input type="checkbox" value="7♭9" checked> 7♭9</label>
+    <label><input type="checkbox" value="+7" checked> +7</label>
+    <label><input type="checkbox" value="ø7" checked> ø7</label>
+    <label><input type="checkbox" value="7♭5" checked> 7♭5</label>
+  </div>
+
+  <div class="spacer-md"></div>
+
+  <button id="next-btn">Next</button>
+
+  <div class="spacer-md"></div>
+
+  <h1 id="flashcard-display">Press Next to start</h1>
+
+</div>
+
+<script>
+  const keys = ["A", "B♭", "B", "C", "C♯", "D", "E♭", "E", "F", "F♯", "G", "A♭"];
+
+  function randomChoice(arr) {
+    return arr[Math.floor(Math.random() * arr.length)];
+  }
+
+  function getCheckedValues(groupId) {
+    return Array.from(
+      document.querySelectorAll(`#${groupId} input[type="checkbox"]:checked`)
+    ).map(cb => cb.value);
+  }
+
+  document.getElementById("next-btn").addEventListener("click", () => {
+    const selectedExercises = getCheckedValues("exercise-selection");
+    const selectedScales = getCheckedValues("scale-selection");
+
+    if (selectedExercises.length === 0 || selectedScales.length === 0) {
+      document.getElementById("flashcard-display").textContent =
+        "Select at least one option in each group";
+      return;
+    }
+
+    const key = randomChoice(keys);
+    const scale = randomChoice(selectedScales);
+    const exercise = randomChoice(selectedExercises);
+
+    document.getElementById("flashcard-display").textContent =
+      `${key}${scale}: ${exercise}`;
+  });
+</script>
+</body>
+</html>
