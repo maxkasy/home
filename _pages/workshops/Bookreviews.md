@@ -7,6 +7,9 @@ permalink: /presentations/bookreviews
 ## Op-eds
 - New York Times: [How A.I. Can Use Your Personal Data to Hurt Your Neighbor](https://www.nytimes.com/2025/11/02/opinion/ai-privacy.html)
 
+## Podcasts
+- Economics for Inclusive Prosperity: [Not Inevitable: Democratizing power over AI](https://podcasts.apple.com/us/podcast/not-inevitable-democratizing-power-over-ai-for-public/id1869070441?i=1000751551075)  
+
 ## Interviews
 - Stone Center CUNY: [Who’s Afraid of AI?](https://stonecenter.gc.cuny.edu/whos-afraid-of-ai-maximilian-kasy-discusses-his-new-book-the-means-of-prediction/)
 - Moment Austria: [Künstliche Intelligenz: Wie kann KI den Vielen nutzen?](https://www.moment.at/story/kuenstliche-intelligenz-kasy/)
@@ -19,6 +22,7 @@ Menschen und Maschinen](https://alexander-spermann.de/wp-content/uploads/2025/11
 
 ## Reviews
 - MIT Technology Review: [Prophet motives](https://www.technologyreview.com/2026/02/18/1132579/robots-predict-future-book-review/)  
+- New Yorker: [Can A.I. Be Pro-Worker?](https://www.newyorker.com/news/the-financial-page/can-ai-be-pro-worker)  
 - Barry Eichengreen: [Interview with Barry Eichengreen](https://smartthinkingbooks.com/smart-thinking-books-interview-barry-eichengreen.html)  
 - Jacobin: [Humanity Needs Democratic Control of AI](https://jacobin.com/2025/11/ai-inequality-algorithms-democracy-capitalism)  
   - Jacobin Greece: [Η Ανθρωπότητα Χρειάζεται Δημοκρατικό Έλεγχο της Τεχνητής Νοημοσύνης](https://jacobin.gr/i-anthropotita-chreiazetai-dimokratiko-elegcho-tis-technitis-noimosynis/)
