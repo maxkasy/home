@@ -62,6 +62,7 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 4. Manish Raghavan [Website](https://mraghavan.github.io/) 
 5. Ananya Sen [Website](https://sites.google.com/view/ananyasen/home)  
 
+Bonus: Keynote by Sendhil Mullainathan [Website](https://sendhil.org/)  
 
 
 
@@ -99,14 +100,19 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 
 #### Tuesday, May 26
 
-15:00 Aarushi Kalra  
-*TBD*
+15:00 Manish Raghavan  
+*TBD*  
 
-16:45 Manish Raghavan  
-*TBD*
+17:00 Sendhil Mullainathan  
+*Sanjaya Lall Lecture*  
+(Location: Lecture Theater, Manor Road)  
+
 
 
 #### Wednesday, May 27
+
+9:15 Aarushi Kalra  
+*TBD*  
 
 11:00 Andreas Hofele  
 *TBD*
