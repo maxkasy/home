@@ -36,3 +36,4 @@ permalink: /presentations/booktalks
   [UC3M](https://economics.uc3m.es/event/tba-170/)
 - **March 5**: Oxford Martin School  
   [Oxford Martin School](https://www.oxfordmartin.ox.ac.uk/events/the-means-of-prediction)
+- **March 11**: Queen Mary University  
