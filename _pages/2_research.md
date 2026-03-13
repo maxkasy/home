@@ -43,7 +43,7 @@ permalink: /research/
   (joint with Peter Ganong and Avik Garg)  
   *Requested for Journal of Economic Literature*  
 
-**The risk function of regularized empirical risk minimization estimators tuned using cross-validation**  
+**From Cross-Validation to SURE: Asymptotic Risk of Tuned Regularized Estimators**  
   (joint with Karun Adusumilli and Ashia Wilson)  
   *Working paper coming soon*  
 

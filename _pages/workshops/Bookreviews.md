@@ -11,6 +11,8 @@ permalink: /presentations/bookreviews
 - Economics for Inclusive Prosperity: [Not Inevitable: Democratizing power over AI](https://podcasts.apple.com/us/podcast/not-inevitable-democratizing-power-over-ai-for-public/id1869070441?i=1000751551075)  
 
 ## Interviews
+- El Pais: [La IA no es un dios que hayamos creado al que ahora debamos someternos](https://elpais.com/tecnologia/2026-03-13/maximiliam-kasy-economista-la-ia-no-es-un-dios-que-hayamos-creado-al-que-ahora-debamos-someternos.html)  
+  [PDF version](/home/files/other/el_pais_la_IA_no_es_un_dios.pdf)  
 - Stone Center CUNY: [Who’s Afraid of AI?](https://stonecenter.gc.cuny.edu/whos-afraid-of-ai-maximilian-kasy-discusses-his-new-book-the-means-of-prediction/)
 - Moment Austria: [Künstliche Intelligenz: Wie kann KI den Vielen nutzen?](https://www.moment.at/story/kuenstliche-intelligenz-kasy/)
 - Alexander Spermann: [Künstliche Intelligenz: Es geht nicht um den Kampf zwischen
@@ -21,7 +23,7 @@ Menschen und Maschinen](https://alexander-spermann.de/wp-content/uploads/2025/11
 - Literary Hub: [Why Big Tech’s Abuse of Artificial Intelligence Doesn’t Need to Be Inevitable](https://lithub.com/why-big-techs-abuse-of-artificial-intelligence-doesnt-need-to-be-inevitable/)
 
 ## Reviews
-- David Autor in Journal of Economic Literature: [The Means of Prediction by Maximilian Kasy](https://www.aeaweb.org/articles?id=10.1257/jel.20260001)  
+- Journal of Economic Literature (David Autor): [The Means of Prediction by Maximilian Kasy](https://www.aeaweb.org/articles?id=10.1257/jel.20260001)  
 - MIT Technology Review: [Prophet motives](https://www.technologyreview.com/2026/02/18/1132579/robots-predict-future-book-review/)  
 - New Yorker: [Can A.I. Be Pro-Worker?](https://www.newyorker.com/news/the-financial-page/can-ai-be-pro-worker)  
 - Barry Eichengreen: [Interview with Barry Eichengreen](https://smartthinkingbooks.com/smart-thinking-books-interview-barry-eichengreen.html)  
