@@ -21,6 +21,8 @@ permalink: /computationlinks/
   <https://www.deeplearningbook.org/>  
 - **Speech and Language Processing**  (Natural language processing and language models)  
   <https://web.stanford.edu/~jurafsky/slp3/>  
+  - **Transformer models** (A 200 line implementation of GPT without dependencies)  
+  <https://karpathy.github.io/2026/02/12/microgpt/>  
   
 ### Adaptive and adversarial learning
 - **Prediction, Learning, and Games**  (A principled adversarial - non-stochastic - framework for learning and online decision making)  

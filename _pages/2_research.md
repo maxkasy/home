@@ -29,6 +29,11 @@ permalink: /research/
   Interactive App: [The_PAP_App](https://maxkasy.github.io/home/pap_app/)  
   Repository and tutorial explaining the App: [Github repository](https://github.com/maxkasy/The_PAP_App)  
 
+**From Cross-Validation to SURE: Asymptotic Risk of Tuned Regularized Estimators**  
+  (joint with Karun Adusumilli and Ashia Wilson)  
+  *Working paper, 2026*  
+  Manuscript: [cv_and_sure.pdf](/home/files/papers/cv_and_sure.pdf)  
+
 **Experimental evaluation of a Basic Income Pilot in Germany**  
   (joint with Sandra Bohmann, Susann Fiedler, Jürgen Schupp, and Frederik Schwerter)  
   Project website: [Basic income pilot study](/home/basic_income_pilot/)  
@@ -42,10 +47,6 @@ permalink: /research/
 **Evidence aggregation and meta-analysis: A toolkit for economists**  
   (joint with Peter Ganong and Avik Garg)  
   *Requested for Journal of Economic Literature*  
-
-**From Cross-Validation to SURE: Asymptotic Risk of Tuned Regularized Estimators**  
-  (joint with Karun Adusumilli and Ashia Wilson)  
-  *Working paper coming soon*  
 
 
 ## Publications
