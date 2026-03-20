@@ -114,7 +114,7 @@ Bonus: Keynote by Sendhil Mullainathan [Website](https://sendhil.org/)
 9:15 Aarushi Kalra  
 *TBD*  
 
-11:00 Andreas Hofele  
+11:00 Homa Hosseinmardi  
 *TBD*
 
 13:15 Benjamin Hébert  
@@ -123,5 +123,5 @@ Bonus: Keynote by Sendhil Mullainathan [Website](https://sendhil.org/)
 15:00 Ananya Sen  
 *TBD*
 
-16:45 Homa Hosseinmardi  
+16:45 Andreas Hofele  
 *TBD*
