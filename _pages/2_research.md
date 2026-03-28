@@ -36,9 +36,9 @@ permalink: /research/
 
 **Experimental evaluation of a Basic Income Pilot in Germany**  
   (joint with Sandra Bohmann, Susann Fiedler, Jürgen Schupp, and Frederik Schwerter)  
-  Project website: [Basic income pilot study](/home/basic_income_pilot/)  
   Working paper 1: [Cash Transfers, Mental Health, and Agency](https://maxkasy.github.io/home/files/papers/cash_mentalhealth_agency.pdf)  
   Working paper 2: [Basic income and labor supply: Evidence from an RCT in Germany](https://maxkasy.github.io/home/files/papers/basic_income_econ.pdf)  
+  [Online Appendix](https://maxkasy.github.io/home/files/papers/basic_income_econ_supplement.pdf)  
 
 **Causal inference for social network formation**  
   (joint with Elizabeth Linos and Sanaz Mobasseri)  
@@ -56,8 +56,7 @@ permalink: /research/
   *Forthcoming, AEJ:Policy, 2026*  
   Manuscript: [Jobguarantee_marienthal.pdf](/home/files/papers/Jobguarantee_marienthal.pdf)  
   Appendix: [Appendix_marienthal.pdf](/home/files/papers/Appendix_marienthal.pdf)  
-  Code (study design): [https://github.com/maxkasy/Marienthal](https://github.com/maxkasy/Marienthal)  
-  Code (data analysis): [https://github.com/maxkasy/Marienthal_Analysis](https://github.com/maxkasy/Marienthal_Analysis)  
+  Code: [study design](https://github.com/maxkasy/Marienthal), [data analysis](https://github.com/maxkasy/Marienthal_Analysis)  
   Pre-analysis plan: [PAP_job_guarantee_Marienthal.pdf](/home/files/other/PAP_job_guarantee_Marienthal.pdf), registered as [AEARCTR-0006706](https://www.socialscienceregistry.org/trials/6706)  
 
 **Adaptive maximization of social welfare**  
