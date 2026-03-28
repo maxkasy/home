@@ -37,7 +37,7 @@ permalink: /research/
 **Experimental evaluation of a Basic Income Pilot in Germany**  
   (joint with Sandra Bohmann, Susann Fiedler, Jürgen Schupp, and Frederik Schwerter)  
   Working paper 1: [Cash Transfers, Mental Health, and Agency](https://maxkasy.github.io/home/files/papers/cash_mentalhealth_agency.pdf)  
-  Working paper 2: [Basic income and labor supply: Evidence from an RCT in Germany](https://maxkasy.github.io/home/files/papers/basic_income_econ.pdf)  
+  Working paper 2: [Basic income and labor supply: Theory and evidence from an RCT in Germany](https://maxkasy.github.io/home/files/papers/basic_income_econ.pdf)  
   [Online Appendix](https://maxkasy.github.io/home/files/papers/basic_income_econ_supplement.pdf)  
 
 **Causal inference for social network formation**  
