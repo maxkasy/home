@@ -29,6 +29,7 @@ Menschen und Maschinen](https://alexander-spermann.de/wp-content/uploads/2025/11
 - Barry Eichengreen: [Interview with Barry Eichengreen](https://smartthinkingbooks.com/smart-thinking-books-interview-barry-eichengreen.html)  
 - Jacobin: [Humanity Needs Democratic Control of AI](https://jacobin.com/2025/11/ai-inequality-algorithms-democracy-capitalism)  
   - Jacobin Greece: [Η Ανθρωπότητα Χρειάζεται Δημοκρατικό Έλεγχο της Τεχνητής Νοημοσύνης](https://jacobin.gr/i-anthropotita-chreiazetai-dimokratiko-elegcho-tis-technitis-noimosynis/)
+- Spring Magazine: [Explaining AI with Marx](https://springmag.ca/explaining-ai-with-marx-turns-out-that-class-matters-a-lot)
 - Harvard Kennedy School: [The Means of Prediction: How AI Really Works (and Who Benefits)](https://www.hks.harvard.edu/centers/wiener/programs/economy/our-work/reimagining-economy-blog/means-prediction-how-ai-really)
 - The Enlightened Economist: [The people’s AI?](http://www.enlightenmenteconomics.com/blog/index.php/2025/10/7845/)
 - Boing-Boing: [AI's impact: not about killer robots, but about power, control, and who benefits from automation](https://boingboing.net/2025/10/24/ais-impact-not-about-killer-robots-but-about-power-control-and-who-benefits-from-automation.html)
