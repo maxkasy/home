@@ -75,24 +75,24 @@ Bonus: Keynote by Sendhil Mullainathan [Website](https://sendhil.org/)
 
 #### Monday, May 25
 
-11:45 Maximilian Kasy  
+11:45 Maximilian Kasy [Skills Lab]  
 *Opening remarks*
 
-12:00 Manish Raghavan  
+12:00 Manish Raghavan [Skills Lab]  
 *User preferences and machine learning*
 
-14:15 Homa Hosseinmardi  
-*Empirical analysis of platform content*  
+14:15 Homa Hosseinmardi [Lecture Theatre]  
+*Empirical analysis of platform content*
 
-16:00 Ananya Sen  
+16:00 Ananya Sen [Lecture Theatre]  
 *Generative AI and information quality*
 
 #### Tuesday, May 26
 
-11:00 Benjamin Hébert  
-*Recommender systems and engagement maximization*  
+11:00 Benjamin Hébert [Skills Lab]  
+*Recommender systems and engagement maximization*
 
-13:15 Andreas Hofele  
+13:15 Andreas Hofele [Lecture Theatre]  
 *Algorithmic filtering - a regulator's perspective*
 
 
@@ -100,28 +100,28 @@ Bonus: Keynote by Sendhil Mullainathan [Website](https://sendhil.org/)
 
 #### Tuesday, May 26
 
-15:00 Manish Raghavan  
-*TBD*  
+15:45 Manish Raghavan [Seminar Room G]  
+*TBD*
 
-17:00 Sendhil Mullainathan  
-*Sanjaya Lall Lecture*  
-(Location: Lecture Theater, Manor Road)  
+
+17:00 Sendhil Mullainathan [Lecture Theatre]  
+*Sanjaya Lall Lecture*
 
 
 
 #### Wednesday, May 27
 
-9:15 Aarushi Kalra  
-*TBD*  
-
-11:00 Homa Hosseinmardi  
+9:15 Aarushi Kalra [Skills Lab]  
 *TBD*
 
-13:15 Benjamin Hébert  
+11:00 Homa Hosseinmardi [Skills Lab]  
 *TBD*
 
-15:00 Ananya Sen  
+13:15 Benjamin Hébert [Lecture Theatre]  
 *TBD*
 
-16:45 Andreas Hofele  
+15:00 Ananya Sen [Lecture Theatre]  
+*TBD*
+
+16:45 Andreas Hofele [Lecture Theatre]  
 *TBD*
