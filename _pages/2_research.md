@@ -20,8 +20,9 @@ permalink: /research/
 
 ## Working papers
 
-**Causal inference for social network formation**  
+**Causal Inference for Social Network Formation**  
   (joint with Elizabeth Linos and Sanaz Mobasseri)  
+  *Working paper, 2026*  
   Manuscript: [network_formation.pdf](https://maxkasy.github.io/home/files/papers/network_formation.pdf)  
   Appendix: [network_formation_supplement.pdf](https://maxkasy.github.io/home/files/papers/network_formation_supplement.pdf)   
   Code: [Github repository](https://github.com/maxkasy/causal_inference_network_formation)
@@ -31,18 +32,19 @@ permalink: /research/
   *Working paper, 2026*  
   Manuscript: [cv_and_sure.pdf](/home/files/papers/cv_and_sure.pdf)  
 
+**Experimental Evaluation of a Basic Income Pilot in Germany**  
+  (joint with Sandra Bohmann, Susann Fiedler, Jürgen Schupp, and Frederik Schwerter)  
+  *Working papers, 2026*  
+  Manuscript 1 (Cash Transfers, Mental Health, and Agency): [cash_mentalhealth_agency.pdf](https://maxkasy.github.io/home/files/papers/cash_mentalhealth_agency.pdf)  
+  Manuscript 2 (Basic Income and Labor Supply): [basic_income_econ.pdf](https://maxkasy.github.io/home/files/papers/basic_income_econ.pdf)  
+  Appendix: [basic_income_econ_supplement](https://maxkasy.github.io/home/files/papers/basic_income_econ_supplement.pdf)  
+
 **Optimal Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
   (joint with Jann Spiess)  
-  *Working paper, 2024*  
+  *Working paper, 2025*  
   Manuscript: [optimal_preanalysis_plans.pdf](/home/files/papers/optimal_preanalysis_plans.pdf)  
   Interactive App: [The_PAP_App](https://maxkasy.github.io/home/pap_app/)  
   Repository and tutorial explaining the App: [Github repository](https://github.com/maxkasy/The_PAP_App)  
-
-**Experimental evaluation of a Basic Income Pilot in Germany**  
-  (joint with Sandra Bohmann, Susann Fiedler, Jürgen Schupp, and Frederik Schwerter)  
-  Working paper 1: [Cash Transfers, Mental Health, and Agency](https://maxkasy.github.io/home/files/papers/cash_mentalhealth_agency.pdf)  
-  Working paper 2: [Basic income and labor supply: Theory and evidence from an RCT in Germany](https://maxkasy.github.io/home/files/papers/basic_income_econ.pdf)  
-  Appendix: [basic_income_econ_supplement](https://maxkasy.github.io/home/files/papers/basic_income_econ_supplement.pdf)  
 
 **Evidence aggregation and meta-analysis: A toolkit for economists**  
   (joint with Peter Ganong and Avik Garg)  
