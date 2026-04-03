@@ -20,7 +20,16 @@ permalink: /research/
 
 ## Working papers
 
+**Causal inference for social network formation**  
+  (joint with Elizabeth Linos and Sanaz Mobasseri)  
+  Manuscript: [network_formation.pdf](https://maxkasy.github.io/home/files/papers/network_formation.pdf)  
+  Appendix: [network_formation_supplement.pdf](https://maxkasy.github.io/home/files/papers/network_formation_supplement.pdf)   
+  Code: [Github repository](https://github.com/maxkasy/causal_inference_network_formation)
 
+**From Cross-Validation to SURE: Asymptotic Risk of Tuned Regularized Estimators**  
+  (joint with Karun Adusumilli and Ashia Wilson)  
+  *Working paper, 2026*  
+  Manuscript: [cv_and_sure.pdf](/home/files/papers/cv_and_sure.pdf)  
 
 **Optimal Pre-Analysis Plans: Statistical Decisions Subject to Implementability**  
   (joint with Jann Spiess)  
@@ -29,20 +38,11 @@ permalink: /research/
   Interactive App: [The_PAP_App](https://maxkasy.github.io/home/pap_app/)  
   Repository and tutorial explaining the App: [Github repository](https://github.com/maxkasy/The_PAP_App)  
 
-**From Cross-Validation to SURE: Asymptotic Risk of Tuned Regularized Estimators**  
-  (joint with Karun Adusumilli and Ashia Wilson)  
-  *Working paper, 2026*  
-  Manuscript: [cv_and_sure.pdf](/home/files/papers/cv_and_sure.pdf)  
-
 **Experimental evaluation of a Basic Income Pilot in Germany**  
   (joint with Sandra Bohmann, Susann Fiedler, Jürgen Schupp, and Frederik Schwerter)  
   Working paper 1: [Cash Transfers, Mental Health, and Agency](https://maxkasy.github.io/home/files/papers/cash_mentalhealth_agency.pdf)  
   Working paper 2: [Basic income and labor supply: Theory and evidence from an RCT in Germany](https://maxkasy.github.io/home/files/papers/basic_income_econ.pdf)  
-  [Online Appendix](https://maxkasy.github.io/home/files/papers/basic_income_econ_supplement.pdf)  
-
-**Causal inference for social network formation**  
-  (joint with Elizabeth Linos and Sanaz Mobasseri)  
-  *Working paper coming soon*  
+  Appendix: [basic_income_econ_supplement](https://maxkasy.github.io/home/files/papers/basic_income_econ_supplement.pdf)  
 
 **Evidence aggregation and meta-analysis: A toolkit for economists**  
   (joint with Peter Ganong and Avik Garg)  

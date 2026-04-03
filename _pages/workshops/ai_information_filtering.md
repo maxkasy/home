@@ -43,7 +43,7 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 ## Logistics (for speakers)
 
 * **Date:** May 25-27, 2026.
-* **Location:** Manor Road Building, Manor Road, Oxford, UK. Details TBD.
+* **Location:** Manor Road Building, Manor Road, Oxford, UK.
 * **Accommodation:** [University Club](https://universityclub.ox.ac.uk/accommodation).
 * **Pub evening:** 6:15pm, May 25 (open to all conference attendants).
 * **Conference Dinner:** Nuffield College, 7pm, May 26 (speakers only).
