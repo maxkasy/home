@@ -3,6 +3,10 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Causal inference on endogenous social network formation**  
+April 2026, UCL, UC Berkeley, CREST Paris  
+[Slides](/home/files/slides/network_formation_slides.pdf)  
+
 **Machine learning, causal inference, and economics**  
 January 2026, Isaac Newton Institute, Cambridge  
 [Slides](/home/files/slides/causality_ml_econ.pdf)  
@@ -15,10 +19,6 @@ Fall 2025 / Spring 2026
 [List of events](/home/presentations/booktalks), [Reviews and media coverage](/home/presentations/bookreviews)  
 [Soundtrack](https://open.spotify.com/playlist/52l72Xt61OWGm8tb8vbiEZ?si=lI6KDGJlSp-4elDCNAzCpA&pi=-h7p7qx5RPeyX), 
 [Visuals](/home/files/other/ai_book_visuals.html)  
-
-**Causal inference on endogenous social network formation**  
-November 2025, UCL and UC Berkeley  
-[Slides](/home/files/slides/network_formation_slides.pdf)  
 
 **Basic Income and Job Guarantee: Two field experiments**  
 October 2025, LSE  
