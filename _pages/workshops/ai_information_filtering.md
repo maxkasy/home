@@ -57,7 +57,7 @@ Talks will also be **live-streamed** and **recordings** will be made available, 
 ## Confirmed speakers
 
 1. Benjamin Hébert [Website](https://gsb-faculty.stanford.edu/benjamin-hebert/)
-2. Andreas Hofele [Website](https://ideas.repec.org/f/pho383.html)
+2. Simeon Thornton [Ofcom Website](https://www.ofcom.org.uk/)  
 3. Homa Hosseinmardi [Website](https://homahm.github.io/) 
 4. Manish Raghavan [Website](https://mraghavan.github.io/) 
 5. Ananya Sen [Website](https://sites.google.com/view/ananyasen/home)  
@@ -92,7 +92,7 @@ Bonus: Keynote by Sendhil Mullainathan [Website](https://sendhil.org/)
 11:00 Benjamin Hébert [Skills Lab]  
 *Recommender systems and engagement maximization*
 
-13:15 Andreas Hofele [Lecture Theatre]  
+13:15 Simeon Thornton [Lecture Theatre]  
 *Algorithmic filtering - a regulator's perspective*
 
 
@@ -123,5 +123,5 @@ Bonus: Keynote by Sendhil Mullainathan [Website](https://sendhil.org/)
 15:00 Ananya Sen [Lecture Theatre]  
 *TBD*
 
-16:45 Andreas Hofele [Lecture Theatre]  
+16:45 Simeon Thornton [Lecture Theatre]  
 *TBD*
