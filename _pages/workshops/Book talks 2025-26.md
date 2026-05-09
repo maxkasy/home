@@ -30,10 +30,10 @@ permalink: /presentations/booktalks
 - **Dec 5**: UC Davis economics department seminar  
 
 ## 2026
-- **Feb 4**: INET Oxford  
-  [INET](https://www.inet.ox.ac.uk/events/the-means-of-prediction)  
-- **March 2**: Madrid  
-  [UC3M](https://economics.uc3m.es/event/tba-170/)
-- **March 5**: Oxford Martin School  
-  [Oxford Martin School](https://www.oxfordmartin.ox.ac.uk/events/the-means-of-prediction)
+- **Feb 4**: [INET Oxford](https://www.inet.ox.ac.uk/events/the-means-of-prediction)  
+- **March 2**: Madrid [UC3M](https://economics.uc3m.es/event/tba-170/)
+- **March 5**: [Oxford Martin School](https://www.oxfordmartin.ox.ac.uk/events/the-means-of-prediction)
 - **March 11**: Queen Mary University  
+- **April 14**: [INEQ WU Wien](https://www.wu.ac.at/en/ineq/outreach/events/archive/book-presentation-the-means-of-prediction)
+- **May 5**: [CREST Paris](https://hi-paris.fr/event/maximilian-kasys-conference-the-means-of-prediction-how-ai-really-works-and-who-benefits/)
+- **May 8**: [CIFAR Stockholm](https://events.cifar.ca/website/93081/agenda/)  
