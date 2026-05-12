@@ -100,7 +100,7 @@ Bonus: Keynote by Sendhil Mullainathan [Website](https://sendhil.org/)
 
 #### Tuesday, May 26
 
-15:45 Manish Raghavan [Seminar Room G]  
+15:00 Manish Raghavan [Seminar Room A]  
 *TBD*
 
 
