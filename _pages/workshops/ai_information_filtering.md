@@ -79,7 +79,7 @@ Bonus: Keynote by Sendhil Mullainathan [Website](https://sendhil.org/)
 *Opening remarks*
 
 12:00 Manish Raghavan [Skills Lab]  
-*User preferences and machine learning*
+*Algorithmic monoculture and homogenization*
 
 14:15 Homa Hosseinmardi [Lecture Theatre]  
 *Empirical analysis of platform content*
@@ -90,10 +90,10 @@ Bonus: Keynote by Sendhil Mullainathan [Website](https://sendhil.org/)
 #### Tuesday, May 26
 
 11:00 Benjamin Hébert [Skills Lab]  
-*Recommender systems and engagement maximization*
+*Endogenous Information Acquisition in Strategic and Non-Strategic Settings*
 
 13:15 Simeon Thornton [Lecture Theatre]  
-*Algorithmic filtering - a regulator's perspective*
+*Online Information Filtering: A Regulator’s Perspective*
 
 
 ### Frontier talks
@@ -101,7 +101,7 @@ Bonus: Keynote by Sendhil Mullainathan [Website](https://sendhil.org/)
 #### Tuesday, May 26
 
 15:00 Manish Raghavan [Seminar Room A]  
-*TBD*
+*AI and creativity*
 
 
 17:00 Sendhil Mullainathan [Lecture Theatre]  
@@ -118,10 +118,10 @@ Bonus: Keynote by Sendhil Mullainathan [Website](https://sendhil.org/)
 *TBD*
 
 13:15 Benjamin Hébert [Lecture Theatre]  
-*TBD*
+*Engagement Maximization*
 
 15:00 Ananya Sen [Lecture Theatre]  
 *TBD*
 
 16:45 Simeon Thornton [Lecture Theatre]  
-*TBD*
+*Information Filtering in Generative AI*
