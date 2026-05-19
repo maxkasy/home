@@ -79,10 +79,10 @@ Bonus: Keynote by Sendhil Mullainathan [Website](https://sendhil.org/)
 *Opening remarks*
 
 12:00 Manish Raghavan [Skills Lab]  
-*Algorithmic monoculture and homogenization*
+*Algorithmic and information monocultures*
 
 14:15 Homa Hosseinmardi [Lecture Theatre]  
-*Empirical analysis of platform content*
+*Overexamined Algorithms and Overlooked Agency*
 
 16:00 Ananya Sen [Lecture Theatre]  
 *Generative AI and information quality*
@@ -101,7 +101,7 @@ Bonus: Keynote by Sendhil Mullainathan [Website](https://sendhil.org/)
 #### Tuesday, May 26
 
 15:00 Manish Raghavan [Seminar Room A]  
-*AI and creativity*
+*AI, homogeneity, and incentives*
 
 
 17:00 Sendhil Mullainathan [Lecture Theatre]  
@@ -115,7 +115,7 @@ Bonus: Keynote by Sendhil Mullainathan [Website](https://sendhil.org/)
 *TBD*
 
 11:00 Homa Hosseinmardi [Skills Lab]  
-*TBD*
+*Reframing Algorithmic Harms through the Lens of User Behavior*
 
 13:15 Benjamin Hébert [Lecture Theatre]  
 *Engagement Maximization*
