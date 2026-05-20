@@ -39,6 +39,8 @@ To register for either in-person attendance or Zoom participation, please fill o
 
 Talks will also be **live-streamed** and **recordings** will be made available, on this [Youtube channel](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag).  
 
+For live participation, please use this [Zoom link](https://zoom.us/j/95619242970?pwd=6Ij48kvsIyIpOugMON7Jb0iCKxe1oq.1).  
+
 
 ## Logistics (for speakers)
 
