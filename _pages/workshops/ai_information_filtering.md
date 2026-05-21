@@ -87,7 +87,7 @@ Bonus: Keynote by Sendhil Mullainathan [Website](https://sendhil.org/)
 *Overexamined Algorithms and Overlooked Agency*
 
 16:00 Ananya Sen [Lecture Theatre]  
-*Generative AI and information quality*
+*Generative AI and the Online Information Ecosystem: Early Evidence and Implications*
 
 #### Tuesday, May 26
 
@@ -123,7 +123,7 @@ Bonus: Keynote by Sendhil Mullainathan [Website](https://sendhil.org/)
 *Engagement Maximization*
 
 15:00 Ananya Sen [Lecture Theatre]  
-*TBD*
+*GenAI Misinformation, Trust, and News Consumption: Evidence from a Field Experiment*
 
 16:45 Simeon Thornton [Lecture Theatre]  
 *Information Filtering in Generative AI*
