@@ -78,7 +78,7 @@ Bonus: Keynote by Sendhil Mullainathan [Website](https://sendhil.org/)
 #### Monday, May 25
 
 11:45 Maximilian Kasy [Skills Lab]  
-*Opening remarks*
+[Opening remarks](/home/files/other/information_filtering_workshop/information_filtering_slides.pdf)  
 
 12:00 Manish Raghavan [Skills Lab]  
 *Algorithmic and information monocultures*
