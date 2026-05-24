@@ -47,7 +47,7 @@ For live participation, please use this [Zoom link](https://zoom.us/j/9561924297
 * **Date:** May 25-27, 2026.
 * **Location:** Manor Road Building, Manor Road, Oxford, UK.
 * **Accommodation:** [University Club](https://universityclub.ox.ac.uk/accommodation).
-* **Pub evening:** 6:15pm, May 25 (open to all conference attendants).
+* **Pub evening:** [King's Arms](https://maps.app.goo.gl/79rSEhaxLXVWh8LM7), 6:15pm, May 25 (open to all conference attendants).
 * **Conference Dinner:** Nuffield College, 7pm, May 26 (speakers only).
 * **Contact:** For logistical questions, please contact [aarushi.kalra@economics.ox.ac.uk](mailto:aarushi.kalra@economics.ox.ac.uk).
 * **Papers and Slides**: Please also email these to [aarushi.kalra@economics.ox.ac.uk](mailto:aarushi.kalra@economics.ox.ac.uk), and we will post them on this website before the conference.
