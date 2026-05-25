@@ -81,7 +81,7 @@ Bonus: Keynote by Sendhil Mullainathan [Website](https://sendhil.org/)
 [Opening remarks](/home/files/other/information_filtering_workshop/information_filtering_slides.pdf)  
 
 12:00 Manish Raghavan [Skills Lab]  
-*Algorithmic and information monocultures*
+[Algorithmic and information monocultures](/home/files/other/information_filtering_workshop/raghavan-tutorial.pdf)  
 
 14:15 Homa Hosseinmardi [Lecture Theatre]  
 *Overexamined Algorithms and Overlooked Agency*
