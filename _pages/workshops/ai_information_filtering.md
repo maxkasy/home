@@ -87,12 +87,12 @@ Bonus: Keynote by Sendhil Mullainathan [Website](https://sendhil.org/)
 *Overexamined Algorithms and Overlooked Agency*
 
 16:00 Ananya Sen [Lecture Theatre]  
-*Generative AI and the Online Information Ecosystem: Early Evidence and Implications*
+[Generative AI and the Online Information Ecosystem: Early Evidence and Implications](/home/files/other/information_filtering_workshop/Ananya_Sen_GenAI_Information.pdf)
 
 #### Tuesday, May 26
 
 11:00 Benjamin Hébert [Skills Lab]  
-*Endogenous Information Acquisition in Strategic and Non-Strategic Settings*
+[Endogenous Information Acquisition in Strategic and Non-Strategic Settings](/home/files/other/information_filtering_workshop/hebert_tutorial_slides.pdf)  
 
 13:15 Simeon Thornton [Lecture Theatre]  
 *Online Information Filtering: A Regulator’s Perspective*
