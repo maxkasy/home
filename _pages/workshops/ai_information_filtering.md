@@ -103,7 +103,8 @@ Bonus: Keynote by Sendhil Mullainathan [Website](https://sendhil.org/)
 #### Tuesday, May 26
 
 15:00 Manish Raghavan [Seminar Room A]  
-*AI, homogeneity, and incentives*
+[AI, homogeneity, and incentives](/home/files/other/information_filtering_workshop/raghavan_frontier.pdf)  
+
 
 
 17:00 Sendhil Mullainathan [Lecture Theatre]  
@@ -120,7 +121,7 @@ Bonus: Keynote by Sendhil Mullainathan [Website](https://sendhil.org/)
 *Reframing Algorithmic Harms through the Lens of User Behavior*
 
 13:15 Benjamin Hébert [Lecture Theatre]  
-*Engagement Maximization*
+[Engagement Maximization](/home/files/other/information_filtering_workshop/hebert_frontier_slides.pdf)  
 
 15:00 Ananya Sen [Lecture Theatre]  
 *GenAI Misinformation, Trust, and News Consumption: Evidence from a Field Experiment*
