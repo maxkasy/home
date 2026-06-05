@@ -78,21 +78,21 @@ Bonus: Keynote by Sendhil Mullainathan [Website](https://sendhil.org/)
 #### Monday, May 25
 
 11:45 Maximilian Kasy [Skills Lab]  
-[Opening remarks](/home/files/other/information_filtering_workshop/information_filtering_slides.pdf)  
+[Opening remarks](/home/files/other/information_filtering_workshop/information_filtering_slides.pdf), [Video](https://www.youtube.com/watch?v=lXrQ32oUVjo&list=PLOO-jigFb9jve1MByLkqqAsHALwok-lHf&index=1&pp=iAQB)  
 
 12:00 Manish Raghavan [Skills Lab]  
-[Algorithmic and information monocultures](/home/files/other/information_filtering_workshop/raghavan-tutorial.pdf)  
+[Algorithmic and information monocultures](/home/files/other/information_filtering_workshop/raghavan-tutorial.pdf), [Video](https://www.youtube.com/watch?v=XGLBwqnJFSM&list=PLOO-jigFb9jve1MByLkqqAsHALwok-lHf&index=2&pp=iAQB)  
 
 14:15 Homa Hosseinmardi [Lecture Theatre]  
-*Overexamined Algorithms and Overlooked Agency*
+*Overexamined Algorithms and Overlooked Agency*, [Video](https://www.youtube.com/watch?v=Utp7i4Zeh0k&list=PLOO-jigFb9jve1MByLkqqAsHALwok-lHf&index=3&pp=iAQB)  
 
 16:00 Ananya Sen [Lecture Theatre]  
-[Generative AI and the Online Information Ecosystem: Early Evidence and Implications](/home/files/other/information_filtering_workshop/Ananya_Sen_GenAI_Information.pdf)
+[Generative AI and the Online Information Ecosystem: Early Evidence and Implications](/home/files/other/information_filtering_workshop/Ananya_Sen_GenAI_Information.pdf), [Video](https://www.youtube.com/watch?v=LdX0-EFoa0s&list=PLOO-jigFb9jve1MByLkqqAsHALwok-lHf&index=4&pp=iAQB)  
 
 #### Tuesday, May 26
 
 11:00 Benjamin Hébert [Skills Lab]  
-[Endogenous Information Acquisition in Strategic and Non-Strategic Settings](/home/files/other/information_filtering_workshop/hebert_tutorial_slides.pdf)  
+[Endogenous Information Acquisition in Strategic and Non-Strategic Settings](/home/files/other/information_filtering_workshop/hebert_tutorial_slides.pdf), [Video](https://www.youtube.com/watch?v=t_rIcpXLe6k&list=PLOO-jigFb9jve1MByLkqqAsHALwok-lHf&index=5&pp=iAQB)  
 
 13:15 Simeon Thornton [Lecture Theatre]  
 *Online Information Filtering: A Regulator’s Perspective*
@@ -103,7 +103,7 @@ Bonus: Keynote by Sendhil Mullainathan [Website](https://sendhil.org/)
 #### Tuesday, May 26
 
 15:00 Manish Raghavan [Seminar Room A]  
-[AI, homogeneity, and incentives](/home/files/other/information_filtering_workshop/raghavan_frontier.pdf)  
+[AI, homogeneity, and incentives](/home/files/other/information_filtering_workshop/raghavan_frontier.pdf), [Video](https://www.youtube.com/watch?v=tmFXt_M-wjg&list=PLOO-jigFb9jve1MByLkqqAsHALwok-lHf&index=6&pp=iAQB)  
 
 
 
@@ -115,16 +115,16 @@ Bonus: Keynote by Sendhil Mullainathan [Website](https://sendhil.org/)
 #### Wednesday, May 27
 
 9:15 Aarushi Kalra [Skills Lab]  
-*TBD*
+*Algorithmic drivers of online behavior*, [Video](https://www.youtube.com/watch?v=5ocAW3qV-FE&list=PLOO-jigFb9jve1MByLkqqAsHALwok-lHf&index=7&pp=iAQB)  
 
 11:00 Homa Hosseinmardi [Skills Lab]  
-*Reframing Algorithmic Harms through the Lens of User Behavior*
+*Reframing Algorithmic Harms through the Lens of User Behavior*, [Video](https://www.youtube.com/watch?v=aTYmaum1GDA&list=PLOO-jigFb9jve1MByLkqqAsHALwok-lHf&index=8&pp=iAQB)  
 
 13:15 Benjamin Hébert [Lecture Theatre]  
-[Engagement Maximization](/home/files/other/information_filtering_workshop/hebert_frontier_slides.pdf)  
+[Engagement Maximization](/home/files/other/information_filtering_workshop/hebert_frontier_slides.pdf), [Video](https://www.youtube.com/watch?v=oY8oZK_AlFQ&list=PLOO-jigFb9jve1MByLkqqAsHALwok-lHf&index=9&pp=iAQB)  
 
 15:00 Ananya Sen [Lecture Theatre]  
-*GenAI Misinformation, Trust, and News Consumption: Evidence from a Field Experiment*
+*GenAI Misinformation, Trust, and News Consumption: Evidence from a Field Experiment*, [Video](https://www.youtube.com/watch?v=tIvqZV7cn-8&list=PLOO-jigFb9jve1MByLkqqAsHALwok-lHf&index=10&pp=iAQB)  
 
 16:45 Simeon Thornton [Lecture Theatre]  
 *Information Filtering in Generative AI*

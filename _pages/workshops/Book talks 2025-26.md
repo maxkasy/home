@@ -37,3 +37,5 @@ permalink: /presentations/booktalks
 - **April 14**: [INEQ WU Wien](https://www.wu.ac.at/en/ineq/outreach/events/archive/book-presentation-the-means-of-prediction)
 - **May 5**: [CREST Paris](https://hi-paris.fr/event/maximilian-kasys-conference-the-means-of-prediction-how-ai-really-works-and-who-benefits/)
 - **May 8**: [CIFAR Stockholm](https://events.cifar.ca/website/93081/agenda/)  
+- **June 5**: [Isaac Newton Institute, Cambridge](https://talks.cam.ac.uk/talk/index/272101/)  
+- **June 17**: [Tor Vergata, Rome](https://ceistorvergata.it/MGTA)  
