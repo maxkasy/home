@@ -27,6 +27,11 @@ permalink: /research/
   Appendix: [network_formation_supplement.pdf](https://maxkasy.github.io/home/files/papers/network_formation_supplement.pdf)   
   Code: [Github repository](https://github.com/maxkasy/causal_inference_network_formation)
 
+**Evidence aggregation and meta-analysis: A toolkit for economists**  
+  (joint with Peter Ganong and Avik Garg)  
+  *Working paper, 2026, Requested for Journal of Economic Literature*  
+  Manuscript: [evidence_aggregation_toolkit.pdf](/home/files/papers/evidence_aggregation_toolkit.pdf)  
+
 **From Cross-Validation to SURE: Asymptotic Risk of Tuned Regularized Estimators**  
   (joint with Karun Adusumilli and Ashia Wilson)  
   *Working paper, 2026*  
@@ -46,9 +51,7 @@ permalink: /research/
   Interactive App: [The_PAP_App](https://maxkasy.github.io/home/pap_app/)  
   Repository and tutorial explaining the App: [Github repository](https://github.com/maxkasy/The_PAP_App)  
 
-**Evidence aggregation and meta-analysis: A toolkit for economists**  
-  (joint with Peter Ganong and Avik Garg)  
-  *Requested for Journal of Economic Literature*  
+
 
 
 ## Publications
