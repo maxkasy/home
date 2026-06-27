@@ -4,18 +4,22 @@ layout: archive
 
 <hr>
 
+```html
+<p>
+  <a class="btn btn--primary btn--small" href="{{ '/files/kasycv.pdf' | relative_url }}">Curriculum Vitae</a>
+  <a class="btn btn--inverse btn--small" href="scholar.google.com/citations?user=iJRR-NMAAAAJ">Google Scholar</a>
+  <a class="btn btn--inverse btn--small" href="{{ '/ML_Econ_Oxford/' | relative_url }}">ML &amp; Economics Group</a>
+</p>
+
+<p class="lead-intro">I am a Professor of Economics at the University of Oxford.</p>
+
+<p>I coordinate the Machine Learning and Economics Group at Oxford.</p>
+```
+
 <div style="display: flex; gap: 20px;">
   <!-- Left Column -->
-  <div style="flex: 2;">
-    <p><a href="/home/files/kasycv.pdf">Curriculum Vitae</a></p>
-
-    I am a Professor of Economics at the University of Oxford.
-
-    <p>I coordinate the <a href="/home/ML_Econ_Oxford/">Machine Learning and Economics Group</a> at Oxford.</p>
-
-    <p>Workshop May 2026: <a href="/home/information_filtering_workshop/">AI and the political economy of information filtering</a>.</p>
-    
-    My research interests include:
+  <div style="flex: 2;">    
+    Research:
     <ul>
       <li> Machine learning theory; the social impact of algorithmic decision making; the political economy of AI  </li>
       <li> Economic inequality; basic income and job guarantee programs </li> 
@@ -26,11 +30,16 @@ layout: archive
     </ul>
   </div>
 
-  <div style="flex: 1; border-left: 1px solid #ccc; padding-left: 20px;">
-    <p><em>The Means of Prediction: How AI Really Works (and Who Benefits)</em></p>
-    <p>University of Chicago Press, November 2025. <a href="https://press.uchicago.edu/ucp/books/book/chicago/M/bo255887145.html">Order here</a></p>
-    <p>Audiobook: <a href="https://www.audible.co.uk/pd/B0GL99H5JK">Audible</a></p>
-    <img src="/home/files/other/meansofprediction_cover.jpg" alt="Book Cover" style="width: 100%; max-width: 300px;">
+<div style="flex: 1;">
+    <div class="notice--info">
+      <p><em>The Means of Prediction: How AI Really Works (and Who Benefits)</em></p>
+      <p>University of Chicago Press, November 2025.</p>
+      <img src="/home/files/other/meansofprediction_cover.jpg" alt="Book Cover" style="width: 100%; max-width: 300px;">
+      <p>
+        <a href="https://press.uchicago.edu/ucp/books/book/chicago/M/bo255887145.html" class="btn btn--primary btn--small">Order</a>
+        <a href="https://www.audible.co.uk/pd/B0GL99H5JK" class="btn btn--inverse btn--small">Audiobook</a>
+      </p>
+    </div>
   </div>
 
 </div>
