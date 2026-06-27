@@ -6,16 +6,16 @@ permalink: /research/
 
 <div class="notice--info">
   <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
-    <figure style="width: 30%; min-width: 120px; margin: 0;">
+    <figure style="width: 30%; min-width: 70px; max-width: 100px; margin: 0;">
       <img src="/home/files/other/meansofprediction_cover.jpg">
     </figure>
     <div style="flex: 1; min-width: 200px;">
       <p><strong>The Means of Prediction: How AI Really Works (and Who Benefits)</strong><br>
       University of Chicago Press, November 2025.</p>
       <p>
-        <a href="https://press.uchicago.edu/ucp/books/book/chicago/M/bo255887145.html" class="btn btn--info btn--small">Order</a>
-        <a href="https://www.audible.co.uk/pd/B0GL99H5JK" class="btn btn--inverse btn--small">Audiobook</a>
-        <a href="/home/presentations/bookreviews" class="btn btn--inverse btn--small">Reviews &amp; media</a>
+        <a href="https://press.uchicago.edu/ucp/books/book/chicago/M/bo255887145.html" class="btn btn--primary">Order</a>
+        <a href="https://www.audible.co.uk/pd/B0GL99H5JK" class="btn btn--inverse">Audiobook</a>
+        <a href="/home/presentations/bookreviews" class="btn btn--inverse">Reviews &amp; media</a>
       </p>
     </div>
   </div>
