@@ -32,7 +32,7 @@ permalink: /research/
   Appendix: [network_formation_supplement.pdf](https://maxkasy.github.io/home/files/papers/network_formation_supplement.pdf)   
   Code: [Github repository](https://github.com/maxkasy/causal_inference_network_formation)
 
-**Evidence aggregation and meta-analysis: A toolkit for economists**  
+**Literature Review and Evidence Aggregation: A Toolkit for Applied Micro**  
   (joint with Peter Ganong and Avik Garg)  
   *Working paper, 2026, Requested for Journal of Economic Literature*  
   Manuscript: [evidence_aggregation_toolkit.pdf](/home/files/papers/evidence_aggregation_toolkit.pdf)  
@@ -41,6 +41,7 @@ permalink: /research/
   (joint with Karun Adusumilli and Ashia Wilson)  
   *Working paper, 2026*  
   Manuscript: [cv_and_sure.pdf](/home/files/papers/cv_and_sure.pdf)  
+  Code: [Github repository](https://github.com/maxkasy/cv_and_sure_simulations)  
 
 **Experimental Evaluation of a Basic Income Pilot in Germany**  
   (joint with Sandra Bohmann, Susann Fiedler, Jürgen Schupp, and Frederik Schwerter)  
