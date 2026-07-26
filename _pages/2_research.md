@@ -15,6 +15,7 @@ permalink: /research/
       <p>
         <a href="https://press.uchicago.edu/ucp/books/book/chicago/M/bo255887145.html" class="btn btn--inverse">Order</a>
         <a href="https://www.audible.co.uk/pd/B0GL99H5JK" class="btn btn--inverse">Audiobook</a>
+        <a href="https://www.suhrkamp.de/buch/maximilian-kasy-die-mittel-der-praediktion-t-9783518588567" class="btn btn--inverse">German edition</a>
         <a href="/home/presentations/bookreviews" class="btn btn--inverse">Reviews &amp; media</a>
       </p>
     </div>

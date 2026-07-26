@@ -23,7 +23,7 @@ Menschen und Maschinen](https://alexander-spermann.de/wp-content/uploads/2025/11
 - Literary Hub: [Why Big Tech’s Abuse of Artificial Intelligence Doesn’t Need to Be Inevitable](https://lithub.com/why-big-techs-abuse-of-artificial-intelligence-doesnt-need-to-be-inevitable/)
 
 ## Reviews
-- Journal of Economic Literature (David Autor): [The Means of Prediction by Maximilian Kasy](https://www.aeaweb.org/articles?id=10.1257/jel.20260001)  
+- Journal of Economic Literature (David Autor): [The Means of Prediction by Maximilian Kasy](https://economics.mit.edu/sites/default/files/2026-04/Autor-JEL-Reiew-Kasy-March-2026.pdf)  
 - MIT Technology Review: [Prophet motives](https://www.technologyreview.com/2026/02/18/1132579/robots-predict-future-book-review/)  
 - New Yorker: [Can A.I. Be Pro-Worker?](https://www.newyorker.com/news/the-financial-page/can-ai-be-pro-worker)  
 - Foreign Affairs (Barry Eichengreen): [The Means of Prediction - Reviewed by Barry Eichengreen](https://www.foreignaffairs.com/reviews/means-prediction-how-ai-really-works-and-who-benefits)
