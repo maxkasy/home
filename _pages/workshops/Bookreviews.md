@@ -11,6 +11,7 @@ permalink: /presentations/bookreviews
 - Economics for Inclusive Prosperity: [Not Inevitable: Democratizing power over AI](https://podcasts.apple.com/us/podcast/not-inevitable-democratizing-power-over-ai-for-public/id1869070441?i=1000751551075)  
 
 ## Interviews
+- L'Echo: [Face à l'IA, les droits individuels ne suffisent plus](https://www.lecho.be/opinions/general/maximilian-kasy-universite-d-oxford-face-a-l-ia-les-droits-individuels-ne-suffisent-plus/10680471.html)
 - El Pais: [La IA no es un dios que hayamos creado al que ahora debamos someternos](https://elpais.com/tecnologia/2026-03-13/maximiliam-kasy-economista-la-ia-no-es-un-dios-que-hayamos-creado-al-que-ahora-debamos-someternos.html)  
   [PDF version](/home/files/other/el_pais_la_IA_no_es_un_dios.pdf)  
 - Stone Center CUNY: [Who’s Afraid of AI?](https://stonecenter.gc.cuny.edu/whos-afraid-of-ai-maximilian-kasy-discusses-his-new-book-the-means-of-prediction/)
