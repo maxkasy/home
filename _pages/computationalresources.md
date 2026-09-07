@@ -31,6 +31,10 @@ permalink: /computationlinks/
   <https://arxiv.org/abs/1909.05207v2> 
 - **Reinforcement learning - An introduction**  (Adaptive learning for Markov decision problems)  
   <http://www.incompleteideas.net/book/RLbook2018.pdf>
+- **Reinforcement Learning: Theory and Algorithms** (More advanced treatment of the same)  
+  <https://rltheorybook.github.io/rltheorybook_ABJKS.pdf>
+- **Reinforcement Learning from Human Feedback** (Application of RL to the post-training of language models)  
+  <https://rlhfbook.com/>
   
 ### Algorithms
 - **Algorithms**  (Introduction to the theory of algorithms)  
