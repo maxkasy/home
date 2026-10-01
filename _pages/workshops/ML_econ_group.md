@@ -49,7 +49,7 @@ All faculty, post-docs, and doctoral students are invited to audit this course a
 
 ### Michaelmas term 2026
 
-Topic: **LLMs in social science research**
+Topic: **LLMs in social science research** (coordinated by [Aarushi Kalra](https://aarushirita.github.io/))  
 - W2 LLMs as researchers.  
   [Large Language Models: An Applied Econometric Framework](https://arxiv.org/abs/2412.07031)  
   [Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers](https://arxiv.org/abs/2409.04109)  
