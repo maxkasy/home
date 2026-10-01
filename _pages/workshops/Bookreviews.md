@@ -7,9 +7,6 @@ permalink: /presentations/bookreviews
 ## Op-eds
 - New York Times: [How A.I. Can Use Your Personal Data to Hurt Your Neighbor](https://www.nytimes.com/2025/11/02/opinion/ai-privacy.html)
 
-## Podcasts
-- Economics for Inclusive Prosperity: [Not Inevitable: Democratizing power over AI](https://podcasts.apple.com/us/podcast/not-inevitable-democratizing-power-over-ai-for-public/id1869070441?i=1000751551075)  
-
 ## Interviews
 - Frankfurter Allgemeine Zeitung: [Die entscheidende Frage der KI lautet: Wer entscheidet, was optimiert wird?](https://www.faz.net/aktuell/wirtschaft/unternehmen/oekonom-max-kasy-die-entscheidende-frage-der-ki-lautet-wer-entscheidet-was-optimiert-wird-accg-201122452.html)  
   [PDF version](/home/files/other/FAZ_Interview_Kasy.pdf)
@@ -21,8 +18,13 @@ permalink: /presentations/bookreviews
 - Alexander Spermann: [Künstliche Intelligenz: Es geht nicht um den Kampf zwischen
 Menschen und Maschinen](https://alexander-spermann.de/wp-content/uploads/2025/11/Kolumne_Nr_64_Max_Kasy_AI_Means-of-Prediction.pdf)
 
-## Extract
 
+## Podcasts and Radio
+- Economics for Inclusive Prosperity: [Not Inevitable: Democratizing power over AI](https://podcasts.apple.com/us/podcast/not-inevitable-democratizing-power-over-ai-for-public/id1869070441?i=1000751551075)  
+- Ö1 Morgenjournal: [EU-Finanzminister beraten über Künstliche Intelligenz](https://oe1.orf.at/player/20260919/844754/1789794788000)
+
+
+## Extract
 - Literary Hub: [Why Big Tech’s Abuse of Artificial Intelligence Doesn’t Need to Be Inevitable](https://lithub.com/why-big-techs-abuse-of-artificial-intelligence-doesnt-need-to-be-inevitable/)
 
 ## Reviews
