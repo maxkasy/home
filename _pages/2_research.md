@@ -40,7 +40,7 @@ permalink: /research/
 
 **From Cross-Validation to SURE: Asymptotic Risk of Tuned Regularized Estimators**  
   (joint with Karun Adusumilli and Ashia Wilson)  
-  *Working paper, 2026, Resubmitted Annals of Statistics*  
+  *Working paper, 2026*  
   Manuscript: [cv_and_sure.pdf](/home/files/papers/cv_and_sure.pdf)  
   Code: [Github repository](https://github.com/maxkasy/cv_and_sure_simulations)  
 
