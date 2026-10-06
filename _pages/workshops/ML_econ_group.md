@@ -44,7 +44,7 @@ All faculty, post-docs, and doctoral students are invited to audit this course a
 - Time: 14:15-15:15, Wednesdays in even weeks
 - Location: *SR C, Manor Road Building*.
 - There will be coffee and pastries!
-- For those who cannot make in person, please join via [Zoom](https://zoom.us/j/91261172120?pwd=RUUzdDZIeWd1bTlNWHFOU2doaDJEQT09).  
+- For those who cannot make in person, please join via [Zoom](https://zoom.us/j/93581620384).  
 
 
 ### Michaelmas term 2026
@@ -52,14 +52,14 @@ All faculty, post-docs, and doctoral students are invited to audit this course a
 Topic: **LLMs in social science research** (coordinated by [Aarushi Kalra](https://aarushirita.github.io/))  
 - W2 LLMs as researchers.  
   [Large Language Models: An Applied Econometric Framework](https://arxiv.org/abs/2412.07031)  
-  [Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers](https://arxiv.org/abs/2409.04109)  
   [Using Machine Learning to Generate, Clarify, and Improve Economic Models](https://arxiv.org/abs/2508.19136)  
-  Presenter: Greg Levy  
+  Optional: [Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers](https://arxiv.org/abs/2409.04109)  
+  Presenter: Daksh Walia  
 - W4 Human-AI collaboration for producing data.  
   [Designing Human-AI Collaboration: A Sufficient-Statistic Approach](https://economics.mit.edu/research/publications/designing-human-ai-collaboration-sufficient-statistic-approach)  
   [ChatGPT Outperforms Crowd Workers for Text-Annotation Tasks](https://arxiv.org/abs/2303.15056)  
   [Courts of Tomorrow: Evidence from a Nationwide Rollout of Generative AI](https://elliottash.com/papers/Mehmood-Goessmann-Ash-Courts-of-Tomorrow-Evidence-Nationwide-Rollout-Generative-AI.pdf)  
-  Presenter: Daksh Walia  
+  Presenter: Greg Levy  
 - W6 Valid inference with machine-generated measurements.  
   [Prediction-Powered Inference](https://arxiv.org/abs/2301.09633)  
   [Using Imperfect Surrogates for Downstream Inference: Design-Based Supervised Learning for Social Science Applications of Large Language Models](https://arxiv.org/abs/2306.04746)  
