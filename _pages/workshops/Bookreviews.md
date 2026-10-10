@@ -8,6 +8,7 @@ permalink: /presentations/bookreviews
 - New York Times: [How A.I. Can Use Your Personal Data to Hurt Your Neighbor](https://www.nytimes.com/2025/11/02/opinion/ai-privacy.html)
 
 ## Interviews
+- Süddeutsche Zeitung: [Wir automatisieren uns gegenseitig weg](www.sueddeutsche.de/kultur/maximilian-kasy-interview-ki-angst-die-mittel-der-praediktion-li.3529410)  
 - Frankfurter Allgemeine Zeitung: [Die entscheidende Frage der KI lautet: Wer entscheidet, was optimiert wird?](https://www.faz.net/aktuell/wirtschaft/unternehmen/oekonom-max-kasy-die-entscheidende-frage-der-ki-lautet-wer-entscheidet-was-optimiert-wird-accg-201122452.html)  
   [PDF version](/home/files/other/FAZ_Interview_Kasy.pdf)
 - L'Echo: [Face à l'IA, les droits individuels ne suffisent plus](https://www.lecho.be/opinions/general/maximilian-kasy-universite-d-oxford-face-a-l-ia-les-droits-individuels-ne-suffisent-plus/10680471.html)
@@ -35,6 +36,7 @@ Menschen und Maschinen](https://alexander-spermann.de/wp-content/uploads/2025/11
   - [Interview with Barry Eichengreen](https://smartthinkingbooks.com/smart-thinking-books-interview-barry-eichengreen.html)  
 - Jacobin: [Humanity Needs Democratic Control of AI](https://jacobin.com/2025/11/ai-inequality-algorithms-democracy-capitalism)  
   - Jacobin Greece: [Η Ανθρωπότητα Χρειάζεται Δημοκρατικό Έλεγχο της Τεχνητής Νοημοσύνης](https://jacobin.gr/i-anthropotita-chreiazetai-dimokratiko-elegcho-tis-technitis-noimosynis/)
+- British Journal of Industrial Relations (José Luis Gallegos Quezada): [Book review - The Means of Prediction](https://doi.org/10.1111/bjir.70073)
 - Soziopolis: [It’s the objectives, stupid!](https://www.soziopolis.de/its-the-objectives-stupid.html)
 - Journal of Ethics and Emerging Technologies (Juncheng Tao): [From Democratic Control to Generative Risk](https://jeet.ieet.org/index.php/home/article/view/237)
 - Nature: [AI can supercharge inequality — unless the public learns to control it](https://www.nature.com/articles/d41586-025-03475-w)
