@@ -19,8 +19,8 @@ permalink: /teaching/
 [Youtube channel](https://www.youtube.com/channel/UCB3VHmtU-Acta1o0wbzWaag/videos) of workshops and discussions.
 
 ## Oxford
-- **Foundations of machine learning** (master, 2026)  
-    Class page: [ML_Oxford_2026](/home/ML_Oxford_2026)
+- **Foundations of machine learning** (master, 2027)  
+    Class page: [ML_Oxford_2027](/home/ML_Oxford_2027)
 - **Machine learning and economics reading group** (open, since 2021)  
     Reading group page: [Machine Learning and Economics](/home/ML_Econ_Oxford/) 
 - **Core econometrics** (master, 2025)  
