@@ -121,6 +121,7 @@ permalink: /ML_Oxford_2027/
 - [Reinforcement learning - An introduction](http://www.incompleteideas.net/book/RLbook2018.pdf)
 - [Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/)
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+  - [microgpt](https://karpathy.github.io/2026/02/12/microgpt/)  
 - [Reinforcement Learning from Human Feedback](https://rlhfbook.com/)
 - [The Ethical Algorithm](https://global.oup.com/academic/product/the-ethical-algorithm-9780190948207)  
 
