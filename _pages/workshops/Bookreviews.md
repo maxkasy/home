@@ -31,8 +31,9 @@ Menschen und Maschinen](https://alexander-spermann.de/wp-content/uploads/2025/11
 ## Reviews
 - Journal of Economic Literature (David Autor): [The Means of Prediction by Maximilian Kasy](https://economics.mit.edu/sites/default/files/2026-04/Autor-JEL-Reiew-Kasy-March-2026.pdf)  
 - MIT Technology Review: [Prophet motives](https://www.technologyreview.com/2026/02/18/1132579/robots-predict-future-book-review/)  
-- New Yorker: [Can A.I. Be Pro-Worker?](https://www.newyorker.com/news/the-financial-page/can-ai-be-pro-worker)  
+- LSE Review of Books: [Can we democratise control over AI?](https://blogs.lse.ac.uk/lsereviewofbooks/2026/10/22/book-review-the-means-of-prediction-how-ai-really-works-and-who-benefits-maximilian-kasy/)  
 - Foreign Affairs (Barry Eichengreen): [The Means of Prediction - Reviewed by Barry Eichengreen](https://www.foreignaffairs.com/reviews/means-prediction-how-ai-really-works-and-who-benefits)
+- New Yorker: [Can A.I. Be Pro-Worker?](https://www.newyorker.com/news/the-financial-page/can-ai-be-pro-worker)  
   - [Interview with Barry Eichengreen](https://smartthinkingbooks.com/smart-thinking-books-interview-barry-eichengreen.html)  
 - Jacobin: [Humanity Needs Democratic Control of AI](https://jacobin.com/2025/11/ai-inequality-algorithms-democracy-capitalism)  
   - Jacobin Greece: [Η Ανθρωπότητα Χρειάζεται Δημοκρατικό Έλεγχο της Τεχνητής Νοημοσύνης](https://jacobin.gr/i-anthropotita-chreiazetai-dimokratiko-elegcho-tis-technitis-noimosynis/)
