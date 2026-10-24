@@ -23,6 +23,7 @@ Menschen und Maschinen](https://alexander-spermann.de/wp-content/uploads/2025/11
 ## Podcasts and Radio
 - Economics for Inclusive Prosperity: [Not Inevitable: Democratizing power over AI](https://podcasts.apple.com/us/podcast/not-inevitable-democratizing-power-over-ai-for-public/id1869070441?i=1000751551075)  
 - Ö1 Morgenjournal: [EU-Finanzminister beraten über Künstliche Intelligenz](https://oe1.orf.at/player/20260919/844754/1789794788000)
+- Deutschlandfunk: [Buchkritik: „Die Mittel der Prädiktion“](https://www.deutschlandfunkkultur.de/buchkritik-die-mittel-der-praediktion-von-maximilian-kasy-100.html)  
 
 
 ## Extract
@@ -37,7 +38,6 @@ Menschen und Maschinen](https://alexander-spermann.de/wp-content/uploads/2025/11
   - [Interview with Barry Eichengreen](https://smartthinkingbooks.com/smart-thinking-books-interview-barry-eichengreen.html)  
 - Jacobin: [Humanity Needs Democratic Control of AI](https://jacobin.com/2025/11/ai-inequality-algorithms-democracy-capitalism)  
   - Jacobin Greece: [Η Ανθρωπότητα Χρειάζεται Δημοκρατικό Έλεγχο της Τεχνητής Νοημοσύνης](https://jacobin.gr/i-anthropotita-chreiazetai-dimokratiko-elegcho-tis-technitis-noimosynis/)
-- Deutschlandfunk: [Buchkritik: „Die Mittel der Prädiktion“](https://www.deutschlandfunkkultur.de/buchkritik-die-mittel-der-praediktion-von-maximilian-kasy-100.html)  
 - British Journal of Industrial Relations (José Luis Gallegos Quezada): [Book review - The Means of Prediction](https://doi.org/10.1111/bjir.70073)
 - Soziopolis: [It’s the objectives, stupid!](https://www.soziopolis.de/its-the-objectives-stupid.html)
 - Journal of Ethics and Emerging Technologies (Juncheng Tao): [From Democratic Control to Generative Risk](https://jeet.ieet.org/index.php/home/article/view/237)
