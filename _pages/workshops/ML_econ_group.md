@@ -47,6 +47,28 @@ All faculty, post-docs, and doctoral students are invited to audit this course a
 - For those who cannot make in person, please join via [Zoom](https://zoom.us/j/93581620384).  
 
 
+### Hilary term 2027
+
+Topic: **Open-weight models, post-training, and the political economy of AI**  
+- W2 Policy gradients and reward models.  
+  [Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/rltheorybook_ABJKS.pdf), chapter 9 (Policy gradient methods and non-convex optimization)  
+  [Reinforcement Learning from Human Feedback](https://rlhfbook.com/), chapters 5 ([Reward modeling](https://rlhfbook.com/c/05-reward-models)) and 6 ([Reinforcement learning](https://rlhfbook.com/c/06-policy-gradients))  
+  Presenter: TBA  
+- W4 The statistics of distillation.  
+  [A Statistical Perspective on Distillation](https://proceedings.mlr.press/v139/menon21a/menon21a.pdf)  
+  [Knowledge Distillation as Semiparametric Inference](https://arxiv.org/pdf/2104.09732)  
+  Presenter: TBA  
+- W6 Market structure of AI.  
+  [The Emerging Market for Intelligence: How Firms Buy and Sell AI](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.20261506)  
+  [Concentrating Intelligence: Scaling and Market Structure in Artificial Intelligence](https://ineteconomics.org/uploads/papers/WP_228-Korinek-and-Vipra.pdf)  
+  Presenter: TBA  
+- W8 Openness, power, and social choice.  
+  [Why 'open' AI systems are actually closed, and why this matters](https://www.nature.com/articles/s41586-024-08141-1) ([preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4543807))  
+  [Social Choice Should Guide AI Alignment in Dealing with Diverse Human Feedback](https://arxiv.org/pdf/2404.10271)  
+  Presenter: TBA  
+
+
+
 ### Michaelmas term 2026
 
 Topic: **LLMs in social science research** (coordinated by [Aarushi Kalra](https://aarushirita.github.io/))  
